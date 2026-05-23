@@ -1,0 +1,4209 @@
+[
+    {
+        "id": 1,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "Breakfast normally _______ of eggs, some meat, and toast.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "consists",
+            "consist",
+            "is consisted",
+            "consisting"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제1강 1번 핵심 개념] 동사의 종류 (Verbs)\n\nconsist of는 자동사로 수동태 불가능"
+    },
+    {
+        "id": 2,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "People who work must _______ lunch with them.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "taken",
+            "take",
+            "be taken",
+            "taking"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제1강 2번 핵심 개념] 조동사(must) 뒤 동사원형"
+    },
+    {
+        "id": 3,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "Children in school often _______ in school cafeterias.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "eats",
+            "eating",
+            "eat",
+            "eaten"
+        ],
+        "answer": 2,
+        "explanationImg": "",
+        "explanation": "💡 [제1강 3번 핵심 개념] 주어(children)에 따른 동사 수 일치"
+    },
+    {
+        "id": 4,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "Doctors _______ people to have physical examinations regularly.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "encouraging",
+            "encouraged",
+            "encourage",
+            "encourages"
+        ],
+        "answer": 2,
+        "explanationImg": "",
+        "explanation": "💡 [제1강 4번 핵심 개념] 3인칭 복수 주어의 일반동사 현재형"
+    },
+    {
+        "id": 5,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "Not many people could _______, and not many could read.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "writing",
+            "written",
+            "wrote",
+            "write"
+        ],
+        "answer": 3,
+        "explanationImg": "",
+        "explanation": "💡 [제1강 5번 핵심 개념] 조동사(could) 뒤 동사원형"
+    },
+    {
+        "id": 6,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "다음 중 'consists'의 성격으로 옳은 것은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "완전자동사",
+            "불완전자동사",
+            "완전타동사",
+            "수여동사"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제1강 6번 핵심 개념] consists of는 수동태가 안 되는 완전자동사"
+    },
+    {
+        "id": 7,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'encourage' 동사가 5형식으로 쓰일 때 목적격 보어의 형태는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "동사원형",
+            "to-부정사",
+            "현재분사",
+            "과거분사"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제1강 7번 핵심 개념] encourage + O + to-V (5형식 문형)"
+    },
+    {
+        "id": 8,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'Lunch is likewise a light meal'에서 'is'는 몇 형식 동사인가?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "1형식",
+            "2형식",
+            "3형식",
+            "4형식"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제1강 8번 핵심 개념] 주격보어를 취하는 2형식 연결동사"
+    },
+    {
+        "id": 9,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "지문 [3]의 'read'는 무엇으로 쓰였는가?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "목적어를 생략한 자동사 용법",
+            "과거분사",
+            "명사",
+            "형용사"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제1강 9번 핵심 개념] 문맥상 목적어가 생략된 자동사적 쓰임"
+    },
+    {
+        "id": 10,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'take lunch with them'에서 'take'는 무엇을 필요로 하는가?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "보어",
+            "목적어",
+            "간접목적어",
+            "부사구만 필수"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제1강 10번 핵심 개념] 타동사 take 뒤에는 목적어가 필수적임"
+    },
+    {
+        "id": 11,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'illnesses have become serious'에서 'become'의 문형은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "1형식",
+            "2형식",
+            "3형식",
+            "5형식"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제1강 11번 핵심 개념] become은 형용사 보어를 취하는 2형식 동사"
+    },
+    {
+        "id": 12,
+        "passageBottom": "Doctors <i>encourage</i> people to have complete physical examinations regularly and not to wait until illnesses have become serious before having them treated. Everybody believes that “An ounce of prevention is worth a pound of cure,” but not everybody <u>follows</u> this advice.",
+        "question": "지문에서 'follows'의 종류는?",
+        "options": [
+            "완전자동사",
+            "완전타동사",
+            "불완전자동사",
+            "수여동사"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제1강 12번 핵심 개념] 목적어를 취하는 완전타동사"
+    },
+    {
+        "id": 13,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'certain people were especially trained'에서 'trained'의 역할은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "목적어",
+            "주격보어",
+            "부사",
+            "동사원형"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제1강 13번 핵심 개념] 수동태 문장에서 주격보어로 쓰인 과거분사"
+    },
+    {
+        "id": 14,
+        "passageBottom": "Lunch is likewise a light meal and is normally <u>eaten</u> away from home.",
+        "question": "지문의 'eaten'은 'is'와 결합하여 어떤 태를 형성하는가?",
+        "options": [
+            "능동태",
+            "수동태",
+            "완료태",
+            "진행태"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제1강 14번 핵심 개념] be + p.p. 수동태 형성\n\n## 1. 문장 구조 (is + eaten)\n\n* be동사 (is) + 과거분사 (eaten) = 수동태\n* 주어인 'Lunch(점심)'는 스스로 먹는 주체가 아니라, 사람들에 의해 '먹히는(소비되는) 대상'이므로 수동태를 사용합니다.\n\n## 2. 문장 해석\n\n\"점심 역시 가벼운 식사이며, 보통 집이 아닌 밖에서 먹는다(소비된다).\""
+    },
+    {
+        "id": 15,
+        "passageBottom": "For thousands of years all writing was <u>done</u> by hand.",
+        "question": "지문에서 'do'의 성격은?",
+        "options": [
+            "타동사",
+            "자동사",
+            "조동사",
+            "연결동사"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제1강 15번 핵심 개념] \n\n## 1. 기존 해설 \"write와 달리\"라는 말은 모순\n해설에서는 마치 write는 타동사가 아니고 do만 주로 타동사인 것처럼 써놓았습니다. 하지만 write는 영어에서 가장 대표적인 '타동사'입니다.\n\n* write (+목적어): write a book(책을 쓰다), write a letter(편지를 쓰다) 처럼 뒤에 목적어가 오는 타동사로 주로 쓰입니다.\n* 심지어 이 문장의 주어인 'writing(글쓰기)'조차도 write가 타동사이기 때문에 '목적어를 쓰는 행위'에서 파생되어 명사로 쓰인 것입니다.\n\n## 2. 이 문장에서 'do'가 타동사인 진짜 이유\n이 문장에서 do(done)가 타동사인 이유는 write와 비교해서가 아닙니다. 문장 자체가 수동태(was done)로 쓰였기 때문입니다.\n\n* 수동태는 '목적어'를 주어 자리로 보내는 문법입니다. 즉, 목적어를 가지는 타동사만이 수동태 문장을 만들 수 있습니다.\n* 원래 이 문장의 능동태는 People did all writing by hand. (사람들은 모든 글쓰기를 손으로 했다) 입니다.\n* 여기서 타동사 did 뒤에 있던 목적어 all writing이 주어로 나가면서 was done이라는 수동태가 된 것입니다. 따라서 이 문장 속 do의 성격은 1) 타동사가 확실합니다.\n\n## 💡 요약\n\n* 정답: 1) 타동사 (수동태 문장이 존재한다는 것 자체가 타동사라는 명백한 증거)\n* 해설 오류: write 역시 매우 강력한 타동사입니다. \"write와 달리 do는 타동사로 주로 쓰임\"이라는 해설은 기초 문법을 무시한 명백한 잘못입니다. 교재나 시험 문제의 해설이 잘못 인쇄되었거나 출제자가 실수를 한 것입니다."
+    },
+    {
+        "id": 16,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "I _______ that this had been for my ancestors.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "see",
+            "saw",
+            "seen",
+            "seeing"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제2강 1번 핵심 개념] 시제 (Tense)\n\n주절 동사 시점(과거)"
+    },
+    {
+        "id": 17,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "I saw that this _______ for my ancestors.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "has been",
+            "had been",
+            "was",
+            "been"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제2강 2번 핵심 개념] 과거(saw)보다 이전의 사실을 나타내는 과거완료"
+    },
+    {
+        "id": 18,
+        "question": "I saw that this had been for my ancestors and now _______ be for me an awful thing to live with, and ...",
+        "options": [
+            "will",
+            "would",
+            "shall",
+            "had"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제2강 3번 핵심 개념] 과거 시점에서의 미래 추측(would)\n\n구문에서 단어 'awful'은 부정적인 뜻보다는 **'경외심을 자아내는', '엄청난', '두려운'**이라는 묵직한 의미로 쓰였습니다.\n\n## 1. 올바른 해석\n\n\"나는 이것이 내 조상들에게 그러했던 것처럼, 이제는 내가 평생 안고 살아가야 할 경외스럽고 엄청난 일이 될 것임을 깨달았다.\"\n\n## 2. 문장 구조 및 핵심 문법 분석\n\n이 문장은 **saw(깨달았다/알았다)**의 목적어로 that절이 이끄는 명사절이 뒤따라오는 구조입니다. that절 내부의 뼈대를 쪼개어 보면 다음과 같습니다.\n\n* I saw that ~ : 나는 ~라는 점을 알았다 (눈으로 본 것뿐만 아니라 머리로 깨달았음을 의미)\n* this had been [an awful thing] for my ancestors : 이것이 내 조상들에게는 [엄청난 일]이었으며 (과거완료 had been)\n* and now would be [an awful thing] for me to live with : 이제는 나에게 평생 안고 살아갈 [엄청난 일]이 될 것임을 (과거를 기준으로 본 미래 would be)\n\n## 3. 주요 스피드 스캔 포인트\n\n* an awful thing의 공통 수식: 문장 뒤쪽에 있는 an awful thing to live with가 앞의 조상(for my ancestors)과 현재의 나(for me) 모두에게 걸리는 핵심 명사구입니다. 반복을 피하기 위해 앞부분에서는 생략되었습니다.\n* to live with (형용사적 용법): to부정사가 앞의 an awful thing을 꾸며줍니다. '함께 살아가야 할 일', 즉 **'평생 마음속에 품고 감당하며 살아가야 할 일'**을 뜻합니다. 전치사 with가 반드시 붙어야 '그것을 안고 살다'라는 의미가 성립됩니다."
+    },
+    {
+        "id": 19,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "Bitterness which _______ to kill my father could also kill me.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "help",
+            "helping",
+            "had helped",
+            "has helped"
+        ],
+        "answer": 2,
+        "explanationImg": "",
+        "explanation": "💡 [제2강 4번 핵심 개념] 과거 시점(could kill) 이전의 사건이므로 과거완료"
+    },
+    {
+        "id": 20,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "Music _______ the “universal language.”",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "has called",
+            "has been called",
+            "is calling",
+            "called"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제2강 5번 핵심 개념] 지금까지 불려왔다는 의미의 현재완료 수동태"
+    },
+    {
+        "id": 21,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "A silence _______ suddenly between us.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "fall",
+            "fallen",
+            "fell",
+            "feels"
+        ],
+        "answer": 2,
+        "explanationImg": "",
+        "explanation": "💡 [제2강 6번 핵심 개념] 과거의 특정 사건을 나타내는 단순과거"
+    },
+    {
+        "id": 22,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "But it _______ for more than a few seconds when...",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "has not fallen",
+            "had not fallen",
+            "fell not",
+            "not fall"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제2강 7번 핵심 개념] 특정 시점까지 지속되지 않았음을 나타내는 과거완료"
+    },
+    {
+        "id": 23,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'saw'의 시점에서 'had been'은 어느 때를 나타내는가?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "과거 이전 (대과거)",
+            "과거와 동시",
+            "미래",
+            "현재"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제2강 8번 핵심 개념] 대과거(Past Perfect)의 개념"
+    },
+    {
+        "id": 24,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'has been called'의 시제와 태는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "현재완료 능동",
+            "현재완료 수동",
+            "과거완료 수동",
+            "현재진행 수동"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제2강 9번 핵심 개념] have been p.p. (현재완료 수동)"
+    },
+    {
+        "id": 25,
+        "passageBottom": "The highest development of music <u>depends</u> also <u>on</u> the intelligence and appreciation of the vast majority of people who are the listeners.",
+        "question": "지문의 'depends'가 현재 시제인 이유는?",
+        "options": [
+            "과거의 동작",
+            "일반적 사실/진리",
+            "진행 중인 일",
+            "미래 대용"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제2강 11번 핵심 개념] 일반적인 정의나 진리는 현재 시제로 표현\n\n\"음악의 최고조의[가장 높은 수준의] 발전은 음악을 듣는 청중인 대다수 사람들의 지성과 감상 능력에도 달려 있다.\"\n\n* highest development: 가장 높은 수준의 발전 (음악적 완성도나 문화의 성숙함)\n* depends on: ~에 달려 있다 / ~에 좌우된다 (인과관계의 핵심 동사)\n* intelligence and appreciation: 지성과 감상 능력 (단순히 듣는 것을 넘어 이해하고 가치를 인정하는 태도)\n* vast majority of people: 절대다수의 사람들 (일부 전문가가 아닌 일반 대중)\n\n## 문장 구조 (주어와 동사의 일치)\n\n* 주어: The highest development (of music)\n* 'of music'은 주어를 꾸며주는 전치사구입니다. 핵심 주어는 단수인 development입니다.\n* 동사: depends (also on ~)\n* 주어가 단수(development)이므로 현재시제 동사에 -s가 붙은 depends가 올바르게 쓰였습니다.\n* 관계대명사절: (people) [who are the listeners]\n* 'who' 이하는 앞에 있는 'people'을 보충 설명하는 형용사절로, \"청중인 사람들\"로 해석됩니다."
+    },
+    {
+        "id": 26,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'heard rapid steps coming'에서 'coming'의 의미는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "완료",
+            "진행",
+            "수동",
+            "목적"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제2강 12번 핵심 개념]\n지각동사 + 목적어 + ~ing(진행의 의미)"
+    },
+    {
+        "id": 27,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'would be'가 나타내는 것은 무엇인가?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "과거의 습관",
+            "과거에서 바라본 미래",
+            "현재의 추측",
+            "불가능한 소망"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제2강 13번 핵심 개념]\n과거에서 본 미래를 나타내는 조동사 과거형"
+    },
+    {
+        "id": 28,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'is truly universal'에서 'is'의 시제적 특징은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "시점 일치",
+            "변함없는 상태",
+            "일시적 사건",
+            "역사적 사실"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제2강 14번 핵심 개념]\n변함없는 속성을 나타내는 현재 시제"
+    },
+    {
+        "id": 29,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'had not fallen' 구문에서 'when'절과의 관계는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "동시 동작",
+            "선후 관계",
+            "조건",
+            "양보"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": ""
+    },
+    {
+        "id": 30,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "부정사 (Infinitive)\nMost students who plan _______ college take a test.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "attend",
+            "attending",
+            "to attend",
+            "attended"
+        ],
+        "answer": 2,
+        "explanationImg": "",
+        "explanation": "💡 [제3강 1번 핵심 개념]\nplan은 미래 지향적 의미로 to-V를 목적어로 취함"
+    },
+    {
+        "id": 31,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "This test measures abilities thought _______ to success.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "contribute",
+            "to contribute",
+            "contributing",
+            "contributed"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제3강 2번 핵심 개념]\n수동의 의미를 갖는 형용사적 용법 (thought to)"
+    },
+    {
+        "id": 32,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "It teaches people _______ better.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "how to eat",
+            "what to eat",
+            "eat",
+            "eating"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제3강 3번 핵심 개념]\n의문사 + to-V (명사구 역할)"
+    },
+    {
+        "id": 33,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "It also teaches family members _______ along.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "get",
+            "how to get",
+            "getting",
+            "gotten"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제3강 4번 핵심 개념]\n방법(~하는 법)을 나타내는 how to-V"
+    },
+    {
+        "id": 34,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "_______ was difficult _______ a city merchant _______ believe...",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "It/for/to",
+            "It/of/to",
+            "There/for/to",
+            "That/of/to"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제3강 5번 핵심 개념]\nIt(가주어) for(의미상주어) to(진주어) 구문"
+    },
+    {
+        "id": 35,
+        "question": "He began _______ the teachings of the priests.",
+        "options": [
+            "doubt",
+            "to doubt",
+            "doubted",
+            "of doubting"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제3강 6번 핵심 개념] begin은 to-V를 목적어로 취할 수 있음\n\n\"그는 사제들의 가르침을 의심하기 시작했다.\"\n\n* 주어: He (그는)\n* 동사: began (시작했다)\n* 목적어: [to doubt the teachings of the priests] (사제들의 가르침을 의심하는 것을)\n\n## 주요 문법\n\n* began to doubt (to부정사 목적어): 동사 begin은 목적어로 to부정사와 동명사(doubting)를 모두 취할 수 있으며 뜻도 같습니다. 여기서는 '의심하기를 시작했다'라는 의미입니다.\n* the teachings of the priests (명사구): 'teachings'는 가르침, 교리라는 뜻의 명사이며, 사제들(the priests)의 소유격 의미를 of가 연결해 주고 있습니다."
+    },
+    {
+        "id": 36,
+        "passageBottom": "Most students who plan <i><u>to attend</u></i> college take a standardized test called a college entrance examination during their junior or senior year in high school.",
+        "question": "'to attend'의 명사적 용법 중 역할은?",
+        "options": [
+            "주어",
+            "목적어",
+            "보어",
+            "동격"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제3강 7번 핵심 개념] 동사 plan의 목적어 역할\n\n\"대학 진학을 계획하는 대부분의 학생들은 고등학교 2학년이나 3학년 때 대학 입학시험이라고 불리는 표준화된 시험을 치른다.\"\n\n\n* 참고 (미국 학제 기준): junior year는 11학년(한국의 고2), senior year는 12학년(한국의 고3)을 뜻합니다.\n\n수식어구가 길어 복잡해 보이지만, 주어와 동사의 뼈대를 찾으면 구조가 명확해집니다.\n\n* 주어: Most students (대부분의 학생들은)\n* 주어 수식 관계대명사절: [who plan to attend college] (대학에 진학할 계획인)\n* 동사: take (치른다 / 시험을 보다)\n* 목적어: a standardized test (표준화된 시험을)\n* 목적어 수식 과거분사구: [called a college entrance examination] (대학 입학시험이라고 불리는)\n* 시간 부사구: (during their junior or senior year in high school) (고등학교 2학년 또는 3학년 동안에)\n\n## 주요 포인트\n\n* 주어-동사 수 일치: 주어의 핵이 복수 명사인 Most students이므로, 본동사로 단수형(takes)이 아닌 복수형 take가 쓰였습니다.\n* called (과거분사): 앞에 있는 a standardized test를 뒤에서 꾸며주는 분사입니다. '~라고 불리는'으로 해석되며, which is called에서 관계대명사와 be동사가 생략된 구조로 볼 수 있습니다."
+    },
+    {
+        "id": 37,
+        "passageBottom": "This test measures some of the abilities thought <u><i>to contribute</i></u> to success in college.",
+        "question": "지문에서 'to contribute'의 용법은?",
+        "options": [
+            "명사적",
+            "형용사적 (보어)",
+            "부사적 (목적)",
+            "독립부정사"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제3강 8번 핵심 개념] abilities를 수식하는 형용사적 용법의 분사 보어\n\n\"이 시험은 대학에서의 성공에 기여한다고 여겨지는 몇 가지 능력들을 측정한다.\"\n\n제시해주신 문장에서 'to contribute'는 형용사적 용법으로 쓰인 부정사입니다.\n앞에 있는 명사인 abilities(능력들)를 뒤에서 직접 수신·수식하며, '~하는', '~할'로 해석됩니다.\n\n* This test measures (이 시험은 측정한다)\n* some of the abilities (몇 가지 능력들을)\n* [thought to contribute to success in college] (대학에서의 성공에 기여한다고 생각되는 능력을)\n\n## 'to contribute'의 상세 역할\n여기서 thought는 'abilities'를 꾸며주는 과거분사(p.p.)입니다. 분사구문 안에서 to contribute는 구조적으로 아래와 같은 관계를 가집니다.\n\n* 원래 능동태 구조: People think abilities to contribute to success... (사람들은 능력들이 성공에 기여한다고 생각한다.)\n* 수동태 변형 구조: abilities (which are) thought to contribute to success... (성공에 기여한다고 생각되는 능력들)\n\n결과적으로 thought to contribute to success in college 전체가 하나의 거대한 형용사 덩어리가 되어 앞의 abilities를 수식합니다. 그 안에서 to contribute는 '기여하는 (능력)'이라는 능동적 속성을 명사에게 부여하는 형용사적 속성을 갖게 됩니다."
+    },
+    {
+        "id": 38,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'It was difficult for a city merchant'에서 'It'의 명칭은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "지시대명사",
+            "가주어",
+            "비인칭주어",
+            "강조구문"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제3강 9번 핵심 개념]\n형식상의 주어 It"
+    },
+    {
+        "id": 39,
+        "passageBottom": "<i>It</i> was difficult <i>for</i> a city merchant <i>to believe</i> that his way of living was less proper than that of others.",
+        "question": "'for a city merchant'의 역할은?",
+        "options": [
+            "전치사구",
+            "부정사의 의미상 주어",
+            "목적어",
+            "이유의 부사구"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제3강 10번 핵심 개념] for + 목적격은 부정사의 의미상 주어 표시\n\n\"도시 상인이 자신의 생활 방식이 다른 사람들의 생활 방식보다 덜 올바르다고[덜 타당하다고] 믿는 것은 어려운 일이었다.\"\n\n* 의역 팁: '덜 올바르다(less proper)'는 것은 결국 '자신의 생활 방식이 타당하지 못하거나 뒤떨어진다'고 인정하는 것을 의미합니다. 즉, 도시 상인은 자신의 삶에 대한 자부심이 강해 그것이 남들보다 못하다고 생각하기 힘들었다는 맥락입니다.\n\n## 문장 구조 및 핵심 문법\n이 문장은 가주어-진주어 구조와 비교 구문이 결합된 고난도 문장입니다.\n\n* It (가주어) + for a city merchant (의미상 주어) + to believe ~ (진주어)\n  - It은 뜻이 없고, 실제 주어는 to believe 이하입니다.\n  - to부정사 행위의 주체를 나타내기 위해 앞에 for + 명사를 썼습니다. \"도시 상인이 믿는 것은\"으로 해석합니다.\n* that절 (believe의 목적어 노릇을 하는 명사절)\n  - that his way of living was less proper ~ : 자신의 생활 방식이 덜 올바르다는 것을\n* 대명사 that (비교 대상의 일치)\n  - 문장 끝의 that of others에서 that은 앞의 his way of living을 가리키는 대명사입니다.\n  - 영어에서는 비교할 때 대상을 똑같이 맞춰야 하므로, 다른 사람들의 '생활 방식'을 받기 위해 단수 대명사 that을 썼습니다. (others만 쓰면 틀림)"
+    },
+    {
+        "id": 40,
+        "passageBottom": "It also teaches family members <i>how to get</i> along with one another and <i>build</i> a happy home life.",
+        "question": "'how to get along'과 병렬 구조를 이루는 것은?",
+        "options": [
+            "build",
+            "teaches",
+            "family members",
+            "along"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제3강 11번 핵심 개념] and로 연결된 how to 뒤의 동사원형 병렬\n\n\"그것은 또한 가족 구성원들에게 서로 화목하게 지내고 행복한 가정생활을 꾸려나가는 방법을 가르쳐 준다.\"\n\n## 문장 구조 및 핵심 문법\n이 문장은 4형식(수여동사) 구조와 병렬 구조가 결합되어 있습니다.\n\n* 주어: It (그것은)\n* 동사: teaches (가르쳐 준다)\n* 간접 목적어(~에게): family members (가족 구성원들에게)\n* 직접 목적어(~를): [how to get along ~ and build ~] (~하는 방법을)\n\n## 주요 포인트\n\n* 의문사 + to부정사 (how to): '~하는 방법' 또는 '어떻게 ~할지'로 해석합니다.\n* get along with: '~와 잘 지내다', '~와 화목하게 지내다'라는 뜻의 필수 숙어입니다.\n* one another: '서로'라는 뜻으로, 보통 셋 이상의 사이에 쓰이지만 현대 영어에서는 둘 사이(each other)와 구분 없이 자주 쓰입니다.\n* and 병렬 구조: 접속사 and가 1) get along with와 2) build를 묶어주고 있습니다. 즉, build 앞에도 how to가 생략된 구조입니다 (how to build...)."
+    },
+    {
+        "id": 41,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'to believe'와 'to understand'의 공통된 주체는?",
+        "passageTop": "",
+        "passageBottom": "<i>It</i> was difficult <i>for</i> a city merchant <u><i>to believe</i></u> that his way of living was less proper than that of others. <i>It</i> was difficult <i>for</i> him <u><i>to understand<i>/</u> that the competition necessary for his success was opposed to moral law. He began <i>to doubt</i> the teachings of the priests. They were only men like everyone else and therefore could make errors.",
+        "options": [
+            "the city merchant",
+            "the priests",
+            "the test",
+            "home life"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제3강 12번 핵심 개념]\n의미상 주어(merchant)가 행하는 동작들"
+    },
+    {
+        "id": 42,
+        "passageBottom": "Most students who plan <u><i>to attend</i></u> college take a standardized test called a college entrance examination during their junior or senior year in high school. This test measures some of the abilities thought <i>to contribute</i> to success in college.",
+        "question": "다음의 'to attend'를 절로 바꾸면?",
+        "options": [
+            "that they will attend",
+            "that attending",
+            "if attend",
+            "which attend"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제3강 13번 핵심 개념] 명사절 접속사 that을 활용한 절 전환\n\nto attend college는 관계대명사절 who plan을 수식하는 부정사구입니다.\n\n절로 바꾸면:\n\nMost students who plan that they will attend college take a standardized test called a college entrance examination during their junior or senior year in high school.\n\n하지만 실제 영어에서는 plan that ~을 거의 쓰지 않으므로, 자연스럽게는 보통 이렇게 바꿉니다:\n\nMost students who plan to go to college take a standardized test called a college entrance examination during their junior or senior year in high school.\n\n또는\n\nMost students who are planning to attend college take …\n\n즉, 의미상으로는\nto attend college = that they will attend college\n로 이해하면 됩니다."
+    },
+    {
+        "id": 43,
+        "passageBottom": "He began <u><i>to doubt</u></i> the teachings of the priests.",
+        "question": "다음에서 'to doubt'의 용법은?",
+        "options": [
+            "목적어로 쓰인 명사적 용법",
+            "원인의 부사적 용법",
+            "결과의 부사적 용법",
+            "형용사적 용법"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제3강 14번 핵심 개념] begin의 목적어인 명사적 용법\n\nto doubt the teachings에서 to doubt는 명사적 용법의 부정사입니다.\n\n즉, 문장 안에서 명사 역할(주어, 보어, 목적어 등)을 합니다.\n\n* He began to doubt the teachings.\n    → 그는 그 가르침들을 의심하기 시작했다.\n\n여기서 to doubt the teachings는 동사 began의 목적어 역할을 하므로 명사적 용법입니다.\n\n* to doubt = 의심하는 것\n* the teachings = 그 가르침들\n\n“그 가르침들을 의심하는 것”"
+    },
+    {
+        "id": 44,
+        "passageBottom": "Home economics involves every area of home life, including cooking, clothing, home furnishings, and family relations. It teaches people <u><i>how to eat</i></u> better, dress well, care for their home, and spend money wisely. It also teaches family members <i>how to get</i> along with one another and <i>build</i> a happy home life.",
+        "question": "'teaches people how to eat'에서 'how to eat'은 문장 내에서 무엇인가?",
+        "options": [
+            "직접목적어",
+            "간접목적어",
+            "주격보어",
+            "부사어"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제3강 15번 핵심 개념]\n4형식/5형식 구조에서 직접목적어에 해당"
+    },
+    {
+        "id": 45,
+        "question": "The good things that might happen to our colleges if you would take matters into your own hands and pull up a few of the rotted stakes of academic tradition are _______ about.",
+        "options": [
+            "worth to dream",
+            "worth dreaming",
+            "worthy dream",
+            "dream"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제4강 1번 핵심 개념] 동명사 (Gerund)\n\nbe worth -ing: ~할 가치가 있다 (관용 표현)\ntake matters into your own hands: 다른 사람에게 의존하지 않고 당신이 직접 나서서 상황을 주도하다\nrotted stakes of academic tradition: 오랜 시간 동안 관습처럼 굳어져 이제는 쓸모없거나 오히려 방해가 되는 '학습된 전통/관행'을 '썩은 말뚝'에 비유\n\n\"우리의 대학들이 뿌리 깊은 학문적 전통이라는 썩은 말뚝을 몇 개 뽑아버리고 당신이 직접 상황을 주도한다면, 일어날 수 있는 긍정적인 일들은 꿈꿔볼 만한 가치가 있습니다.\""
+    },
+    {
+        "id": 46,
+        "question": "I _______ what steps man could take to ensure his survival.",
+        "options": [
+            "could not help wonder",
+            "could not help wondering",
+            "cannot help but wondering",
+            "help wondering"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제4강 2번 핵심 개념]\n\ncannot help -ing: ~하지 않을 수 없다\nwonder: 궁금해하다\nensure: 보장하다, 확보하다\nsurvival: 생존\n\n\"인류가 생존을 보장하기 위해 어떤 조치를 취할 수 있을지 나는 궁금해하지 않을 수 없었다.\"\n"
+    },
+    {
+        "id": 47,
+        "question": "_______ that when we read the lives of great men we cannot but be struck by the manner in which all kinds of experiences that might in themselves seem to be random, or even disastrous are made use of in the long run.",
+        "options": [
+            "It goes without say",
+            "It goes without saying",
+            "That goes without saying",
+            "It goes to say"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제4강 3번 핵심 개념]\n\n* It goes without saying that ~: ~은 두말할 나위도 없다\n* cannot but be struck by ~: ~에 감탄하지 않을 수 없다 / 깊은 인상을 받다\n* the manner in which ~: ~하는 방식\n* all kinds of experiences: 온갖 경험들\n* that might in themselves seem to be random, or even disastrous: 그 자체로는 우연적이거나 심지어 재앙처럼 보일 수도 있는\n* are made use of in the long run: 결국에는 활용된다 / 도움이 되게 쓰인다\n\n“위대한 인물들의 삶을 읽어 보면, 그 자체로는 우연하거나 심지어 비참해 보일 수도 있는 온갖 경험들조차도 결국에는 활용된다는 사실에 우리는 감탄하지 않을 수 없다.”"
+    },
+    {
+        "id": 48,
+        "passageBottom": "The good things that might happen to our colleges if you would take matters into your own hands and pull up a few of the rotted stakes of academic tradition are <i>worth <u>dreaming</u></i> about.",
+        "question": "'worth dreaming about'에서 'dreaming'의 성격은?",
+        "options": [
+            "현재분사",
+            "동명사",
+            "본동사",
+            "명사"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제4강 4번 핵심 개념] 전치사(worth의 목적어 격) 뒤 동명사(Gerund)\n\n\"꿈꿔볼 가치가 있다.\"\n\n전통적인 영문법에서 worth는 뒤에 명사나 동명사를 바로 취하는 특이한 형용사 또는 전치사로 분류됩니다.\n\n* worth를 전치사로 보는 경우: dreaming은 worth라는 전치사의 목적어가 됩니다.\n* worth를 형용사로 보는 경우: worth 뒤에 명사(동명사) 목적어가 바로 오는 예외적인 구조로 봅니다.\n\n어느 학설을 따르든 dreaming이 'worth의 목적어 역할을 하는 동명사'라는 점은 변함이 없습니다."
+    },
+    {
+        "id": 49,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'could not help wondering'의 의미와 같은 것은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "could not but wonder",
+            "helped to wonder",
+            "avoided wondering",
+            "stopped to wonder"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제4강 5번 핵심 개념]\ncannot but + 동사원형과 같은 의미"
+    },
+    {
+        "id": 50,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'It goes without saying that'의 의미는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "~은 말할 것도 없다",
+            "~라고 말하며 지나가다",
+            "~하는 것은 불가능하다",
+            "~이 사실이 아니다"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제4강 6번 핵심 개념]\n너무나 당연하여 말할 필요가 없다는 관용구"
+    },
+    {
+        "id": 51,
+        "passageBottom": "Consider some confidential advice from one who would like to see you gain your freedom, who knows the weaknesses of academic life from the inside, and can give a few pointers on how to <u>pull at those stakes</u>.",
+        "question": "'pulling at those stakes'에서 'pulling'은 무엇의 목적어인가?",
+        "options": [
+            "how to",
+            "on",
+            "pointers",
+            "give"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제4강 7번 핵심 개념] how to 뒤에 걸리는 명사구\n\n여기서는 pulling at those stakes 전체가 how to + 동사원형 구조 안에 들어 있습니다.\n\n* give pointers on ~: ~에 대한 조언을 하다\n* how to pull at those stakes : 그 말뚝들을 어떻게 잡아당길지\n* can give a few pointers on how to pull at those stakes\n    = “그 말뚝들을 어떻게 흔들어 빼낼 수 있는지에 대한 몇 가지 조언을 해 줄 수 있다”\n\n* pull은 부정사 to pull의 동사\n* those stakes는 pull at의 목적어\n\n즉, 이 문장에서 pulling이 아니라 원형인 pull이 쓰인 구조예요.\n\n여기서 pull at은 “계속 잡아당기다 / 흔들다” 느낌입니다."
+    },
+    {
+        "id": 52,
+        "question": "'increasing pollution'에서 'increasing'은?",
+        "options": [
+            "동명사",
+            "현재분사",
+            "명사",
+            "동사"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제4강 8번 핵심 개념] pollution을 수식하는 형용사 역할의 현재분사(Present Participle)\n\n'increasing pollution'에서 'increasing'은 명사 'pollution(오염)'을 앞에서 수식하는 현재분사입니다.\n\n* 동사 increase에 -ing가 붙어 형용사처럼 명사를 꾸미는 현재분사입니다.\n* \"증가하고 있는\"이라는 진행과 능동의 의미를 담고 있습니다. 따라서 전체 표현은 \"증가하는 오염\"으로 해석됩니다.\n\n## 💡 동명사(앞서 본 dreaming)와의 차이점\n\n* dreaming (동명사): 명사 그 자체로 쓰여 '~하는 것'으로 해석됩니다.\n* increasing (현재분사): 형용사처럼 쓰여 뒤에 오는 명사의 상태가 '~하고 있는' 중임을 나타냅니다.\n"
+    },
+    {
+        "id": 53,
+        "question": "'diminishing food supply'에서 'diminishing'의 역할은?",
+        "options": [
+            "명사",
+            "형용사적 역할의 분사",
+            "동명사 주어",
+            "조동사"
+        ],
+        "answer": 1,
+        "explanationImg": "https://github.com/KNOUAC/study/blob/main/grammar/comprehension_drill/images/-ing,-ed.png?raw=true",
+        "explanation": "💡 [제4강 9번 핵심 개념] 분사가 명사 앞에서 수식하는 형태\n\n'diminishing food supply'에서 'diminishing'은 명사구 'food supply(식량 공급)'를 앞에서 수식하는 현재분사(Present Participle)입니다. 앞서 보신 'increasing pollution'의 'increasing'과 완전히 같은 구조입니다.\n\n* 문법적 역할: 형용사처럼 뒤에 있는 명사 'food supply'를 수식합니다.\n* 의미적 특성: \"줄어들고 있는\"이라는 진행의 의미를 나타냅니다. 전체 표현은 \"줄어드는 식량 공급\"으로 해석됩니다. \n\n## 💡 구조 분석\n\n* diminishing: 현재분사 (수식어)\n* food: 명사 (supply를 꾸미는 명사 수식어)\n* supply: 명사 (핵심 명사)\n\n<명사 앞에서 분사(ing/ed)가 꾸밀 때, 현재분사(-ing)와 과거분사(-ed)를 구별하는 기준>\n\n둘을 구별하는 절대적인 기준은 수식을 받는 명사와의 '능동/수동' 및 '진행/완료' 관계입니다.\n명사를 주어로, 분사를 동사로 생각하고 문장을 만들어보면 가장 명확합니다.\n"
+    },
+    {
+        "id": 54,
+        "question": "'Being aware of this research'에서 'Being'의 용법은?",
+        "options": [
+            "동명사 주어",
+            "분사구문",
+            "진행형",
+            "보어"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제4강 10번 핵심 개념] '알고 있었기 때문에'라는 의미의 분사구문\n\n전체 문장에서 'Being'은 콤마(,) 앞까지의 절을 이끌며 주절을 수식하는 분사구문(Participle Clause)으로 쓰였습니다. 문맥상 '이유(Because/As)'를 나타내며, \"이 연구를 알고 있었기 때문에\"로 해석됩니다.\n\n* 원래 부사절: As I was aware of this research, I could not help wondering...\n* 분사구문 전환: \n  - 접속사 As 생략\n  - 주절의 주어(I)와 같으므로 부사절의 주어 I 생략\n  - 시제가 같으므로 동사 was를 원형+ing 형태인 Being으로 변경\n* 문장 내에서의 역할: 뒤이어 나오는 주절 전체(\"나는 인간이 생존을 보장하기 위해 어떤 조치를 취할 수 있을지 궁금해하지 않을 수 없었다\")에 대한 원인과 배경을 제공하는 부사 역할을 하고 있습니다.\n\n------------------------------\n'Being aware of this research'에서 'Being'은 문맥에 따라 분사구문 또는 동명사구의 주어/목적어로 쓰입니다. 이 표현은 독립된 절이 아니기 때문에, 전체 문장에서 어느 위치에 있느냐에 따라 용법이 두 가지로 나뉩니다.\n\n## 1. 분사구문 (가장 흔함)\n콤마(,) 앞이나 뒤에 위치하여 '이유, 시간, 조건' 등을 나타내는 부사절이 축약된 구조입니다. 주로 \"이 연구를 알고 있기 때문에\"라는 이유로 해석됩니다.\n\n* 예문: Being aware of this research, we decided to change our plan.\n* (이 연구를 알고 있었기 때문에, 우리는 계획을 바꾸기로 결정했다.)\n* 원래 문장: As we were aware of this research, ...\n\n## 2. 동명사 (명사 역할)\n문장에서 주어, 목적어, 보어 자리에 들어가 명사처럼 쓰이는 구조입니다. \"이 연구를 아는 것\"으로 해석됩니다.\n\n* 주어로 쓰인 예문: Being aware of this research is crucial for our project.\n* (이 연구를 아는 것은 우리 프로젝트에 필수적이다.)\n* 전치사의 목적어로 쓰인 예문: Thank you for being aware of this research.\n* (이 연구를 인지해 주셔서 감사합니다.)\n"
+    },
+    {
+        "id": 55,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'how to pull at those stakes'에서 'at'의 역할은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "pull의 대상 강조",
+            "장소 표시",
+            "시간 표시",
+            "수단 표시"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제4강 11번 핵심 개념]\npull at: ~을 잡아당기다 (대상 강조)"
+    },
+    {
+        "id": 56,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'rotted stakes'에서 'rotted'의 품사는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "동사",
+            "형용사(과거분사)",
+            "명사",
+            "부사"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제4강 12번 핵심 개념]\n'썩은' 상태를 나타내는 과거분사의 형용사화"
+    },
+    {
+        "id": 57,
+        "passageBottom": "Some recent scientific, economic, and political research suggests that the curves for food demand and food supply will cross in a maximum of 60 years. By <u>then</u>, man’s overpopulation, increasing pollution, and the diminishing food supply could threaten to end human life on our planet. Being aware of this research, I <i>could not help wondering</i> what steps man could take to ensure his survival.",
+        "question": "'by then'에서 'then'이 가리키는 시간은?",
+        "options": [
+            "현재",
+            "60년 후",
+            "과거",
+            "학기 말"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제4강 13번 핵심 개념]\n\nBy then\n\n* “그때까지는 / 그 무렵에는”\n\n앞 문장의 “최대 60년 안”을 받음.\n\n<매우 중요한 표현>\n* cannot help ~ing: ~하지 않을 수 없다\n\n따라서:\ncould not help wondering → 궁금해하지 않을 수 없었다"
+    },
+    {
+        "id": 58,
+        "passageBottom": "<i>It goes without saying that</i> when we read the lives of great men we cannot but be struck by the manner in which all kinds of experiences that might in themselves seem to be random, or even disastrous are <u>made</u> use of in the long run.",
+        "question": "'making use of'에서 'making'의 성격은?",
+        "options": [
+            "동명사",
+            "현재분사",
+            "정동사",
+            "수동태"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제4강 14번 핵심 개념] 수동태 문장의 분사구문 (부수 상황)\n\n\"위대한 인물들의 삶을 읽어 보면, 그 자체로는 우연적이거나 심지어 비참해 보일 수도 있는 온갖 경험들조차 결국에는 활용된다는 사실에 우리는 깊은 인상을 받지 않을 수 없다.\"\n\n<관용표현>\n* It goes without saying that ~\n    → ~은 두말할 나위도 없다\n    → 물론 ~이다\n\n여기서는:\n위대한 인물들의 삶을 읽으면 우리가 깊은 인상을 받는다는 것은 당연하다\n\n* make use of A → A를 이용하다\n* A is made use of → A가 이용된다 / 활용된다 (수동태)"
+    },
+    {
+        "id": 59,
+        "passageBottom": "<i>It goes without saying that</i> when we read the lives of great men we <u>cannot but be struck</u> by the manner in which all kinds of experiences that might in themselves seem to be random, or even disastrous are made use of in the long run.",
+        "question": "아래 지문의 'cannot but be struck'의 'struck'은?",
+        "options": [
+            "과거형",
+            "과거분사",
+            "동사원형",
+            "현재분사"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제4강 15번 핵심 개념]\n\nbe struck by: ~에 감명/충격을 받다 (수동태)\n\ncannot but be struck에서 struck은 과거분사가 형용사처럼 쓰인 형태입니다.\n\n여기서 struck의 성격:\n* 과거분사 (strike – struck – struck) //치다, 때리다\n* be 뒤에서 보어 역할\n* 수동 의미를 나타냄\n\n즉:\n* 능동: something strikes us\n    → 어떤 것이 우리에게 인상을 준다\n* 수동: we are struck by something\n    → 우리는 그것에 깊은 인상을 받는다\n\n수동 형태에서:\n* be struck by ~\n    → ~에 깊은 인상을 받다\n    → ~에 감명을 받다\n라는 <u>관용적 의미</u>가 됩니다."
+    },
+    {
+        "id": 60,
+        "question": "분사 (Participle)Mr. Houghton was given to _______ monologues.",
+        "options": [
+            "high-mind",
+            "high-minded",
+            "high-minding",
+            "highly-mind"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제5강 1번 핵심 개념] '고결한'의 의미를 가진 복합 형용사(p.p. 형)\n\n* 고상한\n* 이상주의적인\n* 도덕적인 체하는\n\n문맥에 따라 약간 비꼬는 느낌도 가능함.\n\n\"Houghton은 고상한 독백을 늘어놓는 버릇이 있었다.\"\n\n또는 자연스럽게:\n* 허튼 씨는 점잖고 고상한 이야기를 길게 하는 사람이었다.\n* 허튼 씨는 고매한 설교조의 말을 자주 했다.\n"
+    },
+    {
+        "id": 61,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "Democracy is, _______, something very recent.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "historical speak",
+            "historically speaking",
+            "spoken historically",
+            "history speaking"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제5강 2번 핵심 개념]\nhistorically speaking: 독립분사구문 관용 표현"
+    },
+    {
+        "id": 62,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "Nearly all the sports _______ nowadays are competitive.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "practising",
+            "practised",
+            "practice",
+            "to practice"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제5강 3번 핵심 개념]\nsports (which are) practised: 후치 수식 과거분사"
+    },
+    {
+        "id": 63,
+        "passageBottom": "Mr. Houghton was given to <u>high-minded</u> monologues about the good life, sexless and full of duty.",
+        "question": "'high-minded'에서 '-ed'가 붙은 형태의 기능은?",
+        "options": [
+            "수동태",
+            "형용사화 된 과거분사",
+            "과거 시제",
+            "동명사"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제5강 4번 핵심 개념]\n명사(monologues)를 수식하는 형용사적 기능"
+    },
+    {
+        "id": 64,
+        "passageBottom": "Democracy is, <u><i>historically speaking</i></u>, something very recent.",
+        "question": "'historically speaking'은 어떤 종류의 분사구문인가?",
+        "options": [
+            "비인칭 독립분사구문",
+            "완료 분사구문",
+            "수동 분사구문",
+            "주격 분사구문"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제5강 5번 핵심 개념]\n주어가 일반인인 경우 생략하는 비인칭 독립분사구문"
+    },
+    {
+        "id": 65,
+        "passageBottom": "Nearly all the sports <u><i>practised</i></u> nowadays are competitive.",
+        "question": "다음에서 'practised'의 수식 대상은?",
+        "options": [
+            "sports",
+            "nowadays",
+            "competitive",
+            "nearly"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제5강 6번 핵심 개념]\n뒤에서 앞으로(Post-modification) 명사 수식"
+    },
+    {
+        "id": 66,
+        "passageBottom": "Mr. Houghton was given to <i>high-minded</i> monologues about the good life, sexless and full of duty. Yet in the middle of one of these monologues, if a girl passed the window, <u>tapping</u> along on her neat little feet, he would interrupt his discourses, his neck would turn of itself, and he would watch her out of sight. In this instance, he seemed to me ruled not by thought but by an invisible and irresistible spring in his nape.",
+        "question": "'tapping along on her neat little feet'에서 'tapping'의 의미상 주어는?",
+        "options": [
+            "Mr. Houghton",
+            "a girl",
+            "the window",
+            "monologues"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제5강 7번 핵심 개념]\ntapping의 주체는 앞의 a girl"
+    },
+    {
+        "id": 67,
+        "passageBottom": "Mr. Houghton was given to <i>high-minded</i> monologues about the good life, sexless and full of duty. Yet in the middle of one of these monologues, if a girl passed the window, tapping along on her neat little feet, he would interrupt his discourses, his neck would turn of itself, and he would watch her out of sight. In this instance, he seemed to me <u>ruled</u> not by thought but by an invisible and irresistible spring in his nape.",
+        "question": "'ruled not by thought'의 'ruled' 앞에 생략된 단어는?",
+        "options": [
+            "being",
+            "having",
+            "been",
+            "was"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제5강 8번 핵심 개념] 분사구문에서 Being이 생략된 형태\n\n원래 문장인 'In this instance, he seemed to me ruled not by thought...'는 분사구문에서 주어와 be 동사가 생략된 형태입니다. \n\n문맥을 풀어서 쓰면:\n'(that) he was being ruled not by thought'\n➔ 이 순간에 그는 생각에 의해서가 아니라 지배당하고 있는 것처럼 보였다\"라는 의미가 됩니다."
+    },
+    {
+        "id": 68,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'equally gifted'에서 'gifted'의 의미는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "선물을 받은",
+            "타고난 재능이 있는",
+            "평범한",
+            "주어진"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제5강 9번 핵심 개념]\n'재능을 부여받은'의 의미에서 유래한 형용사"
+    },
+    {
+        "id": 69,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'feeling of local patriotism is involved'에서 'involved'의 태는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "능동",
+            "수동",
+            "진행",
+            "완료"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제5강 10번 핵심 개념]\nbe involved in: ~에 연루/관련되다"
+    },
+    {
+        "id": 70,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'savage combative instincts are aroused'에서 'aroused'의 원형은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "arise",
+            "arouse",
+            "rose",
+            "rousing"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제5강 11번 핵심 개념]\narouse(타동사): 불러일으키다 (수동태 are aroused)"
+    },
+    {
+        "id": 71,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'tapping along'에서 분사의 역할은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "동시 상황 묘사",
+            "원인",
+            "결과",
+            "조건"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제5강 12번 핵심 개념]\n주절의 상황과 함께 벌어지는 부수 상황"
+    },
+    {
+        "id": 72,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'disgraced'의 문법적 성격은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "과거분사",
+            "현재분사",
+            "동명사",
+            "동사원형"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제5강 13번 핵심 개념]\n수동의 의미를 나타내는 과거분사"
+    },
+    {
+        "id": 73,
+        "passageBottom": "In this instance, he seemed to me ruled not by thought but by an invisible and <u>irresistible</u> spring in his nape.",
+        "question": "다음 지문에서 'irresistible'은 무엇을 수식하는가?",
+        "options": [
+            "spring",
+            "nape",
+            "instance",
+            "thought"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제5강 14번 핵심 개념]\n'저항할 수 없는 용솟음(충동)' 수식"
+    },
+    {
+        "id": 74,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "분사구문의 부정을 만들 때 'not'의 위치는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "분사 앞",
+            "분사 뒤",
+            "문장 끝",
+            "조동사 뒤"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제5강 15번 핵심 개념]\n분사구문의 부정어(not, never)는 분사 바로 앞"
+    },
+    {
+        "id": 75,
+        "question": "_______ wisdom in the sense of impartiality be taught?",
+        "options": [
+            "Can",
+            "Must",
+            "Should",
+            "Will"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제6강 1번 핵심 개념] 조동사 (Auxiliary)\n\n★ 심적 상태(modality) --can / may /must / ought to / should / will /shall / need / have to / do / dare / used to\n★ 진행형 (be)\n★ 수동태 (be)\n★ 완료형 (have)\n\n가능성이나 능력을 묻는 조동사 Can\n\n\"공정함이라는 의미에서의 지혜는 학습(교육)될 수 있는가?\"\n\n* in the sense of~: ~라는 의미에서의, ~라는 뜻에서의\n* impartiality: 공정함, 치우치지 않음\n* be taught: 가르쳐지다 (수동태 ➔ '학습될 수 있는가'로 의역)\n\nModality와 수동태(Passive Voice)의 결합구조: \n* Can (Modality) + be taught (수동태)\n* 행위자(교사)가 누구인지 중요하지 않거나 일반적인 상황이므로, 수행되는 사건의 '가능 여부' 자체에 초점을 맞추기 위해 Modality 조동사 뒤에 수동태를 결합했습니다. 즉, '누군가 지혜를 가르칠 수 있는가'보다 '지혜가 교육이라는 행위의 대상이 될 수 있는가'를 강조하는 구조입니다."
+    },
+    {
+        "id": 76,
+        "passageBottom": "<i>Can</i> wisdom in the sense of impartiality be taught? And, if it can, _______ the teaching of it be one of the aims of education?",
+        "question": "다음 구문에서 빈칸에 들어갈 auxiliary는?",
+        "options": [
+            "would",
+            "should",
+            "might",
+            "shall"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제6강 2번 핵심 개념] 당위성(~해야 하는가?)을 묻는 조동사 Should\n\n\"공정함이라는 의미에서의 지혜는 학습(교육)될 수 있는가? 그리고 만약 그것이 가능하다면, 그것을 가르치는 것이 교육의 목표 중 하나가 되어야 하는가?\"\n\n* if it can (be taught): 만약 그것이 (가르쳐질 수) 있다면 [앞 문장의 can be taught가 반복되어 생략됨]\n* the teaching of it: 그것(지혜)을 가르치는 것\n* one of the aims of education: 교육의 목표 중 하나\n\n이 문장은 앞서 나온 Can의 양태를 조건으로 받아치면서, 동시에 새로운 차원의 양태 조동사 <b>should</b>를 도입하는 고도의 논리적 구조를 보여줍니다.\n\n두 양태 조동사의 결합 구조 (Can ➔ Should)\n* 이 문장은 <b>\"인식/능력의 조동사(Can)\"</b>와 <b>\"의무/당위의 조동사(Should)\"</b>가 결합하여 철학적 논증을 완성하는 전형적인 형태입니다. 화자는 가능성과 당위성을 철저히 분리하여 질문함으로써 독자에게 깊은 사유를 유도하고 있습니다."
+    },
+    {
+        "id": 77,
+        "question": "It _______ be protested that it is right to hate those who do harm.",
+        "options": [
+            "can",
+            "must",
+            "might",
+            "should"
+        ],
+        "answer": 2,
+        "explanation": "💡 [제6강 3번 핵심 개념] 약한 추측(~일지도 모른다)의 might\n\n\"해를 끼치는 사람들을 미워하는 것은 정당하다고 이의를 제기할지도 모른다.\n\n* It might be protested that ~: ~라고 이의가 제기될지도 모른다 (가주어 It, 진주어 that절)\n* it is right to ~: ~하는 것은 옳다/정당하다 (가주어 it, 진주어 to부정사)\n* those who do harm: 해를 끼치는 사람들 (those who: ~하는 사람들)\n\nModality와 수동태의 결합 (might be protested)\n* 행위자 은폐: 이의를 제기하는 주체(사람들, 비판자들)를 명시하지 않고 수동태(be protested)를 썼습니다.\n* 이를 통해 특정 개인의 공격이 아닌, <b>'누구나 제기할 수 있는 보편적인 반론'</b>으로 객관화하는 효과를 줍니다."
+    },
+    {
+        "id": 78,
+        "passageBottom": "Every nation’s foreign policy _______ be judged at every point by one consideration: ",
+        "question": "다음 지문에서 빈칸에 들어갈 auxiliary는?",
+        "options": [
+            "must",
+            "can",
+            "would",
+            "may"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제6강 4번 핵심 개념] 강한 의무 및 필연성을 나타내는 must\n\n\"모든 국가의 외교 정책은 모든 시점에서 오직 한 가지 고려 사항에 의해서만 평가되어야 한다:\"\n\n* foreign policy: 외교 정책must be judged: 평가되어야만 한다 (조동사 must + 수동태 be judged)\n* at every point: 모든 점에서, 모든 순간에 (언제나)\n* by one consideration: 한 가지 고려 사항에 의해\n* 콜론(:): 뒤이어 그 '한 가지 고려 사항'이 구체적으로 무엇인지 설명하겠다는 신호\n\n문장 구조와 양태의 극대화:\n* must라는 강한 조동사와 함께 Every(모든), at every point(모든 시점에), one(오직 한 가지)과 같은 극단적이고 단호한 어휘들이 결합했습니다.\n* 이러한 결합은 must가 가진 의무적 양태의 성격을 더욱 증폭시켜, 독자에게 강한 긴장감과 뒤이어 나올 '한 가지 고려 사항'에 대한 집중도를 극대화합니다."
+    },
+    {
+        "id": 79,
+        "passageBottom": "I do not believe that we _______ prepare for war and at the same time prepare for a world community.",
+        "question": "다음 지문에서 빈칸에 들어갈 auxiliary는?",
+        "options": [
+            "must",
+            "can",
+            "shall",
+            "would"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제6강 5번 핵심 개념] 가능성 유무를 나타내는 can\n\n\"나는 우리가 전쟁을 준비하는 동시에 세계 공동체를 준비할 수는 없다고 믿는다.\"\n\n* I do not believe that ~: 나는 ~라고 믿지 않는다 (대개 \"~가 아니라고 생각한다\"로 해석)\n* prepare for war: 전쟁을 준비하다\n* at the same time: 동시에\n* prepare for a world community: 세계 공동체를 준비하다\n\n이 문장은 화자의 주관적 확신을 나타내는 동사 believe와 가능성의 조동사 can이 결합하여, 두 행위의 <b>상호 배타성(동시 공존 불가능성)</b>을 강하게 표현하고 있습니다.\n* 문법적으로 부정어 not은 believe에 붙어 있지만, 의미상으로는 can을 부정합니다. 즉, \"우리가 동시에 준비할 수 있다는 것을 믿지 않는다\"가 아니라, <b>\"우리가 동시에 준비하는 것은 불가능하다(cannot)고 굳게 믿는다\"</b>는 의미입니다.\n* 이러한 부정의 전치는 화자의 주장을 심리적으로 덜 공격적이면서도, 논리적으로는 더욱 확고하게 전달하는 수사적 양태 효과를 냅니다.\n* I do not believe는 화자가 이 진술에 대해 가지고 있는 <b>확신의 정도(Degree of certainty)</b>를 직접 보여줍니다.\n* 단순히 \"두 가지를 동시에 준비하는 것은 불가능하다(It is impossible to...)\"라고 객관적 사실처럼 던지는 것보다, I believe를 사용함으로써 화자 본인의 도덕적·지적 신념에 기반한 강력한 가치 판단임을 분명히 하고 있습니다.\n"
+    },
+    {
+        "id": 80,
+        "passageBottom": "My father _______ tell me how quietly mamma slept there, and that he and his little Betsy would one day sleep beside mamma in that grave.",
+        "question": "다음 지문에서 빈칸에 들어갈 auxiliary는?",
+        "options": [
+            "will",
+            "would",
+            "must",
+            "should"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제6강 6번 핵심 개념] 과거의 불규칙한 습관이나 추억(~하곤 했다)\n\n\"아버지는 나에게 어머니가 그곳에서 얼마나 조용히 주무셨는지, 그리고 자신과 그의 어린 벳시(나)도 언젠가는 그 무덤에서 어머니 곁에 누워 잠들게 될 것이라고 말씀하시곤 했다.\"\n\n* slept there: 그곳에서 주무셨다 (그곳 = 무덤, 즉 어머니의 영면을 의미)\n* and that ~: tell me 뒤에 연결되는 두 번째 명사절 (~라고 말씀하시곤 했다)\n* his little Betsy: 그의 어린 벳시 (화자 본인의 어릴 적 이름)\n* one day: 언젠가, 후일에\n* sleep beside mamma in that grave: 그 무덤 속 어머니 곁에 잠들다 (죽어서 함께 묻히다)\n\n<Modality>\n* used to와의 어감 차이: used to가 과거의 '객관적인 사실이나 상태(지금은 안 함)'에 초점을 맞춘다면, would는 과거 행동의 반복과 그에 얽힌 기억에 초점을 맞춥니다.\n* would는 단순 과거형인 \"My father told me(아버지는 나에게 말했다)\"보다 훨씬 더 감성적이고 향수를 불러일으키는 어조를 만듭니다.\n* how quietly mamma slept 절 내부에는 조동사가 없는 단순 과거형(slept)이 쓰였습니다. 이는 화자와 아버지 모두에게 의심의 여지가 없는 <b>'확고한 과거의 사실(Fact)'</b>을 나타내며, 이를 회상하는 조동사 would와 대비되어 문장의 애틋함을 더합니다.\n  - could [~했을 수도 있다 / ~할 수 있었다] sleep: 어머니가 주변 소음이나 환경에 상관없이 (재능이나 체질상) 얼마나 조용히 잠들 수 있는 능력이나 가능성이 있었는지를 강조\n  - might [~했을지도 모른다] have slep: 어머니가 (그때 당시) 얼마나 조용히 주무셨을지\"에 대해 아버지가 사후적으로 조심스럽게 추측하는 어감\n  - must [~했음에 틀림없다] have slep: 아버지가 당시 상황을 떠올리며 \"당신 어머니는 정말 조용히 주무셨음에 틀림없다\"라고 강하게 확신하며 말씀하시곤 했다는 의미\n  - would [~하곤 했다] sleep: 주절의 would와 호응하여, 어머니가 평소에 잠들 때마다 보여주었던 과거의 평온한 잠버릇이나 반복적인 모습을 아련하게 회상하는 느낌이 극대화 (\"어머니가 늘 얼마나 조용히 주무시곤 했는지\")"
+    },
+    {
+        "id": 81,
+        "question": "In my childish dreams I _______ fancy myself there.",
+        "options": [
+            "used to",
+            "would",
+            "might",
+            "could"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제6강 7번 핵심 개념] 과거의 지속적 상태나 규칙적 습관\n\n\"어린 날의 꿈속에서, 나는 그곳에 있는 내 모습을 상상하곤 했다.\"\n\n* In my childish dreams: 나의 어린 시절 꿈속에서\n* used to: ~하곤 했다 (과거의 규칙적인 습관이나 지금은 지속되지 않는 과거의 상태)\n* fancy myself there: 내 자신이 그곳(무덤 속 어머니의 곁)에 있는 것을 상상하다/그리다\n\n① Dynamic Modality (동적 양태: 과거의 지속적 상태 및 습관)\n* used to는 과거의 반복된 행동이나 지속되었던 상태를 나타내는 <b>동적 양태(Dynamic Modality)</b>에 속합니다.\n  - 과거와 현재의 단절 (Discontinuity): used to의 가장 강력한 양태적 특징은 <b>\"과거에는 그랬지만 지금은 더 이상 그렇지 않다\"</b>라는 의미를 내포한다는 점입니다. \n\n② 앞 문장의 'would'와 이 문장의 'used to'의 양태적 차이\n* 앞 문장에서는 아버지가 이야기를 들려주던 행위에 would를 썼고, 이 문장에서는 화자 자신의 상상에 used to를 썼습니다. 둘의 어감 차이는 다음과 같습니다.\n  - 아버지의 would: 감성적이고 아련한 회상에 초점이 맞춰져 있습니다. 아버지가 불규칙하게, 혹은 감정이 북받칠 때마다 이야기를 꺼내던 정서적 풍경을 그립니다.\n  - 화자의 used to: 보다 사실적이고 지속적이었던 과거의 상태에 초점이 맞춰져 있습니다. 어린 벳시에게는 '나도 언젠가 저 무덤에 들어가겠구나'라는 생각이 한두 번의 감상에 그친 게 아니라, 어린 시절 내내 마음 한구석에 자리 잡고 있던 지속적인 내면의 상태였음을 양태적으로 증명합니다.\n\n③ 인지 동사 'fancy'와의 결합\n* used to 뒤에 '상상하다, 마음속으로 그리다'라는 뜻의 동사 fancy가 옴으로써, 이 양태 표현은 외적인 행동의 반복이 아니라 <b>'내면적 인지 활동의 지속성'</b>을 의미하게 됩니다. 어린아이가 아버지의 이야기를 듣고 무덤 속 풍경을 끊임없이 내면화하던 심리적 상태를 효과적으로 전달합니다."
+    },
+    {
+        "id": 82,
+        "question": "'Can wisdom in the sense of impartiality be taught?'에서 'Can'이 묻는 주된 뉘앙스는?",
+        "options": [
+            "허가",
+            "능력/가능성",
+            "강한 의무",
+            "추측"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제6강 8번 핵심 개념]\n교육이 가능한지 여부(possibility) 확인"
+    },
+    {
+        "id": 83,
+        "passageBottom": "And, if it can, <i><u>should</i></u> the teaching of it be one of the aims of education? ",
+        "question": "다음 지문에서 'should'의 의미는?",
+        "options": [
+            "미래",
+            "당연한 의무/당위",
+            "과거의 습관",
+            "강한 추측"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제6강 9번 핵심 개념] 교육의 목표가 되어야 한다는 당위성\n\n\"그리고 만약 그것이 가능하다면, 그것을 가르치는 것이 교육의 목표 중 하나가 되어야 하는가?\"\n\n* if it can (be taught): 만약 그것이 (가르쳐질 수) 있다면 [앞 문장의 can be taught가 중복되어 생략된 구조]\n* the teaching of it: 그것(지혜)을 가르치는 것\n* one of the aims of education: 교육의 목표 중 하나"
+    },
+    {
+        "id": 84,
+        "passageBottom": "It <u>might</u> be protested that it is right to hate those who do harm.",
+        "question": "다음 지문에서 'might'의 역할은?",
+        "options": [
+            "허락",
+            "약한 추측/가정",
+            "능력",
+            "의무"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제6강 10번 핵심 개념] 반론이 제기될 수도 있다는 가능성 제시\n\n\"해를 끼치는 사람들을 미워하는 것은 정당하다고 이의를 제기할지도 모른다.\"\n\n* It might be protested that ~: ~라고 이의가 제기될지도 모른다 (가주어 It, 진주어 that절)\n* it is right to ~: ~하는 것은 옳다/정당하다 (가주어 it, 진주어 to부정사)\n* those who do harm: 해를 끼치는 사람들 (those who: ~하는 사람들)"
+    },
+    {
+        "id": 85,
+        "passageBottom": "Every nation’s foreign policy <i><u>must</i></u> be judged at every point by one consideration:",
+        "question": "다음 지문에서 'must'의 의미는?",
+        "options": [
+            "강한 필요/의무",
+            "강한 추측",
+            "금지",
+            "과거의 사실"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제6강 11번 핵심 개념] 판단의 기준이 반드시 되어야 한다는 필요성\n\n\"모든 국가의 외교 정책은 모든 시점에서 오직 한 가지 고려 사항에 의해서만 평가되어야 한다:\"\n\n* foreign policy: 외교 정책must be judged: 평가되어야만 한다 (조동사 must + 수동태 be judged)\n* at every point: 모든 점에서, 모든 순간에 (예외 없이 항상)\n* by one consideration: 한 가지 고려 사항에 의해\n* 콜론(:): 뒤이어 그 '한 가지 고려 사항'이 구체적으로 무엇인지 명시하겠다는 신호"
+    },
+    {
+        "id": 86,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'would'와 'used to'의 공통된 의미는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "미래",
+            "과거의 반복적 습관/상태",
+            "가능성",
+            "의무"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제6강 12번 핵심 개념]\n과거 시점의 동작/상태 반복을 표현"
+    },
+    {
+        "id": 87,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'used to' 뒤에 오는 동사의 형태는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "동사원형",
+            "현재분사",
+            "과거분사",
+            "to-부정사"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제6강 13번 핵심 개념]\nused to + 동사원형 구문"
+    },
+    {
+        "id": 88,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'can prepare'에서 'can'의 부정형은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "cannot",
+            "must not",
+            "should not",
+            "may not"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제6강 14번 핵심 개념]\ncannot (할 수 없다)"
+    },
+    {
+        "id": 89,
+        "passageBottom": "I <u><i>should</i></u> answer both these questions in the affirmative.",
+        "question": "다음 지문에서 'should'는 어떤 용법인가?",
+        "options": [
+            "의무",
+            "정중한 의견 표명",
+            "결과",
+            "조건"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제6강 15번 핵심 개념] 겸손하거나 조심스러운 주장을 펼칠 때 사용\n\n\"나는 이 두 가지 질문 모두에 긍정적으로(예라고) 대답해야 한다고 생각한다.\"\n\n* answer in the affirmative: 긍정적으로 대답하다, 찬성하다 (반대말: answer in the negative)\n* both these questions: 이 두 가지 질문 모두 (앞서 나온 '지혜를 가르칠 수 있는가?'와 '교육의 목표가 되어야 하는가?'를 지칭)\n\n논리적 결론으로서의 양태:\n* 앞 문장에서 던진 두 가지 질문(Can?, Should?)에 대해 화자가 스스로 내린 논리적 귀결이자 책임감 있는 태도를 보여줍니다.\n* can의 가능성과 should의 당위성을 모두 검토한 끝에, \"그 둘 모두를 받아들이는 것이 이성적·도덕적으로 타당하다\"라는 화자의 내면적 규범을 should로 표출하고 있습니다."
+    },
+    {
+        "id": 90,
+        "question": "It affects them and _______ by them in turn.",
+        "options": [
+            "affect",
+            "affected",
+            "is affected",
+            "affecting"
+        ],
+        "answer": 2,
+        "explanation": "💡 [제7강 1번 핵심 개념] 능동태/수동태 (Voice)\n\nis affected by: ~에 의해 영향을 받다\n\n\"그것은 그들에게 영향을 미치고, 역으로 그들에 의해 영향을 받는다.\"\n\n* It affects them: 그것은 그들에게 영향을 미친다 (능동태)\n* and is affected by them: 그리고 그들에 의해 영향을 받는다 (수동태)\n* in turn: 차례로, 역으로, 이번에는"
+    },
+    {
+        "id": 91,
+        "passageBottom": "In the over-all ecosystem of the earth, total animal energy _______ by the amount of solar energy plants embodied in organic compounds.",
+        "question": "다음 지문에서 빈칸에 들어갈 단어는?",
+        "options": [
+            "limited",
+            "is limited",
+            "limits",
+            "are limited"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제7강 2번 핵심 개념] 수동태의 수 일치 (energy is)\n\n\"지구의 전반적인 생태계에서, 총 동물 에너지는 식물이 유기 화합물에 담아낸 태양 에너지의 양에 의해 제한된다.\"\n\n* In the over-all ecosystem of the earth: 지구의 전반적인 생태계에서\n* total animal energy: 총 동물 에너지 (주어)\n* is limited by ~: ~에 의해 제한된다 (수동태 동사)\n* the amount of solar energy: 태양 에너지의 양\n* [which] plants embodied in organic compounds: 식물이 유기 화합물 속에 구현해 낸/담아낸 [관계대명사 목적격 생략 구조]"
+    },
+    {
+        "id": 92,
+        "question": "In an industrial society, work is a game against fabricated nature, in which men _______ by machine.",
+        "options": [
+            "become dwarfed",
+            "dwarfed",
+            "is dwarfed",
+            "become dwarfing"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제7강 3번 핵심 개념] 능동태/수동태 (Voice)\n\nbecome + p.p.: 동작보다 상태 변화 강조\n\n\"산업 사회에서 노동은 조작된(인공적인) 자연에 맞서는 게임이며, 이 게임 속에서 인간은 기계에 의해 왜소해진다(작아진다).\"\n\n* an industrial society: 산업 사회\n* fabricated nature: 조작된(가공된) 자연, 인공적 환경\n* in which: 그 게임 속에서 (a game을 선행사로 하는 관계사절)\n* men become dwarfed by machine: 인간은 기계에 의해 왜소하게 만들어진다 (수동태 구조)\n\n----\n## 1. 문장 해석\n\n\"산업 사회에서 노동은 조작된(인공적인) 자연에 맞서는 게임이며, 이 게임 속에서 인간은 기계에 의해 왜소해진다(작아진다).\"\n\n\n* an industrial society: 산업 사회\n* fabricated nature: 조작된(가공된) 자연, 인공적 환경\n* in which: 그 게임 속에서 (a game을 선행사로 하는 관계사절)\n* men become dwarfed by machine: 인간은 기계에 의해 왜소하게 만들어진다 (수동태 구조)\n\n## ① 주객전도와 인간의 주체성 상실\n\n* 능동태 변환 시: \"...in which machines dwarf men.\" (기계가 인간을 왜소하게 만든다.)\n* 수동태 선택의 효과: 능동태로 쓰면 '기계'가 능동적인 주체가 되고 인간은 단순 목적어가 됩니다. 하지만 화자는 인간(men)을 주어로 올리기 위해 수동태를 선택했습니다.\n* 이는 산업 사회의 주인공이어야 할 '인간'이 정작 주어 자리에 놓였을 때, 기계에 의해 압도당하고 지배당하는 역설적인 수동성(Passivity)과 무기력함을 극대화하여 시각적으로 보여줍니다.\n\n## ② be 동사 대신 become을 사용한 수동태 (become dwarfed)\n\n* 일반적인 be dwarfed가 왜소해진 '상태' 그 자체를 나타낸다면, become dwarfed는 상태의 변화와 동작의 진행 과정을 강조합니다.\n* 산업화가 진행됨에 따라 인간이 거대한 기계 시스템 속에서 점차 도구화되고, 영혼이나 존재감이 **\"점점 더 작아져 가는 과정\"**을 역동적으로 묘사하는 문법적 장치입니다.\n\n## ③ 과거분사 'fabricated'와의 구조적 호응\n\n* 앞선 명사구 fabricated nature에서 fabricated 역시 '조작된, 가공된'이라는 뜻의 수동 의미를 가진 과거분사입니다.\n* 자연도 인간에 의해 조작(수동)되었고, 그 결과물인 기계에 의해 이제는 인간 자신도 왜소화(수동)되는 악순환의 피동적 구조를 문장 전체의 태(Voice)를 통해 정교하게 짜 맞추고 있습니다.\n"
+    },
+    {
+        "id": 93,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "Nature _______, artifacts _______...",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "is excluding / is excluding",
+            "is excluded / are excluded",
+            "excludes / exclude",
+            "excluded / excluded"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제7강 4번 핵심 개념]\n주어의 수에 따른 be동사 변화 (is/are)"
+    },
+    {
+        "id": 94,
+        "passageBottom": "The press is a political institution in its own right, intimately bound up with all the institutions of government. <u>It</u> affects them and <i>is affected</i> by them in turn, and together they determine the nature of the nation and the quality of public life.",
+        "question": "다음 지문에서 주어 'It'이 가리키는 구체적인 명사는?",
+        "options": [
+            "The press",
+            "Public life",
+            "Nation",
+            "Government"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제7강 5번 핵심 개념] 능동태/수동태 (Voice)\n\n언론(The press)이 영향을 주고받음\n\n\"언론은 그 자체로 하나의 정치 기구이며, 정부의 모든 기관과 밀접하게 결합되어 있다. 언론은 그 기관들에 영향을 미치고, 역으로 그 기관들에 의해 영향을 받으며, 이들이 함께 국가의 특성과 공공 삶의 질을 결정한다.\"\n\n* in its own right: 그 자체로, 본래의 권리로\n* intimately bound up with ~: ~와 밀접하게 결합된/얽혀 있는 (be bound up with 수동 구조)\n* institutions of government: 정부 기관들\n* It affects them and is affected by them in turn: 그것(언론)은 그들(정부 기관들)에게 영향을 미치고, 역으로 그들에 의해 영향을 받는다.\n* together they determine ~: 이들이 함께 ~를 결정한다.\n\n이 지문은 앞서 단문으로 보았던 문장(It affects them...)의 전체 맥락입니다. <b>언론(It)</b>과 <b>정부 기관들(them)</b>의 관계를 태(Voice)의 전환을 통해 완벽한 대칭 구조로 묘사하고 있습니다.\n\n## ① 능동태와 수동태의 대칭을 통한 '상호작용'의 시각화\n\n* It affects them (능동태): 언론이 주어가 되어 정부 기관에 능동적으로 영향력을 행사하는 모습(권력 감시, 여론 형성 등)을 보여줍니다.\n* and is affected by them (수동태): 이번에는 언론이 주어 자리를 지킨 채 수동태로 바뀌면서, 정부의 정책이나 통제에 의해 피동적으로 영향을 받는 모습을 보여줍니다.\n* 효과: 동일한 주어(It)를 유지하면서 <b>[능동태 ➔ 수동태]</b>로 태를 전환하고 in turn(역으로)을 배치함으로써, 언론과 정부가 어느 한쪽의 일방적인 지배 관계가 아니라 <b>'끊임없이 피드백을 주고받는 상호 의존적 관계'</b>임을 문장 구조 자체로 증명합니다.\n\n## ② 'intimately bound up with'의 수동 형용사적 특성\n\n* 첫 문장의 is intimately bound up with 역시 동사 bind(묶다)의 수동태 형태(be bound)에서 온 구조입니다.\n* 언론과 정부가 인위적으로 분리될 수 없이, 태생부터 구조적으로 단단히 얽혀 묶여 있는(Passive State) 상태임을 강조합니다.\n\n## ③ 능동태 'determine'으로의 논리적 귀결\n\n* 서로 영향을 주고받는 능동·수동의 결합 과정(It affects... is affected...)을 거친 후, 마지막에는 together they determine이라는 복수 주어의 강력한 능동태 동사로 끝을 맺습니다.\n* 국가의 성격과 국민 삶의 질을 바꾸는 거대한 권력은 언론이나 정부 한쪽에서만 나오는 것이 아니라, 두 기관이 상호작용하며 만들어내는 <b>'공동의 능동적 행위'</b>임을 태의 변화를 통해 최종적으로 선언하고 있습니다."
+    },
+    {
+        "id": 95,
+        "passageBottom": "In the over-all ecosystem of the earth, total animal energy <u><i>is limited</u></i> by the amount of solar energy plants embodied in organic compounds.",
+        "question": "다음 지문에서 'is limited'의 수동태 용법 중 성격은?",
+        "options": [
+            "동작 수동",
+            "상태 수동",
+            "미래 진행",
+            "수여 수동"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제7강 6번 핵심 개념] 능동태/수동태 (Voice)\n\n정해져 있는 한계 상황(상태) 설명\n\n## 1. 문장 해석\n\n\"지구의 전반적인 생태계에서, 총 동물 에너지는 식물이 유기 화합물에 담아낸 태양 에너지의 양에 의해 제한된다.\"\n\n\n* In the over-all ecosystem of the earth: 지구의 전반적인 생태계에서\n* total animal energy: 총 동물 에너지 (주어)\n* is limited by ~: ~에 의해 제한된다 (수동태 동사)\n* the amount of solar energy: 태양 에너지의 양\n* [which] plants embodied in organic compounds: 식물이 유기 화합물 속에 구현해 낸/담아낸 [관계대명사 목적격 생략 구조]\n\n## ① 피동성과 종속성의 시각화\n\n* 능동태 변환 시: \"...the amount of solar energy plants embodied in organic compounds limits total animal energy.\" (식물이 유기 화합물에 담아낸 태양 에너지의 양이 총 동물 에너지를 제한한다.)\n* 수동태 선택의 효과: 능동태로 쓰면 자연계의 거대한 물리적 법칙(태양 에너지)이 주어가 됩니다. 하지만 화자는 동물 생태계(total animal energy)를 문장의 주어로 내세웠습니다.\n* 가장 능동적으로 움직이는 생명체인 '동물'이 정작 문장의 주어 자리에 놓였을 때, 식물이 정해놓은 상한선에 갇혀 지배당하는 <b>'생태적 종속성과 피동성(Passivity)'</b>을 시각적으로 극대화하는 효과를 냅니다.\n\n## ② 행위자(Agent)의 거대함 강조\n\n* 수동태의 by 뒤에 오는 행위자 명사구(the amount of solar energy plants embodied in organic compounds)가 문장의 주어보다 훨씬 길고 무겁습니다.\n* 이러한 '무거운 정보의 후치(End-weight)' 구조는 동물의 에너지를 억누르고 있는 대자연의 법칙과 근원적인 힘의 거대함을 문장 구조 자체로 느끼게 만듭니다.\n\n## ③ 과거분사 'embodied'의 상태적 성격\n\n* plants embodied...에서 embodied는 식물이 광합성을 통해 태양 에너지를 유기물 속에 이미 고정해 버린 <b>'완료된 수동 상태'</b>를 나타냅니다.\n* 이 에너지는 이미 양이 고정된 물리적 자원이므로, 주절의 수동태 is limited와 결합하여 '인간이나 동물이 결코 바꿀 수 없는 정해진 한계선'이라는 뉘앙스를 더욱 공고히 합니다.\n\n------------------------------\n생태학적 한계를 다룬 이 거시적인 문장은 앞서 보았던 인간의 인구 과잉(overpopulation)이나 식량 공급(food supply)의 위기를 경고하는 글의 강력한 논거가 됩니다."
+    },
+    {
+        "id": 96,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'become dwarfed'에서 'become'의 쓰임새는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "수동태 대용의 상태 변화 동사",
+            "완전자동사",
+            "조동사",
+            "지각동사"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제7강 7번 핵심 개념]\n2형식 상태 변화 동사로 수동태의 의미를 가짐"
+    },
+    {
+        "id": 97,
+        "passageBottom": "Thus in the experience of work and the daily routine, nature <i>is excluded</i>, artifacts <u><i>are excluded</i></u>, and persons have to learn how to live with one another.",
+        "question": "다음 지문에서 'are excluded'의 능동태 전환 시 목적어였던 성분은?",
+        "options": [
+            "persons",
+            "artifacts",
+            "nature",
+            "routine"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제7강 8번 핵심 개념] 능동태: (Something) excludes artifacts\n\n\"따라서 노동의 경험과 일상적인 반복(루틴) 속에서 자연은 배제되고, 인공물도 배제되며, 사람들은 서로 더불어 사는 법을 배워야만 한다.\"\n\n* Thus: 따라서, 그러므로 (앞선 문장의 원인에 따른 결론을 유도)\n* the experience of work: 노동의 경험, 일하는 경험\n* the daily routine: 일상적인 일과, 매일 반복되는 루틴\n* nature is excluded / artifacts are excluded: 자연과 인공물(인간이 만든 가공물)이 각각 노동 환경에서 차단되거나 제외된다는 의미의 수동태 구조입니다.\n* have to learn: 배워야만 한다 (의무/당위의 Modality)\n* how to live with one another: 서로 함께 살아가는 방법 ('one another'는 셋 이상일 때 주로 쓰는 '서로서로')\n\n제시된 문장에서 are excluded가 수동태로 쓰였을 때, 원래 능동태 문장에서 목적어였던 성분은 수동태의 주어로 나가 있는 nature(자연)와 artifacts(인공물)입니다.\n\n두 개의 수동태 절이 and로 연결된 구조입니다.\n\n* 수동태 (원문): ... nature is excluded...\n* 능동태 전환 시: (People/Society) excludes nature.\n* ➔ 능동태의 목적어는 nature입니다.\n\n* 수동태 (원문): ... artifacts are excluded...\n* 능동태 전환 시: (People/Society) excludes artifacts.\n* ➔ 능동태의 목적어는 artifacts입니다.\n\n------------------------------\n## 💡 구조적 보충 설명 (Voice 관점)\n원문은 행위자(산업 사회, 시스템, 혹은 사람들)를 굳이 밝힐 필요가 없거나 생략하기 위해 행위자를 지우고 목적어였던 nature와 artifacts를 주어 자리로 보낸 수동태 구조입니다. 이를 통해 노동의 일상적인 경험 속에서 자연과 인공물이 '배제당하는 상태'를 명확하게 강조하고 있습니다."
+    },
+    {
+        "id": 98,
+        "question": "다음 중 수동태로 변환할 수 없는 동사는?",
+        "options": [
+            "affect",
+            "limit",
+            "become",
+            "exclude"
+        ],
+        "answer": 2,
+        "explanation": "💡 [제7강 9번 핵심 개념] \n\nbecome, have, lack 등은 수동태 불가\n\n* become은 목적어를 취하지 않는 대표적인 2형식 자동사입니다. 수동태를 만들기 위해서는 능동태 문장의 목적어가 주어 자리로 이동해야 하는데, become은 목적어 자체가 없으므로 수동태(be become)로 변환할 수 없습니다.\n\n* 참고: \"~에 어울리다\"라는 뜻의 3형식 타동사로 쓰일 때도 소유·상태 동사에 해당하여 수동태가 불가능합니다."
+    },
+    {
+        "id": 99,
+        "passageBottom": "The press is a political institution in its own right, intimately <u>bound</u> up with all the institutions of government.",
+        "question": "다음 지문에서 'bound'의 원형은?",
+        "options": [
+            "bind",
+            "bound",
+            "band",
+            "binden"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제7강 10번 핵심 개념] bind(묶다)의 과거분사\n\n\"언론은 그 자체로 하나의 정치 기구이며, 정부의 모든 기관과 밀접하게 결합되어 있다.\"\n\n* the press: 언론, 신문과 방송 매체 등\n* a political institution: 정치 기구, 정치 제도\n* in its own right: 그 자체로, 본래의 권리로 (독립적인 자격을 갖추었음을 강조)\n* intimately bound up with~: ~와 밀접하게 결합된, 떼려야 뗄 수 없이 얽혀 있는\n* the institutions of government: 정부 기관들, 통치 기구들\n\n'intimately bound up with'에서 bound의 동사 원형은 bind[바인드]입니다.\n\n* 동사 3단 변화: bind (현재) - bound (과거) - bound (과거분사)\n* 뜻: 묶다, 결합시키다, 얽매다\n\n따라서 문장에 쓰인 bound는 동사 bind에 수동의 의미를 더해 명사를 꾸며주는 과거분사(P.P.) 형태입니다.\n------------------------------\n⚠️ 주의 (단어 구별 팁):\n영어에 동사 원형 자체가 bound[바운드]인 단어도 존재하지만, 이때는 \"되튀다, 껑충껑충 뛰다\" 또는 \"~행이다(be bound for)\"라는 완전히 다른 뜻을 가집니다."
+    },
+    {
+        "id": 100,
+        "passageBottom": "It affects them and <i>is affected</i> by them in turn, and together they <u>determine</u> the nature of the nation and the quality of public life.",
+        "question": "'is determined'에서 determine은 몇 형식 동사인가?",
+        "options": [
+            "1형식",
+            "2형식",
+            "3형식",
+            "4형식"
+        ],
+        "answer": 2,
+        "explanation": "💡 [제7강 11번 핵심 개념] '~을 결정하다'라는 목적어를 갖는 타동사\n\n'is determined'로 쓰인 수동태 문장에서, 동사 determine의 능동태 기준 문형은 3형식(타동사)입니다.\n\n## 1. 3형식 타동사 구조\n능동태일 때 determine은 [주어 + determine + 목적어] 구조로 쓰여 \"~을 결정하다/좌우하다\"라는 뜻을 가집니다.\n\n* 능동태: They determine the nature of the nation. (그들은 국가의 특성을 결정한다)\n* They(주어) + determine(동사) + the nature...(목적어) ➔ 3형식\n* 수동태 (원문): The nature of the nation is determined by them. (국가의 특성은 그들에 의해 결정된다)\n* 능동태의 목적어가 주어로 나가면서 be determined 구조가 됩니다.\n\n## 2. 문맥에 따른 다른 형식 (참고)\ndetermine은 뒤에 오는 문장 성분에 따라 5형식으로도 쓰일 수 있습니다.\n\n* 5형식 구조: [주어 + determine + 목적어 + to부정사] (~가 ...하도록 결심하게 만들다)\n* Example: The test results determined him to study harder. (시험 결과는 그가 더 열심히 공부하도록 결심하게 만들었다.)\n\n본문의 문맥(together they determine the nature...)은 목적어를 하나만 취하는 명백한 3형식 타동사의 용법입니다."
+    },
+    {
+        "id": 101,
+        "passageBottom": "Since combustion consumes oxygen, the amount of combustion the earth <u>can sustain</u> is limited by the ecosystem’s net production of free oxygen.",
+        "question": "'can sustain'의 태는 무엇인가?",
+        "options": [
+            "능동태",
+            "수동태",
+            "완료태",
+            "진행태"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제7강 12번 핵심 개념] 조동사 can 뒤 능동형(Active Voice)\n\n\"연소는 산소를 소비하기 때문에, 지구가 유지할 수 있는 연소의 양은 생태계가 만들어내는 순수 자유 산소 생산량에 의해 제한된다.\"\n\n* Since combustion consumes oxygen: 연소는 산소를 소비하기 때문에 (이유의 접속사 since)\n* the amount of combustion: 연소의 양 (주절의 주어)\n* [that/which] the earth can sustain: 지구가 유지[지속]할 수 있는 (관계대명사 목적격 생략 구조로 앞의 연소의 양을 수식)\n* is limited by ~: ~에 의해 제한된다 (수동태)\n* the ecosystem’s net production of free oxygen: 생태계의 자유 산소 순 생산량 ('net'은 순수함을 뜻하는 '순(純)-')\n\n------------------------------\n* 동사 구조: 조동사 can 뒤에 동사원형 sustain이 결합한 형태입니다. 수동태가 되려면 be + 과거분사(p.p.) 구조가 들어가 can be sustained가 되어야 하지만, 원문은 이 형태가 아니므로 능동태입니다.\n* 구조적 원리: 주어인 '지구(the earth)가' 목적어인 '연소의 양(the amount of combustion)을' 목적격 관계대명사 절 내부에서 주도적으로 유지하고 지탱한다는 능동의 관계를 나타냅니다."
+    },
+    {
+        "id": 102,
+        "passageBottom": "In the over-all ecosystem of the earth, total animal energy <i>is limited</i> by the amount of solar energy plants <u>embodied</u> in organic compounds.",
+        "question": "'embodied'는 무엇을 수식하는가?",
+        "options": [
+            "energy",
+            "plants",
+            "solar energy",
+            "solar energy plants"
+        ],
+        "answer": 3,
+        "explanation": "💡 [제7강 13번 핵심 개념] \n\n'식물 속에 담긴(embodied) 태양 에너지' 수식\n\n\"지구의 전반적인 생태계에서, 총 동물 에너지는 식물이 유기 화합물에 담아낸 태양 에너지의 양에 의해 제한된다.\"\n\n* In the over-all ecosystem of the earth: 지구의 전반적인 생태계에서\n* total animal energy: 총 동물 에너지 (주어)\n* is limited by ~: ~에 의해 제한된다 (수동태 동사)\n* the amount of solar energy: 태양 에너지의 양\n* [which] plants embodied in organic compounds: 식물이 유기 화합물 속에 구현해 낸/담아낸 [관계대명사 목적격 생략 구조]"
+    },
+    {
+        "id": 103,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'is affected'와 'is limited'의 공통된 태는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "능동",
+            "수동",
+            "완료",
+            "진행"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제7강 14번 핵심 개념]\n목적어에 가해지는 동작을 설명하는 수동태"
+    },
+    {
+        "id": 104,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'have to learn'의 'have to'는 수동태로 바꿀 수 있는가?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "있다",
+            "없다",
+            "수동 조동사이다",
+            "본동사가 learn이므로 가능하다"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제7강 15번 핵심 개념]\nhave to는 조동사적 성격으로 수동태 주어가 될 수 없음"
+    },
+    {
+        "id": 105,
+        "question": "Even an end which it would be noble to pursue _______ attainable may be pursued unwisely if it is inherently impossible of achievement.",
+        "options": [
+            "if it is",
+            "if it were",
+            "if it had been",
+            "if it be"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제8강 1번 핵심 개념] 가정법 (Mood)\n\n현재 사실의 반대 가정 (if it were)\n\n\"비록 달성 가능하다면 추구하는 것이 숭고할지 모를 목표라 할지라도, 그것이 본질적으로 달성 불가능하다면 어리석게 추구되는 것일 수 있다.\"\n\n* Even an end: 심지어 목적(목표)이라 할지라도 (주절의 핵심 주어)\n* which it would be noble to pursue if it were attainable: [그것이 달성 가능하다면 추구하는 것이 숭고할] (관계대명사절 / 내부 가주어-진주어 및 가정법 과거 구조)\n* may be pursued unwisely: 어리석게 추구되는 것일지도 모른다 (주절의 동사 / 수동태 및 약한 추측의 양태)\n* if it is inherently impossible of achievement: 만약 그것이 본질적으로 달성이 불가능하다면 (조건의 부사절 / 현재 사실)\n\n------------------------------\n이 문장은 하나의 관계사절 내부에 가정법 과거 구조를 품고 있으면서, 주절 및 부사절의 직설법 현재와 정교하게 대비를 이루는 최고 난이도의 문장입니다.\n\n## ① 관계사절 내부의 가정법 과거 (would be... if it were...)\n목적어 역할을 하는 관계대명사 which가 이끄는 절 안을 보면형태가 나타납니다.\n\n* 공식: if + 주어 + were(과거형 동사), 주어 + would + 동사원형\n* 이유: 화자는 이 목표가 현재 혹은 본질적으로 '달성 불가능하다(unattainable)'는 사실을 이미 알고 있습니다. 따라서 실현 가능성이 없는 상상 속의 상황을 가정하기 때문에 가정법 과거를 사용하여 \"만약 (실제와 달리) 달성 가능하다면\"이라는 전제를 표현한 것입니다.\n\n## ② 부사절의 직설법 현재 (if it is inherently impossible...)\n문장 가장 뒤에 붙은 if절은 앞의 가정법과 모양이 다릅니다. 과거 동사가 아닌 현재 동사 is를 썼습니다.\n\n* 이유: 이것은 상상이 아니라 실제 사실(Fact)을 나타내는 조건절이기 때문입니다. \"그 목표는 본질적으로 달성이 불가능하다\"라는 객관적인 현재의 상태를 그대로 반영하므로 직설법 현재 시제를 선택했습니다.\n\n## ③ 주절의 Modality (may be pursued)\n문장의 핵심 뼈대인 Even an end... may be pursued...에서는 조동사 may가 쓰였습니다.\n\n* 이유: 달성 불가능한 목표를 쫓는 행위가 '언제나 100% 어리석다'고 단정하기보다는, \"그렇게 행동한다면 어리석은 결과를 낳을 확률이나 가능성(Epistemic Possibility)이 있다\"라며 논리적 타당성을 신중하게 열어두는 양태적 표현입니다.\n\n------------------------------\n## 💡 문장 구조 한눈에 보기\n\n* [팩트/조건] 그것이 본질적으로 불가능하다면 (if it is...)\n* [가정/상상] 만약 가능하다면 숭고할 텐데 (if it were attainable, it would be noble...)\n* [결론/추측] 그런 목표를 쫓는 건 어리석은 짓이 될 수도 있다 (Even an end... may be pursued unwisely)\n\n가정법 과거와 직설법 현재를 넘나들며 '이상과 현실의 괴리'를 절묘하게 꼬집은 명문입니다."
+    },
+    {
+        "id": 106,
+        "question": "_______ we shown other nations the test explosion at Alamogordo, New Mexico, ...",
+        "options": [
+            "If",
+            "Had",
+            "Have",
+            "Should"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제8강 2번 핵심 개념] If we had shown에서 If 생략 시 도치\n\n\"만약 우리가 다른 국가들에게 뉴멕시코주 알라모고도에서 있었던 핵실험 폭발을 보여주었더라면,\"\n\n* had we shown: 만약 우리가 보여주었더라면 (가정법 과거완료의 if 생략 구조)\n* other nations: 다른 국가들에게 (간접목적어)\n* the test explosion: 실험 폭발[인류 최초의 원자폭탄 실험인 트리니티 테스트]을 (직접목적어)\n* at Alamogordo, New Mexico: 뉴멕시코주 알라모고도에서\n\n------------------------------\n이 문장은 역사적 사실과 반대되는 과거의 일을 가정하는 가정법 과거완료 문장으로, if가 생략되면서 주어와 동사가 도치된 형태가 핵심 문법 포인트입니다.\n\n## ① 'if' 생략에 따른 주어-동사 도치 (Inversion)\n가정법 문장에서 접속사 if를 생략하면, 주어와 조동사(또는 be동사/had)의 위치가 서로 바뀝니다.\n\n* 원래 구조: If we had shown other nations...\n* 변환 구조: Had we shown other nations...\n* 효과: 문장 전반부에 Had를 던짐으로써 \"이것은 단순한 사실이 아니라 강력한 가정이나 조건이다\"라는 점을 독자에게 수사적으로 강조하며, 문장에 긴장감과 격식 있는 어조(Formal style)를 부여합니다.\n\n## ② 가정법 과거완료 (Past Unreal Conditional)\n\n* 시점: 이 문장은 1945년에 실제로 일어났던 과거의 역사적 사건(알라모고도 원폭 실험)을 다루고 있습니다.\n* 의미: 실제 과거에는 다른 나라들에게 이 실험을 보여주지 않았습니다. 따라서 '과거 사실의 반대'를 가정하기 때문에 had + p.p.(had shown) 형태의 가정법 과거완료를 사용했습니다.\n\n## ③ 4형식 수여동사 구조 (show + 간접목적어 + 직접목적어)\n\n* show(동사 원형)는 뒤에 두 개의 목적어를 취할 수 있습니다.\n  - 간접목적어(I.O.): other nations (다른 국가들에게)\n  - 직접목적어(D.O.): the test explosion (실험 폭발을)\n\n------------------------------\n이 문장은 대개 주절에 \"제2차 세계 대전 이후의 냉전 구도나 원폭 투하의 비극을 막을 수 있었을 텐데\"와 같은 과거의 아쉬움이나 후회(would have p.p.)를 담은 내용이 이어지게 됩니다.\n\n"
+    },
+    {
+        "id": 107,
+        "question": "We _______ it as an education for new ideas.",
+        "options": [
+            "can use",
+            "could have used",
+            "used",
+            "had used"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제8강 3번 핵심 개념]\n\n과거 사실에 대한 반대 가정의 결과 (could have p.p.)\n\n\"우리는 그것을 새로운 아이디어(사상)를 위한 교육적 수단으로 사용할 수 있었을 것이다.\"\n\n* we could have used: 우리는 사용할 수 있었을 것이다 (가정법 과거완료 주절)\n* it: 그것 (앞 문장에 나온 알라모고도 핵실험 폭발)\n* as an education for new ideas: 새로운 사상을 위한 교육(혹은 교훈)으로서\n\n이 문장은 앞선 조건절(Had we shown...)과 완벽하게 호응하는 가정법 과거완료의 주절 구조입니다. 과거의 실현되지 못한 가능성에 대한 아쉬움과 논리적 추측을 담고 있습니다.\n\n## ① 가정법 과거완료 주절 구조 (could have + p.p.)\n\n* 공식: 주어 + 조동사 과거형(would/could/might) + have + 과거분사(p.p.)\n* 의미: 실제 과거(1945년 당시)에는 그것을 교육적 수단으로 사용하지 못했습니다. 따라서 '과거 사실과 반대되는 일의 가능성이나 능력'을 나타내기 위해 could have used를 사용했습니다. \"~할 수 있었는데 (실제로는 안 했거나 못 했다)\"라는 뉘앙스를 강하게 풍깁니다.\n\n## ② 'could'의 Epistemic/Dynamic 양태 (Modality)\n\n* 여기서 could는 과거에 그러한 조치를 취할 수 있었던 국가적 '능력이나 기회(Capability/Opportunity)'가 존재했음을 보여주는 동시에, \"그랬다면 참 좋았을 텐데\"라는 화자의 주관적 판단을 복합적으로 전달합니다.\n\n## ③ 전치사 'as'의 자격 (~로서)\n\n* used A as B 구조로, 'A(그 핵실험)를 B(새로운 사상을 위한 교육 수단)로 사용하다'라는 의미를 완성합니다. 여기서 education은 추상적인 가르침을 넘어, 인류가 핵무기라는 새로운 시대의 위험성을 깨닫게 만드는 '시각적 교훈이자 계기'라는 문맥적 의미를 지닙니다.\n\n------------------------------\n## 💡 앞 문장과의 결합 구조 복습\n\n* 조건절: Had we shown other nations... (만약 다른 나라들에게 보여주었더라면 - if 생략 도치)\n* 주절: ... we could have used it... (우리는 그것을 사용할 수 있었을 텐데)\n\n실제 역사는 원폭 실험을 비밀리에 부쳤고 결국 일본 투하라는 비극으로 이어졌지만, 만약 전 세계에 먼저 그 파괴력을 보여주며 '경고'의 교훈으로 삼았더라면 역사가 바뀌었을 것이라는 화자의 날카로운 통찰이 담긴 문장입니다."
+    },
+    {
+        "id": 108,
+        "question": "It _______ an impressive and favorable moment.",
+        "options": [
+            "would be",
+            "would have been",
+            "will be",
+            "was"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제8강 4번 핵심 개념] 과거 상황에 대한 추측성 귀결절\n\n\"그 순간은 전쟁을 종식하기 위한 세계 질서에 대해 숙고된 제안을 하기에 매우 인상적이고 유리한 순간이었을 것이다.\"\n\n* It would have been: (~였을) 것이다 (가정법 과거완료 주절 / 과거 사실의 반대나 추측)\n* an impressive and favorable moment: 인상적이고 유리한[좋은] 순간\n* to make considered proposals: 숙고된 제안을 하기에 (형용사적 용법의 to부정사)\n* for world order: 세계 질서를 위한\n* to end war: 전쟁을 끝내기 위한 (앞의 world order 또는 proposals를 수식)\n\n이 문장은 앞서 나온 문장들(Had we shown... we could have used it...)에 완전히 종속되어 있는 가정법 과거완료의 연속된 결론부입니다.\n\n## ① 가정법 과거완료 구조 (would have + been)\n\n* 공식: 주어 + would have + 과거분사(p.p.)\n* 의미: 실제 과거(1945년 원폭 실험 당시)에는 다른 나라들에 실험을 보여주지 않았기 때문에, 세계 질서를 위한 제안을 던질 '인상적이고 유리한 순간'을 맞이하지 못했습니다. 따라서 '과거에 실현되지 못한 상황에 대한 아쉬운 가정과 추측'을 나타내기 위해 would have been을 사용했습니다.\n\n## ② 가주어/진주어가 아닌 명사 수식 구조 (It의 의미)\n\n* 여기서의 It은 가주어가 아니라, 앞 문장에서 언급한 \"다른 국가들에게 알라모고도 핵실험 폭발을 보여주었던 바로 그 가상의 시점/사건\"을 가리키는 대명사입니다. [1] \n\n## ③ to부정사의 형용사적 용법과 과거분사 'considered'\n\n* to make ~: to부정사구가 앞의 핵심 명사구인 an impressive and favorable moment를 뒤에서 꾸며주는 형용사적 용법으로 쓰였습니다. (~할 수 있는 순간)\n* considered: '숙고된, 사려 깊은'이라는 뜻으로, 이미 충분한 논의와 생각을 거쳐 완성된 제안이라는 의미를 전달하기 위해 동사 consider를 과거분사(P.P.) 형태로 바꾸어 proposals를 앞에서 수식하고 있습니다.\n\n## ④ 중첩된 수식 구조 (for world order to end war)\n\n* proposals (제안) ➔ for world order (세계 질서를 위한 제안) ➔ to end war (전쟁을 끝내기 위한 세계 질서 혹은 제안) 구조로 뒤에서 앞으로 수식이 꼬리를 물며 문장의 정보를 밀도 있게 확장하고 있습니다.\n\n------------------------------\n## 💡 전체 논리 흐름 요약\n\n   1. 조건: 만약 그때 핵실험을 전 세계에 보여주었더라면 (Had we shown...)\n   2. 결과 1: 교육적 교훈으로 삼을 수 있었을 것이고 (we could have used it...)\n   3. 결과 2: 인류가 전쟁을 끝내고 새로운 세계 질서를 구축할 제안을 하기에 가장 완벽한 역사적 타이밍(It would have been...)이 되었을 텐데 그러지 못해 아쉽다는 화자의 강력한 역사적 비평입니다."
+    },
+    {
+        "id": 109,
+        "question": "Our renunciation of this weapon as too terrible to use _______ great weight in negotiations.",
+        "options": [
+            "would have carried",
+            "would carry",
+            "will carry",
+            "carried"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제8강 5번 핵심 개념] 과거 사실과 반대되는 결과를 가정\n\n\"사용하기에는 너무나 끔찍하다는 이유로 우리가 이 무기(핵무기)를 포기했더라면, 그것은 (국제) 협상에서 엄청난 무게감(영향력)을 가졌을 것이다.\"\n\n* Our renunciation of this weapon: 이 무기에 대한 우리의 포기 (주절의 핵심 주어)\n* as too terrible to use: 사용하기에는 너무 끔찍하다는 이유로 (too ~ to...: 너무 ~해서 ...할 수 없는)\n* would have carried: 가졌을 것이다 (가정법 과거완료 주절)\n* great weight: 엄청난 무게감 / 큰 영향력\n* in negotiations: 협상에서\n\n이 문장은 앞선 문장들과 마찬가지로 제2차 세계 대전 말기(1945년)의 역사적 사실을 뒤집어 가정하는 가정법 과거완료 구조입니다. 다만, 눈에 보이는 if절 대신 '명사 주어' 속에 가정의 조건이 숨어 있는 독특한 형태입니다.\n\n## ① 주어 속에 숨겨진 가정의 조건 (Implicit Condition)\n이 문장에는 if 접사구가 보이지 않습니다. 대신 주어인 Our renunciation of this weapon (우리가 이 무기를 포기한 것)이 조건절의 역할을 대신하고 있습니다.\n\n* 원래 if절로 풀었을 때: If we had renounced this weapon..., it would have carried...\n* 명사화 구조의 효과: 문장을 절(Clause)이 아닌 명사구(Noun Phrase) 위주로 압축하여 간결하고 학술적인 어조(Formal/Academic style)를 형성합니다.\n\n## ② 가정법 과거완료 주절 구조 (would have + 과거분사)\n\n* 공식: 주어 + would have + 과거분사(carried)\n* 의미: 실제 과거 역사에서 미국은 핵무기를 포기하지 않고 일본(히로시마와 나가사키)에 투하했습니다. 따라서 '과거에 실제로 일어나지 않은 일(포기)이 만약 일어났더라면 가졌을 가상의 영향력'을 추측하기 때문에 would have carried를 사용했습니다.\n\n## ③ 부사구 내부의 'too ~ to...' 용법과 수동의 의미 생략\n\n* too terrible to use: '사용하기에 너무 끔찍한'이라는 뜻입니다.\n* 문법적으로 to use 뒤에 목적어가 비어 있는데, 이는 수식을 받는 대상인 this weapon이 문맥상 당연한 목적어이기 때문에 생략된 것입니다. 즉, 의미상으로는 to be used(사용되기에)와 같습니다.\n\n## ④ 관용적 동사 표현: 'carry weight'\n\n* carry weight는 \"무게를 지니다\"라는 직역을 넘어, 논리나 주장이 \"무게감이 있다, 영향력을 가지다, 설득력이 있다\"라는 뜻으로 쓰이는 핵심 비유 표현입니다. 앞에 great가 붙어 그 영향력이 막강했을 것임을 강조합니다.\n\n------------------------------\n화자는 줄곧 1945년 당시 미국의 핵무기 정책을 비판하고 있습니다.\n\n   1. 핵실험을 비밀로 하지 않고 전 세계에 보여주며 교훈을 주었어야 했고 (Had we shown...)\n   2. 인류를 위해 이 끔찍한 무기를 우리가 먼저 쓰지 않겠다고 선언(Our renunciation)하며 도덕적 모범을 보였더라면, 오히려 전후 세계 질서를 확립하는 국제 협상에서 미국이 엄청난 도덕적 주도권과 영향력(great weight)을 행사할 수 있었을 텐데, 그러지 못해 아쉽다는 결론에 도달하는 문장입니다."
+    },
+    {
+        "id": 110,
+        "question": "Early agricultural man _______ found it virtually impossible to cope with the heavy sod of grasslands, ...",
+        "options": [
+            "would have",
+            "will have",
+            "could have",
+            "should have"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제8강 6번 핵심 개념] 과거 상황에 대한 강한 추측성 가정\n\n\"초기 농경 사회의 인간은 초원의 단단하고 두터운 잔디(풀밭)를 다루는 것이 사실상 불가능하다는 것을 알았을 것이다...\"\n\n* Early agricultural man: 초기 농경 사회의 인간 (농경을 시작한 지 얼마 안 된 인류)\n* would have found it virtually impossible: 그것이 사실상 불가능하다는 것을 알았을[깨달았을] 것이다 (가정법 과거완료 / 과거 사실에 대한 강한 추측)\n* to cope with ~: ~를 다루는 것, 대처하는 것\n* the heavy sod of grasslands: 초원의 무겁고 단단한 잔디[풀과 흙이 엉겨 붙은 떼나 덩이줄기층]\n\n이 문장은 5형식 문형의 핵심 구조인 가목적어-진목적어 용법과, 과거 역사적 상황을 추론하는 양태/가정법 조동사가 결합한 구조입니다.\n## ① 가목적어 'it'과 진목적어 'to부정사' 구조 (5형식)\n동사 find가 5형식으로 쓰일 때, 목적어 자리에 to부정사구나 that절이 오면 구조가 길어지기 때문에 목적어 자리에 가짜 목적어 it을 두고 진짜 목적어는 문장 뒤로 보냅니다.\n\n* 구조: 주어 + 동사 + 가목적어(it) + 목적격 보어(impossible) + 진목적어(to cope with...)\n* 해석: '진목적어(~하는 것)'가 '목적격 보어(불가능하다)' 하다는 것을 '알게 되다/생각하다'.\n* 주의: 가목적어 it은 절대로 생략할 수 없으며, 해석을 하지 않습니다. 부사 virtually(사실상, 거의)는 보어인 형용사 impossible을 수식합니다.\n\n## ② 'would have + p.p.'의 양태적 특징 (과거 사실에 대한 추측/가정)\n\n* 공식: would have + 과거분사(found)\n* 의미: 실제 과거 역사를 돌이켜보며, \"당시 초기 인류의 기술력 수준을 고려할 때, 초원의 단단한 흙을 파헤치는 것은 분명히 불가능했을 것이다\"라고 화자가 높은 확신을 가지고 과거 상황을 추론(Past Epistemic Possibility)하는 구조입니다.\n* 문맥에 따라 앞뒤에 \"철제 보습이나 강한 쟁기가 없었기 때문에\"와 같은 가상의 조건이 명시되거나 함축되어 있는 가정법 주절로 볼 수 있습니다.\n\n## ③ 구문적 어휘: cope with\n\n* cope with는 문제를 단순히 처리하는 것을 넘어, '어려운 상황이나 장애물을 극복하고 성공적으로 대처하다'라는 뉘앙스를 가집니다. 여기서는 초기 인류의 조잡한 도구로 단단한 초원의 땅을 일구는 힘겨운 노동 과정을 대변합니다.\n\n------------------------------\n초기 인류는 기술(예: 철제 쟁기)이 부족했기 때문에, 단단하고 빽빽한 풀뿌리로 뒤덮인 초원 지역(grasslands)은 농사를 짓고 싶어도 흙을 갈아엎을 수가 없어 도저히 정착할 수 없었을 것이라는 역사·지리적 한계를 설명하는 문장이며, 이 문장 뒤에는 보통 \"따라서 그들은 강가나 숲처럼 흙이 좀 더 부드러운 지역을 선택해야만 했다\"거나, \"이후 강력한 농기구가 발명되고 나서야 초원을 개간할 수 있었다\"라는 내용이 이어지게 됩니다."
+    },
+    {
+        "id": 111,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'if it were'가 나타내는 사실은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "현재 사실의 반대 가정",
+            "과거 사실의 반대 가정",
+            "미래의 불확실한 일",
+            "불변의 진리"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제8강 7번 핵심 개념]\n현재 도달하기 어렵다는 것을 가정함"
+    },
+    {
+        "id": 112,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'Had we shown'은 무엇이 생략되어 도치된 것인가?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "If",
+            "As",
+            "Because",
+            "Although"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제8강 8번 핵심 개념]\n조건절의 접속사 생략과 도치"
+    },
+    {
+        "id": 113,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'could have used'의 의미는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "사용할 수 있었다",
+            "사용할 수 있었을 텐데 (하지 못함)",
+            "사용해야만 했다",
+            "사용될 것이다"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제8강 9번 핵심 개념]\n과거에 하지 못한 일에 대한 아쉬움/가정"
+    },
+    {
+        "id": 114,
+        "passageBottom": "Had <i>we shown</i> other nations the test explosion at Alamogordo, New Mexico, we <i>could have used</i> it as an education for new ideas. It <i>would have been</i> an impressive and favorable moment to make considered proposals for world order to end war. Our renunciation of this weapon as too terrible to use <i>would have carried</i> great weight in negotiations.",
+        "question": "지문의 전체적인 시점은 무엇에 관한 가정인가?",
+        "options": [
+            "현재",
+            "과거",
+            "미래",
+            "혼합"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제8강 10번 핵심 개념]\n\nNew Mexico 테스트 폭발이라는 과거 사건 기반\n\n\"만약 우리가 뉴멕시코주 알라모고르도에서 있었던 핵실험 폭발을 다른 나라들에 보여주었다면, 그것을 새로운 아이디어를 교육하는 계기로 활용할 수 있었을 것입니다. 이는 전쟁을 종식시킬 세계 질서에 대해 심도 있는 제안을 할 수 있었던 인상적이고 유리한 순간이었을 것입니다. 너무나 끔찍하여 사용할 수 없는 무기라며 이 무기를 포기한다는 우리의 입장은 협상에서 엄청난 영향력을 발휘했을 것입니다.\""
+    },
+    {
+        "id": 115,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'would have been'에서 'would have'는 무엇을 표시하는가?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "과거의 추측/결과",
+            "현재의 소망",
+            "미래의 완료",
+            "의무의 과거"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제8강 11번 핵심 개념]\n과거 사실에 대한 가정법적 결과(귀결)"
+    },
+    {
+        "id": 116,
+        "passageBottom": "Even an end which it <u>would</u> be noble to pursue ...",
+        "question": "지문에서 'would'의 쓰임은?",
+        "options": [
+            "가정법 과거의 귀결절",
+            "과거의 습관",
+            "의지",
+            "단순 미래"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제8강 12번 핵심 개념] 가정법 과거 구문의 일부\n\n\"설령 추구하기에 고결한 목적이라 할지라도...\"\n\n문장에서 would는 가정(추측)의 의미를 나타내는 조동사로 사용되었습니다.\n\n## 1. 문법적 역할: 가정의 would\n이 문장은 실제 일어난 사실이 아니라, \"만약 ~라면 (그럴 것이다)\"라는 가상의 상황을 전제로 이야기하는 가정법적 맥락을 품고 있습니다.\n\n* 의미: \"~일 것이다\", \"~할 만한\"\n* 해석: 추구하기에 고결할(noble) 수도 있는 목적이라 할지라도...\n\n## 2. 구조적 분석: 형용사 수식 (To부정사 구조)\n\n* which it would be noble to pursue: 이 부분은 앞의 명사 an end(목적)를 꾸며주는 관계대명사절입니다.\n* 가주어 it과 진주어 to pursue 구조가 쓰였습니다.\n* 직역하면 *\"그것을 추구하는 것이 고결할 것이다\"*가 되며, 전체적으로는 \"추구하는 것이 고결할 만한 (목적)\"으로 해석됩니다.\n\n## 3. 왜 will 대신 would를 썼을까요?\n\n* will을 쓰면 \"추구하는 것이 (확실히) 고결하다\"는 확신이나 미래의 사실에 가까워집니다.\n* 반면 would를 쓰면 \"설령 그런 목적이 존재한다고 가정하더라도\"라는 어조가 되어, 문장의 현실 가능성을 한 걸음 물러서서 부드럽게 가정하는 느낌을 줍니다.\n"
+    },
+    {
+        "id": 117,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'impossible of achievement'에서 achievement의 품사는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "명사",
+            "동사",
+            "형용사",
+            "부사"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제8강 13번 핵심 개념]\n전치사 of의 목적어 역할"
+    },
+    {
+        "id": 118,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "가정법 과거완료의 기본 구조는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "If S+had p.p, S+조동사과거+have p.p",
+            "If S+v-ed, S+조동사과거+V",
+            "If S+p.p, S+will+V",
+            "If S+were, S+would+V"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제8강 14번 핵심 개념]\n가정법 과거완료의 표준 공식"
+    },
+    {
+        "id": 119,
+        "passageBottom": "Early agricultural man would have found it <u>virtually</u> impossible to cope with the heavy sod of grasslands, ...",
+        "question": "지문에서 virtually의 수식 대상은?",
+        "options": [
+            "found",
+            "impossible",
+            "man",
+            "cope"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제8강 15번 핵심 개념] '사실상 불가능한' 형용사 수식 부사 \n\nvirtually (부사) ➔ impossible (형용사)\n\n\"초기 농경 인류는 초지의 단단한 잔디밭(댕기풀 흙층)을 개간하는 것이 사실상 불가능하다고 느꼈을 것이다.\"\n\n* Early agricultural man: 초기 농경 인류 (농사를 짓기 시작한 초기 인간)\n* would have found it virtually impossible: 사실상 불가능하다고 느꼈을(알게 되었을) 것이다\n* 여기서 would have found는 과거 사실에 대한 강한 추측(~했을 것이다)을 나타냅니다.\n  - it은 가목적어이며, 뒤의 to cope with ~가 진목적어입니다.\n* to cope with: ~에 대처하다 / ~을 감당하다 (여기서는 단단한 땅을 파내고 다루는 것)\n* the heavy sod of grasslands: 초지의 무겁고 단단한 잔디 흙층 (풀뿌리와 흙이 엉겨 붙어 단단해진 표면)\n\n제시하신 문장에서 virtually의 수식 대상은 바로 뒤에 나오는 형용사인 impossible입니다.\n\n* virtually는 '사실상', '거의'라는 뜻을 가진 부사입니다.\n* 여기서는 '불가능하다(impossible)'라는 상태를 강조하여, 완전히 100% 불가능한 것은 아닐지라도 실제 현실에서는 불가능한 것이나 다름없다는 뉘앙스를 더해줍니다.\n\n따라서 virtually impossible 전체가 하나의 덩어리로 쓰여 \"사실상 불가능에 가까운\"이라는 뜻을 완성합니다.\n------------------------------\n이 문장은 농업 발전사나 기술의 역사를 다룰 때 자주 등장하는 내용입니다. 청동기나 철기처럼 단단한 금속으로 만든 '쟁기(Plow)'가 발명되기 전, 인류는 돌이나 나무 도구만 사용했습니다. 풀뿌리가 빽빽하게 얽혀 있는 단단한 초지(grasslands)는 당시 도구로 파엎기가 불가능했기 때문에, 초기 인류는 주로 강가 주변의 부드러운 진흙탕이나 숲을 불태운 재 위에 농사를 지을 수밖에 없었다는 역사적 사실을 설명하는 맥락입니다."
+    },
+    {
+        "id": 120,
+        "passageBottom": "I put my conviction into a phrase and said to myself: _______ <i>your inclinations with due regard to the policeman round the corner.</i>",
+        "question": "지문의 빈칸에 들어갈 단어는?",
+        "options": [
+            "follow",
+            "followed",
+            "following",
+            "to follow"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제9강 1번 핵심 개념] 일치와 화법 (Agreement & Narration)\n\n직접화법 인용문 내의 명령문\n\n\"나는 내 신념을 한 구절로 요약하여 혼잣말로 가만히 되뇌었다. '길모퉁이에 있는 경찰관을 적절히 의식하면서, 네 마음이 이끄는 대로 따르라'라고 말이다.\"\n\n* put my conviction into a phrase: 내 신념을 한 구절(문구)로 표현하다\n* said to myself: 혼잣말을 했다 (스스로에게 다짐하듯 생각했다)\n* follow your inclinations: 네 마음이 이끄는 대로 해라 / 네 성향을 따라라\n* with due regard to the policeman round the corner: 길모퉁이에 있는 경찰관을 적절히 고려하면서(조심하면서)\n\n여기서 '경찰관(the policeman)'은 단순히 실제 경찰을 의미하는 것이 아니라, 사회의 법률, 도덕, 규범, 타인의 시선 등을 상징합니다. 즉, \"사회의 법과 규칙을 위반하여 불이익을 받지 않는 선(테두리) 안에서, 네가 하고 싶은 대로 자유롭게 인생을 살아가라\"라는 현실적이고 위트 있는 처세술을 담고 있습니다. 소설가나 사상가의 수필에서 자주 인용되는 문장으로, \"개인의 자유(성향)를 따르되, 사회적 법규(경찰)의 테두리를 벗어나지 말라\"는 처세를 위트 있게 표현한 글입니다.\n\n* phrasing 팁: with due regard to는 '~를 적절히 고려하여'라는 뜻입니다. 여기서는 내 마음대로 행동하되, 법을 집행하는 경찰관(사회적 규범)을 의식하고 조심하라는 뉘앙스입니다.\n\n영어에서 일치(Agreement)는 주어-동사의 수 일치, 시제 일치, 성/인칭 일치 등을 뜻합니다. 이 문장에서는 다음과 같은 일치가 발견됩니다.\n\n* 인칭 및 재귀대명사 일치 (Subject-Reflexive Pronoun Agreement):\n* 앞부분: 주어가 I(1인칭 단수)이므로, 행동의 대상이 자신일 때 재귀대명사 myself를 썼습니다. (said to myself: 혼잣말하다)\n  - 인용구 내부: 명령문(follow~)의 숨겨진 주어는 상대방인 You입니다. 따라서 소유격 대명사로 your inclinations를 사용하여 인칭을 일치시켰습니다.\n* 시제 일치 (Tense Agreement):\n* 주절의 동사인 put과 said는 모두 과거 시제로 일치되어 과거의 행동을 나열하고 있습니다. (put은 현재/과거 동형이나, said와 병렬을 이루므로 과거형입니다.)\n\n이 문장은 이야기나 대화를 전달하는 화법(Narration) 측면에서 매우 흥미로운 구조를 취하고 있습니다.\n\n* 혼합형 직접화법 (Direct Narration):\n* 보통 직접화법은 따옴표(\" \")를 사용하지만, 이 문장처럼 에세이나 문학 작품에서는 따옴표 없이 콜론(:)을 사용해 자신이 했던 생각을 그대로 직접 인용하기도 합니다.\n  - 콜론 뒤의 follow your inclinations... 부분은 과거 시점의 내가 스스로에게 했던 말(명령문 형태)을 당시 형태 그대로 생생하게 전달하는 직접화법입니다.\n\n## 💡 만약 간접화법(Indirect Narration)으로 바꾼다면?\n이 문장을 제3자에게 전달하는 간접화법으로 전환하면, 시제 일치의 원칙과 인칭 변화에 따라 다음과 같이 바뀝니다.\n\n간접화법 변환: I put my conviction into a phrase and told myself to follow my inclinations with due regard to the policeman round the corner.\n\n* 변화 1: said to가 전달동사 told로 바뀝니다.\n* 변화 2: 직접화법의 명령문(follow~)이 간접화법의 to부정사(to follow) 구조로 전환됩니다.\n* 변화 3: 내 생각 속의 your(너의)가 실제 말하는 주체인 나의 성향을 뜻하므로 my로 일치시킵니다."
+    },
+    {
+        "id": 121,
+        "passageBottom": "I _______ that if you <i>could find</i> the exact term a qualifying epithet <i>could be dispensed</i> with.",
+        "question": "지문의 빈칸에 들어갈 단어는?",
+        "options": [
+            "think",
+            "thought",
+            "am thinking",
+            "had thought"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제9강 2번 핵심 개념] 과거 시점의 생각을 나타내는 주절 동사\n\n\"정확한 용어를 찾을 수만 있다면, (그 단어를 수식하는) 한정적 수식어는 없어도 될 것이라고 나는 생각했다.\"\n\n글을 쓸 때 ‘정확하고 딱 맞는 단어’ 하나만 잘 골라 쓰면, 굳이 그 앞뒤로 구구절절하게 ‘수식어(형용사/부사 등)’를 덧붙여 설명할 필요가 없다는 의미입니다.\n\n* the exact term: 정확한 용어 (정확한 단어)\n* a qualifying epithet: 한정적 수식어 (의미를 한정하거나 묘사하기 위해 붙이는 형용사나 수식구)\n* could be dispensed with: 없어도 될 것이다 (생략될 수 있을 것이다)\n* dispense with는 '~없이 지내다', '~을 없애다(필요 없게 만들다)'라는 뜻의 중요 숙어입니다.\n\n------------------------------\n## ① 시제 일치 (Tense Agreement)\n\n* 주절의 동사가 과거 시제 thought이므로, 뒤따르는 종속절(if절과 that절)의 동사들도 모두 과거형인 could find와 could be로 시제가 일치되었습니다.\n\n## ② if 조건절 내의 조동사 (could)\n\n* 가정법 과거라기보다는 과거 시점에서의 능력이나 가능성(~할 수 있다면)을 나타내는 표현입니다. \"그 당시에 만약 정확한 단어를 찾을 수만 있다면\"이라는 의미를 담고 있습니다.\n\n## ③ 구동사의 수동태 (could be dispensed with)\n\n* dispense with는 두 단어가 합쳐져 하나의 타동사 역할을 하는 구동사(Phrasal Verb)입니다.\n* 이 구동사가 수동태가 될 때도 with를 빠뜨리지 않고 그대로 유지해야 합니다.\n* 구조: A qualifying epithet (주어) + could be dispensed with (수동태 동사구). 여기서 with 뒤에 목적어가 비어 있는 것이 정상적인 수동태 구조입니다.\n\n## ④ 명사절 접속사 that의 생략\n\n* I thought 뒤에는 명사절을 이끄는 접속사 that이 생략되어 있습니다.\n* 구조: I thought + [(that) if you could ~, a qualifying epithet could ~]"
+    },
+    {
+        "id": 122,
+        "passageBottom": "I <i>thought</i> that if you _______ the exact term a qualifying epithet <i>could be dispensed</i> with.",
+        "question": "지문에서 빈칸에 들어갈 단어는?",
+        "options": [
+            "can find",
+            "could find",
+            "will find",
+            "find"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제9강 3번 핵심 개념] 주절이 과거일 때 종속절의 can은 could로 일치\n\n\"정확한 용어를 찾을 수만 있다면, (그 단어를 수식하는) 한정적 수식어는 없어도 될 것이라고 나는 생각했다.\"\n\n글을 쓸 때 ‘정확하고 딱 맞는 단어’ 하나만 잘 골라 쓰면, 굳이 그 앞뒤로 구구절절하게 ‘수식어(형용사/부사 등)’를 덧붙여 설명할 필요가 없다는 의미입니다.\n\n* the exact term: 정확한 용어 (정확한 단어)\n* a qualifying epithet: 한정적 수식어 (의미를 한정하거나 묘사하기 위해 붙이는 형용사나 수식구)\n* could be dispensed with: 없어도 될 것이다 (생략될 수 있을 것이다)\n* dispense with는 '~없이 지내다', '~을 없애다(필요 없게 만들다)'라는 뜻의 중요 숙어입니다.\n\n------------------------------\n## ① 시제 일치 (Tense Agreement)\n\n* 주절의 동사가 과거 시제 thought이므로, 뒤따르는 종속절(if절과 that절)의 동사들도 모두 과거형인 could find와 could be로 시제가 일치되었습니다.\n\n## ② if 조건절 내의 조동사 (could)\n\n* 가정법 과거라기보다는 과거 시점에서의 능력이나 가능성(~할 수 있다면)을 나타내는 표현입니다. \"그 당시에 만약 정확한 단어를 찾을 수만 있다면\"이라는 의미를 담고 있습니다.\n\n## ③ 구동사의 수동태 (could be dispensed with)\n\n* dispense with는 두 단어가 합쳐져 하나의 타동사 역할을 하는 구동사(Phrasal Verb)입니다.\n* 이 구동사가 수동태가 될 때도 with를 빠뜨리지 않고 그대로 유지해야 합니다.\n* 구조: A qualifying epithet (주어) + could be dispensed with (수동태 동사구). 여기서 with 뒤에 목적어가 비어 있는 것이 정상적인 수동태 구조입니다.\n\n## ④ 명사절 접속사 that의 생략\n\n* I thought 뒤에는 명사절을 이끄는 접속사 that이 생략되어 있습니다.\n* 구조: I thought + [(that) if you could ~, a qualifying epithet could ~]"
+    },
+    {
+        "id": 123,
+        "passageBottom": "I <i>thought</i> that if you <i>could find</i> the exact term a qualifying epithet _______ with.",
+        "question": "지문에서 빈칸에 들어갈 단어는?",
+        "options": [
+            "can be dispensed",
+            "could be dispensed",
+            "is dispensed",
+            "dispensed"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제9강 4번 핵심 개념] 시제 일치 원칙에 따른 조동사 과거형\n\n\"정확한 용어를 찾을 수만 있다면, (그 단어를 수식하는) 한정적 수식어는 없어도 될 것이라고 나는 생각했다.\"\n\n글을 쓸 때 ‘정확하고 딱 맞는 단어’ 하나만 잘 골라 쓰면, 굳이 그 앞뒤로 구구절절하게 ‘수식어(형용사/부사 등)’를 덧붙여 설명할 필요가 없다는 의미입니다.\n\n* the exact term: 정확한 용어 (정확한 단어)\n* a qualifying epithet: 한정적 수식어 (의미를 한정하거나 묘사하기 위해 붙이는 형용사나 수식구)\n* could be dispensed with: 없어도 될 것이다 (생략될 수 있을 것이다)\n* dispense with는 '~없이 지내다', '~을 없애다(필요 없게 만들다)'라는 뜻의 중요 숙어입니다.\n\n------------------------------\n## ① 시제 일치 (Tense Agreement)\n\n* 주절의 동사가 과거 시제 thought이므로, 뒤따르는 종속절(if절과 that절)의 동사들도 모두 과거형인 could find와 could be로 시제가 일치되었습니다.\n\n## ② if 조건절 내의 조동사 (could)\n\n* 가정법 과거라기보다는 과거 시점에서의 능력이나 가능성(~할 수 있다면)을 나타내는 표현입니다. \"그 당시에 만약 정확한 단어를 찾을 수만 있다면\"이라는 의미를 담고 있습니다.\n\n## ③ 구동사의 수동태 (could be dispensed with)\n\n* dispense with는 두 단어가 합쳐져 하나의 타동사 역할을 하는 구동사(Phrasal Verb)입니다.\n* 이 구동사가 수동태가 될 때도 with를 빠뜨리지 않고 그대로 유지해야 합니다.\n* 구조: A qualifying epithet (주어) + could be dispensed with (수동태 동사구). 여기서 with 뒤에 목적어가 비어 있는 것이 정상적인 수동태 구조입니다.\n\n## ④ 명사절 접속사 that의 생략\n\n* I thought 뒤에는 명사절을 이끄는 접속사 that이 생략되어 있습니다.\n* 구조: I thought + [(that) if you could ~, a qualifying epithet could ~]"
+    },
+    {
+        "id": 124,
+        "passageBottom": "When Henry Arthur Jones, then a well-known playwright, read my first novel, he told a friend that in due course I _______ one of the most successful dramatists of the day.",
+        "question": "지문의 빈칸에 들어갈 단어는?",
+        "options": [
+            "shall be",
+            "should be",
+            "will be",
+            "am"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제9강 5번 핵심 개념] 간접화법에서 전달동사 시점에 맞춘 조동사 변화\n\n\"당시 유명한 극작가였던 헨리 아서 존스가 내 첫 번째 소설을 읽었을 때, 그는 머지않아 내가 당대 가장 성공한 극작가 중 한 명이 될 것이라고 한 친구에게 말했다.\"\n\n* then a well-known playwright: 당시 유명한 극작가였던 (then은 과거의 특정 시점을 뜻하는 부사로 명사구를 수식합니다.)\n* in due course: 머지않아, 때가 되면, 적당한 때에\n* of the day: 당대의, 그 시대의 (of the day는 그 당시에 가장 유명하거나 뛰어난 것을 수식할 때 쓰는 표현입니다.)\n\n## ① 동격 관계를 나타내는 삽입구\n\n* When Henry Arthur Jones, **then a well-known playwright**, read ~\n* 주어인 Henry Arthur Jones와 바로 뒤 콤마(,) 사이에 있는 then a well-known playwright는 동격(Apposition) 관계입니다. 주어가 누구인지 보충 설명하기 위해 중간에 삽입된 구조입니다.\n\n## ② 간접화법과 시제 일치 (Tense Agreement)\n\n* he told a friend <b>that</b>~ 구조에서 that은 명사절 접속사로, 그가 친구에게 했던 말의 내용을 이끄는 간접화법(Indirect Speech) 문장입니다.\n* 주절의 동사가 과거형인 told이므로, that절 내부의 시제도 과거 형태인 should be로 일치시켰습니다.\n\n## ③ 1인칭 주어와 결합한 조동사 should의 특별한 용법\n\n* I should be에서 should는 의무(~해야 한다)의 뜻이 아니라, 과거 시점에서 바라본 미래의 추측이나 예정(~일 것이다, ~가 될 것이다)을 나타냅니다.\n* 문법적 배경: 전통적인 영국 영어 화법 전환 규칙에 따르면, 평서문의 미래를 나타낼 때 1인칭 주어(I, We)는 shall을 쓰고 2, 3인칭 주어는 will을 썼습니다.\n* 이 문장은 과거의 일화이므로 원래 직접화법에서 *\"He will be ~\"*라고 했던 제3자의 말이, 간접화법으로 바뀌면서 주어가 I로 전환되었고, 그에 맞춰 과거형 조동사도 would 대신 1인칭과 호응하는 should로 바뀐 것입니다. (현대 영어에서는 주어와 상관없이 would를 쓰는 경우가 많지만, 서머싯 몸이 활동하던 시대의 격식체 영국 영어의 특징이 고스란히 반영된 부분입니다.)\n\n## ④ 복수 명사를 취하는 'one of the + 최상급' 구조\n\n* one of <b>the most successful dramatists</b>\n* '가장 ~한 사람들 중 한 명'이라는 뜻이므로, one of 뒤에는 반드시 최상급 형용사와 복수 명사(dramatists)가 와야 합니다. dramatist 뒤에 -s가 빠지지 않도록 유의해야 하는 전형적인 수능/공인영어 단골 문법입니다."
+    },
+    {
+        "id": 125,
+        "question": "'I said to myself'에서 전달동사의 시제는?",
+        "options": [
+            "현재",
+            "과거",
+            "미래",
+            "현재완료"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제9강 6번 핵심 개념] 전달동사(Reporting Verb)의 시제\n\n'I said to myself'에서 전달동사인 said의 시제는 과거 시제입니다. (say - said - said)\n\n* 이 표현이 들어간 전체 문장은 과거의 어느 시점에 자신이 했던 생각이나 혼잣말을 회상하며 전달하는 구조가 됩니다."
+    },
+    {
+        "id": 126,
+        "question": "콜론(:) 뒤의 'follow your inclinations'는 어떤 화법인가?",
+        "options": [
+            "직접화법",
+            "간접화법",
+            "자유간접화법",
+            "묘사적 화법"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제9강 7번 핵심 개념] 직접화법(Direct Narration)\n\n화자가 한 말을 그대로 인용한 형태\n\n에세이나 소설 같은 문학 작품에서는 큰따옴표(\" \")를 쓰지 않더라도, 콜론(:)을 사용해 과거 시점에 자신이 했던 생각이나 말을 당시 형태 그대로 생생하게 인용하는 직접화법 구조를 빈번하게 사용합니다.\n\n* 동사 원형으로 시작하는 명령문: 과거 시점의 이야기임에도 불구하고 동사 원형(follow)으로 시작하여 당시의 어조를 그대로 살렸습니다.\n* 2인칭 소유격(your) 사용: 간접화법이라면 주체에 맞춰 my inclinations로 바뀌었겠지만, 자신에게 직접 명령조로 속삭였던 형태를 유지하고 있기 때문에 your가 그대로 쓰였습니다."
+    },
+    {
+        "id": 127,
+        "question": "'thought'(과거) 때문에 'can find'가 'could find'가 된 원칙은?",
+        "options": [
+            "시제 일치 (Backshift)",
+            "수의 일치",
+            "성의 일치",
+            "화법 전환"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제9강 8번 핵심 개념] 영어의 Backshift Rule (시제 후퇴 법칙)\n\n주절의 동사가 과거 시제(thought)일 때 종속절의 동사(can)도 과거 형태(could)로 따라 바꾸어 주는 영문법의 원칙을 '시제 일치의 원칙(Rule of Tense Agreement)'이라고 합니다.\n\n## 1. 시제 일치의 원칙이란?\n영어에서는 기준이 되는 주절의 동사가 과거 시제로 바뀌면, 그 뒤에 대동사나 종속절(that절, if절 등)에 쓰이는 조동사나 동사도 과거 시점으로 시간대를 맞춰주어야 합니다.\n\n* 현재 시점의 생각: I think that you can find... (생각하는 것도 지금이고, 찾는 것도 현재/미래의 일)\n* 과거 시점의 회상: I thought that if you could find... (생각했던 기준 시점이 과거이므로, '찾을 수 있다'는 가능성의 조동사도 과거형인 could로 일치)\n\n## 2. 왜 이렇게 쓸까요?\n말하는 사람(수필가 서머싯 몸)이 \"그 당시에 내가 했던 생각\"을 회고하고 있기 때문입니다. 과거의 그 순간을 기준으로 두고 이야기하기 때문에 문장 전체의 시간적 배경을 과거로 통일하는 것입니다."
+    },
+    {
+        "id": 128,
+        "passageBottom": "When Henry Arthur Jones, then a well-known playwright, read my first novel, he told a friend that in due course I <i>should be</i> one of the most successful dramatists of the day.",
+        "question": "'Jones told a friend that...'에서 Jones가 실제로 한 말의 시제는?",
+        "options": [
+            "shall/will be",
+            "should be",
+            "is",
+            "was"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제9강 9번 핵심 개념] 원래 직접화법 문장은 미래 시제였음\n\n헨리 아서 존스(Jones)가 당시에 친구에게 실제로 했던 말(직접화법)의 시제는 현재(미래) 시제입니다.\n\n존스가 실제로 한 말: \"In due course Maugham shall[will] be one of the most successful dramatists of the day.\" (머지않아 몸은 당대 가장 성공한 극작가 중 한 명이 될 것이다.)\n\n이것이 과거 시제인 told를 거쳐 간접화법 문장(Jones told a friend that...)으로 바뀌면서, 시제 일치의 원칙에 따라 조동사가 과거형인 should(또는 would)로 변한 것입니다. 즉, 존스가 말했던 '실제 시점'을 기준으로 보면 앞으로 일어날 일을 나타내는 미래(shall/will)를 사용해 말했습니다."
+    },
+    {
+        "id": 129,
+        "question": "'should be'에서 'should'의 원형 조동사는 원래 무엇이었을 가능성이 높은가?",
+        "options": [
+            "shall",
+            "must",
+            "may",
+            "can"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제9강 10번 핵심 개념] 1인칭 주어 I와 결합하여 미래를 나타냈던 shall\n\n'should be'에서 'should'의 원형 조동사는 원래 shall이었을 가능성이 가장 높습니다. 서머싯 몸이 활동하던 20세기 초반의 격식체 영국 영어(Formal British English)에서는 화법을 전환할 때 매우 엄격한 규칙을 따랐기 때문입니다. 그 원리는 다음과 같습니다.\n\n## 1. 인칭에 따른 shall의 사용\n전통적인 문법에서 미래를 예측할 때, 3인칭 주어(He)는 will을 쓰고 1인칭 주어(I)는 shall을 썼습니다.\n\n* 존스가 실제로 한 말 (3인칭 주어): \"He will be...\" (그는 성공할 것이다.)\n* 존스가 말한 내용을 내가 간접화법으로 전달할 때 (1인칭 주어): \"He told a friend that I...\"\n\n존스가 한 말 속의 'He'가 문장 안에서는 주주체인 나의 입장인 I로 바뀌게 됩니다. 주어가 1인칭 단수(I)로 전환되었기 때문에, 미래를 나타내는 조동사 역시 will 계열이 아닌 1인칭과 짝을 이루는 shall이 원형으로 선택된 것입니다.\n\n## 2. 시제 일치에 따른 변형\n그렇게 선택된 원형 조동사 shall이 주절의 과거 동사(told)를 만나 시제 일치의 원칙을 적용받으면서 과거형인 should로 최종 변형된 것입니다. 따라서 현대 영어 관점에서는 would가 더 자연스러워 보일 수 있지만, 작가가 글을 쓰던 시대의 문법적 전통을 고려하면 원래 생각 구조 속의 조동사는 shall이었을 가능성이 확연히 높습니다."
+    },
+    {
+        "id": 130,
+        "passageBottom": "The free man had no reason to follow the rules of conduct except in so far as <u>they</u> suited his convenience.",
+        "question": "지문에서 'they'가 가리키는 것은?",
+        "options": [
+            "rules of conduct",
+            "free man",
+            "inclinations",
+            "reasons"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제9강 11번 핵심 개념] rules of conduct (복수 명사)\n\n\"자유인은 행위 규범(도덕적/사회적 규칙)이 자신의 편의에 부합하는 경우를 제외하고는, 그것을 따라야 할 아무런 이유가 없었다.\"\n\n* 매끄러운 의역: \"자유인은 그저 자신의 편의에 맞을 때만 행위 규범을 따랐을 뿐, 그 외에는 규칙을 지켜야 할 이유가 전혀 없었다.\"\n\n* The free man: 자유인 (노예나 신분적 제약, 혹은 법적 구속력에 얽매이지 않은 사람)\n* had no reason to follow: 따를 이유가 전혀 없었다\n* the rules of conduct: 행위 규범 (사회의 도덕, 예의, 규칙 등)\n* except in so far as: ~하는 한은 제외하고 / 오직 ~하는 범위 내에서만\n* in so far as는 '~하는 한', '~하는 범위 내에서'라는 뜻의 결합 전치사구입니다. 앞에 except가 붙어 \"오직 ~할 때를 제외하고는 (안 했다)\"라는 강력한 조건이 됩니다.\n* they suited his convenience: 그것들이 그의 편의에 맞다 (앞서 질문하신 구절입니다.)\n* 여기서 <b>they</b>는 바로 앞에 나온 복수 명사인 <b>the rules of conduct (행위 규범들)</b>을 가리킵니다.\n\n------------------------------\n이 문장은 사회 계약설이나 인류의 초기 상태를 설명할 때 자주 쓰입니다. 법이나 제도가 정착하기 전의 '자유로운 인간'은 규칙 그 자체를 존중해서 지킨 것이 아니라, \"이 규칙을 따르는 것이 지금 당장 나한테 편리하고 이득이 될 때만\" 선택적으로 지켰다는 인간의 이기적이거나 실용적인 면모를 나타내고 있습니다."
+    },
+    {
+        "id": 131,
+        "passageBottom": "I <u>wanted</u> to write without any frills of language. I wanted merely to set down the facts. I began with the impossible aim of using no adjectives at all. I <i>thought</i> that if you <i>could find</i> the exact term a qualifying epithet <i>could be dispensed</i> with.",
+        "question": "'I wanted to write'에서 'wanted'와 시제가 일치된 동사는?",
+        "options": [
+            "find",
+            "could",
+            "find",
+            "thought"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제9강 12번 핵심 개념] wanted → thought → could로 이어지는 시제 일치\n\n이 문단은 한 문장 안에서의 시제 일치뿐만 아니라, 문단 전체의 서사적 흐름이 과거 시점으로 통일되는 거대한 시제 일치를 보여주고 있습니다.\n\n## 💡 wanted ➔ thought ➔ could로 이어지는 시제 사슬\n\n   1. 전체 글의 기준점 (wanted / began)\n   * 작가는 과거에 글을 쓰기 시작했던 시절을 회상하고 있습니다.\n   * \"나는 화려한 수식 없이 글을 쓰기를 원했고(wanted), 사실만을 적기를 원했다(wanted). 그래서 불가능한 목표를 가지고 시작했다(began).\" -> 전체 이야기가 과거 시간대에 고정됩니다.\n   2. 그 당시에 했던 생각 (thought)\n   * 과거의 그 시절에 작가가 품었던 생각 역시 과거 시제인 thought로 이어집니다.\n   3. 생각의 내용 속 조동사 일치 (could)\n   * \"그 당시에(thought), 만약 정확한 용어를 찾을 수만 있다면(could find), 한정적 수식어는 없어도 될 것(could be dispensed with)이라고 생각했다.\"\n   * thought라는 과거의 생각 주머니 속에 들어있는 내용이므로, 현재형인 can이 올 수 없고 반드시 과거형 조동사인 could로 최종 일치되어야 합니다.\n   \n따라서 문제에서 \"wanted와 시제가 일치된 동사\"를 물었을 때, 문단 전체의 과거 시점 흐름을 이어받아 thought를 거쳐 최종적으로 형태가 변한 could가 완벽한 정답이 됩니다."
+    },
+    {
+        "id": 132,
+        "passageBottom": "When Henry Arthur Jones, then a well-known playwright, read my first novel, he told a friend that in due course I <i>should be</i> one of the most successful dramatists of <u>the day</u>.",
+        "question": "'the day'는 간접화법에서 무엇을 지칭하는가?",
+        "options": [
+            "오늘",
+            "당시 (at that time)",
+            "날짜",
+            "낮 시간"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제9강 13번 핵심 개념] 당시(the day)라는 간접화법적 시간 표현\n\n## 1. 어휘적 의미: '당대(當代)'\n영어에서 'of the day'는 하나의 고정된 표현(idiom)으로, 특정한 날(하루)을 뜻하는 것이 아니라 \"그 당시에 가장 유명하거나 잘나가던 시절\"을 뜻합니다.\n\n* 해석: one of the most successful dramatists of the day ➔ 당대 가장 성공한 극작가 중 한 명\n\n## 2. 화법 전환의 관점: 'today'의 변형\n만약 헨리 아서 존스가 친구에게 직접 말했던 문장(직접화법)으로 되돌린다면, 그는 아마 'today(오늘날, 요즘)'라는 단어를 썼을 것입니다.\n\n* 존스의 실제 말(직접화법): \"...one of the most successful dramatists of today.\" (내가 보기에 저 친구는 요즘 시대에 가장 성공한 극작가가 될 거야.)\n\n직접화법의 today(오늘날/현재)는 기준 시점이 과거로 이동하는 간접화법 문장이 되면 시공간의 일치를 위해 that day 또는 the day(그 당시/그 시대)로 바뀌게 됩니다. 결론적으로 여기서 'the day'는 서머싯 몸과 헨리 아서 존스가 함께 살아갔던 '그들의 시대(the time)'를 가리킵니다."
+    },
+    {
+        "id": 133,
+        "passageBottom": "When Henry Arthur Jones, then a well-known playwright, read my first novel, he told a friend that in due course I <i>should be</i> one of the most successful dramatists of the day. I suppose he saw in <u>it</u> directness and an effective way of presenting a scene that suggested a sense of the theatre.",
+        "question": "'I suppose he saw in it'에서 'it'이 가리키는 것은?",
+        "options": [
+            "first novel",
+            "playwright",
+            "Jones",
+            "theatre"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제9강 14번 핵심 개념] 앞에서 언급한 소설(first novel)\n\n\"당시 유명한 극작가였던 헨리 아서 존스가 내 첫 번째 소설을 읽었을 때, 그는 머지않아 내가 당대 가장 성공한 극작가 중 한 명이 될 것이라고 한 친구에게 말했다. 나는 그가 내 소설 속에서, 무대 예술(연극)에 대한 감각을 보여주는 직설성과 효과적인 장면 연출 방식을 발견했기 때문일 것이라 추측한다.\"\n\n* read my first novel ➔ saw in it: 존스가 서머싯 몸의 **첫 번째 소설(my first novel)**을 읽고, 그것(it) 안에서 극작가로서의 잠재력을 보았다는 인과관계로 매끄럽게 연결됩니다."
+    },
+    {
+        "id": 134,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'follow your inclinations'의 문장 종류는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "명령문",
+            "평서문",
+            "의문문",
+            "감탄문"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제9강 15번 핵심 개념]\n주어 없이 동사원형으로 시작하는 명령문"
+    },
+    {
+        "id": 135,
+        "question": "I was earning barely enough money to keep _______.",
+        "options": [
+            "the body and the soul together",
+            "body and soul together",
+            "a body and a soul together",
+            "bodies and souls"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제10강 1번 핵심 개념] 관사, 명사, 대명사 (Article, Noun, Pronoun)\n\n관용적인 대구 표현에서 관사 생략\n\n\"나는 겨우 입에 풀칠을 하며 살아갈 수 있을 정도의 돈을 벌고 있었다.\"\n\n* I was earning: 나는 (돈을) 벌고 있었다\n* barely enough money: 겨우 간당간당할 정도의 돈 (충분하긴 하지만 아주 아슬아슬하게 최소한의 양만)\n* to keep body and soul together: 육체와 영혼을 함께 유지할 수 있을 정도의 (생계를 간신히 이어가다)\n\n<u>keep body and soul together는 아주 오래된 영어의 관용 표현(Idiom)입니다.</u> 직역하면 '몸과 영혼이 떨어지지 않게 붙잡아 두다'라는 뜻입니다.\n\n* 사람이 굶어 죽으면 육체에서 영혼이 떠나간다고 생각했던 옛 개념에서 유래하여, \"굶어 죽지 않고 간신히 생명을 유지하다\", \"최소한의 생계를 이어가다\"라는 뜻으로 쓰입니다. 한국어의 \"입에 풀칠하다\", \"하루 벌어 하루 먹고살다\"와 완벽하게 일맥상통하는 아주 맛깔스러운 표현입니다.\n\n------------------------------\n원래 a body, the soul처럼 관사가 붙어야 하지만, 짝을 이루어 대구로 쓰이면서 관사가 모두 사라졌습니다.\n\n## 1. 관사가 생략되는 이유\n\n* 하나의 고정된 개념화: 두 명사가 합쳐져 각각의 개별적인 사물이 아니라 '하나의 추상적인 세트 개념'이나 '행위/상태'를 나타내기 때문입니다.\n* 언어의 경제성과 리듬감: 대구 표현은 대칭 구조를 이룰 때 말하기 쉽고 리듬감이 살아납니다. 중간에 관사가 들어가면 리듬이 깨지므로 생략하는 경향이 강합니다.\n\n① 신체 및 영적 개념 (인간의 구성 요소)\n* body and soul (육체와 영혼 -> 온 몸과 마음)\n* hand in hand (손에 손을 잡고)\n* arm in arm (팔짱을 끼고)\n* face to face (얼굴을 맞대고 -> 대면하여)\n* heart to heart (마음을 터놓고)\n\n② 시간 및 공간 (자연의 대조)\n* day and night (낮과 밤 -> 주야장천)\n* sun and moon (해와 달)\n* from morning till night (아침부터 밤까지)\n* from beginning to end (처음부터 끝까지)\n* heaven and earth (하늘과 땅)\n\n③ 인간관계 및 사회적 대구\n* husband and wife (남편과 아내 -> 부부)\n* mother and child (어머니와 아이)\n* master and servant (주인과 하인)\n* friend and foe (친구와 원수 -> 아군과 적군)\n\n④ 대조 및 방향\n* pro and con (찬성과 반대)\n* right and left (좌우)\n* north and south (남북)"
+    },
+    {
+        "id": 136,
+        "question": "She had read _______ and had written to me about it.",
+        "options": [
+            "my book",
+            "a book of mine",
+            "mine book",
+            "a book of me"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제10강 2번 핵심 개념] a + 명사 + of + 소유대명사 (이중 소유격)\n\n\"그녀는 내 책 중 한 권을 읽었고, 그것에 대해 나에게 편지를 보냈다.\"\n\n* She had read a book of mine: 그녀는 내 책 중 한 권을 읽었었다\n* a book of mine은 이중소유격 표현으로, '내 책 한 권'을 의미합니다.\n* and had written to me: 그리고 나에게 편지를 보냈다 (글을 써 보냈다)\n* about it: 그것에 대해\n* *여기서 it은 앞서 언급된 *a book of mine (내 책)**을 가리킵니다.\n\n## 과거완료 시제 (had p.p.)\n이 문장에서 had read와 had written은 모두 과거완료(Past Perfect) 시제입니다.\n문단 전체의 기준 시점이 과거(예: 그녀를 실제로 만났던 시점)일 때, 그보다 더 이전에 일어났던 일(대과거)을 설명하기 위해 과거완료 시제를 썼습니다.\n즉, \"과거의 어느 시점에 우리가 알게 되었는데, 그전에 이미 그녀가 내 책을 읽었고, 그 뒤에 나에게 편지까지 보낸 상태였다\"라는 시간의 전후 관계를 명확하게 보여주는 구조입니다."
+    },
+    {
+        "id": 137,
+        "question": "One of _______ first things you are told is that...",
+        "options": [
+            "a",
+            "an",
+            "the",
+            "(생략)"
+        ],
+        "answer": 2,
+        "explanation": "💡 [제10강 3번 핵심 개념] 서수(first) 앞에는 정관사 the 사용\n\n\"당신이 듣게 되는(배우게 되는) 가장 첫 번째 일 중 하나는 ~라는 점이다.\"\n\n* 매끄러운 의역: \"어떤 분야에 입문할 때 가장 먼저 귀에 못이 박히도록 듣는 말은 바로 ~이다\" 또는 \"가장 먼저 배우는 기본 수칙 중 하나는 ~이다.\"\n\n* One of the first things: 가장 첫 번째 일(것)들 중 하나\n* one of 뒤에는 항상 복수 명사(things)가 와야 합니다.\n* (that) you are told: 당신이 듣게 되는\n* things와 you 사이에는 관계대명사가 생략되어 있습니다.\n  - tell이 '말하다'이므로, 수동태인 be told는 '듣다'라고 해석하는 것이 핵심 포인트입니다.\n* is that ~: ~라는 사실이다 (that 뒤에는 구체적으로 듣게 되는 내용인 '완전한 문장'이 이어집니다.)\n\n------------------------------\n* One of the first things you are told is that you must practice every day.\n(당신이 가장 먼저 듣는 말 중 하나는 매일 연습해야 한다는 것이다.)\n* One of the first things you are told is that safety comes first.\n(가장 먼저 귀에 박히게 듣는 수칙 중 하나는 안전이 최우선이라는 점이다.)"
+    },
+    {
+        "id": 138,
+        "question": "Man's _______ is a wonderful thing:",
+        "options": [
+            "Young",
+            "Youth",
+            "Youths",
+            "Youngest"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제10강 4번 핵심 개념] '젊음'이라는 추상적인 개념을 나타내는 명사\n\n\"인간의 젊음(청춘)이란 참으로 경이로운 것입니다.\"\n\n* Man's Youth: 인간의 젊음 / 청춘\n  - 여기서 Man은 남성만을 뜻하는 것이 아니라, 인류 전체나 '인간'을 통칭하는 표현입니다.\n* is a wonderful thing: 경이로운 것이다 / 정말 멋진 일이다\n\n------------------------------\nYouths가 아닌 Youth가 쓰인 이유는 명사 youth의 의미에 따른 가산성(셀 수 있는지 여부)의 차이 때문입니다. \n\n## 1. 추상적인 '젊음/청춘(시기)'을 뜻할 때 ➔ 불가산 명사 (Youth)\n이 문장에서 토마스 울프(Thomas Wolfe) 작가가 말하고자 한 것은 구체적인 사람 무리가 아니라, 인간 생애 주기에서 '젊은 시절'이라는 추상적인 개념입니다.\n\n* 특징: 눈에 보이지 않는 시기나 상태를 나타내므로 셀 수 없는 명사(불가산 명사) 취급을 합니다.\n* 형태: 셀 수 없기 때문에 복수형 어미인 -s를 붙여 Youths로 쓸 수 없으며, 단수 동사(is)와 호응합니다.\n* 해석: 인간의 젊음(청춘)은 경이로운 것이다.\n\n## 2. 구체적인 '젊은이(사람)'를 뜻할 때 ➔ 가산 명사 (Youths)\n만약 youth가 '젊은이', '청소년'이라는 사람을 뜻할 때는 셀 수 있는 명사가 됩니다.\n\n* 특징: 셀 수 있는 명사이므로 한 명일 때는 a youth, 여러 명일 때는 복수형인 youths가 됩니다.\n* 예문: Many youths attended the festival. (많은 젊은이들이 축제에 참여했다.)\n\n## 💡 요약하자면\n문장에서 youths를 써 버리면 \"인간의 젊은이들은 경이로운 물건이다\"라는 어색하고 기괴한 해석이 됩니다. 작가는 사람이 아닌 찬란한 '젊음의 시기'라는 가치를 예찬하고 있으므로, 셀 수 없는 명사인 Youth를 쓰는 것이 문법적으로나 문맥적으로 완벽하게 맞습니다."
+    },
+    {
+        "id": 139,
+        "question": "_______ is the thing he cannot bear to lose, ...",
+        "options": [
+            "It",
+            "He",
+            "That",
+            "This"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제10강 5번 핵심 개념] 'Youth'를 다시 받는 대명사\n\n\"그것은 그가 차마 잃어버리는 것을 견딜 수 없어 하는 (가장 소중한) 것이다.\"\n\n* 자연스러운 의역: \"그것은 그가 도저히 잃을 수 없는 것이다.\" / \"그에게는 그것을 잃는다는 것이 가장 끔찍한 일이다.\"\n\n* It is the thing: 그것은 (~한) 것이다.\n* (which/that) he cannot bear to lose: 그가 잃는 것을 견딜 수 없는\n  - the thing과 he 사이에는 목적격 관계대명사가 생략되어 있습니다.\n  - cannot bear to-v: '~하는 것을 견딜 수 없다', '차마 ~하지 못하다'라는 뜻의 핵심 표현입니다.\n\n------------------------------\n이 문장은 보통 앞서 언급된 '인간의 젊음(Man's Youth)'이나 '가장 소중하게 여기는 가치'를 가리키는 대명사 It과 연결됩니다."
+    },
+    {
+        "id": 140,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'body and soul together'에서 관사가 생략된 이유는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "물질명사라서",
+            "관용적 대구 표현",
+            "추상명사라서",
+            "셀 수 없어서"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제10강 6번 핵심 개념]\nkeep body and soul together는 굳어진 표현"
+    },
+    {
+        "id": 141,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'a book of mine'과 같은 소유 표현의 명칭은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "이중 소유격",
+            "재귀 대명사",
+            "지시 대명사",
+            "동격"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제10강 7번 핵심 개념]\n소유의 의미를 중복해서 나타내는 구조"
+    },
+    {
+        "id": 142,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'the first things'에서 'the'가 사용된 이유는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "서수 앞",
+            "최상급 앞",
+            "유일한 것",
+            "이미 언급된 것"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제10강 8번 핵심 개념]\n순서를 나타내는 말 앞의 정관사"
+    },
+    {
+        "id": 143,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'Youth'의 명사적 성격은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "보통명사",
+            "추상명사",
+            "집합명사",
+            "고유명사"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제10강 9번 핵심 개념]\n형태가 없는 추상적인 가치를 나타냄"
+    },
+    {
+        "id": 144,
+        "passageBottom": "Man's <i>Youth</i> is a wonderful thing: it is so full of anguish and of magic and he never comes to know it as it is, until it has gone from him forever. <u>It</u> is the thing he cannot bear to lose, it is the thing whose passing he watches with infinite sorrow and regret, it is the thing whose loss he really welcomes with a sad and secret joy, the thing he would never willingly re-live again.",
+        "question": "지문에서 'It'이 가리키는 대상은?",
+        "options": [
+            "Man",
+            "Youth",
+            "anguish",
+            "magic"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제10강 10번 핵심 개념] 지문의 핵심 소재인 청춘(Youth)\n\n\"인간의 젊음(청춘)이란 참으로 경이로운 것입니다. 그것은 고뇌와 마법으로 가득 차 있어서, 인간은 청춘이 자신에게서 영원히 떠나가 버리기 전까지는 그것의 참모습을 절대 알지 못합니다. 청춘은 인간이 차마 잃어버리는 것을 견딜 수 없어 하는 대상이면서도, 무한한 슬픔과 후회 속에서 그 지나감을 바라보게 만드는 대상입니다. 또한 청춘은 그 상실을 서글프면서도 비밀스러운 기쁨으로 진심으로 환영하게 만드는 대상이자, 결코 스스로 원해서 다시 살고 싶지는 않은 그런 대상이기도 합니다.\"\n\n이 문단에서 <b>It은 대명사(Pronoun)로 사용</b>되었으며, 구체적으로는 앞 문장에 나온 'Man's Youth(인간의 젊음)'를 가리킵니다."
+    },
+    {
+        "id": 145,
+        "question": "'Latin quarter'는 어떤 명사인가?",
+        "options": [
+            "고유명사",
+            "보통명사",
+            "추상명사",
+            "물질명사"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제10강 11번 핵심 개념] 특정 지명을 나타내는 정형화된 이름\n\nLatin quarter(라틴 지구)는 문법적으로 '고유명사(Proper Noun)'에 해당하며, 특히 두 개 이상의 단어가 합쳐져 하나의 대상을 지정하므로 '복합 고유명사'로 분류됩니다."
+    },
+    {
+        "id": 146,
+        "passageBottom": "I answered, thanking her, and presently I received from her another letter saying that she was passing through Paris and would like to have a chat with me.",
+        "question": "'Presently'의 의미로 지문 맥락상 가장 적절한 것은?",
+        "options": [
+            "현재",
+            "곧/얼마 후",
+            "선물로",
+            "직접"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제10강 12번 핵심 개념] 시간이 조금 지난 후를 나타내는 부사\n\n\"나는 감사하다는 답장을 보냈고, 곧 얼마 지나지 않아 그녀에게서 또 한 통의 편지를 받았는데, 거기에는 그녀가 파리를 지나가는 길이며 나와 함께 이야기를 나누고 싶다는 내용이 적혀 있었다.\"\n\n문단에서 presently는 **\"곧\", \"얼마 지나지 않아\" (shortly / soon after)**라는 뜻을 가진 부사입니다.\n\n## 💡 문맥 속 의미 확인\n\n* 시간 흐름: 내가 (그녀의 편지에) 답장을 보냈고(I answered), 곧이어 / 얼마 지나지 않아(presently) 그녀로부터 또 다른 편지를 받았다(I received ~)는 의미입니다.\n\n## ⚠️ 주의해야 할 단어의 두 가지 얼굴\npresently는 문장의 시제에 따라 의미가 완전히 달라지므로 독해할 때 특히 조직적으로 주의해야 하는 단어입니다.\n\n   1. 과거 시제와 쓰일 때 (본문 예시): \"곧\", \"이내\", \"얼마 안 있어\"\n   * 예문: Presently, the door opened. (곧 문이 열렸다.)\n   2. 현재 시제와 쓰일 때: \"현재\", \"지금\" (currently / at present)\n   * 예문: He is presently working on a new book. (그는 현재 새 책을 집업 중이다.)\n   \n이 지문은 소설가 서머싯 몸의 대표적인 단편 소설 <b>《점심 (The Luncheon)》</b>의 도입부입니다. 과거의 무명 시절을 회상하고 있으므로 <b>\"곧이어(soon)\"</b>로 해석하는 것이 완벽합니다."
+    },
+    {
+        "id": 147,
+        "passageBottom": "Man's <i>Youth</i> is a wonderful thing: it is so full of anguish and of magic and he never comes to know it as it is, until <u>it</u> has gone from him forever. ",
+        "question": "'it has gone from him'에서 'it'은?",
+        "options": [
+            "Man",
+            "Youth",
+            "anguish",
+            "wonderful thing"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제10강 13번 핵심 개념] 청춘이 떠나갔음을 의미\n\n\"인간의 젊음(청춘)이란 참으로 경이로운 것입니다: 그것은 고뇌와 마법으로 가득 차 있어서, 인간은 청춘이 자신에게서 영원히 떠나가 버리기 전까지는 그것의 참모습을 결코 알지 못합니다.\"\n\n* it is so full of anguish and of magic: 그것은 고뇌와 마법으로 가득 차 있어서\n  - anguish(극심한 고통/고뇌)와 magic(마법)이라는 상반된 단어를 대칭으로 배치하여 청춘의 모순된 아름다움을 강조했습니다.\n* and he never comes to know it as it is,: 인간은 그것의 있는 그대로의 모습(참모습)을 결코 알지 못합니다,\n  - come to 동사원형은 \"~하게 되다\"라는 뜻이며, it as it is는 \"있는 그대로의 그것(청춘)\"을 의미합니다.\n* until it has gone from him forever: 그것이 자신에게서 영원히 떠나가 버리기 전까지는\n  - never ~ until... 구조는 직역하면 \"~하기 전까지는 절대 ~않다\"이지만, 한국어로는 \"...하고 나서야 비로소 ~하다\"로 바꾸어 이해하면 훨씬 자연스럽습니다. 즉, *'청춘이 영원히 떠나고 나서야 비로소 그 가치를 깨닫는다'*는 인간의 보편적인 회한을 담고 있습니다."
+    },
+    {
+        "id": 148,
+        "question": "'one of the first things'에서 'things'는 가산명사인가 불가산명사인가?",
+        "options": [
+            "가산명사",
+            "불가산명사",
+            "추상명사",
+            "고유명사"
+        ],
+        "answer": 0,
+        "explanation": "💡 [제10강 14번 핵심 개념] One of the + 복수명사 구조\n\n'one of the first things'에서 things는 무조건 가산명사(셀 수 있는 명사)입니다.\n\n## 💡 가산명사일 수밖에 없는 2가지 이유\n\n   1. 단어 형태의 변화 (-s)\n   * 불가산명사(셀 수 없는 명사)는 애초에 여러 개로 쪼갤 수 없기 때문에 복수형 꼬리표인 -s를 붙일 수 없습니다.\n   * 단어 뒤에 -s가 붙어 복수 형태(things)가 되었다는 것 자체가 이 단어가 셀 수 있는 가산명사라는 명백한 증거입니다.\n   2. 'One of the + 복수명사' 규칙\n   * 영어에서 one of ~는 \"여러 개들 중의(of) 하나(one)\"라는 뜻입니다.\n   * 상식적으로 선택지(전체 수량)가 최소 2개 이상인 '셀 수 있는 복수 상태'여야만 그중에서 '하나'를 골라낼 수 있습니다. 따라서 one of 뒤에는 무조건 가산명사의 복수형만 올 수 있습니다.   \n------------------------------\n## ⚠️ 'thing' 독해 팁\nthing은 문맥에 따라 '물건', '일', '사건', '사실', '것' 등 아주 다양하고 추상적인 뜻으로 해석되지만, 문법적 성질은 예외 없이 항상 셀 수 있는 가산명사로 취급됩니다."
+    },
+    {
+        "id": 149,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'fifteen hours a week'에서 'a'의 의미는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "하나",
+            "~당 (per)",
+            "어떤",
+            "같은"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제10강 15번 핵심 개념]\na week (일주일마다, 일주일당)"
+    },
+    {
+        "id": 150,
+        "question": "The news and opinions _______ are received from large news associations ...",
+        "options": [
+            "who",
+            "that",
+            "what",
+            "whom"
+        ],
+        "answer": 1,
+        "explanation": "💡 [제11강 1번 핵심 개념] 관계사 I (Relative Pronoun I)\n\n사물 선행사와 결합하는 관계대명사\n\n\"대형 통신사(거대 언론 협회)들로부터 받아보는 뉴스 공보와 여론들은...\"\n\n* The news and opinions: 뉴스 공보와 여론들은 (문장의 핵심 주어입니다.)\n* that are received: 받아보게 되는 / 수신되는 (주어를 꾸며주는 관계대명사절입니다.)\n* from large news associations: 대형 통신사들로부터\n  - * news association은 AP, 로이터, AFP 통신과 같이 전 세계나 전국으로 뉴스를 수집해 배포하는 **'거대 언론사/통신사 집단'*을 뜻합니다."
+    },
+    {
+        "id": 151,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "The newspapers in _______ they appear.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "that",
+            "which",
+            "who",
+            "where"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제11강 2번 핵심 개념]\n'그 신문 안에서'라는 의미로 in which"
+    },
+    {
+        "id": 152,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "Editorials of those _______ with them.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "who agree",
+            "who agrees",
+            "whom agree",
+            "which agree"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제11강 3번 핵심 개념]\n선행사 those(사람들)와 일치하는 주격 관계사"
+    },
+    {
+        "id": 153,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "None _______ he knew, _______ somewhat surprised him.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "who / which",
+            "whom / which",
+            "that / who",
+            "which / that"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제11강 4번 핵심 개념]\n목적격 whom과 앞 문장 전체를 받는 which"
+    },
+    {
+        "id": 154,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "That to _______ he was accustomed.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "which",
+            "whom",
+            "what",
+            "that"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제11강 5번 핵심 개념]\nbe accustomed to의 to 뒤에 오는 관계사"
+    },
+    {
+        "id": 155,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'that are received'에서 'that'의 선행사는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "large news associations",
+            "news and opinions",
+            "writers",
+            "towns"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제11강 6번 핵심 개념]\n문장의 주어인 'news and opinions'를 받음"
+    },
+    {
+        "id": 156,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'which they appear'에서 'which'의 격은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "주격",
+            "목적격",
+            "소유격",
+            "전치사의 목적격"
+        ],
+        "answer": 3,
+        "explanationImg": "",
+        "explanation": "💡 [제11강 7번 핵심 개념]\n전치사 in의 목적어 역할"
+    },
+    {
+        "id": 157,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'those who agree'에서 'those'의 의미는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "저것들",
+            "사람들",
+            "그것들",
+            "신문들"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제11강 8번 핵심 개념]\n'~하는 사람들' (those who)"
+    },
+    {
+        "id": 158,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "', which somewhat surprised him'에서 'which'의 용법은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "한정적 용법",
+            "계속적 용법",
+            "복합관계사",
+            "유사관계사"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제11강 9번 핵심 개념]\n콤마와 함께 쓰여 추가 설명을 제공"
+    },
+    {
+        "id": 159,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "지문 [2]의 'which'는 무엇을 선행사로 받는가?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "앞 문장 내용 전체",
+            "people",
+            "village",
+            "country round"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제11강 10번 핵심 개념]\n아는 사람이 아무도 없었다는 앞의 절 전체"
+    },
+    {
+        "id": 160,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'to which he was accustomed'에서 'to'의 위치는 원래 어디였는가?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "which 앞",
+            "accustomed 뒤",
+            "he 앞",
+            "fashion 뒤"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제11강 11번 핵심 개념]\n관계절 끝에 있던 전치사가 관계대명사 앞으로 이동"
+    },
+    {
+        "id": 161,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "지문 [3]의 'who had lived'에서 'who'는 누구를 가리키는가?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "hunters",
+            "boy",
+            "people",
+            "France"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제11강 12번 핵심 개념]\n프랑스 숲에서 발견된 소년"
+    },
+    {
+        "id": 162,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'language... which they supposed'에서 'which'의 선행사는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "language",
+            "state",
+            "man",
+            "original"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제11강 13번 핵심 개념]\n히브리어일 것이라고 추측된 대상인 언어"
+    },
+    {
+        "id": 163,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'creature who scratched'에서 'who'의 격은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "주격",
+            "목적격",
+            "소유격",
+            "전치사의 목적격"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제11강 14번 핵심 개념]\ncreature를 선행사로 하는 주격 관계사"
+    },
+    {
+        "id": 164,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'Dr. Pinel, who specialized...'에서 콤마(,)의 역할은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "계속적 용법",
+            "생략 가능 표시",
+            "동격",
+            "강조"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제11강 15번 핵심 개념]\n고유명사 뒤에서 신분을 추가로 설명"
+    },
+    {
+        "id": 165,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "관계사 II (Relative Pronoun II)\nIt has little to do _______ we call real life.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "with what",
+            "with that",
+            "which",
+            "in what"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제12강 1번 핵심 개념]\nwhat: 선행사를 포함하여 '~하는 것'"
+    },
+    {
+        "id": 166,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "_______ I am judging is an “I” like me.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "Whoever",
+            "Whatever",
+            "Whomever",
+            "Whichever"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제12강 2번 핵심 개념]\n'~하는 누구라도' 의미의 복합관계대명사"
+    },
+    {
+        "id": 167,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "We are always suspicious of _______ do not understand.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "things which",
+            "things we",
+            "things that we",
+            "B, C 모두 정답"
+        ],
+        "answer": 3,
+        "explanationImg": "",
+        "explanation": "💡 [제12강 3번 핵심 개념]\n목적격 관계대명사는 생략하거나 that/which 사용"
+    },
+    {
+        "id": 168,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'what we call real life'에서 'what'의 문법적 정의는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "선행사를 포함한 관계대명사",
+            "의문 대명사",
+            "지시 대명사",
+            "복합 관계대명사"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제12강 4번 핵심 개념]\nthe thing which의 의미"
+    },
+    {
+        "id": 169,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'Whoever I am judging'의 문장 내 역할은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "주어절",
+            "목적어절",
+            "부사절",
+            "보어절"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제12강 5번 핵심 개념]\n문장 전체의 주어 역할을 하는 명사절"
+    },
+    {
+        "id": 170,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'things we do not understand'에서 'things'와 'we' 사이의 생략된 것은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "목적격 관계대명사",
+            "주격 관계대명사",
+            "소유격 관계대명사",
+            "관계부사"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제12강 6번 핵심 개념]\n명사와 대명사 주어 사이 목적격 관계사 생략"
+    },
+    {
+        "id": 171,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'grown-ups... who ought to know better'에서 'who'의 선행사는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "grown-ups",
+            "young people",
+            "question",
+            "poetry"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제12강 7번 핵심 개념]\n후치 수식을 받는 성인들"
+    },
+    {
+        "id": 172,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'what we call' 구문의 관용적 해석은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "소위, 말하자면",
+            "무엇을 부르든",
+            "우리가 부르는 것",
+            "이름 없는"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제12강 8번 핵심 개념]\nwhat we call = so-called"
+    },
+    {
+        "id": 173,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'Whoever'를 'no matter who'로 바꿀 수 있는 경우는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "명사절일 때",
+            "양보의 부사절일 때",
+            "주어일 때",
+            "목적어일 때"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제12강 9번 핵심 개념]\n부사절로 쓰일 때만 양보의 의미로 전환 가능"
+    },
+    {
+        "id": 174,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'music is the freest' (지문 [1])에서 music은 어떤 선행사로 쓰였는가?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "선행사 없음",
+            "all arts의 일부분",
+            "real life",
+            "term"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제12강 10번 핵심 개념]\n모든 예술 중에서(범위 중 하나)"
+    },
+    {
+        "id": 175,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'One of these days I am going to die'에서 생략된 관계사는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "when",
+            "which",
+            "where",
+            "how"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제12강 11번 핵심 개념]\n시간의 선행사 days를 수식하는 관계부사 생략"
+    },
+    {
+        "id": 176,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'the point of them'에서 'them'이 가리키는 대상들은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "poetry, painting, music",
+            "grown-ups",
+            "young people",
+            "questions"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제12강 12번 핵심 개념]\n앞서 열거된 예술 장르들"
+    },
+    {
+        "id": 177,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'little to do with'에서 'little'의 의미는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "거의 없는 (부정)",
+            "조금 있는 (긍정)",
+            "작은",
+            "아주 많은"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제12강 13번 핵심 개념]\n'거의 없는' (부정적 수량)"
+    },
+    {
+        "id": 178,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'free of the weekday'에서 'free'의 의미는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "~이 없는/벗어난",
+            "공짜인",
+            "자유로운",
+            "한가한"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제12강 14번 핵심 개념]\n'~로부터 자유로운' (벗어난 상태)"
+    },
+    {
+        "id": 179,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'what is the use of poetry?'에서 'what'의 품사는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "의문 대명사",
+            "관계 대명사",
+            "지시 대명사",
+            "형용사"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제12강 15번 핵심 개념]\n질문을 만드는 의문사"
+    },
+    {
+        "id": 180,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "형용사와 부사 (Adjective & Adverb)\nBy _______ means he finds at his disposal.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "what",
+            "whatever",
+            "whichever",
+            "any"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제13강 1번 핵심 개념]\n어떤 수단이든지 간에 (복합관계형용사)"
+    },
+    {
+        "id": 181,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "There is _______ will power involved.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "many",
+            "a great deal of",
+            "a number of",
+            "few"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제13강 2번 핵심 개념]\n불가산 명사(will power)를 수식하는 수량구"
+    },
+    {
+        "id": 182,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "Mr. Bennet was _______ quick parts.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "so odd mixture of",
+            "so odd a mixture of",
+            "a so odd mixture",
+            "odd so a mixture"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제13강 3번 핵심 개념]\nso + adj + a + noun의 특수 어순"
+    },
+    {
+        "id": 183,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "The life of the Negro is still _______ crippled.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "sad",
+            "sadly",
+            "sadness",
+            "sadden"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제13강 4번 핵심 개념]\n분사 형용사(crippled)를 수식하는 부사"
+    },
+    {
+        "id": 184,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'whatever means'에서 'whatever'의 역할은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "복합관계형용사",
+            "복합관계대명사",
+            "복합관계부사",
+            "지시형용사"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제13강 5번 핵심 개념]\n명사 means를 직접 수식하는 역할"
+    },
+    {
+        "id": 185,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'a great deal of' 뒤에 오는 명사의 특징은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "불가산 명사",
+            "가산 복수 명사",
+            "고유 명사",
+            "대명사"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제13강 6번 핵심 개념]\n양(amount)을 나타내는 표현"
+    },
+    {
+        "id": 186,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'so + 형용사 + a + 명사' 어순을 취하는 다른 부사는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "such",
+            "as",
+            "very",
+            "quite"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제13강 7번 핵심 개념]\nas, too, how, so 등은 이 어순을 따름"
+    },
+    {
+        "id": 187,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'sadly'가 수식하는 문장 성분은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "crippled (분사/형용사)",
+            "life (명사)",
+            "still (부사)",
+            "Negro (명사)"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제13강 8번 핵심 개념]\n'슬프게 불구가 된'의 관계"
+    },
+    {
+        "id": 188,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'quick parts'에서 parts의 의미는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "부분들",
+            "부품들",
+            "재능/역량",
+            "지역들"
+        ],
+        "answer": 2,
+        "explanationImg": "",
+        "explanation": "💡 [제13강 9번 핵심 개념]\n지적 능력이나 재기발랄함을 뜻하는 복수형"
+    },
+    {
+        "id": 189,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'uncertain temper'에서 'uncertain'의 용법은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "한정적 용법",
+            "서술적 용법",
+            "부사적 용법",
+            "동격"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제13강 10번 핵심 개념]\n보통의, 평범한 수준의 이해력"
+    },
+    {
+        "id": 190,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'mean understanding'에서 'mean'의 의미는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "비열한/보통의",
+            "의미하다",
+            "수단",
+            "중간의"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제13강 11번 핵심 개념]\n명사 앞에서 성질을 제한적으로 설명"
+    },
+    {
+        "id": 191,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'lonely island'에서 'lonely'의 품사는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "형용사",
+            "부사",
+            "명사",
+            "동사"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제13강 12번 핵심 개념]\nly로 끝나지만 명사를 수식하는 형용사"
+    },
+    {
+        "id": 192,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'material prosperity'에서 'material'은 무엇을 수식하는가?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "prosperity",
+            "ocean",
+            "Negro",
+            "island"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제13강 13번 핵심 개념]\n번영(prosperity)의 질적 속성을 수식"
+    },
+    {
+        "id": 193,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'still'의 부사적 의미는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "아직도",
+            "훨씬",
+            "그럼에도 불구하고",
+            "정지한"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제13강 14번 핵심 개념]\n'여전히'라는 의미의 시간 부사"
+    },
+    {
+        "id": 194,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'at his disposal'의 의미는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "그의 마음대로 할 수 있는",
+            "그가 버린",
+            "그의 배치에 따른",
+            "그가 결정한"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제13강 15번 핵심 개념]\nat one's disposal: ~의 임의대로"
+    },
+    {
+        "id": 195,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "비교 (Comparison)\nPeople are _______ naturally reflective _______ they are naturally malicious.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "not / any more than",
+            "no / any more than",
+            "more / than",
+            "as / as"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제14강 1번 핵심 개념]\nnot A any more than B: A도 B도 아니다"
+    },
+    {
+        "id": 196,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "_______ that flame is covered up, _______ it burns.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "More / hot",
+            "The more / the hotter",
+            "Most / hottest",
+            "Much / hotter"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제14강 2번 핵심 개념]\nThe 비교급, the 비교급 구조"
+    },
+    {
+        "id": 197,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "It was at meal times that he was _______ intolerable.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "most",
+            "more",
+            "many",
+            "much"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제14강 3번 핵심 개념]\n부사적 성격의 최상급 (매우, 가장)"
+    },
+    {
+        "id": 198,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "For _______ an hour then he had us at his mercy.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "better part of",
+            "the better part of",
+            "best part of",
+            "the best part of"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제14강 4번 핵심 개념]\nthe better part of: 대부분의 (관용구)"
+    },
+    {
+        "id": 199,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'not A any more than B'의 정확한 해석은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "B가 아니듯 A도 아니다",
+            "B보다 A가 더하지 않다",
+            "B만큼 A하다",
+            "A보다는 B가 낫다"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제14강 5번 핵심 개념]\n양자 부정 비교 구문의 전형적 해석"
+    },
+    {
+        "id": 200,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'The more..., the hotter...' 구문의 문법적 명칭은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "비례 비교 (The 비교급)",
+            "최상급 강조",
+            "동등 비교",
+            "열등 비교"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제14강 6번 핵심 개념]\n정도의 비례 관계를 나타냄"
+    },
+    {
+        "id": 201,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'most intolerable'에서 'most'가 나타내는 급은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "최상급",
+            "비교급",
+            "원급",
+            "절대 비교"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제14강 7번 핵심 개념]\n'가장 참을 수 없는'"
+    },
+    {
+        "id": 202,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'the better part of'의 관용적 의미는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "~의 대부분/절반 이상",
+            "~의 더 좋은 부분",
+            "~보다 나은 시간",
+            "~의 최고 기록"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제14강 8번 핵심 개념]\n절반을 넘는 상당 부분"
+    },
+    {
+        "id": 203,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'houses so close together'에서 'so'는 무엇을 수식하는가?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "close",
+            "houses",
+            "together",
+            "wall"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제14강 9번 핵심 개념]\n형용사를 강조하는 부사 so"
+    },
+    {
+        "id": 204,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'better than anybody else'는 어떤 비교를 이용한 최상급 표현인가?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "비교급을 이용한 최상급",
+            "원급을 이용한 최상급",
+            "the + 최상급",
+            "부정어 주어 비교"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제14강 10번 핵심 개념]\n비교급을 사용해 최상의 의미 전달"
+    },
+    {
+        "id": 205,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'best-hated'에서 'best'의 기능은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "hated를 강조하는 최상급 부사",
+            "좋은",
+            "가장 잘",
+            "기꺼이"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제14강 11번 핵심 개념]\n미움을 가장 많이 받는다는 뜻의 부사 최상급"
+    },
+    {
+        "id": 206,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'overweening vanity'에서 overweening의 의미는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "자만심이 넘치는",
+            "부족한",
+            "슬픈",
+            "친절한"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제14강 12번 핵심 개념]\n과도하게 자신만만한 태도"
+    },
+    {
+        "id": 207,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'at his mercy'의 의미는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "그의 처분대로",
+            "그의 자비로",
+            "그를 용서하여",
+            "그와 함께"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제14강 13번 핵심 개념]\n'~의 자비에 달린/처분만 기다리는'"
+    },
+    {
+        "id": 208,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'loquacious and argumentative'는 무엇을 설명하는 형용사인가?",
+        "passageTop": "",
+        "passageBottom": "He was certainly the best-hated man in the ship. We called him Mr. Know-All, even to his face. He took it as a compliment. But it was at meal times that he was <u><b><i>most</u></b></i> intolerable. For <u><b><i>the better part of</u></b></i> an hour then he had us at his mercy. He was hearty, jovial, <u>loquacious and argumentative</u>. He knew everything better than anybody else, and it was an affront to his overweening vanity that you should disagree with him.",
+        "options": [
+            "Mr. Know-All의 성격",
+            "식사 시간의 분위기",
+            "작가의 감정",
+            "다른 승객들의 태도"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제14강 14번 핵심 개념]\n말이 많고 논쟁적인 성격을 묘사"
+    },
+    {
+        "id": 209,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'impossible'의 비교급/최상급 형태는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "more/most impossible",
+            "impossibler/impossiblest",
+            "불규칙 변화",
+            "변화 없음"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제14강 15번 핵심 개념]\n3음절 이상의 형용사는 more/most 활용"
+    },
+    {
+        "id": 210,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "접속사 (Conjunction)",
+        "passageTop": "",
+        "passageBottom": "Give Daddy something that would make him _______ he used to be.",
+        "options": [
+            "as",
+            "like",
+            "than",
+            "because"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제15강 1번 핵심 개념]\n접속사로 쓰인 like (구어체/미국식)"
+    },
+    {
+        "id": 211,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "_______ you are in college, pause long enough to ask yourself.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "Because",
+            "Now that",
+            "Although",
+            "While"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제15강 2번 핵심 개념]\n'이제 ~이니까'라는 원인 제공의 접속사"
+    },
+    {
+        "id": 212,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "_______ he was 30 he had acquired fame.",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "Since",
+            "By the time",
+            "As if",
+            "Even if"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [제15강 3번 핵심 개념]\nBy the time: ~할 때쯤이면 (시점의 한계)"
+    },
+    {
+        "id": 213,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'like he used to be'에서 'like'의 문법적 허용은?",
+        "passageTop": "",
+        "passageBottom": "Dear Santa Claus: This year you needn’t mind leaving me anything, but if you could give Daddy something that would make him <u>like he used to be</u>, make him smoke his pipe again and tell me stories, I do wish you would. I heard him say to Mommie once that only eternity could cure his sorrow. Could you bring him some of that, and I will be your good little girl.",
+        "options": [
+            "구어체에서 접속사 as 대용",
+            "전치사",
+            "동사",
+            "형용사"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제15강 4번 핵심 개념]\n표준 문어체에서는 as를 권장하나 실생활에서는 빈번함"
+    },
+    {
+        "id": 214,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'Now that'이 이끄는 절의 의미적 성격은?",
+        "passageTop": "",
+        "passageBottom": "<u>Now that</u> you are in college and going to classes, pause long enough to ask yourself why we are teaching and you are learning. In spite of what you may have heard from us or your high school teachers or your parents, the answer is not that we know the final answers to the problems we are discussing. We are teaching because we have studied carefully subjects in which you are a beginner.",
+        "options": [
+            "이유/원인",
+            "시간/동시성",
+            "조건",
+            "양보"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제15강 5번 핵심 개념]\n과거의 조건이 현재의 결론이 됨을 알림"
+    },
+    {
+        "id": 215,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'By the time' 구문에서 주절의 시제적 특징은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "주로 완료 시제와 결합",
+            "항상 현재 시제",
+            "항상 과거 시제",
+            "진행 시제"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제15강 6번 핵심 개념]\n과거 기준점까지의 일을 나타내는 과거완료 등"
+    },
+    {
+        "id": 216,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'In spite of'와 바꾸어 쓸 수 있는 접속사는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "Although",
+            "Because",
+            "If",
+            "When"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제15강 7번 핵심 개념]\n양보의 의미를 공유함"
+    },
+    {
+        "id": 217,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'Since by nature he had to feel'에서 'Since'의 의미는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "~ 때문에 (이유)",
+            "~이래로 (시간)",
+            "~하는 동안",
+            "비록 ~일지라도"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제15강 8번 핵심 개념]\n'~이기 때문에' (because/as와 동의어)"
+    },
+    {
+        "id": 218,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'sharing their hardships'에서 'sharing'은 어떤 접속사가 생략된 분사구문인가?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "and",
+            "but",
+            "if",
+            "though"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제15강 9번 핵심 개념]\n고난을 나누면서(부대 상황)"
+    },
+    {
+        "id": 219,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'if you could give'에서 'if'의 용법은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "조건의 부사절",
+            "명사절",
+            "양보절",
+            "가정법 과거의 조건절"
+        ],
+        "answer": 3,
+        "explanationImg": "",
+        "explanation": "💡 [제15강 10번 핵심 개념]\n실현 가능성이 낮은 현재를 가정한 조건절"
+    },
+    {
+        "id": 220,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'subjects in which you are a beginner'에서 'which'의 선행사는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "subjects",
+            "beginners",
+            "answer",
+            "parents"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제15강 11번 핵심 개념]\n'네가 초심자인 그 과목들'"
+    },
+    {
+        "id": 221,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'By the time he was 30'에서 by the time은 어떤 품사 역할을 하는가?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "접속사",
+            "전치사",
+            "부사",
+            "명사"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제15강 12번 핵심 개념]\n시간을 나타내는 종속접속사구"
+    },
+    {
+        "id": 222,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'acquired fame as scholar'에서 'as'의 역할은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "자격을 나타내는 전치사",
+            "접속사",
+            "부사",
+            "관계대명사 대용"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제15강 13번 핵심 개념]\n신분이나 자격을 나타내는 전치사"
+    },
+    {
+        "id": 223,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "지문 [2]의 'answer is not that...'에서 'that'은?",
+        "passageTop": "",
+        "passageBottom": "_______ you are in college and going to classes, pause long enough to ask yourself why we are teaching and you are learning. In spite of what you may have heard from us or your high school teachers or your parents, the answer is not <u>that</u> we know the final answers to the problems we are discussing. We are teaching because we have studied carefully subjects in which you are a beginner.",
+        "options": [
+            "명사절을 이끄는 접속사",
+            "관계대명사",
+            "지시대명사",
+            "지시형용사"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제15강 14번 핵심 개념]\n보어절을 이끄는 명사절 접속사"
+    },
+    {
+        "id": 224,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "'Perhaps'의 품사와 문장 내 기능은?",
+        "passageTop": "",
+        "passageBottom": "<u>Perhaps</u> the most striking living example of Christian compassion is Dr. Albert Schweitzer. _______ he was 30 he had acquired fame as scholar, musician and philosopher. Then one day he read an account of the Congo natives and their miserable plight. Since by nature he had to “feel with” them, he had also to take action for them. He abandoned fame and security to spend his life as a doctor among them, sharing their hardships and suffering.",
+        "options": [
+            "문장 전체를 수식하는 부사",
+            "명사를 수식하는 형용사",
+            "접속사",
+            "감탄사"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [제15강 15번 핵심 개념]\n문장 전체에 대한 추측의 뉘앙스를 더함"
+    },
+    {
+        "id": 225,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[핵심 퀴즈 세트] Passage의 문맥상 빈칸에 알맞은 동사의 형태는?",
+        "passageTop": "",
+        "passageBottom": "\"Breakfast normally _______ of eggs, some meat, toast, fruit or fruit juice, and coffee.\"",
+        "options": [
+            "consist",
+            "consists",
+            "is consisted",
+            "consisting"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [추가 퀴즈 Q1] 부록 연습문제입니다."
+    },
+    {
+        "id": 226,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[핵심 퀴즈 세트] Passage에서 Doctors가 권장하는 동작의 문법적 형태로 옳은 것은?",
+        "passageTop": "",
+        "passageBottom": "\"Doctors _______ people to have complete physical examinations regularly...",
+        "options": [
+            "encouraging",
+            "to encourage",
+            "encourage",
+            "encouraged"
+        ],
+        "answer": 2,
+        "explanationImg": "",
+        "explanation": "💡 [추가 퀴즈 Q2] 부록 연습문제입니다."
+    },
+    {
+        "id": 227,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[핵심 퀴즈 세트] Passage에서 과거에 사람들이 할 수 없었던 동작으로 강조된 단어는?",
+        "passageTop": "",
+        "passageBottom": "\"For thousands of years all writing was done by hand. Not many people could _______, and not many could _______ either.\"",
+        "options": [
+            "write / read",
+            "speak / listen",
+            "run / jump",
+            "see / hear"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [추가 퀴즈 Q3] 부록 연습문제입니다."
+    },
+    {
+        "id": 228,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[핵심 퀴즈 세트] Passage에서 과거 시점(saw)보다 더 이전에 일어난 상태를 나타내는 시제는?",
+        "passageTop": "",
+        "passageBottom": "\"...the silence for which I _______ hoping was not there.\"",
+        "options": [
+            "was",
+            "am",
+            "had been",
+            "would be"
+        ],
+        "answer": 2,
+        "explanationImg": "",
+        "explanation": "💡 [추가 퀴즈 Q4] 부록 연습문제입니다."
+    },
+    {
+        "id": 229,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[핵심 퀴즈 세트] Passage에서 음악이 불려온 상태를 나타내는 현재완료 수동태 표현은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "calls",
+            "called",
+            "has been called",
+            "is calling"
+        ],
+        "answer": 2,
+        "explanationImg": "",
+        "explanation": "💡 [추가 퀴즈 Q5] 부록 연습문제입니다."
+    },
+    {
+        "id": 230,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[핵심 퀴즈 세트] Passage에서 과거 사실에 반대되는 가정을 나타내는 시제는?",
+        "passageTop": "",
+        "passageBottom": "\"But it _______ for more than a few seconds when...\"",
+        "options": [
+            "fell",
+            "had not fallen",
+            "did not fall",
+            "has not fallen"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [추가 퀴즈 Q6] 부록 연습문제입니다."
+    },
+    {
+        "id": 231,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[핵심 퀴즈 세트] Passage에서 'plan'의 목적어로 쓰인 부정사 표현은?",
+        "passageTop": "",
+        "passageBottom": "Most students who plan _______ college take a standardized test called a college entrance examination during their junior or senior year in high school. This test measures some of the abilities thought _______ to success in college.",
+        "options": [
+            "attending",
+            "attend",
+            "to attend",
+            "attended"
+        ],
+        "answer": 2,
+        "explanationImg": "",
+        "explanation": "💡 [추가 퀴즈 Q7] 부록 연습문제입니다."
+    },
+    {
+        "id": 232,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[핵심 퀴즈 세트] Passage에서 'get along'과 병렬 구조로 쓰인 원형 부정사는?",
+        "passageTop": "",
+        "passageBottom": "It also teaches family members <u><b><i>how to get</u></b></i> along with one another and _______ a happy home life.",
+        "options": [
+            "building",
+            "build",
+            "to build",
+            "built"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [추가 퀴즈 Q8] 부록 연습문제입니다."
+    },
+    {
+        "id": 233,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[핵심 퀴즈 세트] Passage의 가주어-의미상주어-진주어 구문 중 빈칸에 들어갈 단어는?",
+        "passageTop": "",
+        "passageBottom": "\"_______ was difficult _______ a city merchant _______ that his way of living was...\"",
+        "options": [
+            "This / of / believe",
+            "It / for / to believe",
+            "That / for / to believe",
+            "It / of / believe"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [추가 퀴즈 Q9] 부록 연습문제입니다."
+    },
+    {
+        "id": 234,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[핵심 퀴즈 세트] Passage에서 '꿈꿀 가치가 있다'는 관용적 표현은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "worth to dream",
+            "worth of dreaming",
+            "worth dreaming",
+            "worthy to dream"
+        ],
+        "answer": 2,
+        "explanationImg": "",
+        "explanation": "💡 [추가 퀴즈 Q10] 부록 연습문제입니다."
+    },
+    {
+        "id": 235,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[핵심 퀴즈 세트] Passage에서 '~하지 않을 수 없었다'는 의미의 동명사 관용구는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "could not help but wonder",
+            "could not help wondering",
+            "could not but wondering",
+            "had no choice to wonder"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [추가 퀴즈 Q11] 부록 연습문제입니다."
+    },
+    {
+        "id": 236,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[핵심 퀴즈 세트] Passage에서 강조된 '~은 말할 필요도 없다'라는 구문은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "It goes without saying that",
+            "It is needless to say",
+            "It doesn't matter that",
+            "It is no use saying"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [추가 퀴즈 Q12] 부록 연습문제입니다."
+    },
+    {
+        "id": 237,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[핵심 퀴즈 세트] Passage에서 현재 사실과 반대되는 가정을 나타내는 'if'절의 비동사는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "is",
+            "was",
+            "were",
+            "been"
+        ],
+        "answer": 2,
+        "explanationImg": "",
+        "explanation": "💡 [추가 퀴즈 Q13] 부록 연습문제입니다."
+    },
+    {
+        "id": 238,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[핵심 퀴즈 세트] Passage에서 'If'가 생략되어 도치된 가정법 과거완료 문구는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "If we had shown",
+            "Had we shown",
+            "We have shown",
+            "Were we shown"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [추가 퀴즈 Q14] 부록 연습문제입니다."
+    },
+    {
+        "id": 239,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[핵심 퀴즈 세트] Passage에서 과거의 사실을 가정하는 귀결절의 조동사 형태는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "could have used / would have been",
+            "could use / would be",
+            "can use / will be",
+            "could used / would been"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [추가 퀴즈 Q15] 부록 연습문제입니다."
+    },
+    {
+        "id": 240,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[핵심 퀴즈 세트] Passage의 '양자 부정' 구문(B가 아닌 것처럼 A도 아니다)으로 옳은 것은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "not ~ any more than",
+            "not ~ more as",
+            "no ~ any more than",
+            "not ~ so much as"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [추가 퀴즈 Q16] 부록 연습문제입니다."
+    },
+    {
+        "id": 241,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[핵심 퀴즈 세트] Passage의 상관 비교 구문으로 옳은 것은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "The more, the hotter",
+            "More, hotter",
+            "The most, the hottest",
+            "The more, the hottest"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [추가 퀴즈 Q17] 부록 연습문제입니다."
+    },
+    {
+        "id": 242,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[핵심 퀴즈 세트] Passage에서 '한 시간의 대부분'을 뜻하는 강조 표현은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "the most part of",
+            "the better part of",
+            "the greater part than",
+            "the best part for"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [추가 퀴즈 Q18] 부록 연습문제입니다."
+    },
+    {
+        "id": 243,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[핵심 퀴즈 세트] Passage에서 '과거의 모습처럼'을 뜻하는 접속사적 표현은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "as he is",
+            "like he used to be",
+            "such as he was",
+            "identical he was"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [추가 퀴즈 Q19] 부록 연습문제입니다."
+    },
+    {
+        "id": 244,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[핵심 퀴즈 세트] Passage에서 '이제 ~이니까'라는 뜻의 이유 접속사는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "Because that",
+            "Now that",
+            "Since that",
+            "By the time"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [추가 퀴즈 Q20] 부록 연습문제입니다."
+    },
+    {
+        "id": 245,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[핵심 퀴즈 세트] Passage에서 '~할 때까지는 이미'라는 뜻의 시간 접속사 구문은?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "Until the time",
+            "By the time",
+            "At the time",
+            "In the time"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [추가 퀴즈 Q21] 부록 연습문제입니다."
+    },
+    {
+        "id": 246,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[연습문제] 다음 지문의 (A)에 들어갈 단어로 가장 적절한 것은?",
+        "passageTop": "",
+        "passageBottom": "\"Breakfast normally (A) of eggs, some meat, toast, fruit or fruit juice, and coffee.\"",
+        "options": [
+            "consist",
+            "consists",
+            "is consisted",
+            "consisting"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [연습문제 Q1] 부록 연습문제입니다."
+    },
+    {
+        "id": 247,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[연습문제] 다음 지문의 (B)에 들어갈 문법적 형태는?",
+        "passageTop": "",
+        "passageBottom": "\"Doctors (B) people to have complete physical examinations regularly...\"",
+        "options": [
+            "encourage",
+            "encourages",
+            "encourage (또는 encourages - 주어 Doctors에 일치)",
+            "encouraging"
+        ],
+        "answer": 2,
+        "explanationImg": "",
+        "explanation": "💡 [연습문제 Q2] 부록 연습문제입니다."
+    },
+    {
+        "id": 248,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[연습문제] 다음 지문에서 밑줄 친 'had been'의 시제와 그 의미로 올바른 것은?",
+        "passageTop": "",
+        "passageBottom": "\"I saw that this had been for my ancestors and now would be for me an awful thing to live with...\"",
+        "options": [
+            "현재완료 - 현재까지 지속됨",
+            "과거완료 - 과거 시점(saw)보다 더 이전의 상태",
+            "과거 - 단순한 과거 사실",
+            "미래완료 - 미래의 완료될 상태"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [연습문제 Q3] 부록 연습문제입니다."
+    },
+    {
+        "id": 249,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[연습문제] 다음 지문의 구조상 (A), (B), (C)에 들어갈 말이 바르게 짝지어진 것은?",
+        "passageTop": "",
+        "passageBottom": "\"(A) was difficult (B) a city merchant (C) that his way of living was less proper than that of others.\"",
+        "options": [
+            "(A) It - (B) for - (C) to believe",
+            "(A) That - (B) of - (C) believe",
+            "(A) It - (B) of - (C) to believe",
+            "(A) This - (B) for - (C) believe"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [연습문제 Q4] 부록 연습문제입니다."
+    },
+    {
+        "id": 250,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[연습문제] 다음 빈칸에 들어갈 관용적 동명사 표현으로 알맞은 것은?",
+        "passageTop": "",
+        "passageBottom": "\"(A) when we read the lives of great men we cannot but be struck by the manner...\"",
+        "options": [
+            "It goes without saying that",
+            "It is no use saying that",
+            "There is no saying that",
+            "It makes no sense that"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [연습문제 Q5] 부록 연습문제입니다."
+    },
+    {
+        "id": 251,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[연습문제] 다음 지문의 (A)에 들어갈 '비인칭 독립분사구문'은?",
+        "passageTop": "",
+        "passageBottom": "\"Democracy is, (A) , something very recent.\"",
+        "options": [
+            "history speaking",
+            "historically speaking",
+            "speaking historically",
+            "historical spoken"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [연습문제 Q6] 부록 연습문제입니다."
+    },
+    {
+        "id": 252,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[연습문제] 다음 지문의 (A)에 들어갈 '과거의 규칙적인 습관'을 나타내는 표현은?",
+        "passageTop": "",
+        "passageBottom": "\"In my childish dreams I (A) fancy myself there.\"",
+        "options": [
+            "would",
+            "used to",
+            "should",
+            "might"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [연습문제 Q7] 부록 연습문제입니다."
+    },
+    {
+        "id": 253,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[연습문제] 다음 지문의 (A)에 들어갈 'If가 생략된 도치 구문'의 형태는?",
+        "passageTop": "",
+        "passageBottom": "\"(A) other nations the test explosion at Alamogordo, we could have used it...\"",
+        "options": [
+            "If we showed",
+            "Had we shown",
+            "Were we shown",
+            "Have we shown"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [연습문제 Q8] 부록 연습문제입니다."
+    },
+    {
+        "id": 254,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[연습문제] 다음 지문의 (A)에 들어갈 표현으로 옳은 것은?",
+        "passageTop": "",
+        "passageBottom": "\"...I put my conviction into a phrase and said to myself: (A) .\"",
+        "options": [
+            "following your inclinations with due regard to the policeman",
+            "follow your inclinations with due regard to the policeman round the corner",
+            "you followed your inclinations regarding the policeman",
+            "to follow your inclinations with due regard to the policeman"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [연습문제 Q9] 부록 연습문제입니다."
+    },
+    {
+        "id": 255,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[연습문제] 다음 중 '이중소유격' 표현으로 알맞은 것은?",
+        "passageTop": "",
+        "passageBottom": "\"She had read (A) and had written to me about it.\"",
+        "options": [
+            "a my book",
+            "the book of me",
+            "a book of mine",
+            "my a book"
+        ],
+        "answer": 2,
+        "explanationImg": "",
+        "explanation": "💡 [연습문제 Q10] 부록 연습문제입니다."
+    },
+    {
+        "id": 256,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[연습문제] 다음 빈칸에 들어갈 '선행사를 포함하는 관계대명사' 관용구는?",
+        "passageTop": "",
+        "passageBottom": "\"...because it has little to do with (A) real life...\"",
+        "options": [
+            "that we call",
+            "what we call",
+            "which we call",
+            "as we call"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [연습문제 Q11] 부록 연습문제입니다."
+    },
+    {
+        "id": 257,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[연습문제] 다음 지문의 어순으로 가장 올바른 것은?",
+        "passageTop": "",
+        "passageBottom": "\"Mr Bennet was (A) of quick parts, sarcastic humour, reserve, and caprice...\"",
+        "options": [
+            "such an odd mixture",
+            "so odd a mixture",
+            "so an odd mixture",
+            "very odd a mixture"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 [연습문제 Q12] 부록 연습문제입니다."
+    },
+    {
+        "id": 258,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[연습문제] 다음 지문의 (A), (B)에 들어갈 말이 바르게 연결된 것은?",
+        "passageTop": "",
+        "passageBottom": "\"(A) that flame is covered up, (B) it burns.\"",
+        "options": [
+            "(A) The more - (B) the hotter",
+            "(A) More - (B) hotter",
+            "(A) The most - (B) the hottest",
+            "(A) As more - (B) so hotter"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [연습문제 Q13] 부록 연습문제입니다."
+    },
+    {
+        "id": 259,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "[연습문제] 다음 지문의 (A)에 들어갈 '이유'를 나타내는 접속사 구문은?",
+        "passageTop": "",
+        "passageBottom": "\"(A) you are in college and going to classes, pause long enough to ask yourself...\"",
+        "options": [
+            "Now that",
+            "Since that",
+            "Because of",
+            "By the time"
+        ],
+        "answer": 0,
+        "explanationImg": "",
+        "explanation": "💡 [연습문제 Q14] 부록 연습문제입니다."
+    },
+    {
+        "id": 260,
+        "refInstruction": "",
+        "imgTop": "",
+        "imgBottom": "",
+        "question": "had helped to kill'에서 과거완료가 쓰인 이유는?",
+        "passageTop": "",
+        "passageBottom": "",
+        "options": [
+            "미래의 가정",
+            "'saw'보다 먼저 일어난 일",
+            "현재까지의 지속",
+            "반복적 습관"
+        ],
+        "answer": 1,
+        "explanationImg": "",
+        "explanation": "💡 "
+    }
+]
