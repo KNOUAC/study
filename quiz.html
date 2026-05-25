@@ -133,6 +133,124 @@
     }
 
     // 엔진 전역 인스턴스 생성
+    // ── 형광펜 저장소 ──
+    const HL_KEY = 'quiz_highlights_v1';
+    function loadHighlights() {
+        try { return JSON.parse(localStorage.getItem(HL_KEY)) || {}; } catch { return {}; }
+    }
+    function saveHighlights(map) {
+        localStorage.setItem(HL_KEY, JSON.stringify(map));
+    }
+    // highlights = { uid: [ { start, end, color, text }, ... ] }
+    let highlights = loadHighlights();
+
+    const HL_COLORS = ['#dde6f9','#e3ffab','#fbc8ff','#ddf1f9','#fffbc9'];
+    const HL_NAMES  = ['블루','그린','핑크','스카이','옐로'];
+    let activeHLColor = HL_COLORS[0]; // 현재 선택 색상
+    let hlMode = false;               // 형광펜 모드 ON/OFF
+
+    function applyHighlightsToEl(el, uid) {
+        // el 내 텍스트 노드에 stored highlights 적용
+        const stored = highlights[uid];
+        if (!stored || stored.length === 0) return;
+        // mark 태그로 감싸기 — innerHTML 기반 간단 구현
+        // 저장 시 { selector, innerText, start, end, color } 사용
+        stored.forEach(h => {
+            try {
+                const target = el.querySelector(h.sel);
+                if (!target) return;
+                const html = target.innerHTML;
+                // 이미 mark 처리됐으면 skip
+                if (target.querySelector('mark[data-hl]')) return;
+                const t = target.innerText || target.textContent;
+                const idx = t.indexOf(h.text);
+                if (idx === -1) return;
+                // textNode 탐색 후 Range로 감싸기
+                wrapTextInMark(target, h.text, h.color, uid);
+            } catch(e) {}
+        });
+    }
+
+    function wrapTextInMark(container, text, color, uid) {
+        const walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT);
+        let node;
+        while ((node = walker.nextNode())) {
+            const idx = node.nodeValue.indexOf(text);
+            if (idx === -1) continue;
+            const range = document.createRange();
+            range.setStart(node, idx);
+            range.setEnd(node, idx + text.length);
+            const mark = document.createElement('mark');
+            mark.dataset.hl    = '1';
+            mark.dataset.uid   = uid;
+            mark.dataset.text  = text;
+            mark.style.cssText = `background:${color};border-radius:3px;padding:0 1px;cursor:pointer;`;
+            mark.title = '클릭하여 형광펜 제거';
+            mark.addEventListener('click', e => {
+                e.stopPropagation();
+                removeHighlight(uid, text, mark);
+            });
+            range.surroundContents(mark);
+            break; // 첫 번째 일치만
+        }
+    }
+
+    function removeHighlight(uid, text, markEl) {
+        // DOM에서 mark 제거
+        const parent = markEl.parentNode;
+        while (markEl.firstChild) parent.insertBefore(markEl.firstChild, markEl);
+        parent.removeChild(markEl);
+        parent.normalize();
+        // 저장소에서 제거
+        if (highlights[uid]) {
+            highlights[uid] = highlights[uid].filter(h => h.text !== text);
+            if (highlights[uid].length === 0) delete highlights[uid];
+            saveHighlights(highlights);
+        }
+    }
+
+    function handleHighlightSelection(uid) {
+        if (!hlMode) return;
+        const sel = window.getSelection();
+        if (!sel || sel.isCollapsed) return;
+        const text = sel.toString().trim();
+        if (!text) return;
+        // 선택 영역이 해당 카드 내부인지 확인
+        const card = document.querySelector(`.question-block[data-uid="${uid}"]`);
+        if (!card || !card.contains(sel.anchorNode)) return;
+
+        // 저장
+        if (!highlights[uid]) highlights[uid] = [];
+        // 중복 방지
+        if (highlights[uid].some(h => h.text === text)) { sel.removeAllRanges(); return; }
+
+        // sel 영역에 mark 직접 적용
+        try {
+            const range = sel.getRangeAt(0);
+            const mark = document.createElement('mark');
+            mark.dataset.hl   = '1';
+            mark.dataset.uid  = uid;
+            mark.dataset.text = text;
+            mark.style.cssText = `background:${activeHLColor};border-radius:3px;padding:0 1px;cursor:pointer;`;
+            mark.title = '클릭하여 형광펜 제거';
+            mark.addEventListener('click', e => {
+                e.stopPropagation();
+                removeHighlight(uid, text, mark);
+            });
+            range.surroundContents(mark);
+            sel.removeAllRanges();
+
+            // 저장: 어느 셀렉터 하위인지 기록
+            const containers = ['.txt-q-text','.txt-passage','.txt-option','.txt-exp-content','.passage-box'];
+            let sel_str = 'h2';
+            for (const s of containers) {
+                if (card.querySelector(s) && card.querySelector(s).contains(mark)) { sel_str = s; break; }
+            }
+            highlights[uid].push({ text, color: activeHLColor, sel: sel_str });
+            saveHighlights(highlights);
+        } catch(e) { sel.removeAllRanges(); }
+    }
+
     const quizEngine = new QuizEngine();
 
     ////////////////////////////////////
@@ -329,6 +447,8 @@
             bar.className = 'filter-bar';
             const list = document.getElementById('quiz-list');
             list.parentNode.insertBefore(bar, list);
+            // 초기 가시성 복원
+            if (localStorage.getItem('filterBarHidden') === '1') bar.style.display = 'none';
         }
         const total  = renderedQuestions.length;
         const bCount = renderedQuestions.filter(q => bookmarks.has(String(q._uid))).length;
@@ -342,7 +462,7 @@
                 <strong>${bCount}</strong>
                 &nbsp;·&nbsp;
                 <span style="color:#dc2626;">${SVG.xmark}</span>
-                 <strong>${wCount}</strong>
+                오답 <strong>${wCount}</strong>
             </div>
             <div style="display:flex;gap:8px;flex-shrink:0;">
                 <button class="btn-filter ${filterBookmark ? 'active' : ''}" id="btn-bookmark-filter" title="북마크만 보기">
@@ -693,6 +813,20 @@
                 }, 50);
             }
 
+            // 형광펜 복원
+            setTimeout(() => {
+                if (highlights[uid]) {
+                    highlights[uid].forEach(h => {
+                        const card2 = wrapper;
+                        wrapTextInMark(card2, h.text, h.color, uid);
+                    });
+                }
+            }, 80);
+
+            // 형광펜 선택 이벤트
+            wrapper.addEventListener('mouseup',  () => handleHighlightSelection(uid));
+            wrapper.addEventListener('touchend', () => setTimeout(() => handleHighlightSelection(uid), 50));
+
             container.appendChild(wrapper);
         });
 
@@ -877,11 +1011,31 @@
         nav.id = 'q-nav';
         nav.className = 'nav-bar';
         nav.innerHTML = `
+            <button class="nav-btn" id="nav-filter-toggle" title="필터 보기/숨기기" style="font-size:16px;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M133.8 36.3c10.9 7.6 13.5 22.6 5.9 33.4l-56 80c-4.1 5.8-10.5 9.5-17.6 10.1S52 158 47 153L7 113C-2.3 103.6-2.3 88.4 7 79S31.6 69.7 41 79l19.8 19.8 39.6-56.6c7.6-10.9 22.6-13.5 33.4-5.9zm0 160c10.9 7.6 13.5 22.6 5.9 33.4l-56 80c-4.1 5.8-10.5 9.5-17.6 10.1S52 318 47 313L7 273c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0l19.8 19.8 39.6-56.6c7.6-10.9 22.6-13.5 33.4-5.9zM224 96c0-17.7 14.3-32 32-32l224 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-224 0c-17.7 0-32-14.3-32-32zm0 160c0-17.7 14.3-32 32-32l224 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-224 0c-17.7 0-32-14.3-32-32zM160 416c0-17.7 14.3-32 32-32l288 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-288 0c-17.7 0-32-14.3-32-32zM64 376a40 40 0 1 1 0 80 40 40 0 1 1 0-80z"/></svg></button>
+            <button class="nav-btn" id="nav-hl-toggle"     title="형광펜 켜기/끄기" style="font-size:15px;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M315 315L473.4 99.9 444.1 70.6 229 229 315 315zm-187 5l0 0 0-71.7c0-15.3 7.2-29.6 19.5-38.6L420.6 8.4C428 2.9 437 0 446.2 0 457.6 0 468.5 4.5 476.6 12.6l54.8 54.8c8.1 8.1 12.6 19 12.6 30.5 0 9.2-2.9 18.2-8.4 25.6L334.4 396.5c-9 12.3-23.4 19.5-38.6 19.5l-71.7 0-25.4 25.4c-12.5 12.5-32.8 12.5-45.3 0l-50.7-50.7c-12.5-12.5-12.5-32.8 0-45.3L128 320zM7 466.3l51.7-51.7 70.6 70.6-19.7 19.7c-4.5 4.5-10.6 7-17 7L24 512c-13.3 0-24-10.7-24-24l0-4.7c0-6.4 2.5-12.5 7-17z"/></svg></button>
             <button class="nav-btn" id="nav-top"    title="맨 위로">${typeof SVG !== 'undefined' && SVG.top ? SVG.top : '↑'}</button>
             <button class="nav-btn" id="nav-up"     title="20문항 위">−20</button>
             <button class="nav-btn" id="nav-down"   title="20문항 아래">+20</button>
         `;
         document.body.appendChild(nav);
+
+        // 형광펜 팔레트
+        let palette = document.getElementById('hl-palette');
+        if (!palette) {
+            palette = document.createElement('div');
+            palette.id = 'hl-palette';
+            palette.style.cssText = 'display:none;position:fixed;bottom:24px;right:76px;z-index:500;background:#fff;border:1.5px solid #e2e8f0;border-radius:14px;box-shadow:0 4px 20px rgba(15,23,42,0.14);padding:10px 12px;flex-direction:column;gap:6px;align-items:center;';
+            // 팔레트 내용 JS로 직접 생성
+            const hlColors = ['#dde6f9','#e3ffab','#fbc8ff','#ddf1f9','#fffbc9'];
+            const hlNames  = ['블루','그린','핑크','스카이','옐로'];
+            let pHTML = '<div style="font-size:10px;font-weight:700;color:#94a3b8;letter-spacing:0.04em;margin-bottom:2px;">형광펜</div>';
+            hlColors.forEach((col, i) => {
+                pHTML += '<button onclick="selectHLColor(\'' + col + '\',this)" data-hlcol="' + col + '" title="' + hlNames[i] + '" style="width:28px;height:28px;border-radius:50%;border:2.5px solid transparent;background:' + col + ';cursor:pointer;transition:border-color 0.15s;flex-shrink:0;display:block;"></button>';
+            });
+            pHTML += '<button onclick="clearAllHighlights()" title="전체 형광펜 지우기" style="width:28px;height:28px;border-radius:50%;border:1.5px solid #fca5a5;background:#fff0f0;color:#dc2626;font-size:13px;cursor:pointer;margin-top:2px;flex-shrink:0;display:block;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M178.5 416l123 0 65.3-65.3-173.5-173.5-126.7 126.7 112 112zM224 480l-45.5 0c-17 0-33.3-6.7-45.3-18.7L17 345C6.1 334.1 0 319.4 0 304s6.1-30.1 17-41L263 17C273.9 6.1 288.6 0 304 0s30.1 6.1 41 17L527 199c10.9 10.9 17 25.6 17 41s-6.1 30.1-17 41l-135 135 120 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-288 0z"/></svg></button>';
+            palette.innerHTML = pHTML;
+            document.body.appendChild(palette);
+        }
 
         document.getElementById('nav-top').onclick = () => window.scrollTo({ top: 0, behavior: 'smooth' });
 
@@ -904,6 +1058,9 @@
             if (below[targetIdx]) below[targetIdx].scrollIntoView({ behavior: 'smooth', block: 'start' });
             else blocks[blocks.length - 1].scrollIntoView({ behavior: 'smooth', block: 'start' });
         };
+
+        document.getElementById('nav-filter-toggle').onclick = () => toggleFilterBar();
+        document.getElementById('nav-hl-toggle').onclick     = () => toggleHLMode();
     }
 
     // ==========================================
@@ -946,6 +1103,62 @@
             });
         });
         document.body.style.overflow = 'hidden';
+    }
+
+    // ── 필터바 토글 ──
+    function toggleFilterBar() {
+        const bar = document.getElementById('filter-bar');
+        const btn = document.getElementById('nav-filter-toggle');
+        if (!bar) return;
+        const hidden = bar.style.display === 'none';
+        bar.style.display = hidden ? '' : 'none';
+        localStorage.setItem('filterBarHidden', hidden ? '0' : '1');
+        if (btn) {
+            btn.title   = hidden ? '필터 숨기기' : '필터 보기';
+            btn.style.background   = hidden ? 'var(--clr-accent)' : '#fff';
+            btn.style.color        = hidden ? '#fff'              : 'var(--clr-text-secondary)';
+            btn.style.borderColor  = hidden ? 'var(--clr-accent)' : 'var(--clr-border)';
+        }
+    }
+
+    function toggleHLMode() {
+        hlMode = !hlMode;
+        const btn     = document.getElementById('nav-hl-toggle');
+        const palette = document.getElementById('hl-palette');
+        const list    = document.getElementById('quiz-list');
+        if (btn) {
+            btn.style.background  = hlMode ? 'var(--clr-accent)' : '#fff';
+            btn.style.color       = hlMode ? '#fff' : 'var(--clr-text-secondary)';
+            btn.style.borderColor = hlMode ? 'var(--clr-accent)' : 'var(--clr-border)';
+        }
+        if (palette) palette.classList.toggle('open', hlMode);
+        if (list)    list.classList.toggle('hl-mode', hlMode);
+        if (hlMode && palette) {
+            const firstBtn = palette.querySelector('[data-hlcol="' + activeHLColor + '"]');
+            if (firstBtn) firstBtn.style.borderColor = '#334155';
+        }
+    }
+
+    function selectHLColor(color, btn) {
+        activeHLColor = color;
+        const palette = document.getElementById('hl-palette');
+        if (palette) {
+            palette.querySelectorAll('button[data-hlcol]').forEach(b => {
+                b.style.borderColor = b.dataset.hlcol === color ? '#334155' : 'transparent';
+            });
+        }
+    }
+
+    function clearAllHighlights() {
+        if (!confirm('모든 형광펜을 지우시겠습니까?')) return;
+        highlights = {};
+        saveHighlights(highlights);
+        document.querySelectorAll('mark[data-hl]').forEach(m => {
+            const p = m.parentNode;
+            while (m.firstChild) p.insertBefore(m.firstChild, m);
+            p.removeChild(m);
+            p.normalize();
+        });
     }
 
     function closeSettings() {
