@@ -1,0 +1,266 @@
+{
+  "quiz_title": "Grammar - final practice",
+  "description": "강의별 10문항",
+  "questions": [
+    {
+      "id": 1,
+      "passageBottom": null,
+      "question": "밑줄 친 동사가 불완전자동사인 것은?",
+      "options": [
+        "He resembles his father.",
+        "The disease spread rapidly.",
+        "Your teacher expects you to work hard.",
+        "Good medicine tastes bitter to the mouth."
+      ],
+      "answer": 3,
+      "explanation": "💡 [불완전자동사 vs 완전타동사/수여동사/불완전타동사]\n\n\"보어를 취하는 동사가 불완전자동사이다.\"\n\n* ① resembles: 목적어(his father)만 취함 → 완전타동사\n* ② spread: 목적어/보어 없이 부사(rapidly)만 취함 → 완전자동사\n* ③ expects: 목적어(you) + 목적보어(to work hard) 취함 → 불완전타동사\n* ④ tastes: 보어(bitter)를 취함 → 불완전자동사 ✅\n* [참고] to the mouth는 전치사구로 형식 판단에 영향 없음"
+    },
+    {
+      "id": 2,
+      "passageBottom": null,
+      "question": "밑줄 친 동사가 수여동사에 해당하는 것은?",
+      "options": [
+        "The experiment interested us very much.",
+        "He does not like cold water.",
+        "I have promised him a position.",
+        "The court declared him guilty."
+      ],
+      "answer": 2,
+      "explanation": "💡 [수여동사: 간접목적어 + 직접목적어를 모두 취하는 동사]\n\n\"수여동사란 간접목적어와 직접목적어를 모두 취하는 동사를 가리킨다.\"\n\n* ① interested: us(목적어) 하나만 취함 → 완전타동사\n* ② like: cold water(목적어) 하나만 취함 → 완전타동사\n* ③ promised: him(간접목적어) + a position(직접목적어) → 수여동사 ✅\n* ④ declared: him(목적어) + guilty(목적보어) → 불완전타동사"
+    },
+    {
+      "id": 3,
+      "passageBottom": null,
+      "question": "밑줄 친 동사가 완전타동사로 분류될 수 있는 것은?",
+      "options": [
+        "He seems to be a gentleman.",
+        "The earth moves round the sun.",
+        "He does not like cold weather.",
+        "He asked me a difficult question."
+      ],
+      "answer": 2,
+      "explanation": "💡 [완전타동사: 보어 없이 목적어만 취하는 동사]\n\n\"보어는 취하지 않고 목적어만 취하는 동사가 완전타동사이다.\"\n\n* ① seems: to be a gentleman(보어) 취함 → 불완전자동사\n* ② moves: 목적어/보어 없이 부사구(round the sun)만 취함 → 완전자동사\n* ③ like: cold weather(목적어) 하나만 취함 → 완전타동사 ✅\n* ④ asked: me(간접목적어) + a difficult question(직접목적어) → 수여동사"
+    },
+    {
+      "id": 4,
+      "passageBottom": null,
+      "question": "밑줄 친 동사가 불완전타동사로 쓰인 것은?",
+      "options": [
+        "She appears to be rich.",
+        "They elected him president.",
+        "I have just finished writing a letter.",
+        "Good medicine tastes bitter to the mouth."
+      ],
+      "answer": 1,
+      "explanation": "💡 [불완전타동사: 목적어 + 목적보어를 모두 취하는 동사]\n\n\"불완전타동사는 목적어와 목적보어를 모두 취하는 동사를 가리킨다.\"\n\n* ① appears: to be rich(보어) 취함 → 불완전자동사\n* ② elected: him(목적어) + president(목적보어) → 불완전타동사 ✅\n* ③ finished: writing a letter(목적어) 하나만 취함 → 완전타동사\n* ④ tastes: bitter(보어) 취함 → 불완전자동사"
+    },
+    {
+      "id": 5,
+      "passageBottom": null,
+      "question": "밑줄 친 동사가 완전타동사로 쓰인 것은?",
+      "options": [
+        "A chair will not stand on two legs.",
+        "He remained a bachelor to the last.",
+        "I wonder why she hasn't come.",
+        "They elected him president."
+      ],
+      "answer": 2,
+      "explanation": "💡 [완전타동사: 보어 없이 목적어만 취하는 동사]\n\n\"완전타동사는 목적어와 보어를 취하지 않는 동사를 가리킨다.\"\n\n* ① stand: 목적어/보어 없이 부사구(on two legs)만 취함 → 완전자동사\n* ② remained: a bachelor(보어) 취함 → 불완전자동사\n* ③ wonder: why절(목적어) 하나만 취함 → 완전타동사 ✅\n* ④ elected: him(목적어) + president(목적보어) → 불완전타동사"
+    },
+    {
+      "id": 6,
+      "passageBottom": null,
+      "question": "4형식 문장을 3형식 문장으로 전환한 것 중에서 틀린 것은?",
+      "options": [
+        "He passed me the salt. → He passed the salt of me.",
+        "Her father bought her a new dress. → Her father bought a new dress for her.",
+        "She asked me a question. → She asked a question of me.",
+        "He found me a job. → He found a job for me."
+      ],
+      "answer": 0,
+      "explanation": "💡 [4형식 → 3형식 전환 시 전치사 선택]\n\n\"4형식을 3형식으로 전환할 때 동사의 종류에 따라 간접목적어 앞에 to / for / of를 붙인다.\"\n\n* pass: 간접목적어 앞에 to를 써야 함 → the salt to me가 올바른 형태 ✅ (틀린 것)\n* buy, find, get, make 등: 간접목적어 앞에 for 사용\n* ask, inquire 등: 간접목적어 앞에 of 사용"
+    },
+    {
+      "id": 7,
+      "passageBottom": null,
+      "question": "문장 5형식에 따라 분류할 때, 3형식에 속하는 문장은?",
+      "options": [
+        "He writes to his parents at home once a week.",
+        "He became a famous doctor.",
+        "They say that he has gone to America.",
+        "Your teacher expects you to work hard."
+      ],
+      "answer": 2,
+      "explanation": "💡 [문장의 5형식 분류]\n\n\"목적어(명사절 포함)만 취하는 동사 구조가 3형식이다.\"\n\n* ① writes: 부사구(to his parents / at home / once a week)만 있음 → 1형식 (S+V)\n* ② became: a famous doctor(주격보어) 취함 → 2형식 (S+V+C)\n* ③ say: that절(목적어) 하나만 취함 → 3형식 (S+V+O) ✅\n* ④ expects: you(목적어) + to work hard(목적보어) → 5형식 (S+V+O+OC)"
+    },
+    {
+      "id": 8,
+      "passageBottom": null,
+      "question": "학교문법에서 5형식으로 분류되는 문장은?",
+      "options": [
+        "I warned him not to do it.",
+        "Have they paid you the money?",
+        "I don't know whether he will come or not.",
+        "He remained a bachelor to the last."
+      ],
+      "answer": 0,
+      "explanation": "💡 [5형식: S + V + O + OC (목적어 + 목적보어)]\n\n\"목적어와 목적보어를 모두 취하는 구조가 5형식이다.\"\n\n* ① warned: him(목적어) + not to do it(목적보어) → 5형식 ✅\n* ② paid: you(간접목적어) + the money(직접목적어) → 4형식\n* ③ know: whether절(목적어) 하나만 취함 → 3형식\n* ④ remained: a bachelor(주격보어) 취함 → 2형식"
+    },
+    {
+      "id": 9,
+      "passageBottom": null,
+      "question": "밑줄 친 부분이 주어진 문장의 목적어가 아닌 것은?",
+      "options": [
+        "He resembles his father.",
+        "They elected him president.",
+        "He became a famous doctor.",
+        "I don't know whether he will come or not."
+      ],
+      "answer": 2,
+      "explanation": "💡 [목적어 vs 보어 구분]\n\n\"목적어는 동사의 행위 대상이고, 보어는 주어/목적어를 설명하는 성분이다.\"\n\n* ① his father: resembles의 목적어 → 목적어 ✅\n* ② him: elected의 목적어 → 목적어 ✅\n* ③ a famous doctor: became의 주격보어 → 보어 (목적어 아님) ✅ (정답)\n* ④ whether절: know의 목적어절 → 목적어 ✅"
+    },
+    {
+      "id": 10,
+      "passageBottom": null,
+      "question": "밑줄 친 부분의 쓰임이 틀린 것은?",
+      "options": [
+        "Have they paid the money to you?",
+        "He brought the book to me.",
+        "Her father bought a new dress to her.",
+        "He found a job for me."
+      ],
+      "answer": 2,
+      "explanation": "💡 [4형식 → 3형식 전환 시 전치사: for 동사]\n\n\"buy, get, find, make 등의 수여동사는 4형식을 3형식으로 전환할 때 간접목적어 앞에 for를 써야 한다.\"\n\n* ① paid ~ to you: pay는 to 사용 → 올바름\n* ② brought ~ to me: bring은 to 사용 → 올바름\n* ③ bought ~ to her: buy는 for 사용 → to가 아닌 for her가 되어야 함 ✅ (틀린 것)\n* ④ found ~ for me: find는 for 사용 → 올바름"
+    },
+    {
+      "id": 11,
+      "passageBottom": null,
+      "question": "밑줄 친 동사의 시제가 틀린 문장은?",
+      "options": [
+        "The sun rises in the east and sets in the west.",
+        "He leaves for New York tomorrow morning.",
+        "He possesses a large fortune.",
+        "If he will come, please tell him to wait till I come back."
+      ],
+      "answer": 3,
+      "explanation": "💡 [시제 일치 / 조건 부사절에서의 시제]\n\n\"시간과 조건의 부사절에서는 미래시제 대신 현재시제를 사용한다.\"\n\n* ① rises/sets: 불변의 진리 → 현재시제 올바름\n* ② leaves: 확정된 가까운 미래 → 현재시제로 미래 표현 올바름\n* ③ possesses: 현재의 상태 나타냄 → 현재시제 올바름\n* ④ will come: 조건 부사절(if절)에서는 미래시제 불가 → comes로 써야 함 ✅ (틀린 것)"
+    },
+    {
+      "id": 12,
+      "passageBottom": null,
+      "question": "밑줄 친 동사의 시제가 어색한 것은?",
+      "options": [
+        "Three and three makes six.",
+        "I get up early in the morning.",
+        "I don't know if it rains tomorrow.",
+        "Columbus discovered America in 1492."
+      ],
+      "answer": 2,
+      "explanation": "💡 [조건 부사절 vs 명사절에서의 시제]\n\n\"if가 명사절을 이끌 때는 미래시제를 그대로 쓰고, 조건 부사절을 이끌 때는 현재시제로 미래를 나타낸다.\"\n\n* ① makes: 과학적 진리 → 현재시제 올바름\n* ② get up: 습관적 행위 → 현재시제 올바름\n* ③ rains: if절이 know의 목적어인 명사절 → will rain으로 써야 함 ✅ (어색한 것)\n* ④ discovered: 과거의 사실 → 과거시제 올바름"
+    },
+    {
+      "id": 13,
+      "passageBottom": null,
+      "question": "밑줄 친 동사의 시제가 가장 어색한 것은?",
+      "options": [
+        "The earth goes round the sun.",
+        "She leaves for Boston tomorrow morning.",
+        "I learned that twice three is six.",
+        "I will stay at home if it will rain tomorrow."
+      ],
+      "answer": 3,
+      "explanation": "💡 [시간·조건 부사절에서 현재시제로 미래 대용]\n\n\"시간, 조건 등을 나타내는 부사절에서는 미래시제의 대용으로 현재시제를 사용해야 한다.\"\n\n* ① goes: 불변의 진리 → 현재시제 올바름\n* ② leaves: 확정된 가까운 미래 → 현재시제로 미래 표현 올바름\n* ③ is: 불변의 진리(수학적 사실) → 현재시제 올바름\n* ④ will rain: 조건 부사절(if절)에서 미래시제 불가 → rains로 써야 함 ✅ (어색한 것)"
+    },
+    {
+      "id": 14,
+      "passageBottom": null,
+      "question": "밑줄 친 동사의 시제가 가장 어색한 것은?",
+      "options": [
+        "She plays tennis every day.",
+        "Columbus discovered America in 1492.",
+        "Let us start as soon as day will break.",
+        "Three and three makes six."
+      ],
+      "answer": 2,
+      "explanation": "💡 [시간 부사절에서 현재시제로 미래 대용]\n\n\"현재의 습관적 행위나 불변의 사실은 현재시제로, 역사적 사실은 과거시제로, 시간·조건을 나타내는 부사절에서는 미래시제 대신 현재시제를 사용한다.\"\n\n* ① plays: 습관적 행위 → 현재시제 올바름\n* ② discovered: 역사적 사실 → 과거시제 올바름\n* ③ will break: 시간 부사절(as soon as절)에서 미래시제 불가 → breaks로 써야 함 ✅ (어색한 것)\n* ④ makes: 수학적 불변의 사실 → 현재시제 올바름"
+    },
+    {
+      "id": 15,
+      "passageBottom": null,
+      "question": "어법상 밑줄 친 부분이 어색하거나 틀린 것은?",
+      "options": [
+        "When have you met him?",
+        "I will stay at home if it rains tomorrow.",
+        "The sun rises in the east and sets in the west.",
+        "Napoleon lands on the French coast and marches in triumph to Paris."
+      ],
+      "answer": 0,
+      "explanation": "💡 [현재완료와 과거 부사의 충돌]\n\n\"현재완료는 명확하게 과거를 나타내는 just now, yesterday와 같은 부사구 또는 의문사 when과는 함께 사용할 수 없다.\"\n\n* ① When have you met him?: when과 현재완료는 함께 쓸 수 없음 → When did you meet him?으로 써야 올바름 ✅ (틀린 것)\n* ② rains: 조건 부사절에서 현재시제로 미래 대용 → 올바름\n* ③ rises/sets: 불변의 진리 → 현재시제 올바름\n* ④ lands/marches: 역사적 현재(생생한 묘사) → 현재시제 올바름"
+    },
+    {
+      "id": 16,
+      "passageBottom": null,
+      "question": "밑줄 친 현재완료시제가 '경험'을 나타내는 것은?",
+      "options": [
+        "She has lost her watch.",
+        "I have just finished my homework.",
+        "He has lived in Seoul for five years.",
+        "I have seldom seen her for a long time."
+      ],
+      "answer": 3,
+      "explanation": "💡 [현재완료의 용법: 완료 / 결과 / 계속 / 경험]\n\n\"완료시제(have+동사의 과거분사형)는 완료, 경험, 계속, 결과의 의미를 나타낼 수 있다.\"\n\n* ① has lost: 시계를 잃어버려서 지금도 없다는 뜻 → 결과\n* ② have just finished: 방금 숙제를 마쳤다는 뜻 → 완료\n* ③ has lived: 5년 동안 계속 서울에서 살았다는 뜻 → 계속\n* ④ have seldom seen: 오랫동안 그녀를 본 적이 없다는 뜻 → 경험 ✅"
+    },
+    {
+      "id": 17,
+      "passageBottom": null,
+      "question": "밑줄 친 부분이 현재까지의 동작 또는 상태의 계속을 나타내는 것은?",
+      "options": [
+        "He has just come back home.",
+        "I have seldom seen him for a long time.",
+        "He has been ill for the past three weeks.",
+        "He has gone to America."
+      ],
+      "answer": 2,
+      "explanation": "💡 [현재완료의 용법: 계속]\n\n\"현재완료의 '계속' 용법은 동작이나 상태가 현재까지 이어지는 경우를 나타낸다.\"\n\n* ① has just come: '그가 방금 집에 돌아왔다' → 완료\n* ② have seldom seen: '오랫동안 그를 잘 만나지 못했다' → 경험\n* ③ has been ill: '그가 지난 3주간 아팠다' → 계속 ✅\n* ④ has gone: '그는 미국으로 가버렸다' → 결과"
+    },
+    {
+      "id": 18,
+      "passageBottom": null,
+      "question": "밑줄 친 완료시제의 의미가 '계속'과 거리가 먼 것은?",
+      "options": [
+        "When I called on him he had been ill for two weeks.",
+        "I have eaten nothing since yesterday.",
+        "I recognized him at once, for I had met him before.",
+        "He will have lived in Korea for ten years by next year."
+      ],
+      "answer": 2,
+      "explanation": "💡 [완료시제의 용법 구분: 계속 vs 경험]\n\n\"'계속' 용법은 for(~동안), since(~이래로) 등의 기간 표현과 함께 쓰인다.\"\n\n* ① had been ill for two weeks: for two weeks라는 기간 표현 → 계속\n* ② have eaten nothing since yesterday: since yesterday라는 기간 표현 → 계속\n* ③ had met him before: 예전에 만난 적이 있다는 뜻 → 경험 ✅ (계속과 거리 먼 것)\n* ④ will have lived for ten years: for ten years라는 기간 표현과 함께 쓰여 → 계속"
+    },
+    {
+      "id": 19,
+      "passageBottom": null,
+      "question": "밑줄 친 동사가 앞으로 벌어질 미래의 일을 나타내지 않는 것은?",
+      "options": [
+        "I will telephone you when he comes.",
+        "He leaves for New York tomorrow morning.",
+        "If he comes, please tell him to wait till I come back.",
+        "Europe finally emerges from chaos in the 8th century, when Charles the Great appears."
+      ],
+      "answer": 3,
+      "explanation": "💡 [현재시제의 다양한 용법: 미래 대용 vs 역사적 현재]\n\n\"시간·조건 부사절에서 현재시제는 미래를 나타내고, 역사적 현재는 과거 사실을 생생하게 표현하기 위해 현재시제를 사용한 경우이다.\"\n\n* ① comes: 시간 부사절에서 현재시제로 미래 대용 → 미래의 일\n* ② leaves: 확정된 가까운 미래 표현 → 미래의 일\n* ③ comes: 조건 부사절에서 현재시제로 미래 대용 → 미래의 일\n* ④ emerges/appears: 과거의 일을 생생하게 나타내는 역사적 현재 → 미래의 일 아님 ✅"
+    },
+    {
+      "id": 20,
+      "passageBottom": null,
+      "question": "밑줄 친 진행형의 쓰임이 가장 어색한 것은?",
+      "options": [
+        "I am knowing him.",
+        "He is watering the plants now.",
+        "He was playing the piano when I came into the room.",
+        "He is leaving Seoul next Sunday."
+      ],
+      "answer": 0,
+      "explanation": "💡 [진행형을 쓸 수 없는 동사: 상태동사]\n\n\"동사에 -ing를 붙인 진행형은 각 시제에서 진행 중인 동작을 나타내거나 가까운 미래를 나타내는 부사구와 함께 쓰여 미래를 나타낼 수 있다. 단, 상태를 나타내는 동사(know, be, have 등)는 진행형을 만들 수 없다. 단, have는 소유 이외의 의미로 사용되었을 경우에는 진행형으로 사용될 수 있다.\"\n\n* ① am knowing: know는 상태동사로 진행형 불가 → 어색함 ✅\n* ② is watering: 현재 진행 중인 동작 → 올바름\n* ③ was playing: 과거 진행 중인 동작 → 올바름\n* ④ is leaving: 가까운 미래를 나타내는 부사구(next Sunday)와 함께 미래 표현 → 올바름"
+    }
+  ]
+}
