@@ -1431,6 +1431,526 @@
       ],
       "answer": 2,
       "explanation": "💡 [관계대명사 that을 써야 하는 경우]\n\n\"서수나 최상급이 선행사에 쓰이면 관계대명사는 that이 적절하며, 의문문이 의문대명사 who, what, which로 시작될 때에는 that을 쓰는 것이 일반적이다.\"\n\n* the first woman that: 서수(first) 뒤 → that\n* the greatest scientists that: 최상급 뒤 → that\n* Who that knows: 의문문 의문대명사 뒤 → that\n* 세 빈칸 모두 that ✅"
+    },
+    {
+      "id": 111,
+      "passageBottom": null,
+      "question": "밑줄 친 부분이 생략될 수 없는 문장은?",
+      "options": [
+        "The woman <u>who is</u> waiting for Bill is his girl friend.",
+        "What is it <u>that</u> makes you complain of the food?",
+        "There was a woman <u>who</u> called this afternoon.",
+        "He is not <u>what</u> he used to be."
+      ],
+      "answer": 3,
+      "explanation": "💡 [관계대명사 생략 불가: what]\n\n\"관계대명사가 생략되는 경우로는 타동사나 전치사의 목적어가 되는 경우(제한적 용법에서), 주격보어나 목적격보어가 되는 주격 관계대명사 which 또는 that, There is, Here is, That is, It is 다음의 주격 관계대명사, 주격 관계대명사+be 동사 등이 있다. 그 외에 It ~ that 강조구문에서는 that이 주격 관계대명사일 경우에도 생략이 가능하다.\"\n\n* ① who is: 주격 관계대명사+be동사 → 생략 가능\n* ② that: It ~ that 강조구문 → 생략 가능\n* ③ who: There was 다음 주격 관계대명사 → 생략 가능\n* ④ what: 선행사를 포함하는 관계대명사 what → 생략 불가 ✅"
+    },
+    {
+      "id": 112,
+      "passageBottom": null,
+      "question": "밑줄 친 관계대명사 중에서 생략할 수 없는 것은?",
+      "options": [
+        "The people <u>whom</u> you met at my house are the Smiths.",
+        "He made a remark <u>which</u> I don't want to repeat here.",
+        "Reading is to the mind <u>what</u> food is to the body.",
+        "This is the best biography <u>that</u> there is in English literature."
+      ],
+      "answer": 2,
+      "explanation": "💡 [관계대명사 생략 불가: what / 생략 가능 조건]\n\n\"관계대명사의 생략과 관련해서 가장 중요한 사항은 타동사나 전치사의 목적어가 되는 관계대명사가 제한적 용법으로 사용됐을 때 생략할 수 있다는 점이다. ①번, ②번은 목적격 관계대명사가 제한적 용법으로 사용된 경우이고, ④번은 주격 관계대명사라도 there is의 앞에 나오는 경우 생략할 수 있는 조건에 해당되는 경우이며, ③번은 생략할 수 없다.\"\n\n* ① whom: 목적격, 제한적 용법 → 생략 가능\n* ② which: 목적격, 제한적 용법 → 생략 가능\n* ③ what: 선행사 포함 관계대명사 → 생략 불가 ✅\n* ④ that: there is 앞 → 생략 가능"
+    },
+    {
+      "id": 113,
+      "passageBottom": null,
+      "question": "괄호 안에 as를 넣으면 틀린 문장은?",
+      "options": [
+        "As many children (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) came were given some cake.",
+        "He writes with a worse pen (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) I write with.",
+        "Don't read such books (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) are not worth reading.",
+        "He was an American, (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) I knew from his accent."
+      ],
+      "answer": 1,
+      "explanation": "💡 [유사관계대명사 as vs than]\n\n\"①번은 as ~ as ...(…만큼 ~한), ③번은 such ~ as...(…한 그런 ~), ④번은 유사관계대명사 as로 앞 문장 전체를 선행사로 받는 경우이다. ②번은 앞에 worse라는 비교급 어휘가 있으므로 than을 쓰는 것이 자연스럽다.\"\n\n* ① as many children as came: as~as 구문 → as 올바름\n* ② worse pen as I write with: 비교급 뒤 → than이 올바름, as는 틀림 ✅\n* ③ such books as are not worth reading: such ~ as → as 올바름\n* ④ an American, as I knew: 유사관계대명사 as → as 올바름"
+    },
+    {
+      "id": 114,
+      "passageBottom": null,
+      "question": "다음 중에서 나머지 세 문장과 그 의미가 다른 하나는?",
+      "options": [
+        "No one but knows it.",
+        "There is no one that knows it.",
+        "There is no one but knows it.",
+        "Who but knows it?"
+      ],
+      "answer": 1,
+      "explanation": "💡 [유사관계대명사 but: ~하지 않는 사람은 없다]\n\n\"①, ③, ④번은 모두 '그것을 모르는 사람은 없다'는 뜻이지만, ②번은 '그것을 아는 사람이 아무도 없다'는 뜻이다.\"\n\n* ① No one but knows it: '모르는 사람은 없다' → but = who ~ not\n* ② There is no one that knows it: '아는 사람이 아무도 없다' → 의미 다름 ✅\n* ③ There is no one but knows it: '모르는 사람은 없다' → but = who ~ not\n* ④ Who but knows it?: '모르는 사람이 누가 있겠는가?' → 의미 동일"
+    },
+    {
+      "id": 115,
+      "passageBottom": null,
+      "question": "밑줄 친 관계대명사 중에서 생략할 수 없는 것은?",
+      "options": [
+        "The man <u>whom</u> I am staying with is an engineer.",
+        "I am not a fool <u>that</u> you want me to be.",
+        "There was a woman <u>who</u> called this afternoon.",
+        "Don't put off till tomorrow <u>what</u> you can do today."
+      ],
+      "answer": 3,
+      "explanation": "💡 [관계대명사 생략 불가: what]\n\n\"④번에서처럼 선행사를 포함하는 관계대명사 what은 생략할 수 없다.\"\n\n* ① whom: 목적격, 제한적 용법 → 생략 가능\n* ② that: 목적격보어, 제한적 용법 → 생략 가능\n* ③ who: There was 다음 주격 → 생략 가능\n* ④ what: 선행사 포함 관계대명사 → 생략 불가 ✅"
+    },
+    {
+      "id": 116,
+      "passageBottom": "Don't read such books (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) are not worth reading.\nHe was an American, (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) I knew from his accent.",
+      "question": "두 문장의 괄호 안에 공통으로 들어갈 단어로 가장 알맞은 것은?",
+      "options": [
+        "as",
+        "but",
+        "than",
+        "what"
+      ],
+      "answer": 0,
+      "explanation": "💡 [유사관계대명사 as: such ~ as / 앞 문장 전체 선행사]\n\n\"유사관계대명사 as의 쓰임을 묻는 문제이다. 첫 번째 문장에서는 'such~as'로 연결되어 사용되는 경우이고, 두 번째 문장에서는 앞 문장 전체를 선행사로 취하기 위해서 as를 써야 한다.\"\n\n* such books as are not worth reading: such ~ as 구문 → as\n* an American, as I knew from his accent: 앞 문장 전체를 선행사로 하는 유사관계대명사 → as\n* 두 빈칸 모두 as ✅"
+    },
+    {
+      "id": 117,
+      "passageBottom": "He asked me (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) I wanted.\nReading is to the mind (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) food is to the body.",
+      "question": "다음 두 문장에 공통으로 알맞은 어휘는?",
+      "options": [
+        "if",
+        "that",
+        "what",
+        "which"
+      ],
+      "answer": 2,
+      "explanation": "💡 [관계대명사 what: 선행사 포함 / A is to B what C is to D]\n\n\"첫 번째 문장에서는 선행사가 제시되어 있지 않으므로 선행사를 포함하는 관계대명사 what을 써야 하고, 두 번째 문장은 〈A is to B what C is to D〉 형태로 써야 하는 구문이므로 역시 what이 가장 잘 어울린다.\"\n\n* He asked me what I wanted: 선행사 없음 → what\n* Reading is to the mind what food is to the body: A is to B what C is to D → what\n* 두 빈칸 모두 what ✅"
+    },
+    {
+      "id": 118,
+      "passageBottom": "There is no one (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) loves his son.\nThere is no rule (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) has some exceptions.",
+      "question": "아래 두 문장의 괄호 안에 공통으로 알맞은 것은?",
+      "options": [
+        "as",
+        "such",
+        "but",
+        "than"
+      ],
+      "answer": 2,
+      "explanation": "💡 [유사관계대명사 but: ~하지 않는]\n\n\"유사관계대명사로는 as, but, than 등이 있는데, but은 흔히 that ~ not의 의미를 지니닌다. 다른 유사관계대명사의 쓰임에 대해서도 기억해 두도록 한다.\"\n\n* There is no one but loves his son: '자신의 아들을 사랑하지 않는 사람은 없다' → but = who ~ not\n* There is no rule but has some exceptions: '예외 없는 규칙은 없다' → but = which ~ not\n* 두 빈칸 모두 but ✅"
+    },
+    {
+      "id": 119,
+      "passageBottom": "다음 문장이 \"때때로 잘못을 저지르지 않는 사람은 이 세상에 없다\"는 뜻일 경우, 빈칸에 가장 적절한 어휘는?\n\nThere is no one in the world ________ sometimes commits errors.",
+      "question": "다음 문장이 \"때때로 잘못을 저지르지 않는 사람은 이 세상에 없다\"는 뜻일 경우, 빈칸에 가장 적절한 어휘는?",
+      "options": [
+        "what",
+        "than",
+        "whoever",
+        "but"
+      ],
+      "answer": 3,
+      "explanation": "💡 [유사관계대명사 but: not의 의미 포함]\n\n\"밑줄 친 부분 이하가 부정문이 되어야 하므로 not의 의미를 포함하는 유사관계대명사 but을 쓰는 것이 가장 적절하다.\"\n\n* There is no one ~ but sometimes commits errors\n* but = who ~ not: '잘못을 저지르지 않는 사람'\n* → but ✅"
+    },
+    {
+      "id": 120,
+      "passageBottom": "I will do (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) I can do for you.\nHe is honest and, (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) is better, very diligent.",
+      "question": "다음 두 문장의 괄호 안에 공통으로 알맞은 것은?",
+      "options": [
+        "but",
+        "as",
+        "that",
+        "what"
+      ],
+      "answer": 3,
+      "explanation": "💡 [관계대명사 what: 선행사 없음 / what is better]\n\n\"첫 번째 문장은 선행사가 제시되어 있지 않으므로 선행사를 포함하는 관계대명사 what을 써야 하고, 두 번째 문장에서는 what is better로 써야 가장 적절하다.\"\n\n* I will do what I can do for you: 선행사 없음 → what\n* what is better: '더 좋은 것은' → what\n* 두 빈칸 모두 what ✅"
+    },
+    {
+      "id": 121,
+      "passageBottom": null,
+      "question": "밑줄 친 부분이 '많은'(=many)의 의미를 나타내는 것은?",
+      "options": [
+        "He had <u>few</u> friends in the downtown.",
+        "There were <u>quite a few</u> people who doubted it.",
+        "<u>Some few</u> of the soldiers were still living.",
+        "You have <u>but few</u> chances of success."
+      ],
+      "answer": 1,
+      "explanation": "💡 [수량형용사 few의 다양한 의미]\n\n\"not a few, quite a few는 주로 many의 뜻으로 사용된다는 점을 기억해 두어야 한다. ①번에서처럼 few만 사용되면 '거의 없다'는 뜻이고, ③번의 Some few는 '소수'의라는 뜻이 된다. ④번의 but few는 'only a few' 정도의 뜻을 지닌다는 점도 기억해 두자.\"\n\n* ① few: '거의 없다' → 적은 수\n* ② quite a few: '꽤 많은' → many ✅\n* ③ Some few: '소수의' → 적은 수\n* ④ but few: 'only a few' → 적은 수"
+    },
+    {
+      "id": 122,
+      "passageBottom": "My house is (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) better than a hut.\nShe acts as though she had (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) or no sense.",
+      "question": "아래 두 문장의 괄호 안에 공통으로 알맞은 것은?",
+      "options": [
+        "little",
+        "much",
+        "many",
+        "few"
+      ],
+      "answer": 0,
+      "explanation": "💡 [수량형용사 little의 용법]\n\n\"첫 번째 문장에는 little이 가장 어울리지만, much 등의 다른 부사도 쓸 수 있다. 그러나 두 번째 문장에서는 괄호 뒤에 or no가 있으므로 little이 들어가야 가장 자연스러운 문장이 된다.\"\n\n* My house is little better than a hut: '오두막보다 조금 나을 뿐이다'\n* she had little or no sense: '거의 또는 전혀 분별력이 없다'\n* 두 빈칸 모두 little ✅"
+    },
+    {
+      "id": 123,
+      "passageBottom": null,
+      "question": "밑줄 친 형용사(구)의 위치가 가장 어색한 것은?",
+      "options": [
+        "Please give me <u>cold</u> something to drink.",
+        "I think he is the proudest man <u>alive</u>.",
+        "I prefer the <u>former</u> picture to the latter.",
+        "She brought a basket <u>full of apples</u>."
+      ],
+      "answer": 0,
+      "explanation": "💡 [형용사의 전치수식 vs 후치수식]\n\n\"①번은 -thing, -body, -one, -where로 끝나는 말을 수식할 때에는 형용사가 후치 수식해야 하는 경우이다. ②번은 alive처럼 서술적 용법으로 주로 사용되는 형용사가 한정적 용법으로 사용될 때에는 후치수식해야 하는 경우이다. ④번은 단일형용사가 아닌 형용사구가 명사를 수식할 때 후치수식해야 하는 경우이다.\"\n\n* ① cold something → something cold: -thing 뒤에는 형용사 후치 ✅ (어색한 것)\n* ② the proudest man alive: alive 후치수식 → 올바름\n* ③ the former picture: 한정적 전치수식 → 올바름\n* ④ a basket full of apples: 형용사구 후치수식 → 올바름"
+    },
+    {
+      "id": 124,
+      "passageBottom": "(large, round, her, blue) eyes were the shade of the sky when the sun has begun to rise.",
+      "question": "괄호 안의 어휘를 순서대로 옳게 배열한 것은?",
+      "options": [
+        "Round her blue large",
+        "Her round blue large",
+        "Round large her blue",
+        "Her large round blue"
+      ],
+      "answer": 3,
+      "explanation": "💡 [형용사 배열 순서: 지시+수량+대소+성질/상태+신구+재료]\n\n\"여러 개의 형용사가 명사를 수식할 경우, '지시(관사)+수량(서수 우선)+대소+성질/상태+신구+재료'의 순서로 배열한다. Her(대명사 소유격은 지시에 포함됨)를 가장 먼저 쓰고, large(대소), round(형태), blue(색채, 성질이나 상태에 포함시킬 수도 있으나 성질을 나타내는 형용사가 함께 쓰이면 그보다는 뒤쪽에 위치함)의 순서로 배열해야 한다. round는 형태를 나타내는 형용사인데, 대소 형용사보다는 뒤에, 성질/상태 형용사 보다는 앞에 쓴다.\"\n\n* 소유격(Her) → 대소(large) → 형태(round) → 색채(blue)\n* → Her large round blue ✅"
+    },
+    {
+      "id": 125,
+      "passageBottom": "(those, new, large, two, stone) buildings are called twin towers.",
+      "question": "괄호 안의 어휘를 순서대로 바르게 배열한 것은?",
+      "options": [
+        "Those two large new stone",
+        "Those new large two stone",
+        "Those large two new stone",
+        "Two large new stone those"
+      ],
+      "answer": 0,
+      "explanation": "💡 [형용사 배열 순서: 지시+수량+대소+신구+재료]\n\n\"지시형용사인 those가 가장 먼저 와야 하고, 수량을 나타내는 two→대소를 나타내는 large→신구(新舊)를 나타내는 new→재료를 나타내는 stone의 순서로 형용사를 배열해야 한다.\"\n\n* those(지시) → two(수량) → large(대소) → new(신구) → stone(재료)\n* → Those two large new stone ✅"
+    },
+    {
+      "id": 126,
+      "passageBottom": null,
+      "question": "다음 중 나머지 셋과 의미가 다르거나 문법상 어색한 문장 하나는?",
+      "options": [
+        "It was not so much an argument as a monologue.",
+        "It was not an argument so much as a monologue.",
+        "It was rather an argument than a monologue.",
+        "It was a monologue rather than an argument."
+      ],
+      "answer": 2,
+      "explanation": "💡 [not so much A as B = B rather than A]\n\n\"'not so much A as B'의 뜻은 'A라기보다는 B이다', not A so much as B, B rather than A도 같은 의미이다.\"\n\n* ① not so much an argument as a monologue: '논쟁이라기보다는 독백이다' → 올바름\n* ② not an argument so much as a monologue: 동일 의미 → 올바름\n* ③ rather an argument than a monologue: '독백이라기보다는 논쟁이다' → 의미 반대 ✅\n* ④ a monologue rather than an argument: '논쟁이라기보다는 독백이다' → 올바름"
+    },
+    {
+      "id": 127,
+      "passageBottom": null,
+      "question": "밑줄 친 단어의 뜻을 틀리게 제시한 것은?",
+      "options": [
+        "I <u>dearly</u> wish I had more money. (대단히)",
+        "She was <u>nearly</u> as tall as he was. (거의)",
+        "It's <u>highly</u> improbable that they will accept the offer. (매우)",
+        "I have <u>lately</u> received a number of letters about this. (늦은 시간에)"
+      ],
+      "answer": 3,
+      "explanation": "💡 [-ly가 붙으면 원래 형용사와 뜻이 달라지는 부사]\n\n\"-ly가 붙으면 원래 형용사와 뜻이 달라지는 부사가 있는데, dearly, lately, highly, nearly, hardly 등이 있다. 선택지 ④번의 경우에는 '늦은'이라는 뜻의 형용사 late에 ly가 붙어서 '최근에'라는 뜻이 된다는 점을 기억해 두도록 한다.\"\n\n* ① dearly: '대단히, 몹시' → 올바름\n* ② nearly: '거의' → 올바름\n* ③ highly: '매우' → 올바름\n* ④ lately: '최근에' (늦은 시간에 ✗) → 틀리게 제시됨 ✅"
+    },
+    {
+      "id": 128,
+      "passageBottom": null,
+      "question": "우리말을 영어로 옮긴 것 중에서 가장 어색한 것은?",
+      "options": [
+        "부자가 항상 행복한 것은 아니다. → The rich are not always happy.",
+        "그녀는 좀체로 어머니에게 편지를 쓰지 않는다. → She seldom writes to her mother.",
+        "그는 가까스로 죽음을 모면했다. → He didn't barely escape death.",
+        "그녀는 전혀 정직하지 않다. → She is not honest at all."
+      ],
+      "answer": 2,
+      "explanation": "💡 [준부정어 barely: not과 함께 쓰지 않음]\n\n\"scarcely, hardly, rarely, barely, seldom, little 등은 완전한 부정을 나타내지는 않지만, 원래 부정의 의미를 내포하고 있기 때문에 no나 not과 함께 쓸 수 없다.\"\n\n* ① not always: 부분부정 → 올바름\n* ② seldom writes: 준부정어 단독 사용 → 올바름\n* ③ didn't barely: barely가 이미 부정 의미 포함 → He barely escaped death로 써야 함 ✅\n* ④ not ~ at all: 전체부정 → 올바름"
+    },
+    {
+      "id": 129,
+      "passageBottom": null,
+      "question": "다음 중 어법상 틀린 문장은?",
+      "options": [
+        "She does not seldom write to her mother.",
+        "She was nearly as tall as he was.",
+        "He little knows what awaits him.",
+        "All that glitters is not gold."
+      ],
+      "answer": 0,
+      "explanation": "💡 [준부정어 seldom: not과 함께 쓰지 않음]\n\n\"①번에 나온 seldom은 원래 부정의 의미를 내포하고 있기 때문에 no나 not과 함께 쓸 수 없다.\"\n\n* ① does not seldom: seldom은 이미 부정 의미 포함 → does not 제거하거나 seldom 제거해야 함 ✅ (틀린 것)\n* ② nearly as tall: 원급 비교 → 올바름\n* ③ little knows: 준부정어 단독 사용 → 올바름\n* ④ All ~ is not: 부분부정 → 올바름"
+    },
+    {
+      "id": 130,
+      "passageBottom": null,
+      "question": "부분부정이 아닌 문장은?",
+      "options": [
+        "All that glitters is not gold.",
+        "She is not altogether honest.",
+        "The rich are not always happy.",
+        "The rich are never happy."
+      ],
+      "answer": 3,
+      "explanation": "💡 [부분부정 vs 전체부정]\n\n\"④번은 '부자는 결코 행복하지 않다'라는 뜻이므로 부분부정에 속하지 않는다.\"\n\n* ① All ~ is not: '모두 ~인 것은 아니다' → 부분부정\n* ② not altogether: '완전히 ~인 것은 아니다' → 부분부정\n* ③ not always: '항상 ~인 것은 아니다' → 부분부정\n* ④ never happy: '결코 행복하지 않다' → 전체부정 ✅ (부분부정 아님)"
+    },
+    {
+      "id": 131,
+      "passageBottom": "She is my senior (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) five years.\n= She is five years my senior.",
+      "question": "다음 괄호 안에 가장 적절한 단어는?",
+      "options": [
+        "to",
+        "by",
+        "than",
+        "for"
+      ],
+      "answer": 1,
+      "explanation": "💡 [라틴어 어원 비교급: senior, major, superior + by]\n\n\"비교급 중에서 라틴어가 어원인 senior, major, superior 등의 경우에는 일반적인 비교급과 그 쓰임이 다르므로 잘 익혀 두도록 한다. 뒤 두 문장은 'She is five years senior to me.'와 같은 뜻이 된다는 점도 기억해 두도록 한다.\"\n\n* senior, junior, superior, inferior 등은 than 대신 to를 쓰지만\n* 차이를 나타낼 때는 by + 수량 표현\n* She is my senior by five years → by ✅"
+    },
+    {
+      "id": 132,
+      "passageBottom": null,
+      "question": "밑줄 친 정관사 the가 잘못 사용된 것은?",
+      "options": [
+        "She is <u>the</u> cleverer of the two.",
+        "I love her all <u>the</u> more because she has faults.",
+        "She is <u>the</u> more lovely than beautiful.",
+        "<u>The</u> more I hear about him, the less I like him."
+      ],
+      "answer": 2,
+      "explanation": "💡 [비교급에서 the: 동일한 성질 비교 시 the 불가]\n\n\"비교를 할 경우 동일인의 성질을 비교할 때에는 일반적으로 -er을 붙이는 형용사라고 하더라도 '-er' 대신 more를 써야 한다. 따라서 ③번 문장의 경우 정관사 the를 빼야 올은 문장이 된다.\"\n\n* ① the cleverer of the two: 둘 중 비교 → the 올바름\n* ② all the more: 그만큼 더 → the 올바름\n* ③ the more lovely: 동일인의 성질 비교 → the 불필요, more lovely than beautiful ✅\n* ④ The more ~ the less: 비례 비교 → the 올바름"
+    },
+    {
+      "id": 133,
+      "passageBottom": null,
+      "question": "밑줄 친 정관사 the가 어법상 잘못 쓰인 것은?",
+      "options": [
+        "Though he was poor, he was none <u>the</u> less happy.",
+        "Honesty is <u>the</u> most important thing in our life.",
+        "Tom was <u>the</u> happiest when he was young.",
+        "She is <u>the</u> cleverer of the two."
+      ],
+      "answer": 2,
+      "explanation": "💡 [최상급의 서술적 용법: the 생략]\n\n\"최상급에는 정관사 the를 붙이는 것이 일반적이지만 서술적 용법으로 사용될 경우에는 the를 생략해야 한다.\"\n\n* ① none the less: 관용 표현 → the 올바름\n* ② the most important: 한정적 최상급 → the 올바름\n* ③ was the happiest: 서술적 용법의 최상급 → the 생략해야 함 ✅ (잘못 쓰인 것)\n* ④ the cleverer of the two: 둘 중 비교 → the 올바름"
+    },
+    {
+      "id": 134,
+      "passageBottom": null,
+      "question": "다음 중 관사의 쓰임이 잘못된 것은?",
+      "options": [
+        "Tom is <u>the</u> tallest of all the boys.",
+        "This lake is <u>the</u> deepest here.",
+        "It was <u>a</u> most beautiful morning.",
+        "I'm not in <u>the</u> least concerned about his betrayal."
+      ],
+      "answer": 1,
+      "explanation": "💡 [최상급: 동일 사물 내에서 비교 시 the 불가]\n\n\"동일한 사물 내에서 비교를 할 경우에는 최상급일 경우에도 정관사 the를 쓰지 못한다. 만약 This lake is the deepest in our country처럼 다른 사물과 비교하는 경우이면 정관사 the를 써야 한다. ③번에서의 a는 very의 뜻이다.\"\n\n* ① the tallest of all the boys: 집단 내 최상급 → the 올바름\n* ② the deepest here: 동일 사물(same lake) 내 비교 → the 불가 ✅ (잘못된 것)\n* ③ a most beautiful: a = very → 올바름\n* ④ not in the least: 관용 표현 → the 올바름"
+    },
+    {
+      "id": 135,
+      "passageBottom": "(\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) often than not this kind of patient recovers.\nShe thought that I were no (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) than commodities.",
+      "question": "두 문장의 괄호 안에 공통으로 알맞은 어휘는?",
+      "options": [
+        "more",
+        "less",
+        "most",
+        "better"
+      ],
+      "answer": 0,
+      "explanation": "💡 [비교급 관용구: More often than not / no more than]\n\n\"More often than not은 '대개, 대부분의 경우에'라는 뜻의 관용어구이고, no more than은 '그저, 단지(=only)'의 뜻으로 쓰이는 관용어구이다.\"\n\n* More often than not: '대개, 대부분' → more\n* no more than commodities: '그저 상품에 지나지 않는' → more\n* 두 빈칸 모두 more ✅"
+    },
+    {
+      "id": 136,
+      "passageBottom": "You had (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) not have done so.\nThey were no (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) than beasts.",
+      "question": "두 문장의 괄호 안에 공통으로 들어갈 말로 가장 알맞은 것은?",
+      "options": [
+        "better",
+        "most",
+        "longer",
+        "less"
+      ],
+      "answer": 0,
+      "explanation": "💡 [비교급 관용구: had better / no better than]\n\n\"첫 번째 문장은 'had better~'(~하는 게 더 낫다), 두 번째 문장은 'no better than~'(~나 다름없는)이 되어야 자연스럽다.\"\n\n* You had better not have done so: '그렇게 하지 않는 것이 나았다'\n* no better than beasts: '짐승이나 다름없는'\n* 두 빈칸 모두 better ✅"
+    },
+    {
+      "id": 137,
+      "passageBottom": null,
+      "question": "다음 중 나머지 셋과 의미가 다르거나 문법상 어색한 문장 하나는?",
+      "options": [
+        "Nothing is more important than honesty in our life.",
+        "Anything is so important as honesty in our life.",
+        "Honesty is more important than anything else in our life.",
+        "Honesty is the most important thing in our life."
+      ],
+      "answer": 1,
+      "explanation": "💡 [원급/비교급/최상급의 상호 전환]\n\n\"①번과 ③번은 비교급을 이용하여 최상급의 의미를 나타낸 경우이며, ④번은 최상급으로 표현한 경우이다. 원급을 이용하여 최상급의 의미를 나타내려면 부정주어를 써서 Nothing is so important as honesty in our life로 써야 한다.\"\n\n* ① Nothing is more important than: 비교급으로 최상급 표현 → 올바름\n* ② Anything is so important as: 긍정주어(Anything)에 so ~ as 불가 → Nothing으로 써야 함 ✅\n* ③ more important than anything else: 비교급으로 최상급 표현 → 올바름\n* ④ the most important: 최상급 → 올바름"
+    },
+    {
+      "id": 138,
+      "passageBottom": "She was as (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) as her word.\nWithout her glasses she was as (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) as blind.",
+      "question": "다음 두 문장의 괄호 안에 공통으로 알맞은 것은?",
+      "options": [
+        "far",
+        "good",
+        "long",
+        "likely"
+      ],
+      "answer": 1,
+      "explanation": "💡 [원급 관용구: as good as]\n\n\"원급을 이용한 관용구에 관한 문제이다. 'as good as~'는 두 번째 문장에서처럼 대개 '~와 다름없는'이라는 뜻으로 쓰이지만, 첫 번째 문장에서처럼 as good as her word로 쓰여서 '약속을 어기지 않는다'는 뜻이 되기도 한다.\"\n\n* as good as her word: '약속을 어기지 않는' → good\n* as good as blind: '눈이 먼 것이나 다름없는' → good\n* 두 빈칸 모두 good ✅"
+    },
+    {
+      "id": 139,
+      "passageBottom": null,
+      "question": "밑줄 친 부분의 의미를 괄호 안에 틀리게 제시한 것은?",
+      "options": [
+        "I have <u>no more than</u> twenty dollars. (=only)",
+        "<u>No fewer than</u> 200 persons were killed. (=As many as)",
+        "She spent <u>not more than</u> 1,000 dollars. (=at most)",
+        "<u>More often than not</u> this kind of patient recovers. (=Rarely)"
+      ],
+      "answer": 3,
+      "explanation": "💡 [비교급 관용구 의미 구분]\n\n\"비교급을 이용한 관용구를 잘 알고 있는지에 관한 문제이다. ④번의 more often than not은 generally라는 뜻이다. 여기에 나오지 않은 다른 관용구에 관해서도 잘 파악해 두도록 한다.\"\n\n* ① no more than = only → 올바름\n* ② No fewer than = As many as → 올바름\n* ③ not more than = at most → 올바름\n* ④ More often than not = generally(대개) → Rarely는 틀린 뜻 ✅ (틀리게 제시된 것)"
+    },
+    {
+      "id": 140,
+      "passageBottom": null,
+      "question": "밑줄 친 부분의 뜻을 틀리게 제시한 것은?",
+      "options": [
+        "She was <u>as good as her word</u>. (약속을 어기지 않는)",
+        "The gentleman was <u>as cool as a cucumber</u>. (매우 침착한)",
+        "<u>As often as not</u> she brought home a chicken. (극히 드물게)",
+        "Without her glasses she was <u>as good as</u> blind. (~와 다름없는)"
+      ],
+      "answer": 2,
+      "explanation": "💡 [원급 관용구 의미: as often as not]\n\n\"원급을 이용한 관용어구의 뜻을 묻는 문제이다. 선택지 ③번의 as often as not은 '종종'이라는 뜻이다. 선택지에 나오지 않은 다른 관용어구의 뜻, 비교급을 이용한 관용어구의 뜻과 쓰임, 최상급을 이용한 관용어구의 뜻과 쓰임도 기억해 두도록 한다.\"\n\n* ① as good as her word: '약속을 어기지 않는' → 올바름\n* ② as cool as a cucumber: '매우 침착한' → 올바름\n* ③ as often as not: '종종, 자주' → 극히 드물게가 아닌 '종종' ✅ (틀리게 제시된 것)\n* ④ as good as blind: '~와 다름없는' → 올바름"
+    },
+    {
+      "id": 141,
+      "passageBottom": "It never rains (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) it pours.\nNot only he (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) his father likes baseball.",
+      "question": "다음 두 문장의 괄호 안에 공통으로 알맞은 것은?",
+      "options": [
+        "or",
+        "and",
+        "but",
+        "that"
+      ],
+      "answer": 2,
+      "explanation": "💡 [접속사 but: never...but / Not only A but also B]\n\n\"첫 번째 문장은 never ... but이 '반드시 ~하다'의 뜻이 되는 경우이고, 두 번째 문장은 Not only A but also B가 생략된 문장이다. 각 접속사의 쓰임과 등위상관접속사의 쓰임 등에 대해서 꼼꼼히 익혀두도록 한다.\"\n\n* It never rains but it pours: '반드시 ~하다' → but\n* Not only he but (also) his father: 'Not only A but also B' → but\n* 두 빈칸 모두 but ✅"
+    },
+    {
+      "id": 142,
+      "passageBottom": "Get up a bit earlier, (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) you will become healthy.\nSlow (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) steady wins the race.",
+      "question": "다음 두 문장의 괄호 안에 공통으로 알맞은 것은?",
+      "options": [
+        "and",
+        "but",
+        "or",
+        "so"
+      ],
+      "answer": 0,
+      "explanation": "💡 [접속사 and: 명령문+and / slow and steady]\n\n\"첫 번째 문장은 명령문 다음에 and나 or에서에서 문맥상 적절한 단어를 넣어야 하는 문제이다. 조금 더 일찍 일어나면 건강해질 것이라는 뜻이 되어야 하므로 and가 적절하다. 두 번째 문장은 '늦더라도 꾸준히 하는 편이 결국 이긴다'라는 뜻의 속담인데, and를 넣어서 일종의 관용구로 이해하고 외워두는 것이 좋다.\"\n\n* Get up earlier, and you will become healthy: 명령문+and(긍정 조건) → and\n* Slow and steady wins the race: 관용 표현 → and\n* 두 빈칸 모두 and ✅"
+    },
+    {
+      "id": 143,
+      "passageBottom": "You've got to be very careful (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) else you will fail.\nI have heard it somewhere (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) another.",
+      "question": "다음 두 문장의 괄호 안에 공통으로 가장 알맞은 것은?",
+      "options": [
+        "and",
+        "but",
+        "or",
+        "for"
+      ],
+      "answer": 2,
+      "explanation": "💡 [접속사 or: or else / somewhere or another]\n\n\"첫 번째 문장은 앞부분과 뒷부분의 내용이 상반되고 괄호 바로 다음에 있는 else에 주목할 필요가 있다. 두 번째 문장 역시 괄호 앞에 somewhere가 있고 괄호 다음에 another가 있으므로 두 문장에 공통으로 알맞은 접속사는 or이다.\"\n\n* careful or else you will fail: 'or else(그렇지 않으면)' → or\n* somewhere or another: 관용 표현 → or\n* 두 빈칸 모두 or ✅"
+    },
+    {
+      "id": 144,
+      "passageBottom": "All (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) he fled.\nIt is not I (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) you that are to blame.",
+      "question": "다음 두 문장의 괄호 안에 공통으로 알맞은 어휘는?",
+      "options": [
+        "and",
+        "but",
+        "or",
+        "that"
+      ],
+      "answer": 1,
+      "explanation": "💡 [접속사 but: except / not A but B]\n\n\"첫 번째 문장은 '그를 제외한 모든 사람이 도망갔다'는 뜻이므로 'except'의 뜻을 지니는 but이 적절하고, 두 번째 문장은 'not A but B'로 이어져야 자연스럽다.\"\n\n* All but he fled: '그를 제외한 모두' → but = except\n* not I but you: 'not A but B' → but\n* 두 빈칸 모두 but ✅"
+    },
+    {
+      "id": 145,
+      "passageBottom": null,
+      "question": "다음 중 그 의미가 나머지 셋과 다른 문장은?",
+      "options": [
+        "On leaving home, he began to run for school.",
+        "As far as he left home, he began to run for school.",
+        "The moment he left home, he began to run for school.",
+        "No sooner had he left home than he began to run for school."
+      ],
+      "answer": 1,
+      "explanation": "💡 [접속사 대용구문: On ~ing / The moment / No sooner ~ than]\n\n\"On ~ing 구문이 '~하자마자'의 뜻이며, The moment ~/Scarcely ~/when/No sooner ~ than 구문과 그 의미가 같다는 점을 알고 있어야 한다. 그 외에 접속사 대용구문에 대해서도 꼼꼼히 익혀두도록 한다.\"\n\n* ① On leaving home: '집을 떠나자마자' → 동일\n* ② As far as he left home: '집을 떠나는 한' → 조건/범위의 의미 ✅ (다른 것)\n* ③ The moment he left home: '집을 떠나자마자' → 동일\n* ④ No sooner ~ than: '~하자마자' → 동일"
+    },
+    {
+      "id": 146,
+      "passageBottom": "\"강에 빠지지 않도록 조심해라.\"는 뜻이 되도록 괄호 안에 알맞은 어휘를 넣으시오.\n\nBe careful (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) you should fall into the river.",
+      "question": "\"강에 빠지지 않도록 조심해라.\"는 뜻이 되도록 괄호 안에 알맞은 어휘를 넣으시오.",
+      "options": [
+        "otherwise",
+        "once",
+        "lest",
+        "now that"
+      ],
+      "answer": 2,
+      "explanation": "💡 [접속사 lest: ~하지 않도록 / lest + should]\n\n\"'~하지 않도록'이라는 뜻을 지니는 lest ~ should...를 알고 있는지를 묻는 문제이다. 그 외에 선택지에 나와 있는 'otherwise(그렇지 않다면, 않았다면)/once(일단 ~하면)/now that(~이므로, 이니까)'의 쓰임도 시험에 자주 출제되니 잘 기억해 두기 바란다.\"\n\n* lest you should fall: '빠지지 않도록' → lest ✅\n* otherwise: 그렇지 않으면 / once: 일단 ~하면 / now that: ~이므로"
+    },
+    {
+      "id": 147,
+      "passageBottom": null,
+      "question": "\"머지않아 우리는 다시 만날 것이다\"를 영어로 가장 잘 옮긴 것은?",
+      "options": [
+        "No sooner had we been separated than we met again.",
+        "No matter what happens, I will not meet you again.",
+        "As soon as we departed, we met again.",
+        "It will not be long before we meet again."
+      ],
+      "answer": 3,
+      "explanation": "💡 [접속사 before: It will not be long before ~]\n\n\"①번의 No sooner ~ than은 '~하자마자', ②번의 No matter what은 복합관계사 Whatever, ③번의 As soon as는 '~하자마자'라는 뜻의 접속사 대용구문을 이룬다. ④번의 It will not be long before는 '머지않아'라는 뜻이므로 주어진 우리말과 가장 잘 어울린다.\"\n\n* It will not be long before we meet again: '머지않아 다시 만날 것이다' ✅"
+    },
+    {
+      "id": 148,
+      "passageBottom": null,
+      "question": "밑줄 친 but의 뜻이 'except'와 가장 가까운 것은?",
+      "options": [
+        "Forgive my ignorance, <u>but</u> just what is CEO?",
+        "He is well read <u>but</u> lacks experiences.",
+        "I have no friend <u>but</u> him.",
+        "He is <u>but</u> a dreamer."
+      ],
+      "answer": 2,
+      "explanation": "💡 [접속사 but의 다양한 용법]\n\n\"①번의 but은 그러나(however), ②번은 역접의 의미로 사용된 접속사, ③번은 only의 뜻으로 쓰였다.\"\n\n* ① but: 그러나(however) → 역접 접속사\n* ② but lacks: 그러나(however) → 역접 접속사\n* ③ no friend but him: '그를 제외한 친구가 없다' → but = except ✅\n* ④ but a dreamer: only → 부사"
+    },
+    {
+      "id": 149,
+      "passageBottom": null,
+      "question": "다음 중 나머지 셋과 의미가 다르거나 문법상 어색한 문장 하나는?",
+      "options": [
+        "It was not until he left home that he began to run for school.",
+        "On leaving home, he began to run for school.",
+        "No sooner had he left home than he began to run for school.",
+        "The moment he left home, he began to run for school."
+      ],
+      "answer": 0,
+      "explanation": "💡 [It was not until ~ that: ~하고 나서야 비로소]\n\n\"②, ③, ④번은 모두 '집을 떠나자마자 그는 학교를 향해 달려가기 시작했다'는 뜻이다. 반면 ①번은 '집을 떠나고 나서야 그는 학교를 향해 달려가기 시작했다'는 뜻이다.\"\n\n* ① It was not until ~ that: '~하고 나서야 비로소' → 의미 다름 ✅\n* ② On leaving home: '~하자마자' → 동일\n* ③ No sooner ~ than: '~하자마자' → 동일\n* ④ The moment: '~하자마자' → 동일"
+    },
+    {
+      "id": 150,
+      "passageBottom": null,
+      "question": "밑줄 친 부분의 뜻을 괄호 안에 잘못 제시한 것은?",
+      "options": [
+        "She wept bitterly <u>as</u> she told her story. (=when)",
+        "<u>As</u> he had been up since 4 a.m., he was very tired. (=Because)",
+        "<u>But that</u> I saw it, I could not have believed it. (=Unless)",
+        "They could use the land for a year <u>on condition that</u> they handed it back cleared of weeds. (=unless)"
+      ],
+      "answer": 3,
+      "explanation": "💡 [접속사 on condition that: if의 뜻]\n\n\"접속사 as는 ①번처럼 when, ②번처럼 Because 등의 뜻으로 사용되며 그 외에도 여러 가지 쓰임을 지니므로 예문과 함께 잘 기억해 두도록 한다. ③번의 But that은 Unless의 뜻으로 쓰인 것이 맞고, ④번의 on condition (that)은 unless가 아닌 if의 뜻을 지닌다.\"\n\n* ① as = when → 올바름\n* ② As = Because → 올바름\n* ③ But that = Unless → 올바름\n* ④ on condition that = if (unless 아님) ✅ (잘못 제시된 것)"
     }
   ]
 }
