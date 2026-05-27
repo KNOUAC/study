@@ -781,6 +781,656 @@
       ],
       "answer": 1,
       "explanation": "💡 [used to vs would: 무생물/상태]\n\n\"used to를 규칙적인 습관, would는 불규칙적인 습관을 가리킨다고 하는데, 움직일 수 없는 식물인 큰 나무(a big tree)가 불규칙적인 행동이나 습관을 보여줄 수 없으므로 would와 함께 쓸 수 없다.\"\n\n* ① Never did I see: 부정 부사 도치 구문 → 올바름\n* ② There would be a big tree: 무생물(나무) 주어에 would 불가 → used to로 써야 함 ✅ (어색한 것)\n* ③ as you would be done by: wish to의 뜻 → 올바름\n* ④ shall be equal: 법률 문서에서 shall → 올바름"
+    },
+    {
+      "id": 61,
+      "passageBottom": null,
+      "question": "능동태 문장을 수동태로 옳게 변환한 것은?",
+      "options": [
+        "He resembles his father. → His father is resembled by him.",
+        "I have a book. → A book is had by me.",
+        "He threw me a stone. → I was thrown a stone by him.",
+        "She made her son a dentist. → Her son was made a dentist by her."
+      ],
+      "answer": 3,
+      "explanation": "💡 [수동태 변환 불가 동사 / 4형식·5형식 수동태]\n\n\"resemble은 상태를 나타내는 동사이므로 수동태로 사용할 수가 없다. have가 소유의 의미를 나타낼 때는 수동태로 전환할 수 없는 경우이다. 수여동사 구문에서 일부 동사(read, write, make, bring, throw 등)의 경우 간접목적어를 주어로 삼아서 수동태를 만들 수 없는 경우에 해당된다.\"\n\n* ① resemble: 상태동사 → 수동태 불가\n* ② have(소유): 수동태 불가\n* ③ throw: 간접목적어(me)를 주어로 수동태 불가 → I was thrown a stone은 틀림\n* ④ make + 목적어 + 목적보어 → Her son was made a dentist by her ✅"
+    },
+    {
+      "id": 62,
+      "passageBottom": null,
+      "question": "능동태 문장의 수동태 전환이 올바른 것은?",
+      "options": [
+        "I made her a doll. → She was made a doll by me.",
+        "John agrees with Mary. → Mary is agreed with by John.",
+        "They have a nice house. → A nice house is had by them.",
+        "Who wrote his novel? → By whom was this novel written?"
+      ],
+      "answer": 3,
+      "explanation": "💡 [수동태 전환 불가 / 4형식 수동태 / 의문문 수동태]\n\n\"4형식 문장에서 간접목적어를 주어로 해서 수동태를 만들지 못하는 경우에 해당하고, agree with는 '에서 with의 목적어를 주어로 하여 수동태 전환이 불가능한 경우이며, have처럼 소유 상태를 나타내는 일부 동사 중에는 수동태로 전환할 수 없는 경우도 있다.\"\n\n* ① She was made a doll: make는 간접목적어를 주어로 수동태 불가\n* ② agree with: 구동사 수동태 불가\n* ③ have(소유): 수동태 불가\n* ④ By whom was this novel written?: 의문사 수동태 올바름 ✅"
+    },
+    {
+      "id": 63,
+      "passageBottom": "The city is well supplied (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) water.\nHe was very pleased (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) the gift.",
+      "question": "다음 두 문장의 괄호 안에 공통으로 알맞은 것은?",
+      "options": [
+        "in",
+        "with",
+        "to",
+        "by"
+      ],
+      "answer": 1,
+      "explanation": "💡 [수동태 구문에서 by 이외의 전치사: with]\n\n\"수동태 구문에서 행위자에 by 이외의 전치사가 쓰이는 경우인데, 위의 두 문장은 with를 사용해야 한다. 그 외에 be interested in/be surprised at/be known to/be known by 등이 사용된 예문은 꼭 기억해 두도록 한다.\"\n\n* be supplied with: '~이 공급되다' → with\n* be pleased with: '~에 기뻐하다' → with\n* 두 빈칸 모두 with ✅"
+    },
+    {
+      "id": 64,
+      "passageBottom": "Susan gets married (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) Bob.\nHe is known (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) everybody.",
+      "question": "다음 두 문장의 괄호 안에 공통으로 알맞은 것은?",
+      "options": [
+        "in",
+        "with",
+        "to",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "💡 [수동태 관용 표현: get married to / be known to]\n\n\"'get married to~', 'be known to~'\"\n\n* get married to: '~와 결혼하다' → to\n* be known to: '~에게 알려지다' → to\n* 두 빈칸 모두 to ✅"
+    },
+    {
+      "id": 65,
+      "passageBottom": "The hall was filled (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) the audience.\nHe was very pleased (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) the gift.",
+      "question": "다음 두 문장의 괄호 안에 공통으로 알맞은 것은?",
+      "options": [
+        "with",
+        "in",
+        "by",
+        "of"
+      ],
+      "answer": 0,
+      "explanation": "💡 [수동태 관용 표현: be filled with / be pleased with]\n\n\"'be filled with~', 'be pleased with~'\"\n\n* be filled with: '~으로 가득 차다' → with\n* be pleased with: '~에 기뻐하다' → with\n* 두 빈칸 모두 with ✅"
+    },
+    {
+      "id": 66,
+      "passageBottom": "A man is known (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) the company he keeps.\nHe is known (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) everybody.",
+      "question": "다음 두 문장의 괄호 안에 알맞은 전치사를 순서대로 올게 짝지은 것은?",
+      "options": [
+        "by, to",
+        "to, by",
+        "for, by",
+        "by, for"
+      ],
+      "answer": 0,
+      "explanation": "💡 [be known by vs be known to: 의미 차이]\n\n\"첫 번째 문장은 '사람은 사귀는 친구를 보면 알 수 있다'는 뜻, 두 번째 문장은 '그는 모든 사람들에게 알려져 있다'는 뜻이다. 의미에 따라 전치사가 달리 사용되므로 주의해야 한다.\"\n\n* be known by: '~을 보면 알 수 있다' (판단 기준) → by\n* be known to: '~에게 알려지다' (대상) → to\n* → by, to ✅"
+    },
+    {
+      "id": 67,
+      "passageBottom": null,
+      "question": "다음 중 어법상 가장 어색한 문장은?",
+      "options": [
+        "He drowned in the river.",
+        "The store is closed at 9.",
+        "Beef is sold by the pound in America.",
+        "He went there but was not welcomed."
+      ],
+      "answer": 0,
+      "explanation": "💡 [수동태이지만 사실상 능동(자동사)의 의미인 경우]\n\n\"①번 문장은 의미상으로는 능동이지만, 수동으로 해야 올은 문장이 된다. 비슷한 유형의 문장으로는 'He was born in 1970.'가 있다.\"\n\n* ① He drowned: 의미상 능동(자동사)이지만 수동으로 표현해야 함 → He was drowned로 써야 올바름 ✅\n* ② is closed: 상태 수동 → 올바름\n* ③ is sold by the pound: 능동태 행위의 수동 표현 → 올바름\n* ④ was not welcomed: 수동태 → 올바름"
+    },
+    {
+      "id": 68,
+      "passageBottom": null,
+      "question": "밑줄 친 동사의 형태가 틀린 것은?",
+      "options": [
+        "He made a speech and <u>applauded</u> by the audience.",
+        "I had my watch <u>mended</u>.",
+        "He <u>was born</u> in 1970.",
+        "His book <u>sells</u> well."
+      ],
+      "answer": 0,
+      "explanation": "💡 [수동태 형태 / 사역동사 수동 / 자동사 능동]\n\n\"①번 문장은 접속사 앞뒤에서 공통으로 주어 He를 취하고 있다. 그러나 연설을 한 것은 능동적인 행위이지만, 청중들로부터 박수갈채를 받은 것은 수동으로 표현해야 하므로 was applauded가 되어야 올은 문장이 된다.\"\n\n* ① applauded → was applauded: 청중에게 박수받는 것은 수동 ✅ (틀린 것)\n* ② mended: have + 목적어 + 과거분사(사역) → 올바름\n* ③ was born: 태어남은 수동 표현 → 올바름\n* ④ sells: 자동사적 용법으로 능동 → 올바름"
+    },
+    {
+      "id": 69,
+      "passageBottom": null,
+      "question": "밑줄 친 동사의 형태가 어법상 옳은 것은?",
+      "options": [
+        "I had my watch <u>mending</u>.",
+        "He <u>was drowned</u> in the river.",
+        "Your silence is cordially <u>requesting</u>.",
+        "She spoke and <u>was criticizing</u> by her classmates."
+      ],
+      "answer": 1,
+      "explanation": "💡 [수동태 형태 구분]\n\n\"my watch가 수리의 대상이 되므로 mended, Your silence이므로 requested, She(그녀)가 비판을 받은 상황이므로 수동태(was criticized)로 표현해야 올은 문장이 된다.\"\n\n* ① mending → mended: watch는 수리되는 대상(수동) → 틀림\n* ② was drowned: 수동태이지만 능동의 의미('익사하다') → 올바름 ✅\n* ③ requesting → requested: Your silence는 요청받는 대상(수동) → 틀림\n* ④ was criticizing → was criticized: she는 비판받는 대상(수동) → 틀림"
+    },
+    {
+      "id": 70,
+      "passageBottom": null,
+      "question": "다음 중 어법상 옳은 문장은?",
+      "options": [
+        "I was thrown a stone by him.",
+        "A book is had by me.",
+        "His father is resembled by him.",
+        "The old man was seen to cross the road."
+      ],
+      "answer": 3,
+      "explanation": "💡 [수동태 불가 동사 / 지각동사 수동태]\n\n\"throw의 경우 간접목적어인 me를 주어로 해서 수동태를 만들지 못하는 경우이며, have가 소유의 뜻을 지닐 때 수동태로 쓸 수 없는 경우이다. resemble 역시 상태를 나타내는 경우 수동태로 쓸 수 없다.\"\n\n* ① I was thrown a stone: throw는 간접목적어 주어 수동태 불가 → 틀림\n* ② A book is had: have(소유) 수동태 불가 → 틀림\n* ③ His father is resembled: resemble 수동태 불가 → 틀림\n* ④ was seen to cross: 지각동사 수동태에서 원형부정사 → to부정사로 변환 ✅"
+    },
+    {
+      "id": 71,
+      "passageBottom": "If you turn to the left, you will see the post office.\n= Turn to the left, (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) you will see the post office.",
+      "question": "다음 두 문장이 같은 뜻일 때, 괄호 안에 가장 적절한 단어는?",
+      "options": [
+        "and",
+        "or",
+        "but",
+        "so"
+      ],
+      "answer": 0,
+      "explanation": "💡 [조건명령문: 명령문 + and/or]\n\n\"조건명령문에 사용된 and와 or의 쓰임에 관한 문제이다. 여기서는 '왼쪽으로 방향을 전환하면, 우체국을 발견할 수 있을 것'이라는 뜻이므로 and를 써야 한다.\"\n\n* 명령문 + and: '~하면, ...할 것이다' (조건의 긍정)\n* 명령문 + or: '~하지 않으면, ...할 것이다' (조건의 부정)\n* 왼쪽으로 돌면 → 우체국을 볼 것이다 (긍정 조건) → and ✅"
+    },
+    {
+      "id": 72,
+      "passageBottom": "\"It is time you (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) to bed.\"에서 괄호 안에 가장 적절한 것은?",
+      "question": "\"It is time you (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) to bed.\"에서 괄호 안에 가장 적절한 것은?",
+      "options": [
+        "go",
+        "went",
+        "have gone",
+        "had gone"
+      ],
+      "answer": 1,
+      "explanation": "💡 [It is time 가정법 과거]\n\n\"It is time 가정법 과거 구문에 관한 문제이다. went 대신에 should go를 써도 같은 의미가 된다는 점을 기억해 두도록 한다. 그 외의 기타 가정법 구문에 관해서도 잘 익혀두기 바란다.\"\n\n* It is time + 주어 + 동사의 과거형: '~할 때이다'\n* → went (가정법 과거) ✅\n* should go도 동일 의미"
+    },
+    {
+      "id": 73,
+      "passageBottom": "If you work hard, you will pass the exam.\n= Work hard, (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) you will pass the exam.",
+      "question": "다음 두 문장이 같은 뜻일 때, 괄호 안에 가장 적절한 어휘는?",
+      "options": [
+        "and",
+        "but",
+        "or",
+        "so"
+      ],
+      "answer": 0,
+      "explanation": "💡 [조건명령문: 명령문 + and]\n\n\"조건절로 표시된 문장은 '만약 열심히 공부하면, 시험에 합격할 것이다'라는 뜻이므로 (명령문+and~)로 표시해야 의미가 같아진다. 반대로 '열심히 공부하지 않으면 시험에 합격할 수 없다'는 뜻이 되려면 Work hard, or you will(혹은 can) not pass the exam 식으로 표현해야 한다.\"\n\n* 열심히 공부하면 → 시험에 합격할 것이다 (긍정 조건) → and ✅"
+    },
+    {
+      "id": 74,
+      "passageBottom": "\"As I don't have enough money, I cannot go abroad.\"를 가정법 구문으로 옳게 전환한 것은?",
+      "question": "\"As I don't have enough money, I cannot go abroad.\"를 가정법 구문으로 옳게 전환한 것은?",
+      "options": [
+        "If I didn't have enough money, I could go abroad.",
+        "If I had enough money, I could go abroad.",
+        "If I had had enough money, I could have gone abroad.",
+        "If I have enough money, I couldn't go abroad."
+      ],
+      "answer": 1,
+      "explanation": "💡 [직설법 현재 → 가정법 과거 전환]\n\n\"직설법 현재 문장이므로 가정법 과거로 바꾸면 된다. ①번과 ②번이 과거시제로 되어 있지만, ①번은 '만약 내가 돈이 충분히 없다면 나는 외국으로 갈 수 있다'라는 뜻이므로 주어진 문장과 의미가 일치하지 않는다.\"\n\n* 직설법 현재(don't have) → 가정법 과거(had)\n* '돈이 충분히 있다면 외국에 갈 수 있을 텐데'\n* → If I had enough money, I could go abroad. ✅"
+    },
+    {
+      "id": 75,
+      "passageBottom": "\"내가 그의 충고를 따랐더라면, 지금은 유명한 의사가 되어 있을 텐데.\"라는 뜻에 가장 가까운 문장은?",
+      "question": "\"내가 그의 충고를 따랐더라면, 지금은 유명한 의사가 되어 있을 텐데.\"라는 뜻에 가장 가까운 문장은?",
+      "options": [
+        "If I followed his advice, I would be now a famous doctor.",
+        "If I had followed his advice, I would be now a famous doctor.",
+        "If I had followed his advice, I would have been a famous doctor now.",
+        "If I followed his advice, I would have been a famous doctor now."
+      ],
+      "answer": 1,
+      "explanation": "💡 [혼합가정법: if절 과거완료 + 주절 가정법 과거]\n\n\"혼합가정법에 관한 문제이므로, 주어진 우리말은 앞부분은 가정법 과거완료, 뒷부분은 가정법 과거로 올겨야 한다.\"\n\n* if절: '따랐더라면' → 과거 사실의 반대 → had followed (가정법 과거완료)\n* 주절: '지금은 되어 있을 텐데' → 현재 사실의 반대 → would be (가정법 과거)\n* → If I had followed his advice, I would be now a famous doctor. ✅"
+    },
+    {
+      "id": 76,
+      "passageBottom": "He speaks French fluently as if he (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) a Frenchman.",
+      "question": "아래 문장의 괄호 안에 알맞은 be 동사의 형태는?",
+      "options": [
+        "were",
+        "is",
+        "had been",
+        "be"
+      ],
+      "answer": 0,
+      "explanation": "💡 [as if 가정법 과거: 현재 사실의 반대]\n\n\"as if 가정법 구이다. 그가 현재 자기가 마치 프랑스 사람인 것처럼 불어를 유창하게 말한다는 뜻이므로 가정법 과거로 써야 한다.\"\n\n* as if + 가정법 과거(were): 현재 사실의 반대\n* 그는 프랑스인이 아니지만 프랑스인인 것처럼 말함\n* → were ✅"
+    },
+    {
+      "id": 77,
+      "passageBottom": "\"One minute later, I should have missed the bus.\"에서 밑줄 친 부분과 바꾸어 써도 어법상 옳은 것은?",
+      "question": "\"One minute later, I should have missed the bus.\"에서 밑줄 친 부분과 바꾸어 써도 어법상 옳은 것은?",
+      "options": [
+        "If I arrive one minute later",
+        "If I arrived one minute later",
+        "If I had arrived one minute later",
+        "If I should arrive one minute later"
+      ],
+      "answer": 2,
+      "explanation": "💡 [가정법 과거완료: One minute later 조건 표현]\n\n\"조건의 표현 중에서 특정 어구가 가정법의 의미를 지니는 경우이다. 주절의 시제(should have missed)가 가정법 과거완료이므로 One minute later에도 가정법 과거완료의 의미가 포함되어 있다는 점을 잘 기억해 두도록 한다.\"\n\n* should have missed → 가정법 과거완료\n* 조건절도 과거완료 형태 필요\n* → If I had arrived one minute later ✅"
+    },
+    {
+      "id": 78,
+      "passageBottom": null,
+      "question": "밑줄 친 부분의 뜻이 'unless'와 가장 비슷한 것은?",
+      "options": [
+        "<u>In case</u> I am late, don't wait to start dinner.",
+        "<u>Granted that</u> it is true, I will not accept it.",
+        "<u>Supposing</u> your wife died, wouldn't you be troubled by remorse?",
+        "I should have failed <u>but that</u> you aided me."
+      ],
+      "answer": 3,
+      "explanation": "💡 [unless와 동의 표현: but that]\n\n\"①번의 조건절은 '내가 늦는다면'이라는 뜻이므로 In case가 If의 뜻이며, ②번의 조건절은 '그것이 사실이라고 하더라도'라는 뜻이므로 Even if, ③번의 Supposing 역시 '당신의 아내가 죽는다면'이라는 뜻이므로 If의 뜻을 지닌다. 반면 ④번의 but that은 '당신이 나를 도와주지 않았다면'이라는 뜻이므로 unless와 같은 의미로 쓰였다.\"\n\n* unless: '~하지 않으면'\n* but that: '~하지 않았다면' → unless와 동일 의미 ✅\n* In case: if / Granted that: even if / Supposing: if"
+    },
+    {
+      "id": 79,
+      "passageBottom": "\"She talked much; otherwise she would have seemed wiser.\"에서 밑줄 친 otherwise와 바꾸어 쓸 수 있는 것은?",
+      "question": "\"She talked much; otherwise she would have seemed wiser.\"에서 밑줄 친 otherwise와 바꾸어 쓸 수 있는 것은?",
+      "options": [
+        "if she had talked much",
+        "if she hadn't talked much",
+        "if she talked much",
+        "if she didn't talk much"
+      ],
+      "answer": 1,
+      "explanation": "💡 [otherwise의 가정법 전환]\n\n\"직설법(She talked much)의 시제가 과거이므로 otherwise를 포함한 절에서는 가정법 과거완료를 써야 한다.\"\n\n* otherwise: '그렇지 않았더라면' → 과거 사실의 반대\n* She talked much → if she hadn't talked much (가정법 과거완료)\n* → if she hadn't talked much ✅"
+    },
+    {
+      "id": 80,
+      "passageBottom": null,
+      "question": "밑줄 친 부분의 의미를 괄호 안에 잘못 제시한 것은?",
+      "options": [
+        "She talks much; <u>otherwise</u> she would seem wiser. (=if she didn't talk much)",
+        "I would not do such a thing in <u>your place</u>. (=if I were in your place)",
+        "<u>Born in better times</u>, he would have become a hero. (=If he had been born in better times)",
+        "<u>One minute later</u>, I should have missed the bus. (=If I arrived one minute later)"
+      ],
+      "answer": 3,
+      "explanation": "💡 [가정법 과거완료 조건 표현 전환]\n\n\"④번에서는 뒷부분이 가정법 과거완료이므로 밑줄 친 부분 역시 가정법 과거완료로 올겨야 한다.\"\n\n* One minute later → 가정법 과거완료 조건\n* should have missed → 과거완료 가정법\n* If I arrived → If I had arrived로 써야 올바름 ✅ (잘못 제시된 것)\n* ①②③은 모두 올바른 전환"
+    },
+    {
+      "id": 81,
+      "passageBottom": "She said to him, \"You are happy now.\"\n→ She ①told him that ②she ③was happy ④then.",
+      "question": "직접화법을 간접화법으로 전환할 때 ①~④ 중에서 틀린 부분은?",
+      "options": [
+        "①told",
+        "②she",
+        "③was",
+        "④then"
+      ],
+      "answer": 1,
+      "explanation": "💡 [직접화법 → 간접화법 전환: 인칭대명사 변환]\n\n\"직접화법을 간접화법으로 바꿀 때에는 문장에 어울리게 전달동사를 변화시키야 하고, 문맥에 어울리게 접속사도 바꾸어야 하며, 상황에 맞게 인칭대명사도 적절히 바꾸어야 하며, 동사의 시제와 시간과 장소의 부사도 상황에 맞게 바꾸어야 한다.\"\n\n* 여기서는 She가 him에게 말한 상황이므로 대명사 You는 he로 바꾸어야 올은 문장이 된다.\n* ② she → he로 바꿔야 함 ✅ (틀린 부분)"
+    },
+    {
+      "id": 82,
+      "passageBottom": "He said to me, \"Are you all right?\"\n→ He ①asked me ②if ③I ④am all right.",
+      "question": "직접화법을 간접화법으로 전환할 때 ①~④ 중에서 가장 어색한 것은?",
+      "options": [
+        "①asked",
+        "②if",
+        "③I",
+        "④am"
+      ],
+      "answer": 3,
+      "explanation": "💡 [직접화법 → 간접화법 전환: 시제 일치]\n\n\"의문문을 간접화법으로 전환할 경우 전달동사로 ask, 접속사로 if를 쓴 것은 적절하다. 인칭대명사는 그가 나에게 말한 것이므로 you를 I로 고친 것도 적절하다. 그러나 주절의 시제가 과거이므로 am은 was로 바꾸어야 올다.\"\n\n* am → was: 주절 시제(asked=과거)에 맞춰 시제 일치 ✅ (어색한 것)"
+    },
+    {
+      "id": 83,
+      "passageBottom": null,
+      "question": "밑줄 친 동사의 형태가 어법상 틀린 것은?",
+      "options": [
+        "War and Peace <u>is</u> the longest novel I've ever read.",
+        "The crew <u>were</u> all saved.",
+        "Half of my classmates <u>are</u> present.",
+        "Either your brakes or your eyesight <u>are</u> at fault."
+      ],
+      "answer": 3,
+      "explanation": "💡 [수의 일치: Either A or B + 동사]\n\n\"Either A or B에서 B에 일치시키는 경우이다. 여기서는 your eyesight가 단수이므로 is로 써야 올은 문장이 된다.\"\n\n* ① War and Peace: 책의 제목이기 때문에 단수 취급 → is 올바름\n* ② The crew: 구성원 개개인을 지칭하면 복수 취급 → were 올바름\n* ③ Half of my classmates: classmates가 복수이므로 복수 취급 → are 올바름\n* ④ Either ~ or your eyesight: 단수 주어에 일치 → is로 써야 함 ✅ (틀린 것)"
+    },
+    {
+      "id": 84,
+      "passageBottom": null,
+      "question": "밑줄 친 동사의 형태가 틀린 것은?",
+      "options": [
+        "The audience <u>was</u> enormous.",
+        "The crew <u>were</u> all saved.",
+        "Bacon and eggs <u>makes</u> a good solid breakfast.",
+        "Two thirds of the area <u>are</u> under water."
+      ],
+      "answer": 3,
+      "explanation": "💡 [수의 일치: 분수 + of + 명사]\n\n\"분수가 주어인 경우 of 이하의 명사의 수에 따라 복수 혹은 단수를 쓴다. ④번처럼 분수가 주어인 경우에는 명사의 가산 여부에 따라 복수 혹은 단수로 취급해야 한다.\"\n\n* ① The audience: 집단 전체를 하나로 간주 → was 올바름\n* ② The crew: 구성원 개개인에 초점 → were 올바름\n* ③ Bacon and eggs: 하나의 음식 이름 → 단수 makes 올바름\n* ④ Two thirds of the area: area가 단수(불가산명사) → is로 써야 함 ✅ (틀린 것)"
+    },
+    {
+      "id": 85,
+      "passageBottom": null,
+      "question": "다음 밑줄 친 동사가 잘못 쓰인 것은?",
+      "options": [
+        "Many a member <u>has</u> protested against the proposal.",
+        "Two thirds of the area <u>is</u> under water.",
+        "The audience <u>were</u> enormous.",
+        "Ten dollars <u>is</u> all I have left."
+      ],
+      "answer": 2,
+      "explanation": "💡 [수의 일치: 집합명사 audience]\n\n\"③번의 audience의 경우 집단을 한 단위로 취급하면 단수, 구성원 개개인을 지칭하면 복수로 취급해야 한다. 여기서는 전체를 하나로 간주하여 '모인 청중의 규모가 엄청나게 컸다'는 뜻이므로 단수 취급해야 한다.\"\n\n* ① Many a member: 단수 취급 → has 올바름\n* ② Two thirds of the area: area 단수 → is 올바름\n* ③ The audience were: 전체를 하나로 간주 시 단수 → was로 써야 함 ✅ (틀린 것)\n* ④ Ten dollars: 금액 단수 취급 → is 올바름"
+    },
+    {
+      "id": 86,
+      "passageBottom": null,
+      "question": "밑줄 친 동사의 시제가 잘못된 것은?",
+      "options": [
+        "Our teacher told us that Columbus <u>discovered</u> America.",
+        "He told me that he <u>takes</u> a walk every morning.",
+        "I thought you <u>will pass</u> the examination.",
+        "I heard her say that she <u>is studying</u> politics."
+      ],
+      "answer": 2,
+      "explanation": "💡 [시제의 일치 / 예외적 경우]\n\n\"시제의 일치에 있어서 예외적인 경우는 잘 기억해 두어야 한다.\"\n\n* ① discovered: 역사적 사실일 경우 과거시제로 표현 → 올바름\n* ② takes: 지금 현재에도 계속되는 습관일 경우 현재시제로 표현 → 올바름\n* ③ will pass → would pass: 주절이 과거(thought)이므로 시제 일치 필요 ✅ (틀린 것)\n* ④ is studying: 지금도 정치학을 공부하는 것이 계속될 가능성이 높으면 현재로 표현 가능"
+    },
+    {
+      "id": 87,
+      "passageBottom": null,
+      "question": "직접화법을 간접화법으로 전환한 것 중에서 어법상 틀린 것은?",
+      "options": [
+        "He said, \"Who broke the window?\" → He asked who had broken the window.",
+        "He said to me, \"Don't speak loud!\" → He told me not to speak loud.",
+        "He said to Helen, \"Give me this book.\" → He told Helen to give her this book.",
+        "He said, \"God save my country!\" → He prayed that God might save his country!"
+      ],
+      "answer": 2,
+      "explanation": "💡 [직접화법 → 간접화법: 명령문 전환 시 대명사 변환]\n\n\"③번의 경우 그가 Helen에게 말한 경우이므로 He told Helen to give him that book으로 올겨야 한다.\"\n\n* ① 의문문 → asked + 의문사 + 과거완료 → 올바름\n* ② 부정명령문 → told + not to 부정사 → 올바름\n* ③ Give me → give her: me는 화자(he)를 가리키므로 him으로, this는 that으로 바꿔야 함 ✅ (틀린 것)\n* ④ 기원문 → prayed that + 가정법 현재(might) → 올바름"
+    },
+    {
+      "id": 88,
+      "passageBottom": null,
+      "question": "직접화법을 간접화법으로 잘못 전환한 것은?",
+      "options": [
+        "He said to Helen, \"Give me this book.\" → He told Helen to give him that book.",
+        "She said, \"How hot it is!\" → She exclaimed how hot it was.",
+        "He said, \"I will start tomorrow.\" → He said that he would start the next day.",
+        "She said to him, \"You are happy now.\" → She told him that that she was happy then."
+      ],
+      "answer": 3,
+      "explanation": "💡 [직접화법 → 간접화법: 인칭대명사 변환]\n\n\"④번은 그녀가 그에게 말하고 있는 상황이므로 You는 he로 바꾸어야 한다.\"\n\n* ① give him that book: me → him, this → that 올바름\n* ② how hot it was: 감탄문 간접화법 올바름\n* ③ would start the next day: 시제 일치 + tomorrow → the next day 올바름\n* ④ that she was happy: You → he로 바꿔야 함 (she가 아닌 he) ✅ (잘못된 것)"
+    },
+    {
+      "id": 89,
+      "passageBottom": null,
+      "question": "어법상 틀린 문장은?",
+      "options": [
+        "Two thirds of the area is under water.",
+        "Either your brakes or your eyesight is at fault.",
+        "Your problem and mine are similar.",
+        "Half of our classmates is present."
+      ],
+      "answer": 3,
+      "explanation": "💡 [수의 일치: Half of + 복수명사]\n\n\"④번처럼 분수가 주어인 경우에는 명사의 가산 여부에 따라 복수 혹은 단수로 취급해야 한다. classmates가 복수이므로 동사는 are가 되어야 한다.\"\n\n* ① Two thirds of the area: area 불가산명사 단수 → is 올바름\n* ② Either ~ or your eyesight: 단수에 일치 → is 올바름\n* ③ Your problem and mine: 복수 주어 → are 올바름\n* ④ Half of our classmates: classmates 복수 → are로 써야 함 ✅ (틀린 것)"
+    },
+    {
+      "id": 90,
+      "passageBottom": "He said, \"Who broke the window yesterday?\"\n→ He ①asked ②who ③had broken the window ④then.",
+      "question": "직접화법을 간접화법으로 전환할 때 틀린 부분은?",
+      "options": [
+        "①asked",
+        "②who",
+        "③had broken",
+        "④then"
+      ],
+      "answer": 3,
+      "explanation": "💡 [직접화법 → 간접화법: 시간 부사 전환]\n\n\"yesterday는 대화를 나누고 있는 시점에서 하루 전을 가리키므로 간접화법에서는 the day before나 the previous day로 바꾸어야 한다.\"\n\n* ① asked: 의문문 전달동사 → 올바름\n* ② who: 의문사 유지 → 올바름\n* ③ had broken: yesterday(과거) → 대과거로 전환 → 올바름\n* ④ then → the day before / the previous day로 바꿔야 함 ✅ (틀린 부분)"
+    },
+    {
+      "id": 91,
+      "passageBottom": null,
+      "question": "어법상 밑줄 친 정관사가 잘못 사용된 것은?",
+      "options": [
+        "How long have you been playing <u>the</u> guitar?",
+        "<u>The</u> author of Hamlet is Shakespeare.",
+        "Would you play <u>the</u> tennis with me?",
+        "He struck his friend on <u>the</u> head."
+      ],
+      "answer": 2,
+      "explanation": "💡 [정관사 the의 용법: 운동경기에는 관사 생략]\n\n\"①번은 특정한 악기, 가구의 이름 앞에 정관사를 쓴 경우, ②번은 형용사구나 절로 한정될 때 정관사 the를 쓴 경우, ④번은 신체 부위를 나타낼 때 소유격 대신 the를 쓴 경우이며, ③번에서는 운동경기나 식사 등의 명칭인 경우 관사를 생략해야 올다.\"\n\n* ① the guitar: 악기 이름 앞 → the 올바름\n* ② The author: 한정하는 어구 앞 → the 올바름\n* ③ the tennis: 운동경기 이름에는 관사 생략 → play tennis로 써야 함 ✅ (틀린 것)\n* ④ on the head: 신체 부위에 소유격 대신 the → 올바름"
+    },
+    {
+      "id": 92,
+      "passageBottom": null,
+      "question": "어법상 밑줄 친 정관사의 쓰임이 가장 어색한 것은?",
+      "options": [
+        "<u>The</u> earth moves around the sun.",
+        "The wonderful landscape moved <u>the</u> poet in him.",
+        "She lives from hand to <u>the</u> mouth.",
+        "The water was rising by <u>the</u> second."
+      ],
+      "answer": 2,
+      "explanation": "💡 [정관사 the의 용법: 관용어구에서는 생략]\n\n\"①번은 독특하고 유일한 것에 정관사를 붙인 경우, ②번은 the+보통명사가 추상명사로 사용된 경우, ④번은 시간이나 수량의 단위에 the를 붙인 경우이다. ③번은 관사를 생략하는 경우에 해당된다.\"\n\n* ① The earth: 유일한 것 → the 올바름\n* ② the poet: 추상명사적 용법 → the 올바름\n* ③ from hand to the mouth: 'from hand to mouth'는 관용어구로 the 불필요 ✅ (어색한 것)\n* ④ by the second: 단위 앞에 the → 올바름"
+    },
+    {
+      "id": 93,
+      "passageBottom": null,
+      "question": "밑줄 친 부정관사 a/an 중에서 'wonderful'의 뜻으로 쓰인 것은?",
+      "options": [
+        "They work eight hours <u>a</u> day.",
+        "It was <u>a</u> sight that would make angels rejoice.",
+        "Not <u>a</u> boy could be seen in the classroom.",
+        "Once upon a time there lived <u>an</u> old man."
+      ],
+      "answer": 1,
+      "explanation": "💡 [부정관사 a/an의 다양한 의미]\n\n\"부정관사는 원래의 의미인 '하나(one)'라는 뜻이지만, 그 외에도 다양한 의미로 사용된다.\"\n\n* ① a day: per(~마다)의 뜻 → per\n* ② a sight: wonderful(놀라운)의 뜻으로 쓰임 → wonderful ✅\n* ③ Not a boy: one의 뜻으로 쓰임 → one\n* ④ an old man: a certain(어떤)의 뜻으로 쓰임 → a certain"
+    },
+    {
+      "id": 94,
+      "passageBottom": null,
+      "question": "밑줄 친 부정관사의 의미를 괄호 안에 틀리게 설명한 것은?",
+      "options": [
+        "Rome was not built in <u>a</u> day. (=one)",
+        "They work eight hours <u>a</u> day. (=per)",
+        "Birds of <u>a</u> feather flock together. (=a certain)",
+        "It was <u>a</u> sight that would make angels rejoice. (=wonderful)"
+      ],
+      "answer": 2,
+      "explanation": "💡 [부정관사 a/an의 다양한 의미: same]\n\n\"부정관사는 원래의 의미인 '하나(one)'라는 뜻이지만, 그 외에도 the same/any, every/a certain/per, each/some/wonderful 등의 다양한 의미로 사용된다. ③번은 '깃털이 같은 새는 함께 모인다.' 즉, 유유상종이라는 뜻을 지니므로 밑줄 친 a는 the same의 뜻으로 사용되었다.\"\n\n* ① a day = one → 올바름\n* ② a day = per → 올바름\n* ③ a feather = the same(같은) → a certain이 아닌 the same ✅ (틀리게 설명된 것)\n* ④ a sight = wonderful → 올바름"
+    },
+    {
+      "id": 95,
+      "passageBottom": null,
+      "question": "밑줄 친 부분이 문법상 어색한 것은?",
+      "options": [
+        "My daughters go to school <u>by bus</u>.",
+        "She lives <u>from hand to mouth</u>.",
+        "I <u>lost the sight of</u> her in the crowd.",
+        "Professor Sullivan was elected <u>Chairman of the department</u>."
+      ],
+      "answer": 2,
+      "explanation": "💡 [관용어구에서의 관사: lose sight of]\n\n\"①번은 교통수단을 나타낼 때 by와 함께 사용하는 경우이고, ②번은 '하루 벌어 하루 먹는다'는 뜻의 관용어구이다. ③번은 명사 앞에 정관사를 사용하지 않는 관용어구의 대표적인 예이며, ④번은 관직이나 신분을 나타내는 명사가 보어로 사용될 경우 관사를 쓰지 않는 경우에 해당된다.\"\n\n* ① by bus: 교통수단 → 올바름\n* ② from hand to mouth: 관용어구 → 올바름\n* ③ lost the sight of → lose sight of: 관용어구에서 the 불필요 ✅ (어색한 것)\n* ④ Chairman: 보어로 쓰인 관직명 → 관사 생략 올바름"
+    },
+    {
+      "id": 96,
+      "passageBottom": null,
+      "question": "밑줄 친 대명사가 일반인을 가리킬 가능성이 가장 적은 것은?",
+      "options": [
+        "<u>You</u> should try to make the best of your time.",
+        "<u>They</u> speak English in Australia.",
+        "<u>One</u> must not neglect one's duty.",
+        "<u>We</u> saw ourselves reflected in the mirror."
+      ],
+      "answer": 3,
+      "explanation": "💡 [일반인칭 대명사 vs 특정인 지칭]\n\n\"we, you, they는 경우에 따라서는 특정인이 아닌 막연한 일반인을 가리키는 경우가 있으므로 주의해야 한다. 그럴 경우 대부분 특정한 사건이나 행동보다는 일반적인 격언과 같은 의미를 지니는 경우가 많다.\"\n\n* ① You: 일반인 지칭 가능\n* ② They: 일반인 지칭 가능 (호주 사람들)\n* ③ One: 일반인 지칭 → 일반인칭 대명사\n* ④ We saw ourselves: 거울에 비친 우리 자신의 모습 → 특정인(우리) 지칭 ✅ (일반인 가능성 가장 적음)"
+    },
+    {
+      "id": 97,
+      "passageBottom": null,
+      "question": "밑줄 친 대명사가 가리키는 것을 틀리게 제시한 것은?",
+      "options": [
+        "The cost of oil is less than <u>that</u> of gas. (=the cost)",
+        "<u>It</u> is customary to tip hairdressers. (=to tip hairdressers)",
+        "She took a stone and threw <u>it</u>. (=the stone)",
+        "Industry and ability are both important, but sometimes <u>that</u> does more than <u>this</u>. (=industry)"
+      ],
+      "answer": 3,
+      "explanation": "💡 [지시대명사 this vs that: 앞/나중 언급 구분]\n\n\"대명사는 명사의 반복을 피하기 위해 사용하는데, this와 that이 함께 사용될 경우 앞에서 언급된 두 가지 중에서 that은 먼저 언급된 것을, this는 나중에 언급된 것을 가리키는 데 사용한다.\"\n\n* ① that = the cost: 앞 명사 대체 → 올바름\n* ② It = to tip hairdressers: 가주어 it → 올바름\n* ③ it = the stone: 앞 명사 대체 → 올바름\n* ④ that = industry, this = ability: that은 먼저 언급된 industry, this는 나중 언급된 ability → industry와 ability가 바뀐 설명 ✅ (틀린 것)"
+    },
+    {
+      "id": 98,
+      "passageBottom": null,
+      "question": "형식주어(가주어) It의 진주어를 잘못 표시한 것은?",
+      "options": [
+        "It is difficult <u>to master English in a year</u>.",
+        "It is no use <u>crying over spilt milk</u>.",
+        "It was clear <u>that the cabinet would not last long</u>.",
+        "It was a mystery how <u>the burglars</u> got into the house."
+      ],
+      "answer": 3,
+      "explanation": "💡 [형식주어 It의 진주어: 절 전체]\n\n\"It이 형식주어(가주어)로 사용되었을 때 진주어로 쓰일 수 있는 것은 to부정사구, 동명사, that절 등 다양하다. ④번에서는 '그것은 미스터리였다.'라는 뜻이므로, 그것에 해당하는 how the burglars got into the house(어떻게 도둑들이 집으로 들어왔는지) 전체가 진주어이다.\"\n\n* ① to master English in a year: to부정사구 → 진주어 올바름\n* ② crying over spilt milk: 동명사구 → 진주어 올바름\n* ③ that the cabinet would not last long: that절 → 진주어 올바름\n* ④ the burglars만 표시: how절 전체(how the burglars got into the house)가 진주어 ✅ (잘못 표시된 것)"
+    },
+    {
+      "id": 99,
+      "passageBottom": "(\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) as have done wrong must be punished.\nHe was a great musician and people treated him as (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0).",
+      "question": "아래 두 문장의 괄호 안에 공통으로 알맞은 것은?",
+      "options": [
+        "This",
+        "That",
+        "Such",
+        "So"
+      ],
+      "answer": 2,
+      "explanation": "💡 [Such의 용법: such as / such 앞에 명사]\n\n\"첫 번째 문장은 such as가 those (people) who를 나타내는 경우이고, 두 번째 문장은 such가 앞에 나온 명사를 받는 경우이다.\"\n\n* Such as have done wrong: '잘못을 저지른 사람들' → such as = those who\n* treated him as such: '그를 그런 사람(위대한 음악가)으로 대우했다' → such = 앞 명사 대체\n* 두 빈칸 모두 Such ✅"
+    },
+    {
+      "id": 100,
+      "passageBottom": null,
+      "question": "밑줄 친 대명사의 형태가 어법상 틀린 것은?",
+      "options": [
+        "His book is more interesting than <u>mine</u>.",
+        "That is no business of <u>yours</u>.",
+        "She hates that pride of <u>him</u>.",
+        "I'd like to have a car of <u>my</u> own."
+      ],
+      "answer": 2,
+      "explanation": "💡 [이중소유격: 한정사+of+소유대명사]\n\n\"명사에 a, an, no, this, that, any, some, another, which 등의 한정사가 붙을 경우에는 〈한정사+명사+of+소유대명사〉의 이중소유격으로 사용한다. ③번에서 밑줄 친 him은 소유대명사 his로 바꾸어야 한다.\"\n\n* ① mine: His book ~ than mine → 소유대명사 올바름\n* ② yours: no business of yours → 이중소유격 올바름\n* ③ him → his: that pride of him → that pride of his로 써야 함 ✅ (틀린 것)\n* ④ my own: a car of my own → 올바름"
+    },
+    {
+      "id": 101,
+      "passageBottom": "This is the house in (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) I lived in my youth.\nHe preached to the crowd (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) surrounded him.",
+      "question": "괄호 안에 공통으로 알맞은 관계대명사는?",
+      "options": [
+        "that",
+        "which",
+        "who",
+        "what"
+      ],
+      "answer": 1,
+      "explanation": "💡 [관계대명사 which: 선행사가 사물 / 인간의 집단]\n\n\"선행사가 사물일 경우에는 관계대명사로 that과 which를 쓸 수 있는데, that 앞에는 전치사가 올 수 없다는 점에 유의해야 한다. 또한 선행사가 사람이라고 해도 '인간의 집단'(crowd, majority, minority)일 때에는 예외적으로 which를 사용한다는 점도 기억해 두도록 한다.\"\n\n* the house in (which): 전치사 뒤에는 that 불가 → which\n* the crowd (which): 인간의 집단 → 예외적으로 which\n* 두 빈칸 모두 which ✅"
+    },
+    {
+      "id": 102,
+      "passageBottom": "\"The building ________ is green is the library.\"에서 밑줄 친 부분에 들어갈 수 없는 것은?",
+      "question": "\"The building ________ is green is the library.\"에서 밑줄 친 부분에 들어갈 수 없는 것은?",
+      "options": [
+        "the roof of which",
+        "the roof which",
+        "whose roof",
+        "of which the roof"
+      ],
+      "answer": 1,
+      "explanation": "💡 [관계대명사 which의 소유격 표현]\n\n\"사물을 선행사로 취하는 which의 소유격으로 틀린 표현을 고르는 문제이다. 여기서는 of which the roof, the roof of which, whose roof가 모두 가능하지만, the roof which는 문법적으로 틀린 표현이다.\"\n\n* of which the roof: which의 소유격 표현 → 가능\n* the roof of which: which의 소유격 표현 → 가능\n* whose roof: 사물 선행사에도 whose 가능 → 가능\n* the roof which: 소유격 표현 불가 ✅ (들어갈 수 없는 것)"
+    },
+    {
+      "id": 103,
+      "passageBottom": "This is the apartment ________ he lives in.\nMan is the only creature ________ is gifted with speech.",
+      "question": "밑줄 친 부분에 공통으로 들어가기에 가장 적절한 관계대명사는?",
+      "options": [
+        "that",
+        "than",
+        "who",
+        "what"
+      ],
+      "answer": 0,
+      "explanation": "💡 [관계대명사 that: 사물/사람 모두 가능 / the only 선행사]\n\n\"두 문장에 공통으로 들어갈 수 있는 관계대명사를 고르는 문제이다. 첫 번째 문장에는 that과 which가 모두 가능하고, 두 번째 문장은 who보다 that이 더 적절한 경우이므로, that을 쓰는 것이 적절하다. 각 관계대명사의 쓰임에 대해서는 출제될 가능성이 높으므로 꼭 기억해 두도록 한다.\"\n\n* the apartment that he lives in: that 또는 which 가능\n* the only creature that: the only 뒤에는 that이 적절\n* 두 빈칸 모두 that ✅"
+    },
+    {
+      "id": 104,
+      "passageBottom": "Newton was one of the greatest scientists (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) ever lived.\nWho (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) knows her can forget her?",
+      "question": "괄호 안에 공통으로 알맞은 관계대명사는?",
+      "options": [
+        "that",
+        "who",
+        "which",
+        "what"
+      ],
+      "answer": 0,
+      "explanation": "💡 [관계대명사 that: 최상급 선행사 / 의문문 시작]\n\n\"첫 번째 문장에서는 형용사의 최상급이 사용되었으므로 who보다는 that을 쓰는 것이 적절한 경우이며, 두 번째 문장에서도 의문문이 의문대명사로 시작되었으므로 that을 쓰는 것이 적절하다.\"\n\n* one of the greatest scientists that: 최상급 뒤 → that 적절\n* Who that knows her: 의문문 의문대명사 뒤 → that 적절\n* 두 빈칸 모두 that ✅"
+    },
+    {
+      "id": 105,
+      "passageBottom": "Man is the only creature (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) is gifted with speech.\nThis is the same watch (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) I lost yesterday.",
+      "question": "괄호 안에 공통으로 알맞은 관계대명사는?",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "what"
+      ],
+      "answer": 2,
+      "explanation": "💡 [관계대명사 that: the only / the same 선행사]\n\n\"첫 번째 문장에서는 선행사 앞에 the only라는 한정사가 왔으므로 that이 가장 적절하며, 두 번째 문장에서도 한정사 the same이 왔으므로 that을 써야 한다.\"\n\n* the only creature that: the only 뒤 → that\n* the same watch that: the same 뒤 → that\n* 두 빈칸 모두 that ✅"
+    },
+    {
+      "id": 106,
+      "passageBottom": null,
+      "question": "밑줄 친 관계대명사의 형태가 잘못된 것은?",
+      "options": [
+        "I saw a house <u>whose</u> roof is blue.",
+        "John has a brother <u>who</u> lives in New York.",
+        "He looks like a good lawyer, <u>which</u> I am not.",
+        "Robin Hood was a man <u>who</u> heart was true to all his friends."
+      ],
+      "answer": 3,
+      "explanation": "💡 [관계대명사 who의 소유격: whose]\n\n\"관계대명사 who의 소유격으로는 whose를 쓰는데, whose는 사물을 선행사로 취하는 관계대명사 which의 소유격이기도 하다는 점에 주의할 것. ④번에서는 관계대명사 뒤에 명사인 heart가 있으므로 whose를 써야 올다.\"\n\n* ① whose roof: 사물 선행사의 소유격 → 올바름\n* ② who lives: 사람 선행사의 주격 → 올바름\n* ③ which I am not: 앞 절 전체를 선행사로 하는 계속적 용법 → 올바름\n* ④ who heart → whose heart: 관계대명사 뒤에 명사가 오므로 소유격 whose ✅ (틀린 것)"
+    },
+    {
+      "id": 107,
+      "passageBottom": null,
+      "question": "밑줄 친 관계대명사의 형태가 잘못된 것은?",
+      "options": [
+        "She is a famous lawyer <u>whom</u> you ought to consult.",
+        "I saw a house <u>whose</u> roof is blue.",
+        "This is the DVD player <u>which</u> Mary bought this morning.",
+        "This is the girl <u>whom</u> parasol is missing."
+      ],
+      "answer": 3,
+      "explanation": "💡 [관계대명사 형태: 소유격 whose]\n\n\"관계대명사의 형태로는 주격, 소유격, 목적격이 있는데, 선택지 ④번에서는 바로 뒤에 parasol이라는 명사가 왔으므로 소유격 형태인 whose를 쓰는 것이 올다.\"\n\n* ① whom you ought to consult: 목적격 → 올바름\n* ② whose roof: 소유격 → 올바름\n* ③ which Mary bought: 목적격 → 올바름\n* ④ whom parasol → whose parasol: 뒤에 명사가 오므로 소유격 whose ✅ (틀린 것)"
+    },
+    {
+      "id": 108,
+      "passageBottom": "①<u>She</u> is not the girl ②<u>whom</u> her mother ③<u>wants her</u> ④<u>to be</u>.",
+      "question": "다음 문장에서 문법적으로 잘못이 있는 부분은?",
+      "options": [
+        "①She",
+        "②whom",
+        "③wants her",
+        "④to be"
+      ],
+      "answer": 1,
+      "explanation": "💡 [관계대명사 who vs which: 사람의 성격·직업·신분]\n\n\"선행사가 사람을 가리키더라도 사람의 직업, 신분, 성격, 인물 등을 나타낼 때에는 which를 써야 한다. 여기서는 the girl이 단순히 사람 자체가 아니라 그 인물의 현재 모습을 가리키기 때문에 which를 쓰는 것이 가장 적절하다.\"\n\n* She is not the girl which her mother wants her to be\n* ② whom → which: 사람의 현재 모습/상태 나타낼 때 which ✅ (잘못된 부분)"
+    },
+    {
+      "id": 109,
+      "passageBottom": null,
+      "question": "다음 중 어법상 가장 어색한 문장은?",
+      "options": [
+        "Who that knows her can forget her?",
+        "This is the apartment in that he lives.",
+        "He is no longer the man which he used to be.",
+        "She is a famous lawyer whom you ought to consult."
+      ],
+      "answer": 1,
+      "explanation": "💡 [관계대명사 that: 전치사 뒤에 that 불가]\n\n\"①번 문장은 선행사가 의문문이 의문대명사로 시작될 때 관계대명사로 that을 쓰는 경우, ③번은 선행사가 사람의 직업, 신분, 성격, 인물 등을 나타낼 때 관계대명사로 who가 아닌 which를 쓰는 경우이다. ②번 문장에서는 관계대명사 that 앞에 전치사를 둘 수 없으므로 This is the apartment that he lives in으로 in의 위치를 올겨야 올은 문장이 된다.\"\n\n* ① Who that knows: 의문문 뒤 that → 올바름\n* ② in that he lives: that 앞에 전치사 불가 → in which 또는 that he lives in으로 써야 함 ✅ (어색한 것)\n* ③ the man which: 사람의 상태 나타낼 때 which → 올바름\n* ④ lawyer whom: 목적격 관계대명사 → 올바름"
+    },
+    {
+      "id": 110,
+      "passageBottom": "She is the first woman ______ swam across this river.\nNewton was one of the greatest scientists ______ ever lived.\nWho ______ knows her can forget her?",
+      "question": "빈칸에 공통으로 알맞은 관계대명사는?",
+      "options": [
+        "which",
+        "whose",
+        "that",
+        "what"
+      ],
+      "answer": 2,
+      "explanation": "💡 [관계대명사 that을 써야 하는 경우]\n\n\"서수나 최상급이 선행사에 쓰이면 관계대명사는 that이 적절하며, 의문문이 의문대명사 who, what, which로 시작될 때에는 that을 쓰는 것이 일반적이다.\"\n\n* the first woman that: 서수(first) 뒤 → that\n* the greatest scientists that: 최상급 뒤 → that\n* Who that knows: 의문문 의문대명사 뒤 → that\n* 세 빈칸 모두 that ✅"
     }
   ]
-}  
+}
