@@ -7,10 +7,10 @@
       "passageBottom": null,
       "question": "밑줄 친 동사가 불완전자동사인 것은?",
       "options": [
-        "He resembles his father.",
-        "The disease spread rapidly.",
-        "Your teacher expects you to work hard.",
-        "Good medicine tastes bitter to the mouth."
+        "He <u>resembles</u> his father.",
+        "The disease <u>spread</u> rapidly.",
+        "Your teacher <u>expects</u> you to work hard.",
+        "Good medicine <u>tastes</u> bitter to the mouth."
       ],
       "answer": 3,
       "explanation": "💡 [불완전자동사 vs 완전타동사/수여동사/불완전타동사]\n\n\"보어를 취하는 동사가 불완전자동사이다.\"\n\n* ① resembles: 목적어(his father)만 취함 → 완전타동사\n* ② spread: 목적어/보어 없이 부사(rapidly)만 취함 → 완전자동사\n* ③ expects: 목적어(you) + 목적보어(to work hard) 취함 → 불완전타동사\n* ④ tastes: 보어(bitter)를 취함 → 불완전자동사 ✅\n* [참고] to the mouth는 전치사구로 형식 판단에 영향 없음"
@@ -20,10 +20,10 @@
       "passageBottom": null,
       "question": "밑줄 친 동사가 수여동사에 해당하는 것은?",
       "options": [
-        "The experiment interested us very much.",
-        "He does not like cold water.",
-        "I have promised him a position.",
-        "The court declared him guilty."
+        "The experiment <u>interested</u> us very much.",
+        "He does not <u>like</u> cold water.",
+        "I have <u>promised</u> him a position.",
+        "The court <u>declared</u> him guilty."
       ],
       "answer": 2,
       "explanation": "💡 [수여동사: 간접목적어 + 직접목적어를 모두 취하는 동사]\n\n\"수여동사란 간접목적어와 직접목적어를 모두 취하는 동사를 가리킨다.\"\n\n* ① interested: us(목적어) 하나만 취함 → 완전타동사\n* ② like: cold water(목적어) 하나만 취함 → 완전타동사\n* ③ promised: him(간접목적어) + a position(직접목적어) → 수여동사 ✅\n* ④ declared: him(목적어) + guilty(목적보어) → 불완전타동사"
@@ -33,10 +33,10 @@
       "passageBottom": null,
       "question": "밑줄 친 동사가 완전타동사로 분류될 수 있는 것은?",
       "options": [
-        "He seems to be a gentleman.",
-        "The earth moves round the sun.",
-        "He does not like cold weather.",
-        "He asked me a difficult question."
+        "He <u>seems</u> to be a gentleman.",
+        "The earth <u>moves</u> round the sun.",
+        "He does not <u>like</u> cold weather.",
+        "He <u>asked</u> me a difficult question."
       ],
       "answer": 2,
       "explanation": "💡 [완전타동사: 보어 없이 목적어만 취하는 동사]\n\n\"보어는 취하지 않고 목적어만 취하는 동사가 완전타동사이다.\"\n\n* ① seems: to be a gentleman(보어) 취함 → 불완전자동사\n* ② moves: 목적어/보어 없이 부사구(round the sun)만 취함 → 완전자동사\n* ③ like: cold weather(목적어) 하나만 취함 → 완전타동사 ✅\n* ④ asked: me(간접목적어) + a difficult question(직접목적어) → 수여동사"
@@ -46,10 +46,10 @@
       "passageBottom": null,
       "question": "밑줄 친 동사가 불완전타동사로 쓰인 것은?",
       "options": [
-        "She appears to be rich.",
-        "They elected him president.",
-        "I have just finished writing a letter.",
-        "Good medicine tastes bitter to the mouth."
+        "She <u>appears</u> to be rich.",
+        "They <u>elected</u> him president.",
+        "I have just <u>finished</u> writing a letter.",
+        "Good medicine <u>tastes</u> bitter to the mouth."
       ],
       "answer": 1,
       "explanation": "💡 [불완전타동사: 목적어 + 목적보어를 모두 취하는 동사]\n\n\"불완전타동사는 목적어와 목적보어를 모두 취하는 동사를 가리킨다.\"\n\n* ① appears: to be rich(보어) 취함 → 불완전자동사\n* ② elected: him(목적어) + president(목적보어) → 불완전타동사 ✅\n* ③ finished: writing a letter(목적어) 하나만 취함 → 완전타동사\n* ④ tastes: bitter(보어) 취함 → 불완전자동사"
@@ -59,10 +59,10 @@
       "passageBottom": null,
       "question": "밑줄 친 동사가 완전타동사로 쓰인 것은?",
       "options": [
-        "A chair will not stand on two legs.",
-        "He remained a bachelor to the last.",
-        "I wonder why she hasn't come.",
-        "They elected him president."
+        "A chair will not <u>stand</u> on two legs.",
+        "He <u>remained</u> a bachelor to the last.",
+        "I <u>wonder</u> why she hasn't come.",
+        "They <u>elected</u> him president."
       ],
       "answer": 2,
       "explanation": "💡 [완전타동사: 보어 없이 목적어만 취하는 동사]\n\n\"완전타동사는 목적어와 보어를 취하지 않는 동사를 가리킨다.\"\n\n* ① stand: 목적어/보어 없이 부사구(on two legs)만 취함 → 완전자동사\n* ② remained: a bachelor(보어) 취함 → 불완전자동사\n* ③ wonder: why절(목적어) 하나만 취함 → 완전타동사 ✅\n* ④ elected: him(목적어) + president(목적보어) → 불완전타동사"
@@ -72,10 +72,10 @@
       "passageBottom": null,
       "question": "4형식 문장을 3형식 문장으로 전환한 것 중에서 틀린 것은?",
       "options": [
-        "He passed me the salt. → He passed the salt of me.",
-        "Her father bought her a new dress. → Her father bought a new dress for her.",
-        "She asked me a question. → She asked a question of me.",
-        "He found me a job. → He found a job for me."
+        "He <u>passed</u> me the salt. → He passed the salt <u>of</u> me.",
+        "Her father <u>bought</u> her a new dress. → Her father bought a new dress <u>for</u> her.",
+        "She <u>asked</u> me a question. → She asked a question <u>of</u> me.",
+        "He <u>found</u> me a job. → He found a job <u>for</u> me."
       ],
       "answer": 0,
       "explanation": "💡 [4형식 → 3형식 전환 시 전치사 선택]\n\n\"4형식을 3형식으로 전환할 때 동사의 종류에 따라 간접목적어 앞에 to / for / of를 붙인다.\"\n\n* pass: 간접목적어 앞에 to를 써야 함 → the salt to me가 올바른 형태 ✅ (틀린 것)\n* buy, find, get, make 등: 간접목적어 앞에 for 사용\n* ask, inquire 등: 간접목적어 앞에 of 사용"
@@ -85,10 +85,10 @@
       "passageBottom": null,
       "question": "문장 5형식에 따라 분류할 때, 3형식에 속하는 문장은?",
       "options": [
-        "He writes to his parents at home once a week.",
-        "He became a famous doctor.",
-        "They say that he has gone to America.",
-        "Your teacher expects you to work hard."
+        "He <u>writes</u> to his parents at home once a week.",
+        "He <u>became</u> a famous doctor.",
+        "They <u>say</u> that he has gone to America.",
+        "Your teacher <u>expects</u> you to work hard."
       ],
       "answer": 2,
       "explanation": "💡 [문장의 5형식 분류]\n\n\"목적어(명사절 포함)만 취하는 동사 구조가 3형식이다.\"\n\n* ① writes: 부사구(to his parents / at home / once a week)만 있음 → 1형식 (S+V)\n* ② became: a famous doctor(주격보어) 취함 → 2형식 (S+V+C)\n* ③ say: that절(목적어) 하나만 취함 → 3형식 (S+V+O) ✅\n* ④ expects: you(목적어) + to work hard(목적보어) → 5형식 (S+V+O+OC)"
@@ -98,10 +98,10 @@
       "passageBottom": null,
       "question": "학교문법에서 5형식으로 분류되는 문장은?",
       "options": [
-        "I warned him not to do it.",
-        "Have they paid you the money?",
-        "I don't know whether he will come or not.",
-        "He remained a bachelor to the last."
+        "I <u>warned</u> him not to do it.",
+        "Have they <u>paid</u> you the money?",
+        "I don't <u>know</u> whether he will come or not.",
+        "He <u>remained</u> a bachelor to the last."
       ],
       "answer": 0,
       "explanation": "💡 [5형식: S + V + O + OC (목적어 + 목적보어)]\n\n\"목적어와 목적보어를 모두 취하는 구조가 5형식이다.\"\n\n* ① warned: him(목적어) + not to do it(목적보어) → 5형식 ✅\n* ② paid: you(간접목적어) + the money(직접목적어) → 4형식\n* ③ know: whether절(목적어) 하나만 취함 → 3형식\n* ④ remained: a bachelor(주격보어) 취함 → 2형식"
@@ -111,10 +111,10 @@
       "passageBottom": null,
       "question": "밑줄 친 부분이 주어진 문장의 목적어가 아닌 것은?",
       "options": [
-        "He resembles his father.",
-        "They elected him president.",
-        "He became a famous doctor.",
-        "I don't know whether he will come or not."
+        "He resembles <u>his father</u>.",
+        "They elected <u>him</u> president.",
+        "He became <u>a famous doctor</u>.",
+        "I don't know <u>whether he will come or not</u>."
       ],
       "answer": 2,
       "explanation": "💡 [목적어 vs 보어 구분]\n\n\"목적어는 동사의 행위 대상이고, 보어는 주어/목적어를 설명하는 성분이다.\"\n\n* ① his father: resembles의 목적어 → 목적어 ✅\n* ② him: elected의 목적어 → 목적어 ✅\n* ③ a famous doctor: became의 주격보어 → 보어 (목적어 아님) ✅ (정답)\n* ④ whether절: know의 목적어절 → 목적어 ✅"
@@ -124,10 +124,10 @@
       "passageBottom": null,
       "question": "밑줄 친 부분의 쓰임이 틀린 것은?",
       "options": [
-        "Have they paid the money to you?",
-        "He brought the book to me.",
-        "Her father bought a new dress to her.",
-        "He found a job for me."
+        "Have they paid the money <u>to</u> you?",
+        "He brought the book <u>to</u> me.",
+        "Her father bought a new dress <u>to</u> her.",
+        "He found a job <u>for</u> me."
       ],
       "answer": 2,
       "explanation": "💡 [4형식 → 3형식 전환 시 전치사: for 동사]\n\n\"buy, get, find, make 등의 수여동사는 4형식을 3형식으로 전환할 때 간접목적어 앞에 for를 써야 한다.\"\n\n* ① paid ~ to you: pay는 to 사용 → 올바름\n* ② brought ~ to me: bring은 to 사용 → 올바름\n* ③ bought ~ to her: buy는 for 사용 → to가 아닌 for her가 되어야 함 ✅ (틀린 것)\n* ④ found ~ for me: find는 for 사용 → 올바름"
@@ -137,10 +137,10 @@
       "passageBottom": null,
       "question": "밑줄 친 동사의 시제가 틀린 문장은?",
       "options": [
-        "The sun rises in the east and sets in the west.",
-        "He leaves for New York tomorrow morning.",
-        "He possesses a large fortune.",
-        "If he will come, please tell him to wait till I come back."
+        "The sun <u>rises</u> in the east and <u>sets</u> in the west.",
+        "He <u>leaves</u> for New York tomorrow morning.",
+        "He <u>possesses</u> a large fortune.",
+        "If he <u>will come</u>, please tell him to wait till I come back."
       ],
       "answer": 3,
       "explanation": "💡 [시제 일치 / 조건 부사절에서의 시제]\n\n\"시간과 조건의 부사절에서는 미래시제 대신 현재시제를 사용한다.\"\n\n* ① rises/sets: 불변의 진리 → 현재시제 올바름\n* ② leaves: 확정된 가까운 미래 → 현재시제로 미래 표현 올바름\n* ③ possesses: 현재의 상태 나타냄 → 현재시제 올바름\n* ④ will come: 조건 부사절(if절)에서는 미래시제 불가 → comes로 써야 함 ✅ (틀린 것)"
@@ -150,10 +150,10 @@
       "passageBottom": null,
       "question": "밑줄 친 동사의 시제가 어색한 것은?",
       "options": [
-        "Three and three makes six.",
-        "I get up early in the morning.",
-        "I don't know if it rains tomorrow.",
-        "Columbus discovered America in 1492."
+        "Three and three <u>makes</u> six.",
+        "I <u>get</u> up early in the morning.",
+        "I don't know if it <u>rains</u> tomorrow.",
+        "Columbus <u>discovered</u> America in 1492."
       ],
       "answer": 2,
       "explanation": "💡 [조건 부사절 vs 명사절에서의 시제]\n\n\"if가 명사절을 이끌 때는 미래시제를 그대로 쓰고, 조건 부사절을 이끌 때는 현재시제로 미래를 나타낸다.\"\n\n* ① makes: 과학적 진리 → 현재시제 올바름\n* ② get up: 습관적 행위 → 현재시제 올바름\n* ③ rains: if절이 know의 목적어인 명사절 → will rain으로 써야 함 ✅ (어색한 것)\n* ④ discovered: 과거의 사실 → 과거시제 올바름"
@@ -163,10 +163,10 @@
       "passageBottom": null,
       "question": "밑줄 친 동사의 시제가 가장 어색한 것은?",
       "options": [
-        "The earth goes round the sun.",
-        "She leaves for Boston tomorrow morning.",
-        "I learned that twice three is six.",
-        "I will stay at home if it will rain tomorrow."
+        "The earth <u>goes</u> round the sun.",
+        "She <u>leaves</u> for Boston tomorrow morning.",
+        "I learned that twice three <u>is</u> six.",
+        "I will stay at home if it <u>will rain</u> tomorrow."
       ],
       "answer": 3,
       "explanation": "💡 [시간·조건 부사절에서 현재시제로 미래 대용]\n\n\"시간, 조건 등을 나타내는 부사절에서는 미래시제의 대용으로 현재시제를 사용해야 한다.\"\n\n* ① goes: 불변의 진리 → 현재시제 올바름\n* ② leaves: 확정된 가까운 미래 → 현재시제로 미래 표현 올바름\n* ③ is: 불변의 진리(수학적 사실) → 현재시제 올바름\n* ④ will rain: 조건 부사절(if절)에서 미래시제 불가 → rains로 써야 함 ✅ (어색한 것)"
@@ -176,10 +176,10 @@
       "passageBottom": null,
       "question": "밑줄 친 동사의 시제가 가장 어색한 것은?",
       "options": [
-        "She plays tennis every day.",
-        "Columbus discovered America in 1492.",
-        "Let us start as soon as day will break.",
-        "Three and three makes six."
+        "She <u>plays</u> tennis every day.",
+        "Columbus <u>discovered</u> America in 1492.",
+        "Let us start as soon as day <u>will break</u>.",
+        "Three and three <u>makes</u> six."
       ],
       "answer": 2,
       "explanation": "💡 [시간 부사절에서 현재시제로 미래 대용]\n\n\"현재의 습관적 행위나 불변의 사실은 현재시제로, 역사적 사실은 과거시제로, 시간·조건을 나타내는 부사절에서는 미래시제 대신 현재시제를 사용한다.\"\n\n* ① plays: 습관적 행위 → 현재시제 올바름\n* ② discovered: 역사적 사실 → 과거시제 올바름\n* ③ will break: 시간 부사절(as soon as절)에서 미래시제 불가 → breaks로 써야 함 ✅ (어색한 것)\n* ④ makes: 수학적 불변의 사실 → 현재시제 올바름"
@@ -189,10 +189,10 @@
       "passageBottom": null,
       "question": "어법상 밑줄 친 부분이 어색하거나 틀린 것은?",
       "options": [
-        "When have you met him?",
-        "I will stay at home if it rains tomorrow.",
-        "The sun rises in the east and sets in the west.",
-        "Napoleon lands on the French coast and marches in triumph to Paris."
+        "When <u>have</u> you <u>met</u> him?",
+        "I will stay at home if it <u>rains</u> tomorrow.",
+        "The sun <u>rises</u> in the east and <u>sets</u> in the west.",
+        "Napoleon <u>lands</u> on the French coast and <u>marches</u> in triumph to Paris."
       ],
       "answer": 0,
       "explanation": "💡 [현재완료와 과거 부사의 충돌]\n\n\"현재완료는 명확하게 과거를 나타내는 just now, yesterday와 같은 부사구 또는 의문사 when과는 함께 사용할 수 없다.\"\n\n* ① When have you met him?: when과 현재완료는 함께 쓸 수 없음 → When did you meet him?으로 써야 올바름 ✅ (틀린 것)\n* ② rains: 조건 부사절에서 현재시제로 미래 대용 → 올바름\n* ③ rises/sets: 불변의 진리 → 현재시제 올바름\n* ④ lands/marches: 역사적 현재(생생한 묘사) → 현재시제 올바름"
@@ -202,10 +202,10 @@
       "passageBottom": null,
       "question": "밑줄 친 현재완료시제가 '경험'을 나타내는 것은?",
       "options": [
-        "She has lost her watch.",
-        "I have just finished my homework.",
-        "He has lived in Seoul for five years.",
-        "I have seldom seen her for a long time."
+        "She <u>has lost</u> her watch.",
+        "I <u>have just finished</u> my homework.",
+        "He <u>has lived</u> in Seoul for five years.",
+        "I <u>have seldom seen</u> her for a long time."
       ],
       "answer": 3,
       "explanation": "💡 [현재완료의 용법: 완료 / 결과 / 계속 / 경험]\n\n\"완료시제(have+동사의 과거분사형)는 완료, 경험, 계속, 결과의 의미를 나타낼 수 있다.\"\n\n* ① has lost: 시계를 잃어버려서 지금도 없다는 뜻 → 결과\n* ② have just finished: 방금 숙제를 마쳤다는 뜻 → 완료\n* ③ has lived: 5년 동안 계속 서울에서 살았다는 뜻 → 계속\n* ④ have seldom seen: 오랫동안 그녀를 본 적이 없다는 뜻 → 경험 ✅"
@@ -215,10 +215,10 @@
       "passageBottom": null,
       "question": "밑줄 친 부분이 현재까지의 동작 또는 상태의 계속을 나타내는 것은?",
       "options": [
-        "He has just come back home.",
-        "I have seldom seen him for a long time.",
-        "He has been ill for the past three weeks.",
-        "He has gone to America."
+        "He <u>has just come</u> back home.",
+        "I <u>have seldom seen</u> him for a long time.",
+        "He <u>has been</u> ill for the past three weeks.",
+        "He <u>has gone</u> to America."
       ],
       "answer": 2,
       "explanation": "💡 [현재완료의 용법: 계속]\n\n\"현재완료의 '계속' 용법은 동작이나 상태가 현재까지 이어지는 경우를 나타낸다.\"\n\n* ① has just come: '그가 방금 집에 돌아왔다' → 완료\n* ② have seldom seen: '오랫동안 그를 잘 만나지 못했다' → 경험\n* ③ has been ill: '그가 지난 3주간 아팠다' → 계속 ✅\n* ④ has gone: '그는 미국으로 가버렸다' → 결과"
@@ -228,10 +228,10 @@
       "passageBottom": null,
       "question": "밑줄 친 완료시제의 의미가 '계속'과 거리가 먼 것은?",
       "options": [
-        "When I called on him he had been ill for two weeks.",
-        "I have eaten nothing since yesterday.",
-        "I recognized him at once, for I had met him before.",
-        "He will have lived in Korea for ten years by next year."
+        "When I called on him he <u>had been</u> ill for two weeks.",
+        "I <u>have eaten</u> nothing since yesterday.",
+        "I recognized him at once, for I <u>had met</u> him before.",
+        "He <u>will have lived</u> in Korea for ten years by next year."
       ],
       "answer": 2,
       "explanation": "💡 [완료시제의 용법 구분: 계속 vs 경험]\n\n\"'계속' 용법은 for(~동안), since(~이래로) 등의 기간 표현과 함께 쓰인다.\"\n\n* ① had been ill for two weeks: for two weeks라는 기간 표현 → 계속\n* ② have eaten nothing since yesterday: since yesterday라는 기간 표현 → 계속\n* ③ had met him before: 예전에 만난 적이 있다는 뜻 → 경험 ✅ (계속과 거리 먼 것)\n* ④ will have lived for ten years: for ten years라는 기간 표현과 함께 쓰여 → 계속"
@@ -241,10 +241,10 @@
       "passageBottom": null,
       "question": "밑줄 친 동사가 앞으로 벌어질 미래의 일을 나타내지 않는 것은?",
       "options": [
-        "I will telephone you when he comes.",
-        "He leaves for New York tomorrow morning.",
-        "If he comes, please tell him to wait till I come back.",
-        "Europe finally emerges from chaos in the 8th century, when Charles the Great appears."
+        "I will telephone you when he <u>comes</u>.",
+        "He <u>leaves</u> for New York tomorrow morning.",
+        "If he <u>comes</u>, please tell him to wait till I come back.",
+        "Europe finally <u>emerges</u> from chaos in the 8th century, when Charles the Great <u>appears</u>."
       ],
       "answer": 3,
       "explanation": "💡 [현재시제의 다양한 용법: 미래 대용 vs 역사적 현재]\n\n\"시간·조건 부사절에서 현재시제는 미래를 나타내고, 역사적 현재는 과거 사실을 생생하게 표현하기 위해 현재시제를 사용한 경우이다.\"\n\n* ① comes: 시간 부사절에서 현재시제로 미래 대용 → 미래의 일\n* ② leaves: 확정된 가까운 미래 표현 → 미래의 일\n* ③ comes: 조건 부사절에서 현재시제로 미래 대용 → 미래의 일\n* ④ emerges/appears: 과거의 일을 생생하게 나타내는 역사적 현재 → 미래의 일 아님 ✅"
@@ -254,13 +254,533 @@
       "passageBottom": null,
       "question": "밑줄 친 진행형의 쓰임이 가장 어색한 것은?",
       "options": [
-        "I am knowing him.",
-        "He is watering the plants now.",
-        "He was playing the piano when I came into the room.",
-        "He is leaving Seoul next Sunday."
+        "I <u>am knowing</u> him.",
+        "He <u>is watering</u> the plants now.",
+        "He <u>was playing</u> the piano when I came into the room.",
+        "He <u>is leaving</u> Seoul next Sunday."
       ],
       "answer": 0,
-      "explanation": "💡 [진행형을 쓸 수 없는 동사: 상태동사]\n\n\"동사에 -ing를 붙인 진행형은 각 시제에서 진행 중인 동작을 나타내거나 가까운 미래를 나타내는 부사구와 함께 쓰여 미래를 나타낼 수 있다. 단, 상태를 나타내는 동사(know, be, have 등)는 진행형을 만들 수 없다. 단, have는 소유 이외의 의미로 사용되었을 경우에는 진행형으로 사용될 수 있다.\"\n\n* ① am knowing: know는 상태동사로 진행형 불가 → 어색함 ✅\n* ② is watering: 현재 진행 중인 동작 → 올바름\n* ③ was playing: 과거 진행 중인 동작 → 올바름\n* ④ is leaving: 가까운 미래를 나타내는 부사구(next Sunday)와 함께 미래 표현 → 올바름"
+      "explanation": "💡 [진행형을 쓸 수 없는 동사: 상태동사]\n\n\"동사에 -ing를 붙인 진행형은 각 시제에서 진행 중인 동작을 나타내거나 가까운 미래를 나타내는 부사구와 함께 쓰여 미래를 나타낼 수 있다. 단, 상태를 나타내는 동사(know, be, have 등)는 진행형을 만들 수 없다.\"\n\n* ① am knowing: know는 상태동사로 진행형 불가 → 어색함 ✅\n* ② is watering: 현재 진행 중인 동작 → 올바름\n* ③ was playing: 과거 진행 중인 동작 → 올바름\n* ④ is leaving: 가까운 미래를 나타내는 부사구(next Sunday)와 함께 미래 표현 → 올바름"
+    },
+    {
+      "id": 21,
+      "passageBottom": null,
+      "question": "밑줄 친 to 부정사가 '명사적 용법'으로 사용된 것은?",
+      "options": [
+        "She found it difficult <u>to master</u> English in three years.",
+        "He is the last man <u>to say</u> such a word.",
+        "What a fool he is <u>to trust</u> such a man!",
+        "She opened the door <u>to find</u> the room empty."
+      ],
+      "answer": 0,
+      "explanation": "💡 [to부정사의 명사적 용법: 목적어 역할]\n\n\"to부정사가 명사적으로 쓰이면 주어, 목적어, 보어 자리에 위치한다.\"\n\n* ① to master: it의 진목적어로 사용 → 명사적 용법 ✅\n* ② to say: the last man을 수식하는 형용사적 용법\n* ③ to trust: 판단의 근거를 나타내는 부사적 용법\n* ④ to find: 결과를 나타내는 부사적 용법"
+    },
+    {
+      "id": 22,
+      "passageBottom": null,
+      "question": "밑줄 친 to 부정사가 '부사적 용법'으로 사용된 것은?",
+      "options": [
+        "I found it difficult <u>to master</u> French in a year.",
+        "I opened the door <u>to find</u> the room empty.",
+        "She has no friend <u>to teach</u> her how to drive.",
+        "His ambition is <u>to be</u> a great musician."
+      ],
+      "answer": 1,
+      "explanation": "💡 [to부정사의 부사적 용법: 결과]\n\n\"to부정사가 부사적으로 쓰이면 목적, 결과, 원인, 조건, 이유 판단의 근거 등을 나타낸다.\"\n\n* ① to master: it의 진목적어 → 명사적 용법\n* ② to find: 문을 열었더니 방이 비어 있었다는 결과 → 부사적 용법 ✅\n* ③ to teach: friend를 수식 → 형용사적 용법\n* ④ to be: His ambition의 보어 → 명사적 용법"
+    },
+    {
+      "id": 23,
+      "passageBottom": null,
+      "question": "밑줄 친 to 부정사가 '형용사적 용법'으로 사용된 것은?",
+      "options": [
+        "<u>To scold</u> the boy would be foolish.",
+        "It is impossible <u>to master</u> English in a year or so.",
+        "She has no friend <u>to teach</u> her how to drive.",
+        "A species must adapt to its conditions <u>to survive</u>."
+      ],
+      "answer": 2,
+      "explanation": "💡 [to부정사의 형용사적 용법: 명사 수식]\n\n\"to부정사가 형용사적으로 쓰이면 앞에 있는 명사(대명사)를 수식한다.\"\n\n* ① To scold: 주어로 사용 → 명사적 용법\n* ② to master: it의 진주어 → 명사적 용법\n* ③ to teach: no friend를 수식 → 형용사적 용법 ✅\n* ④ to survive: '살아남기 위해'의 뜻으로 목적 → 부사적 용법"
+    },
+    {
+      "id": 24,
+      "passageBottom": null,
+      "question": "밑줄 친 'be + to 부정사'가 '예정'의 의미를 나타내는 것은?",
+      "options": [
+        "She <u>was</u> never <u>to see</u> her homeland again.",
+        "The conference <u>is to be</u> held at 10.",
+        "You <u>are to obey</u> your parents.",
+        "Not a cloud <u>was to be seen</u>."
+      ],
+      "answer": 1,
+      "explanation": "💡 [be+to 부정사의 용법: 예정 / 의무 / 가능 / 운명]\n\n\"be+to 부정사는 예정, 의무, 가능, 운명 등의 의미를 나타낸다.\"\n\n* ① was never to see: 다시는 고국을 보지 못할 운명 → 운명\n* ② is to be held: 회의가 10시에 열릴 예정 → 예정 ✅\n* ③ are to obey: 부모님께 복종해야 한다 → 의무\n* ④ was to be seen: 구름 한 점 볼 수 없었다 → 가능"
+    },
+    {
+      "id": 25,
+      "passageBottom": null,
+      "question": "밑줄 친 to 부정사가 '목적어'로 사용된 것은?",
+      "options": [
+        "It is impossible <u>to master</u> English in a year or so.",
+        "I think it useless <u>to say</u> about that.",
+        "He seems <u>to be</u> an honest man.",
+        "I want you <u>to go</u> home."
+      ],
+      "answer": 1,
+      "explanation": "💡 [to부정사의 명사적 용법: 목적어]\n\n\"to부정사가 목적어로 쓰일 때는 동사 바로 뒤에 위치한다.\"\n\n* ① to master: it의 진주어 → 주어 역할\n* ② to say: it의 진목적어 → 목적어 역할 ✅\n* ③ to be: seems의 주격보어 → 보어 역할\n* ④ to go: you의 목적격보어 → 목적보어 역할"
+    },
+    {
+      "id": 26,
+      "passageBottom": null,
+      "question": "부사적 용법의 to 부정사 중에서 '조건'의 의미로 사용된 것은?",
+      "options": [
+        "<u>To hear</u> her talk, you would think her crazy.",
+        "She got up early so as <u>to be</u> in time for the train.",
+        "What a fool he is <u>to trust</u> such a man.",
+        "I opened the door <u>to find</u> the room empty."
+      ],
+      "answer": 0,
+      "explanation": "💡 [to부정사의 부사적 용법: 조건]\n\n\"'~한다면'의 의미로 조건을 나타내는 to부정사 용법이다.\"\n\n* ① To hear her talk: 그녀의 말을 들으면(조건) → 조건 ✅\n* ② so as to be: ~하기 위해서 → 목적\n* ③ to trust: 이유 판단의 근거 → 이유\n* ④ to find: 결과 → 결과"
+    },
+    {
+      "id": 27,
+      "passageBottom": "He seemed to have been rich.\n= It seemed that he ________ rich.",
+      "question": "아래의 빈칸에 가장 적절한 것은?",
+      "options": [
+        "is",
+        "was",
+        "has been",
+        "had been"
+      ],
+      "answer": 3,
+      "explanation": "💡 [완료부정사: to have+p.p.의 시제]\n\n\"단순부정사(to+동사원형)는 본동사의 시제와 같은 시제를 나타내지만, 완료부정사는 본동사의 시제보다 한 시제 더 앞서를 나타낸다.\"\n\n* seemed(과거시제)보다 한 시제 더 앞선 시제\n* 과거보다 앞선 시제 = 대과거(과거완료)\n* 따라서 빈칸에는 had been이 들어가야 함 ✅"
+    },
+    {
+      "id": 28,
+      "passageBottom": null,
+      "question": "밑줄 친 부분이 어법상 가장 어색한 문장은?",
+      "options": [
+        "I saw the troops <u>marching</u> along the street.",
+        "He helped me <u>to clean</u> the window.",
+        "You had better <u>to go</u> home now.",
+        "That may or may not <u>be</u> true."
+      ],
+      "answer": 2,
+      "explanation": "💡 [원형부정사를 쓰는 경우: had better]\n\n\"had better, would rather, cannot but 등의 관용구 뒤에는 원형부정사를 써야 한다.\"\n\n* ① marching: 지각동사 뒤에 목적보어로 현재분사 사용 → 올바름\n* ② to clean: 준사역동사 help는 to부정사와 원형부정사 모두 사용 가능 → 올바름\n* ③ to go: had better 다음에는 원형부정사를 써야 함 → go로 써야 올바름 ✅\n* ④ be: may 등의 조동사 뒤에는 원형부정사 사용 → 올바름"
+    },
+    {
+      "id": 29,
+      "passageBottom": null,
+      "question": "밑줄 친 부분이 어법상 가장 어색한 것은?",
+      "options": [
+        "I felt something <u>touch</u> my hand.",
+        "All I must do now is <u>study</u> hard.",
+        "I'd rather <u>to walk</u> than drive there.",
+        "They made her <u>wash</u> the car."
+      ],
+      "answer": 2,
+      "explanation": "💡 [원형부정사를 쓰는 경우: would rather]\n\n\"would rather 다음에는 원형부정사를 써야 한다.\"\n\n* ① touch: 지각동사 felt 뒤에 목적보어로 원형부정사 사용 → 올바름\n* ② study: 주절 안에 do 동사가 사용될 경우 주어에 대한 보어로 원형부정사 사용 → 올바름\n* ③ to walk: would rather 다음에는 원형부정사를 써야 함 → walk로 써야 올바름 ✅\n* ④ wash: 사역동사 made 다음에 원형부정사 사용 → 올바름"
+    },
+    {
+      "id": 30,
+      "passageBottom": null,
+      "question": "다음 중 문법적으로 틀린 문장은?",
+      "options": [
+        "I cannot but believe what they say.",
+        "All I must do now is study hard.",
+        "Science helps prepare students for the future.",
+        "I heard someone <u>to knock</u> at the door."
+      ],
+      "answer": 3,
+      "explanation": "💡 [지각동사의 목적격보어: 원형부정사]\n\n\"지각동사(hear, see, feel 등)의 목적격보어로는 원형부정사를 써야 한다.\"\n\n* ① cannot but: cannot but 뒤에 원형부정사 사용 → 올바름\n* ② study: 주절 속에 do 동사가 사용될 경우 원형부정사 사용 → 올바름\n* ③ prepare: help의 목적어로 원형부정사 사용 → 올바름\n* ④ to knock: 지각동사 heard의 목적격보어로 원형부정사를 써야 함 → knock으로 써야 올바름 ✅"
+    },
+    {
+      "id": 31,
+      "passageBottom": null,
+      "question": "밑줄 친 동명사의 의미상의 주어를 괄호 안에 제시한 중에서 틀린 것은?",
+      "options": [
+        "<u>Deceiving</u> others is deceiving oneself. (일반인)",
+        "She is proud of <u>being</u> a scholar. (She)",
+        "I can't understand his <u>behaving</u> like that. (I)",
+        "They insisted on Tom's <u>going</u> there. (Tom)"
+      ],
+      "answer": 2,
+      "explanation": "💡 [동명사의 의미상의 주어]\n\n\"동명사의 의미상의 주어를 찾는 문제이다.\"\n\n* ① Deceiving: 속담이나 격언 등에 쓰여서 일반인들 모두에게 해당되는 경우 → 일반인 ✅\n* ② being: 주어인 She가 의미상의 주어인 경우 → She ✅\n* ③ behaving: 동명사 바로 앞에 있는 his가 의미상의 주어인 경우 → his이므로 I가 아닌 his(him) ✅ (틀린 것)\n* ④ going: 바로 앞에 있는 Tom이 의미상의 주어 → Tom ✅"
+    },
+    {
+      "id": 32,
+      "passageBottom": null,
+      "question": "단문을 복문으로 전환한 것 중에서 어법상 틀린 것은?",
+      "options": [
+        "He is proud of being rich. → He is proud that he is rich.",
+        "He was proud of being rich. → He was proud that he was rich.",
+        "She regrets having spent the money. → She regrets that she spends the money.",
+        "She regretted having spent the money. → She regretted that she had spent the money."
+      ],
+      "answer": 2,
+      "explanation": "💡 [단순동명사와 완료동명사의 시제 전환]\n\n\"완료동명사는 'having+동사의 과거분사'의 형태를 지니는데, 완료동명사가 쓰였으므로 본동사의 시제보다 한 시제 더 앞서야 한다.\"\n\n* ① being → that he is: 단순동명사, 본동사 시제와 일치 → 올바름\n* ② being → that he was: 단순동명사, 본동사 시제와 일치 → 올바름\n* ③ having spent → that she spends: 완료동명사이므로 본동사(regrets)가 현재시제이면 과거형인 spent가 쓰여야 함 ✅ (틀린 것)\n* ④ having spent → that she had spent: 완료동명사, 본동사보다 한 시제 앞선 과거완료 → 올바름"
+    },
+    {
+      "id": 33,
+      "passageBottom": null,
+      "question": "주어진 문장을 우리말로 잘못 옮긴 것은?",
+      "options": [
+        "The child came near being drowned. → 아이는 물가에 너무 가까이 다가갔다.",
+        "It is no use trying to fight against God. → 신에게 대항하려 하는 것은 소용없는 일이다.",
+        "I cannot help laughing. → 나는 웃지 않을 수 없다.",
+        "The old man felt like sleeping then. → 그때 노인은 잠을 자고 싶은 기분이었다."
+      ],
+      "answer": 0,
+      "explanation": "💡 [동명사의 관용적 표현]\n\n\"동명사가 쓰인 관용어구의 정확한 뜻을 알고 있는지 묻는 문제이다.\"\n\n* ① come near ~ing: '거의 ~할 뻔하다' → '아이는 물에 빠질 뻔했다'가 올바른 번역 ✅ (틀린 것)\n* ② It is no use ~ing: '~하는 것은 소용없다' → 올바름\n* ③ cannot help ~ing: '~하지 않을 수 없다' → 올바름\n* ④ feel like ~ing: '~하고 싶은 기분이다' → 올바름"
+    },
+    {
+      "id": 34,
+      "passageBottom": null,
+      "question": "밑줄 친 부분이 어법상 가장 어색한 것은?",
+      "options": [
+        "She decided not <u>to worry</u> about the examination.",
+        "Do you mind <u>to open</u> the window?",
+        "She regretted <u>having spent</u> the money.",
+        "I have just finished <u>typing</u> the letter."
+      ],
+      "answer": 1,
+      "explanation": "💡 [동명사만을 목적어로 취하는 동사: mind]\n\n\"mind는 to 부정사가 아닌 동명사를 목적어로 취하는 동사이다.\"\n\n* ① to worry: decide는 to부정사를 목적어로 취함 → 올바름\n* ② to open: mind는 동명사를 목적어로 취하므로 opening이 되어야 함 ✅ (어색한 것)\n* ③ having spent: regret 뒤에 완료동명사 사용 → 올바름\n* ④ typing: finish는 동명사를 목적어로 취함 → 올바름"
+    },
+    {
+      "id": 35,
+      "passageBottom": null,
+      "question": "나머지 세 문장과 그 의미가 다른 하나는?",
+      "options": [
+        "It is no use trying to fight against God.",
+        "There is no use trying to fight against God.",
+        "I have no choice but to fight against God.",
+        "It is of no use to try to fight against God."
+      ],
+      "answer": 2,
+      "explanation": "💡 [동명사 관용 표현: It is no use ~ing]\n\n\"'It is no use ~ing', 'There is no use ~ing', 'It is of no use to ~'는 모두 '~하는 것은 아무 소용이 없다'의 뜻이다.\"\n\n* ① It is no use trying: '하나님에 대항하여 싸워 봤자 아무 소용이 없다' → 동일 의미\n* ② There is no use trying: '하나님에 대항하여 싸워 봤자 아무 소용이 없다' → 동일 의미\n* ③ have no choice but to: '하나님에 대항하여 싸우지 않을 수 없다' → 다른 의미 ✅\n* ④ It is of no use to try: '하나님에 대항하여 싸워 봤자 아무 소용이 없다' → 동일 의미"
+    },
+    {
+      "id": 36,
+      "passageBottom": "\"She regretted having spent the money.\"와 의미가 가장 가까운 문장은?",
+      "question": "\"She regretted having spent the money.\"와 의미가 가장 가까운 문장은?",
+      "options": [
+        "She regrets that she spent the money.",
+        "She regrets that she has spent the money.",
+        "She regretted that she spent the money.",
+        "She regretted that she had spent the money."
+      ],
+      "answer": 3,
+      "explanation": "💡 [완료동명사의 시제 전환]\n\n\"having spent가 완료동명사로 사용되었으므로 that절로 전환할 때에는 주절의 동사인 regretted보다 한 시제 앞선 대과거(had spent)를 써야 한다.\"\n\n* ① that she spent: 주절과 같은 시제 → 의미 다름\n* ② that she has spent: 현재완료 → 의미 다름\n* ③ that she spent: regretted와 같은 과거시제 → 의미 불완전\n* ④ that she had spent: regretted보다 한 시제 앞선 과거완료 → 올바름 ✅"
+    },
+    {
+      "id": 37,
+      "passageBottom": null,
+      "question": "짝지은 두 문장의 뜻이 같은 것은?",
+      "options": [
+        "There is no knowing what will happen. → It is possible to know what will happen.",
+        "I cannot help laughing. → I cannot help him to laugh.",
+        "It goes without saying that health is above wealth. → It is needed to say that health is above wealth.",
+        "He was on the point of getting on the bus. → He was about to get on the bus."
+      ],
+      "answer": 3,
+      "explanation": "💡 [동명사의 관용적 용법 의미 파악]\n\n\"동명사의 관용적 용법은 의미 파악의 기본이기 때문에 모두 외워 두어야 한다.\"\n\n* ① There is no ~ing: '~하는 것은 불가능하다' → It is impossible to know가 올바름\n* ② cannot help ~ing: '~하지 않을 수 없다' → I cannot help him to laugh와 의미 다름\n* ③ It goes without saying: '~은 말할 필요도 없다' → It is needed to say와 의미 반대\n* ④ be on the point of ~ing = be about to: '막 ~하려는 참이다' → 의미 동일 ✅"
+    },
+    {
+      "id": 38,
+      "passageBottom": "It is no use trying to fight against God.",
+      "question": "주어진 문장의 뜻과 가장 비슷한 것은?",
+      "options": [
+        "I cannot but try to fight against God.",
+        "It is useless to try to fight against God.",
+        "It is worth while to fight against God.",
+        "I nearly escaped from fighting against God."
+      ],
+      "answer": 1,
+      "explanation": "💡 [It is no use ~ing = It is useless to ~]\n\n\"주어진 문장은 '신에게 대항하려는 것은 아무 소용없는 일이다'라는 뜻이므로 선택지 중에서 ②번이 가장 가까운 뜻이 된다.\"\n\n* ① cannot but try: '싸우지 않을 수 없다' → 의미 반대\n* ② It is useless to try: '~하는 것은 소용없다' → 의미 동일 ✅\n* ③ It is worth while: '~할 가치가 있다' → 의미 반대\n* ④ nearly escaped from: '겨우 ~을 면했다' → 의미 다름"
+    },
+    {
+      "id": 39,
+      "passageBottom": null,
+      "question": "짝지은 두 문장의 의미가 다른 것은?",
+      "options": [
+        "I cannot help laughing. = I have no choice but to laugh.",
+        "She makes a point of taking a walk after dinner. = She makes it a rule to take a walk after dinner.",
+        "The little girl felt like crying then. = The little girl felt inclined to cry then.",
+        "There is no knowing what will happen. = Everybody knows what will happen."
+      ],
+      "answer": 3,
+      "explanation": "💡 [동명사 관용 표현: There is no ~ing]\n\n\"There is no ~ing는 '~하는 것은 불가능하다'의 뜻이다.\"\n\n* ① cannot help ~ing = have no choice but to: '~하지 않을 수 없다' → 의미 동일\n* ② make a point of ~ing = make it a rule to: '반드시 ~하다' → 의미 동일\n* ③ feel like ~ing = feel inclined to: '~하고 싶은 기분이다' → 의미 동일\n* ④ There is no knowing: '알 수 없다(불가능)' ≠ Everybody knows: '모두가 안다' → 의미 다름 ✅"
+    },
+    {
+      "id": 40,
+      "passageBottom": "What do you say to ________ on a picnic?\nHow about ________ on a picnic?",
+      "question": "다음 빈칸에 공통으로 적절한 것은?",
+      "options": [
+        "go",
+        "going",
+        "be gone",
+        "having gone"
+      ],
+      "answer": 1,
+      "explanation": "💡 [What do you say to ~ing / How about ~ing]\n\n\"to와 about은 전치사이므로 빈칸에는 동명사가 사용되어야 하고, 시제가 주절보다 과거가 아니기 때문에 단순동명사를 사용하여야 한다.\"\n\n* What do you say to ~ing: '~하는 게 어때?' → 전치사 to 뒤에 동명사\n* How about ~ing: '~하는 게 어때?' → 전치사 about 뒤에 동명사\n* 두 표현 모두 going이 적절 ✅"
+    },
+    {
+      "id": 41,
+      "passageBottom": null,
+      "question": "밑줄 친 분사의 형태가 어법상 틀린 것은?",
+      "options": [
+        "I heard my name <u>calling</u>.",
+        "The soccer game was very <u>exciting</u>.",
+        "<u>Provided</u> it is fine tomorrow, I will come.",
+        "The <u>bored</u> students all looked out of the window."
+      ],
+      "answer": 0,
+      "explanation": "💡 [분사의 능동/수동 구분: 목적어와의 관계]\n\n\"목적어의 보어로 분사가 쓰일 때에는 목적어와 해당 분사 사이의 관계에 주목해야 한다.\"\n\n* ① calling: my name은 불리는 대상이 되므로 수동의 의미를 지님 → called로 써야 함 ✅ (틀린 것)\n* ② exciting: 경기가 흥미를 유발하는 능동 의미 → 현재분사 올바름\n* ③ Provided: '~라는 조건으로'의 관용 분사구문 → 올바름\n* ④ bored: 학생들이 지루함을 느끼는 수동 의미 → 과거분사 올바름"
+    },
+    {
+      "id": 42,
+      "passageBottom": null,
+      "question": "밑줄 친 단어의 형태가 잘못된 것은?",
+      "options": [
+        "<u>Fallen</u> leaves covered the street.",
+        "Tom has a lot of books, <u>considered</u> his age.",
+        "I take it for <u>granted</u> that he will betray us.",
+        "The authorities <u>concerned</u> pretended to be ignorant of the accident."
+      ],
+      "answer": 1,
+      "explanation": "💡 [분사의 의미에 따른 형태: 현재분사 vs 과거분사]\n\n\"분사에는 현재분사와 과거분사가 있는데, 현재분사는 진행이나 능동의 의미를 나타내고 과거분사는 수동이나 완료의 의미를 지닌다.\"\n\n* ① Fallen: 낙엽은 떨어짐이 완료되었으므로 과거분사 fallen → 올바름\n* ② considered: '~을 고려하면'이라는 뜻을 나타내기 위해서 현재분사를 써야 함 → considering his age로 써야 함 ✅ (틀린 것)\n* ③ granted: take it for granted는 '~을 당연하게 생각하다'의 관용구 → 올바름\n* ④ concerned: '관계당국'이라는 뜻을 나타낼 때 과거분사 concerned가 후치 수식 → 올바름"
+    },
+    {
+      "id": 43,
+      "passageBottom": null,
+      "question": "밑줄 친 분사의 형태가 어법상 가장 어색한 것은?",
+      "options": [
+        "Of those <u>invited</u> only a few came to the meeting.",
+        "The newly <u>appointed</u> chairman has ability and experience.",
+        "Your father is still in the land of the <u>living</u>.",
+        "The <u>blue-eyeing</u> girl was standing in the doorway."
+      ],
+      "answer": 3,
+      "explanation": "💡 [복합형용사에서의 분사 형태]\n\n\"'명사+-ed'가 과거분사처럼 명사를 수식하는 경우에 해당되므로 blue-eyed가 되어야 한다.\"\n\n* ① invited: 초대받은(수동) → 과거분사 올바름\n* ② appointed: 새로 임명된(수동) → 과거분사 올바름\n* ③ living: 살아있는 사람들(능동) → 현재분사 올바름\n* ④ blue-eyeing: 명사+ed 형태의 복합형용사 → blue-eyed로 써야 함 ✅ (어색한 것)"
+    },
+    {
+      "id": 44,
+      "passageBottom": "\"As he had never spoken in public, he got nervous.\"에서 밑줄 친 부분을 같은 뜻의 분사구문으로 가장 잘 바꾼 것은?",
+      "question": "\"As he had never spoken in public, he got nervous.\"에서 밑줄 친 부분을 같은 뜻의 분사구문으로 가장 잘 바꾼 것은?",
+      "options": [
+        "Spoken in public",
+        "Never spoken in public",
+        "Having spoken in public",
+        "Never having spoken in public"
+      ],
+      "answer": 3,
+      "explanation": "💡 [분사구문 전환: 완료분사 + 부정어 위치]\n\n\"부사절을 분사구문으로 전환할 때 접속사 생략 → 주어 확인(동일) → 시제 확인(앞서면 완료분사) → 부정이면 분사 앞에 Not을 붙인다.\"\n\n* had spoken이 주절의 got(과거시제)보다 한 시제 앞서므로 완료분사 Having spoken 사용\n* 부정어 never가 있으므로 분사 앞에 위치\n* → Never having spoken in public ✅"
+    },
+    {
+      "id": 45,
+      "passageBottom": null,
+      "question": "밑줄 친 부분을 같은 뜻의 분사구문으로 바꾼 것 중 옳은 것은?",
+      "options": [
+        "<u>When he saw the policeman</u>, he ran away. = <u>Seen the policeman</u>, he ran away.",
+        "<u>Though I admit what you say</u>, I still think you are in the wrong. = <u>Admitted what you say</u>, I still think you are in the wrong.",
+        "<u>After I had failed several times</u>, I succeeded at last. = <u>Failing several times</u>, I succeeded at last.",
+        "<u>When the sun had set</u>, we started for home. = <u>The sun having set</u>, we started for home."
+      ],
+      "answer": 3,
+      "explanation": "💡 [분사구문 전환 원칙: 접속사 생략 / 주어 확인 / 시제 확인]\n\n\"접속사를 생략하고, 주절의 주어와 분사절의 주어가 동일한지 확인 후, 동사의 시제가 주절의 시제와 같은지 여부를 확인한다.\"\n\n* ① When he saw → Seeing으로 바꿔야 함 (능동, 단순분사)\n* ② Though I admit → Admitting으로 바꿔야 함 (양보 분사구문)\n* ③ After I had failed → Having failed로 바꿔야 함 (완료분사)\n* ④ When the sun had set → 주어가 달라 독립분사구문, The sun having set ✅"
+    },
+    {
+      "id": 46,
+      "passageBottom": "\"As she was wounded in the legs, she could not walk.\"에서 밑줄 친 부분을 같은 뜻의 분사구문으로 가장 잘 바꾼 것은?",
+      "question": "\"As she was wounded in the legs, she could not walk.\"에서 밑줄 친 부분을 같은 뜻의 분사구문으로 가장 잘 바꾼 것은?",
+      "options": [
+        "Wounded in the legs",
+        "Having wounded in the legs",
+        "Wounding in the legs",
+        "Having been wounded in the legs"
+      ],
+      "answer": 0,
+      "explanation": "💡 [수동 분사구문: 주어 동일 + 수동태 → 과거분사]\n\n\"주절의 주어와 밑줄 친 부분의 주어가 동일하므로 생략할 수 있고, 시제 역시 동일하므로 단순분사구문, 수동태이므로 과거분사가 이끄는 분사구문으로 바꾸면 된다.\"\n\n* 주어 she 동일 → 생략\n* 시제 동일(was = could) → 단순분사\n* 수동태(was wounded) → 과거분사 Wounded\n* → Wounded in the legs ✅"
+    },
+    {
+      "id": 47,
+      "passageBottom": null,
+      "question": "밑줄 친 단어의 형태가 어법상 틀린 것은?",
+      "options": [
+        "I said nothing <u>regarding</u> the future.",
+        "The old man was <u>seen</u> to cross the street.",
+        "Of those <u>invited</u> only a few came to the meeting.",
+        "The authorities <u>concerning</u> pretended to be ignorant of the accident."
+      ],
+      "answer": 3,
+      "explanation": "💡 [후치 수식 분사: concerned vs concerning]\n\n\"'관계당국'이라는 뜻의 표현은 'the authorities concerned'이다.\"\n\n* ① regarding: '~에 관하여'라는 뜻의 전치사적 분사 → 올바름\n* ② seen: 지각동사 수동태에서 원형부정사 → to cross 올바름\n* ③ invited: 초대받은(수동) → 과거분사 올바름\n* ④ concerning: '관계당국'은 concerned를 써야 함 → concerning은 '~에 관하여'의 전치사 ✅ (틀린 것)"
+    },
+    {
+      "id": 48,
+      "passageBottom": "\"When dinner was ready, he asked his guests to be seated.\"에서 밑줄 친 부분을 같은 뜻의 분사구문으로 바꾼 것 중에서 옳은 것은?",
+      "question": "\"When dinner was ready, he asked his guests to be seated.\"에서 밑줄 친 부분을 같은 뜻의 분사구문으로 바꾼 것 중에서 옳은 것은?",
+      "options": [
+        "Being ready",
+        "Dinner been ready",
+        "Dinner being ready",
+        "Dinner having been ready"
+      ],
+      "answer": 2,
+      "explanation": "💡 [독립분사구문: 주어가 다를 때]\n\n\"접속사를 생략하고, 주절의 주어와 밑줄 친 부분의 주어가 다르므로 dinner를 그대로 살려 두어야 한다. 주절과 시제는 동일하므로 밑줄 친 부분의 동사인 was를 원형인 be로 바꾸고 ing를 붙이면 된다.\"\n\n* 주어 dinner ≠ 주절 주어 he → 독립분사구문으로 dinner 유지\n* 시제 동일 → 단순분사\n* was → being\n* → Dinner being ready ✅"
+    },
+    {
+      "id": 49,
+      "passageBottom": "She couldn't make herself ________ in English.",
+      "question": "다음 문장의 밑줄 친 부분에 알맞은 동사의 형태는?",
+      "options": [
+        "understand",
+        "being understood",
+        "understood",
+        "to understand"
+      ],
+      "answer": 2,
+      "explanation": "💡 [make oneself understood: 수동 분사 목적보어]\n\n\"'make oneself understood'의 형태가 되어야 올은 표현이다.\"\n\n* make + 목적어(herself) + 목적보어\n* herself는 '이해되어지는' 수동 관계 → 과거분사 understood\n* → She couldn't make herself understood in English. ✅"
+    },
+    {
+      "id": 50,
+      "passageBottom": "As he did not know what to do, he kept silent.",
+      "question": "다음 문장의 밑줄 친 부분을 분사구문으로 옳게 전환한 것은?",
+      "options": [
+        "Not having known what to do",
+        "Not knowing what to do",
+        "Being not known what to do",
+        "Having not been known what to do"
+      ],
+      "answer": 1,
+      "explanation": "💡 [분사구문 전환: 부정 단순분사구문]\n\n\"먼저 접속사 As와 주어 he를 생략하고, 주절과 밑줄 친 부분의 시제가 같으므로 단순분사구문으로 전환하면 된다. 부정문이므로 분사의 앞에 Not을 붙여야 한다.\"\n\n* 접속사 As + 주어 he 생략\n* 시제 동일(did not know = kept) → 단순분사구문\n* 부정문 → 분사 앞에 Not\n* did not know → Not knowing\n* → Not knowing what to do ✅"
+    },
+    {
+      "id": 51,
+      "passageBottom": "(\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) the Queen live long!\nHowever tired she (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) be, she must do it.",
+      "question": "아래 두 문장의 괄호 안에 공통으로 들어갈 조동사로 가장 적절한 것은?",
+      "options": [
+        "Must",
+        "May",
+        "Dare",
+        "Shall"
+      ],
+      "answer": 1,
+      "explanation": "💡 [May의 용법: 기원 / 양보]\n\n\"조동사의 쓰임에 관한 문제이다.\"\n\n* 첫 번째 문장: 기원문에 May를 쓰는 경우 → May the Queen live long! (여왕이 오래 사시기를!)\n* 두 번째 문장: 양보의 의미로 may를 써야 하는 경우 → However tired she may be (아무리 피곤해도)\n* 두 빈칸 모두 May ✅"
+    },
+    {
+      "id": 52,
+      "passageBottom": null,
+      "question": "밑줄 친 will 중에서 주어의 '고집'을 나타내는 것으로 가장 적절한 것은?",
+      "options": [
+        "The door <u>will</u> not open.",
+        "<u>Will</u> you tell me the way to the station?",
+        "He <u>will</u> sit still and look at the sea for hours.",
+        "You <u>will</u> understand it when you grow older."
+      ],
+      "answer": 0,
+      "explanation": "💡 [will의 용법: 주장/고집 vs 기타]\n\n\"will의 다양한 용법을 구분하는 문제이다.\"\n\n* ① The door will not open: 주장, 고집, 가절을 나타냄 → 고집 ✅\n* ② Will you ~: 자발적 의사를 묻는 경우 → 의지/요청\n* ③ He will sit: 현재의 습관, 경향을 나타냄 → 습관\n* ④ You will understand: 사람의 의지와 무관한 단순미래 → 미래"
+    },
+    {
+      "id": 53,
+      "passageBottom": null,
+      "question": "밑줄 친 조동사가 '고집'의 의미로 사용된 것은?",
+      "options": [
+        "There <u>must</u> be some mistakes.",
+        "You <u>may</u> as well stay here the night.",
+        "It is strange that he <u>should</u> have failed.",
+        "He knocked the door, but she <u>would</u> not let him in."
+      ],
+      "answer": 3,
+      "explanation": "💡 [would의 용법: 고집]\n\n\"would는 '~하려 들지 않겠다'는 뜻으로 흔히 '고집'을 나타낸다고 말하는 경우이다.\"\n\n* ① must: '~임에 틀림없다' → 강한 추측\n* ② may as well: '~하는 것이 더 낫다' → 제안\n* ③ should: 이성적 판단의 형용사가 쓰일 경우 that절에 사용 → 당연/이성적 판단\n* ④ would not let him in: '~하려 들지 않겠다' → 고집 ✅"
+    },
+    {
+      "id": 54,
+      "passageBottom": null,
+      "question": "밑줄 친 조동사가 '추측'의 의미를 나타내지 않는 것은?",
+      "options": [
+        "There <u>may</u> be some mistakes.",
+        "You <u>can't</u> go swimming.",
+        "He <u>cannot</u> have told such a lie.",
+        "He <u>must</u> have been a great scholar."
+      ],
+      "answer": 1,
+      "explanation": "💡 [조동사의 추측 용법 구분]\n\n\"can't/cannot have p.p.는 '~했을 리가 없다', must have p.p.는 '~했음에 틀림없다'의 추측 표현이다.\"\n\n* ① may be: '실수가 있는 것 같다' → 추측\n* ② can't go swimming: '수영하러 갈 수 없다' → 금지 ✅ (추측 아님)\n* ③ cannot have told: '그가 그런 거짓말을 했을 리가 없다' → 부정적 추측\n* ④ must have been: '그는 위대한 학자였음에 틀림없다' → 강한 추측"
+    },
+    {
+      "id": 55,
+      "passageBottom": "You (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) be back by ten o'clock.\nShe (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) have been beautiful when she was young.",
+      "question": "아래 두 문장의 괄호 안에 공통으로 들어갈 조동사로 가장 적절한 것은?",
+      "options": [
+        "can",
+        "need",
+        "must",
+        "will"
+      ],
+      "answer": 2,
+      "explanation": "💡 [must의 용법: 의무 / 과거 추측]\n\n\"첫 번째 문장은 '10시까지 돌아와야 한다'는 뜻, 두 번째 문장은 '젊었을 때 아름다웠을 것이 틀림없다'는 뜻이므로 괄호 안에 must가 들어가야 한다.\"\n\n* You must be back by ten: 의무 → must\n* She must have been beautiful: 과거 사실에 대한 강한 추측 → must have p.p.\n* 두 빈칸 모두 must ✅"
+    },
+    {
+      "id": 56,
+      "passageBottom": null,
+      "question": "어법상 틀린 문장은?",
+      "options": [
+        "There would be a cinema here.",
+        "There used to be a big tree.",
+        "I suggest that you join us.",
+        "All citizens shall be equal before the law."
+      ],
+      "answer": 0,
+      "explanation": "💡 [used to vs would: 불규칙적 습관]\n\n\"흔히 used to를 규칙적인 습관, would는 불규칙적인 습관을 가리킨다고 하는데, 움직일 수 없는 무생물인 극장(a cinema)이 불규칙적인 행동이나 습관을 보여줄 수 없으므로 would와 함께 쓸 수 없다.\"\n\n* ① There would be a cinema here: 무생물 주어에 would 사용 불가 → used to로 써야 함 ✅ (틀린 것)\n* ② There used to be: 과거의 상태 → 올바름\n* ③ suggest that ~ join: 제안 동사 + 동사원형(가정법 현재) → 올바름\n* ④ shall be equal: 법률 문서에서 shall → 올바름"
+    },
+    {
+      "id": 57,
+      "passageBottom": "However tired she (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) be, she must do it.\nYou (\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0) as well not know a thing at all as know it imperfectly.",
+      "question": "아래 두 문장의 괄호 안에 공통으로 알맞은 것은?",
+      "options": [
+        "may",
+        "can",
+        "must",
+        "shall"
+      ],
+      "answer": 0,
+      "explanation": "💡 [may의 용법: 양보 / may as well]\n\n\"첫 번째 문장은 '아무리 피곤해도 그녀는 그것을 해야만 한다'는 뜻이고, 두 번째 문장은 '불완전하게 아느니 전혀 모르는 편이 낫다'는 뜻인데, as well과 흔히 함께 사용되는 조동사가 may임을 알고 있으면 쉽게 해결할 수 있다.\"\n\n* However tired she may be: 양보의 may → may\n* may as well not know ~ as know: '~하느니 차라리 ~하는 것이 낫다' → may\n* 두 빈칸 모두 may ✅"
+    },
+    {
+      "id": 58,
+      "passageBottom": null,
+      "question": "밑줄 친 would의 쓰임이 가장 어색한 것은?",
+      "options": [
+        "Do to others as you <u>would</u> be done by.",
+        "He <u>would</u> jog before breakfast.",
+        "She <u>wouldn't</u> let him in until she had read the letter.",
+        "There <u>would</u> be a cinema here."
+      ],
+      "answer": 3,
+      "explanation": "💡 [would vs used to: 무생물 주어]\n\n\"used to를 규칙적인 습관, would는 불규칙적인 습관을 가리키는데, 움직일 수 없는 무생물인 극장(a cinema)이 불규칙적인 행동이나 습관을 보여줄 수 없으므로 would와 함께 쓸 수 없다.\"\n\n* ① would be done by: wish to의 뜻으로 사용 → 올바름\n* ② would jog: 과거의 반복된 동작에 would 사용 → 올바름\n* ③ wouldn't let: 과거의 고집이나 거절 → 올바름\n* ④ There would be a cinema: 무생물 주어에 would 불가 → used to로 써야 함 ✅ (어색한 것)"
+    },
+    {
+      "id": 59,
+      "passageBottom": null,
+      "question": "밑줄 친 조동사가 '허가' 혹은 '금지'를 나타내는 경우가 아닌 것은?",
+      "options": [
+        "You <u>can't</u> go swimming.",
+        "The rumor <u>cannot</u> be true.",
+        "<u>Might</u> I use your restroom?",
+        "You <u>may</u> take this book home."
+      ],
+      "answer": 1,
+      "explanation": "💡 [cannot의 용법: 금지 vs 강한 부정 추측]\n\n\"can이 부정문에 쓰여서 금지, might가 의문문에 쓰여서 허가, may가 긍정문에서 허가의 의미를 나타낸다.\"\n\n* ① can't go: 금지 → 허가/금지 용법\n* ② cannot be true: '~일 리가 없다' → 강한 의혹 혹은 부정적 추측 ✅ (허가/금지 아님)\n* ③ Might I use: 의문문에서 허가 요청 → 허가 용법\n* ④ may take: 긍정문에서 허가 → 허가 용법"
+    },
+    {
+      "id": 60,
+      "passageBottom": null,
+      "question": "어법상 가장 어색한 문장은?",
+      "options": [
+        "Never did I see such a fool.",
+        "There would be a big tree.",
+        "Do to others as you would be done by.",
+        "All citizens shall be equal before the law."
+      ],
+      "answer": 1,
+      "explanation": "💡 [used to vs would: 무생물/상태]\n\n\"used to를 규칙적인 습관, would는 불규칙적인 습관을 가리킨다고 하는데, 움직일 수 없는 식물인 큰 나무(a big tree)가 불규칙적인 행동이나 습관을 보여줄 수 없으므로 would와 함께 쓸 수 없다.\"\n\n* ① Never did I see: 부정 부사 도치 구문 → 올바름\n* ② There would be a big tree: 무생물(나무) 주어에 would 불가 → used to로 써야 함 ✅ (어색한 것)\n* ③ as you would be done by: wish to의 뜻 → 올바름\n* ④ shall be equal: 법률 문서에서 shall → 올바름"
     }
   ]
-}
+}  
