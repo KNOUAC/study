@@ -1,0 +1,384 @@
+{
+    "quiz_title": "Comprehension Drill - 추가 퀴즈",
+    "description": "",
+    "questions": [
+        {
+            "id": 225,
+            "refInstruction": "",
+            "imgTop": "",
+            "imgBottom": "",
+            "question": "문맥상 빈칸에 알맞은 동사의 형태는?",
+            "passageTop": "",
+            "passageBottom": "\"Breakfast normally _______ of eggs, some meat, toast, fruit or fruit juice, and coffee.\"",
+            "options": [
+                "consist",
+                "consists",
+                "is consisted",
+                "consisting"
+            ],
+            "answer": 1,
+            "explanationImg": "",
+            "explanation": "💡 [추가 퀴즈 Q1] 부록 연습문제입니다."
+        },
+        {
+            "id": 226,
+            "refInstruction": "",
+            "imgTop": "",
+            "imgBottom": "",
+            "question": "Doctors가 권장하는 동작의 문법적 형태로 옳은 것은?",
+            "passageTop": "",
+            "passageBottom": "\"Doctors _______ people to have complete physical examinations regularly...",
+            "options": [
+                "encouraging",
+                "to encourage",
+                "encourage",
+                "encouraged"
+            ],
+            "answer": 2,
+            "explanationImg": "",
+            "explanation": "💡 [추가 퀴즈 Q2] 부록 연습문제입니다."
+        },
+        {
+            "id": 227,
+            "refInstruction": "",
+            "imgTop": "",
+            "imgBottom": "",
+            "question": "과거에 사람들이 할 수 없었던 동작으로 강조된 단어는?",
+            "passageTop": "",
+            "passageBottom": "\"For thousands of years all writing was done by hand. Not many people could _______, and not many could _______ either.\"",
+            "options": [
+                "write / read",
+                "speak / listen",
+                "run / jump",
+                "see / hear"
+            ],
+            "answer": 0,
+            "explanationImg": "",
+            "explanation": "💡 [추가 퀴즈 Q3] 부록 연습문제입니다."
+        },
+        {
+            "id": 228,
+            "refInstruction": "",
+            "imgTop": "",
+            "imgBottom": "",
+            "question": "과거 시점(saw)보다 더 이전에 일어난 상태를 나타내는 시제는?",
+            "passageTop": "",
+            "passageBottom": "\"...the silence for which I _______ hoping was not there.\"",
+            "options": [
+                "was",
+                "am",
+                "had been",
+                "would be"
+            ],
+            "answer": 2,
+            "explanationImg": "",
+            "explanation": "💡 [추가 퀴즈 Q4] 부록 연습문제입니다."
+        },
+        {
+            "id": 229,
+            "refInstruction": "",
+            "imgTop": "",
+            "imgBottom": "",
+            "question": "음악이 불려온 상태를 나타내는 현재완료 수동태 표현은?",
+            "passageTop": "",
+            "passageBottom": "",
+            "options": [
+                "calls",
+                "called",
+                "has been called",
+                "is calling"
+            ],
+            "answer": 2,
+            "explanationImg": "",
+            "explanation": "💡 [추가 퀴즈 Q5] 부록 연습문제입니다."
+        },
+        {
+            "id": 230,
+            "refInstruction": "",
+            "imgTop": "",
+            "imgBottom": "",
+            "question": "과거 사실에 반대되는 가정을 나타내는 시제는?",
+            "passageTop": "",
+            "passageBottom": "\"But it _______ for more than a few seconds when...\"",
+            "options": [
+                "fell",
+                "had not fallen",
+                "did not fall",
+                "has not fallen"
+            ],
+            "answer": 1,
+            "explanationImg": "",
+            "explanation": "💡 [추가 퀴즈 Q6] 부록 연습문제입니다."
+        },
+        {
+            "id": 231,
+            "refInstruction": "",
+            "imgTop": "",
+            "imgBottom": "",
+            "question": "'plan'의 목적어로 쓰인 부정사 표현은?",
+            "passageTop": "",
+            "passageBottom": "Most students who plan _______ college take a standardized test called a college entrance examination during their junior or senior year in high school. This test measures some of the abilities thought _______ to success in college.",
+            "options": [
+                "attending",
+                "attend",
+                "to attend",
+                "attended"
+            ],
+            "answer": 2,
+            "explanationImg": "",
+            "explanation": "💡 [추가 퀴즈 Q7] 부록 연습문제입니다."
+        },
+        {
+            "id": 232,
+            "refInstruction": "",
+            "imgTop": "",
+            "imgBottom": "",
+            "question": "'get along'과 병렬 구조로 쓰인 원형 부정사는?",
+            "passageTop": "",
+            "passageBottom": "It also teaches family members <u><b><i>how to get</u></b></i> along with one another and _______ a happy home life.",
+            "options": [
+                "building",
+                "build",
+                "to build",
+                "built"
+            ],
+            "answer": 1,
+            "explanationImg": "",
+            "explanation": "💡 [추가 퀴즈 Q8] 부록 연습문제입니다."
+        },
+        {
+            "id": 233,
+            "refInstruction": "",
+            "imgTop": "",
+            "imgBottom": "",
+            "question": "가주어-의미상주어-진주어 구문 중 빈칸에 들어갈 단어는?",
+            "passageTop": "",
+            "passageBottom": "\"_______ was difficult _______ a city merchant _______ that his way of living was...\"",
+            "options": [
+                "This / of / believe",
+                "It / for / to believe",
+                "That / for / to believe",
+                "It / of / believe"
+            ],
+            "answer": 1,
+            "explanationImg": "",
+            "explanation": "💡 [추가 퀴즈 Q9] 부록 연습문제입니다."
+        },
+        {
+            "id": 234,
+            "refInstruction": "",
+            "imgTop": "",
+            "imgBottom": "",
+            "question": "'꿈꿀 가치가 있다'는 관용적 표현은?",
+            "passageTop": "",
+            "passageBottom": "",
+            "options": [
+                "worth to dream",
+                "worth of dreaming",
+                "worth dreaming",
+                "worthy to dream"
+            ],
+            "answer": 2,
+            "explanationImg": "",
+            "explanation": "💡 [추가 퀴즈 Q10] 부록 연습문제입니다."
+        },
+        {
+            "id": 235,
+            "refInstruction": "",
+            "imgTop": "",
+            "imgBottom": "",
+            "question": "'~하지 않을 수 없었다'는 의미의 동명사 관용구는?",
+            "passageTop": "",
+            "passageBottom": "",
+            "options": [
+                "could not help but wonder",
+                "could not help wondering",
+                "could not but wondering",
+                "had no choice to wonder"
+            ],
+            "answer": 1,
+            "explanationImg": "",
+            "explanation": "💡 [추가 퀴즈 Q11] 부록 연습문제입니다."
+        },
+        {
+            "id": 236,
+            "refInstruction": "",
+            "imgTop": "",
+            "imgBottom": "",
+            "question": "강조된 '~은 말할 필요도 없다'라는 구문은?",
+            "passageTop": "",
+            "passageBottom": "",
+            "options": [
+                "It goes without saying that",
+                "It is needless to say",
+                "It doesn't matter that",
+                "It is no use saying"
+            ],
+            "answer": 0,
+            "explanationImg": "",
+            "explanation": "💡 [추가 퀴즈 Q12] 부록 연습문제입니다."
+        },
+        {
+            "id": 237,
+            "refInstruction": "",
+            "imgTop": "",
+            "imgBottom": "",
+            "question": "현재 사실과 반대되는 가정을 나타내는 'if'절의 비동사는?",
+            "passageTop": "",
+            "passageBottom": "",
+            "options": [
+                "is",
+                "was",
+                "were",
+                "been"
+            ],
+            "answer": 2,
+            "explanationImg": "",
+            "explanation": "💡 [추가 퀴즈 Q13] 부록 연습문제입니다."
+        },
+        {
+            "id": 238,
+            "refInstruction": "",
+            "imgTop": "",
+            "imgBottom": "",
+            "question": "'If'가 생략되어 도치된 가정법 과거완료 문구는?",
+            "passageTop": "",
+            "passageBottom": "",
+            "options": [
+                "If we had shown",
+                "Had we shown",
+                "We have shown",
+                "Were we shown"
+            ],
+            "answer": 1,
+            "explanationImg": "",
+            "explanation": "💡 [추가 퀴즈 Q14] 부록 연습문제입니다."
+        },
+        {
+            "id": 239,
+            "refInstruction": "",
+            "imgTop": "",
+            "imgBottom": "",
+            "question": "과거의 사실을 가정하는 귀결절의 조동사 형태는?",
+            "passageTop": "",
+            "passageBottom": "",
+            "options": [
+                "could have used / would have been",
+                "could use / would be",
+                "can use / will be",
+                "could used / would been"
+            ],
+            "answer": 0,
+            "explanationImg": "",
+            "explanation": "💡 [추가 퀴즈 Q15] 부록 연습문제입니다."
+        },
+        {
+            "id": 240,
+            "refInstruction": "",
+            "imgTop": "",
+            "imgBottom": "",
+            "question": "'양자 부정' 구문(B가 아닌 것처럼 A도 아니다)으로 옳은 것은?",
+            "passageTop": "",
+            "passageBottom": "",
+            "options": [
+                "not ~ any more than",
+                "not ~ more as",
+                "no ~ any more than",
+                "not ~ so much as"
+            ],
+            "answer": 0,
+            "explanationImg": "",
+            "explanation": "💡 [추가 퀴즈 Q16] 부록 연습문제입니다."
+        },
+        {
+            "id": 241,
+            "refInstruction": "",
+            "imgTop": "",
+            "imgBottom": "",
+            "question": "상관 비교 구문으로 옳은 것은?",
+            "passageTop": "",
+            "passageBottom": "",
+            "options": [
+                "The more, the hotter",
+                "More, hotter",
+                "The most, the hottest",
+                "The more, the hottest"
+            ],
+            "answer": 0,
+            "explanationImg": "",
+            "explanation": "💡 [추가 퀴즈 Q17] 부록 연습문제입니다."
+        },
+        {
+            "id": 242,
+            "refInstruction": "",
+            "imgTop": "",
+            "imgBottom": "",
+            "question": "'한 시간의 대부분'을 뜻하는 강조 표현은?",
+            "passageTop": "",
+            "passageBottom": "",
+            "options": [
+                "the most part of",
+                "the better part of",
+                "the greater part than",
+                "the best part for"
+            ],
+            "answer": 1,
+            "explanationImg": "",
+            "explanation": "💡 [추가 퀴즈 Q18] 부록 연습문제입니다."
+        },
+        {
+            "id": 243,
+            "refInstruction": "",
+            "imgTop": "",
+            "imgBottom": "",
+            "question": "'과거의 모습처럼'을 뜻하는 접속사적 표현은?",
+            "passageTop": "",
+            "passageBottom": "",
+            "options": [
+                "as he is",
+                "like he used to be",
+                "such as he was",
+                "identical he was"
+            ],
+            "answer": 1,
+            "explanationImg": "",
+            "explanation": "💡 [추가 퀴즈 Q19] 부록 연습문제입니다."
+        },
+        {
+            "id": 244,
+            "refInstruction": "",
+            "imgTop": "",
+            "imgBottom": "",
+            "question": "'이제 ~이니까'라는 뜻의 이유 접속사는?",
+            "passageTop": "",
+            "passageBottom": "",
+            "options": [
+                "Because that",
+                "Now that",
+                "Since that",
+                "By the time"
+            ],
+            "answer": 1,
+            "explanationImg": "",
+            "explanation": "💡 [추가 퀴즈 Q20] 부록 연습문제입니다."
+        },
+        {
+            "id": 245,
+            "refInstruction": "",
+            "imgTop": "",
+            "imgBottom": "",
+            "question": "'~할 때까지는 이미'라는 뜻의 시간 접속사 구문은?",
+            "passageTop": "",
+            "passageBottom": "",
+            "options": [
+                "Until the time",
+                "By the time",
+                "At the time",
+                "In the time"
+            ],
+            "answer": 1,
+            "explanationImg": "",
+            "explanation": "💡 [추가 퀴즈 Q21] 부록 연습문제입니다."
+        }
+    ]
+}

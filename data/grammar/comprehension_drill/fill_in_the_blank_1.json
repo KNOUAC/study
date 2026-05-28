@@ -1,0 +1,1488 @@
+{
+  "quiz_title": "Comprehension Drill - FITB#1",
+  "description": "(78문항)",
+  "questions": [
+    {
+      "id": 100,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] Breakfast normally ______ of eggs, some meat, toast, fruit or fruit juice, and coffee. Lunch is likewise a light meal and is normally eaten away from home. People who work must either take lunch with them or get it near the place where they work, and children in school take sandwiches, fruit, and cookies along with them or eat in school cafeterias.",
+      "options": [
+        "consist",
+        "consists",
+        "is consisted",
+        "consisting",
+        "composes"
+      ],
+      "answer": 1,
+      "explanationImg": "",
+      "explanation": "정답은 'consists' 입니다."
+    },
+    {
+      "id": 101,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] Breakfast normally consists of eggs, some meat, toast, fruit or fruit juice, and coffee. Lunch is likewise a light meal and is normally eaten away from home. People who work must either ______ lunch with them or get it near the place where they work, and children in school take sandwiches, fruit, and cookies along with them or eat in school cafeterias.",
+      "options": [
+        "took",
+        "taking",
+        "take",
+        "takes",
+        "to take"
+      ],
+      "answer": 2,
+      "explanationImg": "",
+      "explanation": "정답은 'take' 입니다."
+    },
+    {
+      "id": 102,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] Breakfast normally consists of eggs, some meat, toast, fruit or fruit juice, and coffee. Lunch is likewise a light meal and is normally eaten away from home. People who work must either take lunch with them or get it near the place where they work, and children in school take sandwiches, fruit, and cookies along with them or ______ in school cafeterias.",
+      "options": [
+        "ate",
+        "eating",
+        "eats",
+        "eat",
+        "to eat"
+      ],
+      "answer": 3,
+      "explanationImg": "",
+      "explanation": "정답은 'eat' 입니다."
+    },
+    {
+      "id": 103,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[2] Doctors ______ people to have complete physical examinations regularly and not to wait until illnesses have become serious before having them treated. Everybody believes that “An ounce of prevention is worth a pound of cure,” but not everybody follows this advice.",
+      "options": [
+        "encourages",
+        "encouraging",
+        "encourage",
+        "are encouraged",
+        "to encourage"
+      ],
+      "answer": 2,
+      "explanationImg": "",
+      "explanation": "정답은 'encourage' 입니다."
+    },
+    {
+      "id": 104,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[3] For thousands of years all writing was done by hand. Not many people could ______, and not many could read either. In most countries certain people were especially trained to do all necessary writing. The instruments they used were very primitive by modern standards.",
+      "options": [
+        "write",
+        "writing",
+        "wrote",
+        "written",
+        "to write"
+      ],
+      "answer": 0,
+      "explanationImg": "",
+      "explanation": "정답은 'write' 입니다."
+    },
+    {
+      "id": 105,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[3] For thousands of years all writing was done by hand. Not many people could write, and not many could ______ either. In most countries certain people were especially trained to do all necessary writing. The instruments they used were very primitive by modern standards.",
+      "options": [
+        "read",
+        "reading",
+        "to read",
+        "be read",
+        "have read"
+      ],
+      "answer": 0,
+      "explanationImg": "",
+      "explanation": "정답은 'read' 입니다."
+    },
+    {
+      "id": 106,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] I had discovered the weight of white people in the world. I ______ that this had been for my ancestors and now would be for me an awful thing to live with, and that the bitterness which had helped to kill my father could also kill me.",
+      "options": [
+        "saw",
+        "see",
+        "have seen",
+        "was seeing",
+        "had seen"
+      ],
+      "answer": 0,
+      "explanationImg": "",
+      "explanation": "정답은 'saw' 입니다."
+    },
+    {
+      "id": 107,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] I had discovered the weight of white people in the world. I saw that this ______ for my ancestors and now would be for me an awful thing to live with, and that the bitterness which had helped to kill my father could also kill me.",
+      "options": [
+        "has been",
+        "had been",
+        "was",
+        "would be",
+        "have been"
+      ],
+      "answer": 1,
+      "explanationImg": "",
+      "explanation": "정답은 'had been' 입니다."
+    },
+    {
+      "id": 108,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] I had discovered the weight of white people in the world. I saw that this had been for my ancestors and now ______ be for me an awful thing to live with, and that the bitterness which had helped to kill my father could also kill me.",
+      "options": [
+        "will",
+        "would",
+        "can",
+        "could",
+        "should"
+      ],
+      "answer": 1,
+      "explanationImg": "",
+      "explanation": "정답은 'would' 입니다."
+    },
+    {
+      "id": 109,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] I had discovered the weight of white people in the world. I saw that this had been for my ancestors and now would be for me an awful thing to live with, and that the bitterness which ______ to kill my father could also kill me.",
+      "options": [
+        "helped",
+        "had helped",
+        "has helped",
+        "helps",
+        "was helping"
+      ],
+      "answer": 1,
+      "explanationImg": "",
+      "explanation": "정답은 'had helped' 입니다."
+    },
+    {
+      "id": 110,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] I had discovered the weight of white people in the world. I saw that this had been for my ancestors and now would be for me an awful thing to live with, and that the bitterness which had helped to kill my father ______ also kill me.",
+      "options": [
+        "can",
+        "could",
+        "would",
+        "will",
+        "might"
+      ],
+      "answer": 1,
+      "explanationImg": "",
+      "explanation": "정답은 'could' 입니다."
+    },
+    {
+      "id": 111,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] I had discovered the weight of white people in the world. I saw that this had been for my ancestors and now would be for me an awful thing to live with, and that the bitterness which had helped to ______ my father could also kill me.",
+      "options": [
+        "kills",
+        "killed",
+        "killing",
+        "to kill",
+        "kill"
+      ],
+      "answer": 4,
+      "explanationImg": "",
+      "explanation": "정답은 'kill' 입니다."
+    },
+    {
+      "id": 112,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[2] Music ______ the “universal language,” and today, more than ever, music is truly universal. For music to become an important part of our culture and civilization, more is necessary than the creative genius of the composers and the artistic talents of the professional musicians who perform their works. The highest development of music depends also on the intelligence and appreciation of the vast majority of people who are the listeners.",
+      "options": [
+        "has been called",
+        "is called",
+        "was called",
+        "has called",
+        "is calling"
+      ],
+      "answer": 0,
+      "explanationImg": "",
+      "explanation": "정답은 'has been called' 입니다."
+    },
+    {
+      "id": 113,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[3] A silence fell suddenly between us which I somehow expected to be unbroken. But it ______ for more than a few seconds when, in the utter stillness, I distinctly heard very rapid steps coming nearer and nearer along the street.",
+      "options": [
+        "had not fallen",
+        "did not fall",
+        "has not fallen",
+        "was not falling",
+        "does not fall"
+      ],
+      "answer": 0,
+      "explanationImg": "",
+      "explanation": "정답은 'had not fallen' 입니다."
+    },
+    {
+      "id": 114,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] Most students who plan ______ college take a standardized test called a college entrance examination during their junior or senior year in high school. This test measures some of the abilities thought to contribute to success in college.",
+      "options": [
+        "attend",
+        "attending",
+        "attended",
+        "to be attended",
+        "to attend"
+      ],
+      "answer": 4,
+      "explanationImg": "",
+      "explanation": "정답은 'to attend' 입니다."
+    },
+    {
+      "id": 115,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] Most students who plan to attend college take a standardized test called a college entrance examination during their junior or senior year in high school. This test measures some of the abilities thought ______ to success in college.",
+      "options": [
+        "contribute",
+        "contributing",
+        "contributed",
+        "to be contributed",
+        "to contribute"
+      ],
+      "answer": 4,
+      "explanationImg": "",
+      "explanation": "정답은 'to contribute' 입니다."
+    },
+    {
+      "id": 116,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[2] Home economics involves every area of home life, including cooking, clothing, home furnishings, and family relations. It teaches people ______ better, dress well, care for their home, and spend money wisely. It also teaches family members how to get along with one another and build a happy home life.",
+      "options": [
+        "to eat",
+        "how to eat",
+        "what to eat",
+        "how eating",
+        "eating"
+      ],
+      "answer": 1,
+      "explanationImg": "",
+      "explanation": "정답은 'how to eat' 입니다."
+    },
+    {
+      "id": 117,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[2] Home economics involves every area of home life, including cooking, clothing, home furnishings, and family relations. It teaches people how to eat better, dress well, care for their home, and spend money wisely. It also teaches family members ______ along with one another and build a happy home life.",
+      "options": [
+        "how to get",
+        "getting",
+        "to get",
+        "how getting",
+        "get"
+      ],
+      "answer": 0,
+      "explanationImg": "",
+      "explanation": "정답은 'how to get' 입니다."
+    },
+    {
+      "id": 118,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[2] Home economics involves every area of home life, including cooking, clothing, home furnishings, and family relations. It teaches people how to eat better, dress well, care for their home, and spend money wisely. It also teaches family members how to get along with one another and ______ a happy home life.",
+      "options": [
+        "building",
+        "to build",
+        "built",
+        "builds",
+        "build"
+      ],
+      "answer": 4,
+      "explanationImg": "",
+      "explanation": "정답은 'build' 입니다."
+    },
+    {
+      "id": 119,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[3] ______ was difficult for a city merchant to believe that his way of living was less proper than that of others. It was difficult for him to understand that the competition necessary for his success was opposed to moral law. He began to doubt the teachings of the priests. They were only men like everyone else and therefore could make errors.",
+      "options": [
+        "This",
+        "That",
+        "There",
+        "He",
+        "It"
+      ],
+      "answer": 4,
+      "explanationImg": "",
+      "explanation": "정답은 'It' 입니다."
+    },
+    {
+      "id": 120,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[3] It was difficult ______ a city merchant to believe that his way of living was less proper than that of others. It was difficult for him to understand that the competition necessary for his success was opposed to moral law. He began to doubt the teachings of the priests. They were only men like everyone else and therefore could make errors.",
+      "options": [
+        "to",
+        "of",
+        "with",
+        "for",
+        "by"
+      ],
+      "answer": 3,
+      "explanationImg": "",
+      "explanation": "정답은 'for' 입니다."
+    },
+    {
+      "id": 121,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[3] It was difficult for a city merchant ______ that his way of living was less proper than that of others. It was difficult for him to understand that the competition necessary for his success was opposed to moral law. He began to doubt the teachings of the priests. They were only men like everyone else and therefore could make errors.",
+      "options": [
+        "believe",
+        "believing",
+        "believed",
+        "to be believed",
+        "to believe"
+      ],
+      "answer": 4,
+      "explanationImg": "",
+      "explanation": "정답은 'to believe' 입니다."
+    },
+    {
+      "id": 122,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[3] It was difficult for a city merchant to believe that his way of living was less proper than that of others. It was difficult for him ______ that the competition necessary for his success was opposed to moral law. He began to doubt the teachings of the priests. They were only men like everyone else and therefore could make errors.",
+      "options": [
+        "understanding",
+        "to understand",
+        "understand",
+        "understood",
+        "to be understood"
+      ],
+      "answer": 1,
+      "explanationImg": "",
+      "explanation": "정답은 'to understand' 입니다."
+    },
+    {
+      "id": 123,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[3] It was difficult for a city merchant to believe that his way of living was less proper than that of others. It was difficult for him to understand that the competition necessary for his success was opposed to moral law. He began ______ the teachings of the priests. They were only men like everyone else and therefore could make errors.",
+      "options": [
+        "doubt",
+        "to doubt",
+        "doubted",
+        "to be doubted",
+        "having doubted"
+      ],
+      "answer": 1,
+      "explanationImg": "",
+      "explanation": "정답은 'to doubt' 입니다."
+    },
+    {
+      "id": 124,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] The good things that might happen to our colleges if you would take matters into your own hands and pull up a few of the rotted stakes of academic tradition are ______ about. Consider some confidential advice from one who would like to see you gain your freedom, who knows the weaknesses of academic life from the inside, and can give a few pointers on how to pull at those stakes.",
+      "options": [
+        "worth to dream",
+        "worthy dreaming",
+        "worth dreaming",
+        "worth of dreaming",
+        "worth to dreaming"
+      ],
+      "answer": 2,
+      "explanationImg": "",
+      "explanation": "정답은 'worth dreaming' 입니다."
+    },
+    {
+      "id": 125,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[2] Some recent scientific, economic, and political research suggests that the curves for food demand and food supply will cross in a maximum of 60 years. By then, man’s overpopulation, increasing pollution, and the diminishing food supply could threaten to end human life on our planet. Being aware of this research, I ______ what steps man could take to ensure his survival.",
+      "options": [
+        "could not help but wonder",
+        "could not help wondering",
+        "could not but wondering",
+        "cannot help wonder",
+        "could not help to wonder"
+      ],
+      "answer": 1,
+      "explanationImg": "",
+      "explanation": "정답은 'could not help wondering' 입니다."
+    },
+    {
+      "id": 126,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[3] ______ when we read the lives of great men we cannot but be struck by the manner in which all kinds of experiences that might in themselves seem to be random, or even disastrous are made use of in the long run.",
+      "options": [
+        "It goes without saying that",
+        "There is no saying that",
+        "It goes without to say",
+        "It is said that",
+        "That goes without saying that"
+      ],
+      "answer": 0,
+      "explanationImg": "",
+      "explanation": "정답은 'It goes without saying that' 입니다."
+    },
+    {
+      "id": 127,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] Mr. Houghton was given to ______ monologues about the good life, sexless and full of duty. Yet in the middle of one of these monologues, if a girl passed the window, tapping along on her neat little feet, he would interrupt his discourses, his neck would turn of itself, and he would watch her out of sight. In this instance, he seemed to me ruled not by thought but by an invisible and irresistible spring in his nape.",
+      "options": [
+        "high-mind",
+        "high-minding",
+        "highly-minded",
+        "high-minded",
+        "high-minds"
+      ],
+      "answer": 3,
+      "explanationImg": "",
+      "explanation": "정답은 'high-minded' 입니다."
+    },
+    {
+      "id": 128,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[2] Democracy is, ______, something very recent. It is first of all the belief that individual human beings are what matter most—more than the State, or the total of national wealth, or anything else whatever. Then it is the belief in equality, not in the sense that everybody is alike or equally gifted, which is obviously untrue, but in the sense that everyone should have certain basic opportunities.",
+      "options": [
+        "history speaking",
+        "speaking historically",
+        "historically speaking",
+        "historically spoken",
+        "historical speaking"
+      ],
+      "answer": 2,
+      "explanationImg": "",
+      "explanation": "정답은 'historically speaking' 입니다."
+    },
+    {
+      "id": 129,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[3] Nearly all the sports ______ nowadays are competitive. You play to win, and the game has little meaning unless you do your utmost to win. On the village green, where you pick up sides and no feeling of local patriotism is involved, it is possible to play simply for the fun and exercise; but as soon as the question of prestige arises, as soon as you feel that you and some larger unit will be disgraced if you lose, the most savage combative instincts are aroused.",
+      "options": [
+        "practise",
+        "practising",
+        "to practise",
+        "being practising",
+        "practised"
+      ],
+      "answer": 4,
+      "explanationImg": "",
+      "explanation": "정답은 'practised' 입니다."
+    },
+    {
+      "id": 130,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] ______ wisdom in the sense of impartiality be taught? And, if it can, should the teaching of it be one of the aims of education? I should answer both these questions in the affirmative. We are told on Sundays that we should love our neighbour as ourselves. On the other six days of the week, we are exhorted to hate him. It might be protested that it is right to hate those who do harm. I do not think so.",
+      "options": [
+        "May",
+        "Can",
+        "Must",
+        "Should",
+        "Will"
+      ],
+      "answer": 1,
+      "explanationImg": "",
+      "explanation": "정답은 'Can' 입니다."
+    },
+    {
+      "id": 131,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] Can wisdom in the sense of impartiality be taught? And, if it can, ______ the teaching of it be one of the aims of education? I should answer both these questions in the affirmative. We are told on Sundays that we should love our neighbour as ourselves. On the other six days of the week, we are exhorted to hate him. It might be protested that it is right to hate those who do harm. I do not think so.",
+      "options": [
+        "should",
+        "can",
+        "must",
+        "might",
+        "would"
+      ],
+      "answer": 0,
+      "explanationImg": "",
+      "explanation": "정답은 'should' 입니다."
+    },
+    {
+      "id": 132,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] Can wisdom in the sense of impartiality be taught? And, if it can, should the teaching of it be one of the aims of education? I should answer both these questions in the affirmative. We are told on Sundays that we should love our neighbour as ourselves. On the other six days of the week, we are exhorted to hate him. It ______ be protested that it is right to hate those who do harm. I do not think so.",
+      "options": [
+        "must",
+        "can",
+        "might",
+        "should",
+        "will"
+      ],
+      "answer": 2,
+      "explanationImg": "",
+      "explanation": "정답은 'might' 입니다."
+    },
+    {
+      "id": 133,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[2] Every nation’s foreign policy ______ be judged at every point by one consideration: does it lead us to a world of law and order or does it lead us back toward anarchy and death? I do not believe that we can prepare for war and at the same time prepare for a world community.",
+      "options": [
+        "can",
+        "may",
+        "must",
+        "might",
+        "would"
+      ],
+      "answer": 2,
+      "explanationImg": "",
+      "explanation": "정답은 'must' 입니다."
+    },
+    {
+      "id": 134,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[2] Every nation’s foreign policy must be judged at every point by one consideration: does it lead us to a world of law and order or does it lead us back toward anarchy and death? I do not believe that we ______ prepare for war and at the same time prepare for a world community.",
+      "options": [
+        "must",
+        "should",
+        "might",
+        "ought to",
+        "can"
+      ],
+      "answer": 4,
+      "explanationImg": "",
+      "explanation": "정답은 'can' 입니다."
+    },
+    {
+      "id": 135,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[3] My father ______ tell me how quietly mamma slept there, and that he and his little Betsy would one day sleep beside mamma in that grave. When I went to bed, as I laid my little head on the pillow, I used to wish I was sleeping in the grave with my papa and mamma; in my childish dreams I used to fancy myself there.",
+      "options": [
+        "used to",
+        "would",
+        "must",
+        "should",
+        "could"
+      ],
+      "answer": 1,
+      "explanationImg": "",
+      "explanation": "정답은 'would' 입니다."
+    },
+    {
+      "id": 136,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[3] My father would tell me how quietly mamma slept there, and that he and his little Betsy would one day sleep beside mamma in that grave. When I went to bed, as I laid my little head on the pillow, I ______ wish I was sleeping in the grave with my papa and mamma; in my childish dreams I used to fancy myself there.",
+      "options": [
+        "would",
+        "used to",
+        "must",
+        "should",
+        "might"
+      ],
+      "answer": 1,
+      "explanationImg": "",
+      "explanation": "정답은 'used to' 입니다."
+    },
+    {
+      "id": 137,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] The press is a political institution in its own right, intimately bound up with all the institutions of government. It affects them and ______ by them in turn, and together they determine the nature of the nation and the quality of public life.",
+      "options": [
+        "affects",
+        "affected",
+        "has affected",
+        "is affecting",
+        "is affected"
+      ],
+      "answer": 4,
+      "explanationImg": "",
+      "explanation": "정답은 'is affected' 입니다."
+    },
+    {
+      "id": 138,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[2] In the over-all ecosystem of the earth, total animal energy ______ by the amount of solar energy plants embodied in organic compounds. Since combustion consumes oxygen, the amount of combustion the earth can sustain is limited by the ecosystem’s net production of free oxygen.",
+      "options": [
+        "limits",
+        "limited",
+        "is limiting",
+        "is limited",
+        "has limited"
+      ],
+      "answer": 3,
+      "explanationImg": "",
+      "explanation": "정답은 'is limited' 입니다."
+    },
+    {
+      "id": 139,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[3] In an industrial society, work is a game against fabricated nature, in which men ______ by machine. But in a post-industrial world, work is primarily a “game between persons.” Thus in the experience of work and the daily routine, nature is excluded, artifacts are excluded, and persons have to learn how to live with one another.",
+      "options": [
+        "dwarf",
+        "are dwarfing",
+        "become dwarfed",
+        "has dwarfed",
+        "dwarfs"
+      ],
+      "answer": 2,
+      "explanationImg": "",
+      "explanation": "정답은 'become dwarfed' 입니다."
+    },
+    {
+      "id": 140,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[3] In an industrial society, work is a game against fabricated nature, in which men become dwarfed by machine. But in a post-industrial world, work is primarily a “game between persons.” Thus in the experience of work and the daily routine, nature ______, artifacts are excluded, and persons have to learn how to live with one another.",
+      "options": [
+        "excludes",
+        "is excluding",
+        "excluded",
+        "is excluded",
+        "has excluded"
+      ],
+      "answer": 3,
+      "explanationImg": "",
+      "explanation": "정답은 'is excluded' 입니다."
+    },
+    {
+      "id": 141,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[3] In an industrial society, work is a game against fabricated nature, in which men become dwarfed by machine. But in a post-industrial world, work is primarily a “game between persons.” Thus in the experience of work and the daily routine, nature is excluded, artifacts ______, and persons have to learn how to live with one another.",
+      "options": [
+        "exclude",
+        "is excluded",
+        "are excluding",
+        "are excluded",
+        "excluded"
+      ],
+      "answer": 3,
+      "explanationImg": "",
+      "explanation": "정답은 'are excluded' 입니다."
+    },
+    {
+      "id": 142,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] Wisdom is needed in the choice of ends to be pursued. Even an end which it would be noble to pursue ______ attainable may be pursued unwisely if it is inherently impossible of achievement.",
+      "options": [
+        "if it is",
+        "if it were",
+        "if it was",
+        "were it",
+        "if it has been"
+      ],
+      "answer": 1,
+      "explanationImg": "",
+      "explanation": "정답은 'if it were' 입니다."
+    },
+    {
+      "id": 143,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[2] Had ______ other nations the test explosion at Alamogordo, New Mexico, we could have used it as an education for new ideas. It would have been an impressive and favorable moment to make considered proposals for world order to end war. Our renunciation of this weapon as too terrible to use would have carried great weight in negotiations.",
+      "options": [
+        "we showed",
+        "we shown",
+        "we have shown",
+        "if we shown",
+        "had we shown"
+      ],
+      "answer": 1,
+      "explanationImg": "",
+      "explanation": "정답은 'we shown' 입니다."
+    },
+    {
+      "id": 144,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[2] Had we shown other nations the test explosion at Alamogordo, New Mexico, we ______ it as an education for new ideas. It would have been an impressive and favorable moment to make considered proposals for world order to end war. Our renunciation of this weapon as too terrible to use would have carried great weight in negotiations.",
+      "options": [
+        "could use",
+        "can have used",
+        "could have use",
+        "had used",
+        "could have used"
+      ],
+      "answer": 4,
+      "explanationImg": "",
+      "explanation": "정답은 'could have used' 입니다."
+    },
+    {
+      "id": 145,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[2] Had we shown other nations the test explosion at Alamogordo, New Mexico, we could have used it as an education for new ideas. It ______ an impressive and favorable moment to make considered proposals for world order to end war. Our renunciation of this weapon as too terrible to use would have carried great weight in negotiations.",
+      "options": [
+        "would be",
+        "was",
+        "had been",
+        "would have been",
+        "will have been"
+      ],
+      "answer": 3,
+      "explanationImg": "",
+      "explanation": "정답은 'would have been' 입니다."
+    },
+    {
+      "id": 146,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[2] Had we shown other nations the test explosion at Alamogordo, New Mexico, we could have used it as an education for new ideas. It would have been an impressive and favorable moment to make considered proposals for world order to end war. Our renunciation of this weapon as too terrible to use ______ great weight in negotiations.",
+      "options": [
+        "would carry",
+        "would have carried",
+        "carried",
+        "had carried",
+        "will carry"
+      ],
+      "answer": 1,
+      "explanationImg": "",
+      "explanation": "정답은 'would have carried' 입니다."
+    },
+    {
+      "id": 147,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[3] Early agricultural man ______ found it virtually impossible to cope with the heavy sod of grasslands, and so he confined his efforts to the flood plains of rivers where the soil was fertile, well watered and easy to cultivate with simple tools.",
+      "options": [
+        "had",
+        "would",
+        "has",
+        "would has",
+        "would have"
+      ],
+      "answer": 4,
+      "explanationImg": "",
+      "explanation": "정답은 'would have' 입니다."
+    },
+    {
+      "id": 148,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] The free man had no reason to follow the rules of conduct except in so far as they suited his convenience. Having then an epigrammatic turn, and epigrams being the fashion, I put my conviction into a phrase and said to myself: ______.",
+      "options": [
+        "follow your inclinations with due regard to a policeman round the corner",
+        "follow your inclinations with due regard to the policeman round the corner",
+        "following your inclinations with due regard to the policeman round the corner",
+        "to follow your inclinations with due regard to the policeman round the corner",
+        "follow your inclination with due regards to the policeman round the corner"
+      ],
+      "answer": 1,
+      "explanationImg": "",
+      "explanation": "정답은 'follow your inclinations with due regard to the policeman round the corner' 입니다."
+    },
+    {
+      "id": 149,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[2] I wanted to write without any frills of language. I wanted merely to set down the facts. I began with the impossible aim of using no adjectives at all. I ______ that if you could find the exact term a qualifying epithet could be dispensed with.",
+      "options": [
+        "thought",
+        "think",
+        "had thought",
+        "was thinking",
+        "have thought"
+      ],
+      "answer": 0,
+      "explanationImg": "",
+      "explanation": "정답은 'thought' 입니다."
+    },
+    {
+      "id": 150,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[2] I wanted to write without any frills of language. I wanted merely to set down the facts. I began with the impossible aim of using no adjectives at all. I thought that if you ______ the exact term a qualifying epithet could be dispensed with.",
+      "options": [
+        "can find",
+        "found",
+        "could find",
+        "have found",
+        "could have found"
+      ],
+      "answer": 2,
+      "explanationImg": "",
+      "explanation": "정답은 'could find' 입니다."
+    },
+    {
+      "id": 151,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[2] I wanted to write without any frills of language. I wanted merely to set down the facts. I began with the impossible aim of using no adjectives at all. I thought that if you could find the exact term a qualifying epithet ______ with.",
+      "options": [
+        "could dispense",
+        "can be dispensed",
+        "would dispense",
+        "could have dispensed",
+        "could be dispensed"
+      ],
+      "answer": 4,
+      "explanationImg": "",
+      "explanation": "정답은 'could be dispensed' 입니다."
+    },
+    {
+      "id": 152,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[3] When Henry Arthur Jones, then a well-known playwright, read my first novel, he told a friend that in due course I ______ one of the most successful dramatists of the day. I suppose he saw in it directness and an effective way of presenting a scene that suggested a sense of the theatre.",
+      "options": [
+        "shall be",
+        "would be",
+        "will be",
+        "should be",
+        "was"
+      ],
+      "answer": 3,
+      "explanationImg": "",
+      "explanation": "정답은 'should be' 입니다."
+    },
+    {
+      "id": 153,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] It was twenty years ago and I was living in Paris. I had a tiny apartment in the Latin quarter overlooking a cemetery and I was earning barely enough money to keep ______. She had read a book of mine and had written to me about it. I answered, thanking her, and presently I received from her another letter saying that she was passing through Paris and would like to have a chat with me.",
+      "options": [
+        "body and soul together",
+        "body and mind together",
+        "body and spirit alive",
+        "flesh and soul together",
+        "blood and soul together"
+      ],
+      "answer": 0,
+      "explanationImg": "",
+      "explanation": "정답은 'body and soul together' 입니다."
+    },
+    {
+      "id": 154,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] It was twenty years ago and I was living in Paris. I had a tiny apartment in the Latin quarter overlooking a cemetery and I was earning barely enough money to keep body and soul together. She had read ______ and had written to me about it. I answered, thanking her, and presently I received from her another letter saying that she was passing through Paris and would like to have a chat with me.",
+      "options": [
+        "my book of me",
+        "mine book",
+        "a book of mine",
+        "a book of me",
+        "the book of mine"
+      ],
+      "answer": 2,
+      "explanationImg": "",
+      "explanation": "정답은 'a book of mine' 입니다."
+    },
+    {
+      "id": 155,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[2] One of ______ first things you are told is that you must study hard. But this is only half of the story. The other half is that beyond a certain point which is easily reached, the more you work the poorer the results. In my particular college you would be supposed to devote not more than fifteen hours a week to classes and another thirty to outside assignments.",
+      "options": [
+        "a",
+        "an",
+        "those",
+        "some",
+        "the"
+      ],
+      "answer": 4,
+      "explanationImg": "",
+      "explanation": "정답은 'the' 입니다."
+    },
+    {
+      "id": 156,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[3] Man's ______ is a wonderful thing: it is so full of anguish and of magic and he never comes to know it as it is, until it has gone from him forever. It is the thing he cannot bear to lose, it is the thing whose passing he watches with infinite sorrow and regret, it is the thing whose loss he really welcomes with a sad and secret joy, the thing he would never willingly re-live again.",
+      "options": [
+        "Young",
+        "Youthful",
+        "Youngness",
+        "Youth",
+        "Youthfulness"
+      ],
+      "answer": 3,
+      "explanationImg": "",
+      "explanation": "정답은 'Youth' 입니다."
+    },
+    {
+      "id": 157,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] The news and opinions ______ are received from large news associations bring the opinions of writers with special information and experience to even the smallest towns. Writers about politics are as different in their opinions as the newspapers in which they appear. It is the custom of many newspapers to print the stories or editorials of those who agree with them about politics. Other newspapers will print many different opinions about the same problems.",
+      "options": [
+        "what",
+        "who",
+        "that",
+        "whom",
+        "whose"
+      ],
+      "answer": 2,
+      "explanationImg": "",
+      "explanation": "정답은 'that' 입니다."
+    },
+    {
+      "id": 158,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] The news and opinions that are received from large news associations bring the opinions of writers with special information and experience to even the smallest towns. Writers about politics are as different in their opinions as the newspapers in ______ they appear. It is the custom of many newspapers to print the stories or editorials of those who agree with them about politics. Other newspapers will print many different opinions about the same problems.",
+      "options": [
+        "that",
+        "where",
+        "what",
+        "which",
+        "whom"
+      ],
+      "answer": 3,
+      "explanationImg": "",
+      "explanation": "정답은 'which' 입니다."
+    },
+    {
+      "id": 159,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] The news and opinions that are received from large news associations bring the opinions of writers with special information and experience to even the smallest towns. Writers about politics are as different in their opinions as the newspapers in which they appear. It is the custom of many newspapers to print the stories or editorials of those ______ with them about politics. Other newspapers will print many different opinions about the same problems.",
+      "options": [
+        "who agree",
+        "whom agree",
+        "which agree",
+        "who agrees",
+        "that agrees"
+      ],
+      "answer": 0,
+      "explanationImg": "",
+      "explanation": "정답은 'who agree' 입니다."
+    },
+    {
+      "id": 160,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[2] As he approached the village, he met a number of people, but none ______ he knew, which somewhat surprised him, for he had thought himself acquainted with everyone in the country round. Their dress, too, was of a different fashion from that to which he was accustomed.",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "whom",
+        "what"
+      ],
+      "answer": 3,
+      "explanationImg": "",
+      "explanation": "정답은 'whom' 입니다."
+    },
+    {
+      "id": 161,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[2] As he approached the village, he met a number of people, but none whom he knew, ______ somewhat surprised him, for he had thought himself acquainted with everyone in the country round. Their dress, too, was of a different fashion from that to which he was accustomed.",
+      "options": [
+        "that",
+        "what",
+        "where",
+        "which",
+        "who"
+      ],
+      "answer": 3,
+      "explanationImg": "",
+      "explanation": "정답은 'which' 입니다."
+    },
+    {
+      "id": 162,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] Of all arts, music is the freest. Most music does not mean anything ― except in its own world and on its own terms. But because it has little to do ______ we call real life, because it is free of the weekday, it can effectively take us away from our own lives, from our nine-to-five worries.",
+      "options": [
+        "with that",
+        "with what",
+        "with which",
+        "what",
+        "with who"
+      ],
+      "answer": 1,
+      "explanationImg": "",
+      "explanation": "정답은 'with what' 입니다."
+    },
+    {
+      "id": 163,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[2] I have my own way of dealing with encroaching hardness of heart. I remind myself, when I am harsh in my judgment, that ______ I am judging is an “I” like me. He says, “I suffer. I am happy. I am unhappy. One of these days I am going to die.” For the moment I become that other “I,” and my judgment softens, my harshness turns to compassionate understanding.",
+      "options": [
+        "whoever",
+        "whomever",
+        "who",
+        "whom",
+        "no matter who"
+      ],
+      "answer": 0,
+      "explanationImg": "",
+      "explanation": "정답은 'whoever' 입니다."
+    },
+    {
+      "id": 164,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[3] What is the use of poetry? A lot of young people—and a lot of grown-ups, too, who ought to know better—ask this question. They are suspicious of poetry. When some one is suspicious of poetry, or painting or music, it is generally because he does not understand them, does not see the point of them. We are always suspicious and a little afraid of ______ do not understand.",
+      "options": [
+        "what we",
+        "things which",
+        "that we",
+        "things we",
+        "things what we"
+      ],
+      "answer": 3,
+      "explanationImg": "",
+      "explanation": "정답은 'things we' 입니다."
+    },
+    {
+      "id": 165,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] The black man insists, by ______ means he finds at his disposal, that the white man cease to regard him as an exotic rarity and recognize him as a human being. This is a very charged and difficult moment, for there is a great deal of will power involved in the white man’s naiveté.",
+      "options": [
+        "whichever",
+        "however",
+        "any",
+        "no matter what",
+        "whatever"
+      ],
+      "answer": 4,
+      "explanationImg": "",
+      "explanation": "정답은 'whatever' 입니다."
+    },
+    {
+      "id": 166,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] The black man insists, by whatever means he finds at his disposal, that the white man cease to regard him as an exotic rarity and recognize him as a human being. This is a very charged and difficult moment, for there is ______ will power involved in the white man’s naiveté.",
+      "options": [
+        "a great deal of",
+        "a number of",
+        "many",
+        "a few",
+        "plenty of"
+      ],
+      "answer": 0,
+      "explanationImg": "",
+      "explanation": "정답은 'a great deal of' 입니다."
+    },
+    {
+      "id": 167,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[2] Mr Bennet was ______ of quick parts, sarcastic humour, reserve, and caprice, that the experience of three and twenty years had been insufficient to make his wife understand his character. Her mind was less difficult to develop. She was a woman of mean understanding, little information, and uncertain temper.",
+      "options": [
+        "such odd a mixture",
+        "a so odd mixture",
+        "so an odd mixture",
+        "so odd a mixture",
+        "too odd a mixture"
+      ],
+      "answer": 3,
+      "explanationImg": "",
+      "explanation": "정답은 'so odd a mixture' 입니다."
+    },
+    {
+      "id": 168,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[3] But one hundred years later, we must face the tragic fact that the Negro is still not free. One hundred years later, the life of the Negro is still ______ crippled by the manacles of segregation and the chains of discrimination. One hundred years later, the Negro lives on a lonely island of poverty in the midst of a vast ocean of material prosperity.",
+      "options": [
+        "sad",
+        "sadness",
+        "sadder",
+        "saddened",
+        "sadly"
+      ],
+      "answer": 4,
+      "explanationImg": "",
+      "explanation": "정답은 'sadly' 입니다."
+    },
+    {
+      "id": 169,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] Most people are ______ naturally reflective any more than they are naturally malicious, and the white man prefers to keep the black man at a certain human remove because it is easier for him thus to preserve his simplicity and avoid being called to account for crimes committed by his forefathers, or his neighbors.",
+      "options": [
+        "no",
+        "not",
+        "none",
+        "never",
+        "neither"
+      ],
+      "answer": 1,
+      "explanationImg": "",
+      "explanation": "정답은 'not' 입니다."
+    },
+    {
+      "id": 170,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] Most people are not naturally reflective ______ they are naturally malicious, and the white man prefers to keep the black man at a certain human remove because it is easier for him thus to preserve his simplicity and avoid being called to account for crimes committed by his forefathers, or his neighbors.",
+      "options": [
+        "no more than",
+        "any less than",
+        "not more than",
+        "any more than",
+        "any more as"
+      ],
+      "answer": 3,
+      "explanationImg": "",
+      "explanation": "정답은 'any more than' 입니다."
+    },
+    {
+      "id": 171,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[2] Pyramus and Thisbe lived in Babylon, in houses so close together that one wall was common to both. Growing up thus side by side they learned to love each other. They longed to marry, but their parents forbade. Love, however, cannot be forbidden. ______ that flame is covered up, the hotter it burns. Also love can always find a way. It was impossible that these two whose hearts were on fire should be kept apart.",
+      "options": [
+        "More",
+        "The most",
+        "The more",
+        "Most",
+        "As more"
+      ],
+      "answer": 2,
+      "explanationImg": "",
+      "explanation": "정답은 'The more' 입니다."
+    },
+    {
+      "id": 172,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[2] Pyramus and Thisbe lived in Babylon, in houses so close together that one wall was common to both. Growing up thus side by side they learned to love each other. They longed to marry, but their parents forbade. Love, however, cannot be forbidden. The more that flame is covered up, ______ it burns. Also love can always find a way. It was impossible that these two whose hearts were on fire should be kept apart.",
+      "options": [
+        "the hotter",
+        "a hotter",
+        "the hottest",
+        "hotter",
+        "more hot"
+      ],
+      "answer": 0,
+      "explanationImg": "",
+      "explanation": "정답은 'the hotter' 입니다."
+    },
+    {
+      "id": 173,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[3] He was certainly the best-hated man in the ship. We called him Mr. Know-All, even to his face. He took it as a compliment. But it was at meal times that he was ______ intolerable. For the better part of an hour then he had us at his mercy. He was hearty, jovial, loquacious and argumentative. He knew everything better than anybody else, and it was an affront to his overweening vanity that you should disagree with him.",
+      "options": [
+        "most",
+        "mostly",
+        "the most",
+        "more",
+        "very"
+      ],
+      "answer": 0,
+      "explanationImg": "",
+      "explanation": "정답은 'most' 입니다."
+    },
+    {
+      "id": 174,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[3] He was certainly the best-hated man in the ship. We called him Mr. Know-All, even to his face. He took it as a compliment. But it was at meal times that he was most intolerable. For ______ an hour then he had us at his mercy. He was hearty, jovial, loquacious and argumentative. He knew everything better than anybody else, and it was an affront to his overweening vanity that you should disagree with him.",
+      "options": [
+        "mostly",
+        "a best part of",
+        "the best of",
+        "the better part of",
+        "nearly"
+      ],
+      "answer": 3,
+      "explanationImg": "",
+      "explanation": "정답은 'the better part of' 입니다."
+    },
+    {
+      "id": 175,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[1] Dear Santa Claus: This year you needn’t mind leaving me anything, but if you could give Daddy something that would make him ______, make him smoke his pipe again and tell me stories, I do wish you would. I heard him say to Mommie once that only eternity could cure his sorrow. Could you bring him some of that, and I will be your good little girl.",
+      "options": [
+        "as he used to be",
+        "how he used to be",
+        "that he was",
+        "like he used to be",
+        "which he used to be"
+      ],
+      "answer": 3,
+      "explanationImg": "",
+      "explanation": "정답은 'like he used to be' 입니다."
+    },
+    {
+      "id": 176,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[2] ______ you are in college and going to classes, pause long enough to ask yourself why we are teaching and you are learning. In spite of what you may have heard from us or your high school teachers or your parents, the answer is not that we know the final answers to the problems we are discussing. We are teaching because we have studied carefully subjects in which you are a beginner.",
+      "options": [
+        "Because",
+        "While",
+        "Though",
+        "Now that",
+        "Unless"
+      ],
+      "answer": 3,
+      "explanationImg": "",
+      "explanation": "정답은 'Now that' 입니다."
+    },
+    {
+      "id": 177,
+      "refInstruction": "",
+      "imgTop": "",
+      "imgBottom": "",
+      "question": "빈칸에 들어갈 가장 적절한 표현은?",
+      "passageTop": "",
+      "passageBottom": "[3] Perhaps the most striking living example of Christian compassion is Dr. Albert Schweitzer. ______ he was 30 he had acquired fame as scholar, musician and philosopher. Then one day he read an account of the Congo natives and their miserable plight. Since by nature he had to “feel with” them, he had also to take action for them. He abandoned fame and security to spend his life as a doctor among them, sharing their hardships and suffering.",
+      "options": [
+        "By the time",
+        "Until",
+        "When",
+        "As soon as",
+        "Once"
+      ],
+      "answer": 0,
+      "explanationImg": "",
+      "explanation": "정답은 'By the time' 입니다."
+    }
+  ]
+}
