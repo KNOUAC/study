@@ -292,20 +292,36 @@
 
     /* ================================================================
        [ 문제집 목록 ]
-       각 항목: { title: "표시할 제목", url: "https://..." }
+       quiz_menu.json 파일에서 동적으로 로드합니다.
+       형식: [{ "title": "표시할 제목", "url": "https://..." }, ...]
+
+       QUIZ_MENU_URL을 변경하면 다른 위치의 목록 파일을 사용할 수 있습니다.
        url은 화면에 노출되지 않으며 fetch로만 사용됩니다.
     ================================================================ */
-    const QUIZ_MENU = [
-        { title: "Comprehension Drill", url: "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/grammar/comprehension_drill/data/Comprehension%20Drill.json" },
-        { title: "Comprehension Drill - 추가 퀴즈", url: "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/grammar/comprehension_drill/data/Comprehension%20Drill%20-%20AdditionalQ.json" },
-        { title: "Comprehension Drill - Practice", url: "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/grammar/comprehension_drill/data/Comprehension%20Drill%20-%20Practice.json" },
-        { title: "Comprehension Drill - FITB#1", url: "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/grammar/comprehension_drill/data/Comprehension%20Drill%20-%20FITB%231.json" },
-        { title: "Comprehension Drill - FITB#2", url: "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/grammar/comprehension_drill/data/Comprehension%20Drill%20-%20FITB%232.json" },
-        { title: "Grammar - Final Exam Practice", url: "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/grammar/workbook/data/Grammar%20-%20FinalExamPractice.json" },
-        { title: "Ubique - Past Exams (100)", url: "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/ubique/data/2025/Ubique%20-%20PastExam100.json" },
-    ];
+    const QUIZ_MENU_URL = "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/quiz_menu.json";
 
+    let QUIZ_MENU = [];
     let activeMenuIdx = -1;
+
+    async function loadQuizMenu() {
+        const wrap = document.getElementById('dropdown-wrap');
+        const label = document.getElementById('dropdown-label');
+        if (label) label.textContent = '⏳ 목록 로딩 중...';
+
+        try {
+            const res = await fetch(QUIZ_MENU_URL);
+            if (!res.ok) throw new Error(`HTTP ${res.status}`);
+            const data = await res.json();
+            if (!Array.isArray(data)) throw new Error('quiz_menu.json must be an array');
+            QUIZ_MENU = data;
+        } catch (err) {
+            console.warn('[QUIZ_MENU] 외부 목록 로드 실패, 빈 목록으로 시작합니다.', err);
+            QUIZ_MENU = [];
+        }
+
+        if (label) label.textContent = '📚 문제집 선택';
+        renderDropdown();
+    }
 
     function closeDropdown() {
         document.getElementById('dropdown-panel').classList.remove('open');
@@ -924,7 +940,9 @@
         const panel     = document.getElementById('dropdown-panel');
 
         if(typeof showEmpty === 'function') showEmpty(container);
-        if(typeof renderDropdown === 'function') renderDropdown();
+        // 외부 quiz_menu.json을 로드한 뒤 드롭다운을 그립니다.
+        if(typeof loadQuizMenu === 'function') loadQuizMenu();
+        else if(typeof renderDropdown === 'function') renderDropdown();
 
         if(trigger && panel) {
             trigger.addEventListener('click', (e) => {

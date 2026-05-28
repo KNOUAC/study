@@ -1,0 +1,30 @@
+[
+    { 
+        "title": "Comprehension Drill", 
+        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/grammar/comprehension_drill/main.json" 
+    },
+    { 
+        "title": "Comprehension Drill - 추가 퀴즈", 
+        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/grammar/comprehension_drill/additional_question.json" 
+    },
+    { 
+        "title": "Comprehension Drill - Practice", 
+        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/grammar/comprehension_drill/practice.json" 
+    },
+    { 
+        "title": "Comprehension Drill - FITB#1", 
+        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/grammar/comprehension_drill/fill_in_the_blank_1.json" 
+    },
+    { 
+        "title": "Comprehension Drill - FITB#2", 
+        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/grammar/comprehension_drill/fill_in_the_blank_2.json" 
+    },
+    { 
+        "title": "Grammar - Final Exam Practice", 
+        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/grammar/workbook_final_practice.json" 
+    },
+    { 
+        "title": "Ubique - Past Exams (100)", 
+        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/ubique/past_exam_100.json" 
+    }
+]
