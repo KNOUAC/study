@@ -12,6 +12,10 @@
         "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/grammar/comprehension_drill/practice.json" 
     },
     { 
+        "title": "Comprehension Drill - 대체 예제", 
+        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/grammar/comprehension_drill/alternative_example.json" 
+    },
+    { 
         "title": "Comprehension Drill - FITB#1", 
         "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/grammar/comprehension_drill/fill_in_the_blank_1.json" 
     },
