@@ -101,10 +101,10 @@
             "question": "①~④ 중에서 어법상 틀리게 사용된 것은?",
             "passageBottom": "",
             "options": [
-                "who",
-                "what",
-                "What",
-                "who"
+                "①who",
+                "②what",
+                "③What",
+                "④who"
             ],
             "answer": 1,
             "explanationImg": "",
