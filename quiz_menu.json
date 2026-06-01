@@ -1,7 +1,15 @@
 [
     { 
-        "title": "Grammar - Workbook Final Exam Practice", 
+        "title": "Grammar - Workbook Exercise", 
+        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/grammar/coursebook_exercise.json" 
+    },
+    { 
+        "title": "Grammar - Final Exam Practice", 
         "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/grammar/workbook_final_practice.json" 
+    },
+    { 
+        "title": "Conversation - Workbook", 
+        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/conversation/workbook.json" 
     },
     { 
         "title": "Ubique - Past Exams (100)", 
