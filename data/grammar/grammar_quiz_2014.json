@@ -1,0 +1,461 @@
+{
+  "quiz_title": "Grammar quiz 2014",
+  "description": "",
+  "questions": [
+    {
+      "id": 36,
+      "passageBottom": null,
+      "question": "밑줄 친 동사가 완전자동사인 것은?",
+      "options": [
+        "I <b>wonder</b> why she hasn't come.",
+        "His opinion <b>differs</b> entirely from me.",
+        "They <b>asked</b> her several questions.",
+        "They <b>believed</b> him (to be) innocent."
+      ],
+      "answer": 1,
+      "explanation": "💡 [동사의 종류 - 완전자동사]\n\n보어를 필요로 하지 않는 일명 1형식 문장을 찾는 것이다. entirely는 부사, from me는 부사구로 쓰여 differ를 수식한다. 문형을 따질 때에는 부사구는 형식에서 제외한다.\n\n* ① wonder: 완전타동사 (why절이 목적어)\n* ② differs: 완전자동사 (entirely, from me는 부사·부사구) ✅\n* ③ asked: 수여동사 (her=간접목적어, questions=직접목적어)\n* ④ believed: 불완전타동사 (him=목적어, innocent=목적격보어)"
+    },
+    {
+      "id": 37,
+      "passageBottom": null,
+      "question": "간접목적어 앞에 사용한 전치사가 틀린 것은?",
+      "options": [
+        "He brought the book <b>to</b> me.",
+        "He will get a nice present <b>for</b> me.",
+        "Have they paid the money <b>to</b> you?",
+        "He found a job <b>to</b> me."
+      ],
+      "answer": 3,
+      "explanation": "💡 [4형식 → 3형식 전치사]\n\n4형식 문장을 3형식 문장으로 바꿀 때 동사에 맞게끔 전치사를 쓸 수 있는가를 묻고 있다.\n\n간접목적어 앞에 전치사 <b>to</b>를 쓰는 동사: bring, give, lend, pass, pay, send, teach, tell 등\n간접목적어 앞에 전치사 <b>for</b>를 쓰는 동사: buy, get, find, make 등\n\n* ① brought → to: bring은 to 동사 ✅ 맞음\n* ② get → for: get은 for 동사 ✅ 맞음\n* ③ paid → to: pay는 to 동사 ✅ 맞음\n* ④ found → to: find는 for 동사이므로 <b>to → for</b>로 고쳐야 함 ✅"
+    },
+    {
+      "id": 38,
+      "passageBottom": null,
+      "question": "밑줄 친 동사의 시제가 잘못된 것은?",
+      "options": [
+        "Columbus <b>discovers</b> America in 1492.",
+        "He usually <b>got</b> up at six in those days.",
+        "She <b>leaves</b> for Boston tomorrow morning.",
+        "The earth <b>goes</b> round the sun."
+      ],
+      "answer": 0,
+      "explanation": "💡 [시제 - 역사적 사실]\n\n콜럼버스가 신대륙을 발견한 역사적 사실은 과거에 일어난 일이므로 당연히 과거시제를 써줘야 한다. 단, 소설 같은 데서 현장의 느낌을 그대로 전달하는 경우라면 제외가 되겠지만 말이다.\n\n* ① discovers → discovered: 역사적 사실은 과거시제 ✅ (오류)\n* ② got: 과거의 규칙적 습관 → 과거시제 맞음\n* ③ leaves: 왕래발착 동사의 현재시제로 미래 표현 → 맞음\n* ④ goes: 불변의 진리 → 현재시제 맞음"
+    },
+    {
+      "id": 39,
+      "passageBottom": null,
+      "question": "밑줄 친 부분이 형용사적 용법으로 사용되지 <b>않은</b> 것은?",
+      "options": [
+        "We are <b>to start</b> at six this evening.",
+        "There is one more river <b>to cross</b>.",
+        "He is the last man <b>to say</b> such a word.",
+        "This tool is very convenient <b>to use</b>."
+      ],
+      "answer": 3,
+      "explanation": "💡 [부정사 - 형용사적 용법 vs 부사적 용법]\n\n부정사가 앞에 있는 명사를 수식하거나, 술어적 성격의 보어로 쓰이는 등 형용사로서의 역할을 수행할 때 형용사적 용법으로 분류한다.\n\n* ① to start: 보어로 사용된 경우 (be to 용법 - 예정) → 형용사적 용법\n* ② to cross: 명사(river) 수식 - 피수식 명사가 부정사의 의미상 목적어 → 형용사적 용법\n* ③ to say: 명사(man) 수식 - 피수식 명사가 부정사의 의미상 주어 → 형용사적 용법\n* ④ to use: 형용사(convenient)를 수식하는 부사적 용법 ✅ (형용사적 용법 아님)"
+    },
+    {
+      "id": 40,
+      "passageBottom": null,
+      "question": "밑줄 친 to 부정사가 조건의 의미로 사용된 것은?",
+      "options": [
+        "I opened the door <b>to find</b> the room empty.",
+        "A species must adapt to its conditions <b>to survive</b>.",
+        "I should be happier <b>to come</b> with me.",
+        "I was surprised <b>to see</b> him there."
+      ],
+      "answer": 2,
+      "explanation": "💡 [부정사 - 부사적 용법 (조건)]\n\n* ① to find: 결과적 용법 (문을 열었더니 방이 비어 있었다)\n* ② to survive: 목적 (~하기 위해서)\n* ③ to come: 조건 (나와 함께 온다면 더 행복할 텐데) ✅\n* ④ to see: 원인·이유 (~을 보고 놀랐다)"
+    },
+    {
+      "id": 41,
+      "passageBottom": null,
+      "question": "어법상 옳은 문장은?",
+      "options": [
+        "You had better to go home now.",
+        "They made her washed the car.",
+        "I saw the troops marching along the road.",
+        "I'd rather to walk than drive there."
+      ],
+      "answer": 2,
+      "explanation": "💡 [준동사 - 원형부정사 vs 현재분사]\n\n* ① had better to go → had better go: had better 다음에는 to 없는 원형부정사\n* ② made her washed → made her wash: 능동 의미이므로 원형부정사 wash\n* ③ saw the troops marching: 지각동사 + 목적어 + 현재분사 → 올바름 ✅\n* ④ I'd rather to walk → I'd rather walk: would rather 다음에는 to 없는 원형부정사"
+    },
+    {
+      "id": 42,
+      "passageBottom": null,
+      "question": "밑줄 친 to 부정사의 의미상의 주어를 괄호 안에 틀리게 제시한 것은?",
+      "options": [
+        "I want her <b>to go</b>. (her)",
+        "It is necessary for you <b>to do</b> it. (you)",
+        "I have no friend <b>to help</b>. (friend)",
+        "It is very nice of you <b>to praise</b> me. (you)"
+      ],
+      "answer": 2,
+      "explanation": "💡 [부정사 - 의미상의 주어]\n\n내가 도와줄 친구가 없다는 뜻이 되므로 to 부정사의 의미상의 주어는 I가 된다.\n\n* ① her to go → 의미상 주어 her ✅ 맞음\n* ② for you to do → 의미상 주어 you ✅ 맞음\n* ③ to help → 의미상 주어는 friend가 아니라 I ✅ (틀리게 제시됨)\n* ④ of you to praise → 의미상 주어 you ✅ 맞음"
+    },
+    {
+      "id": 43,
+      "passageBottom": null,
+      "question": "밑줄 친 부분이 동명사인 것은?",
+      "options": [
+        "a <b>sleeping</b> baby",
+        "a <b>walking</b> dictionary",
+        "a <b>swimming</b> boy",
+        "a <b>smoking</b> room"
+      ],
+      "answer": 3,
+      "explanation": "💡 [동명사 vs 현재분사]\n\n* ① sleeping baby: 자는 아기 → 현재분사 (baby의 상태 수식)\n* ② walking dictionary: 걸어다니는 사전 → 현재분사 (사람을 사전에 비유)\n* ③ swimming boy: 수영하는 소년 → 현재분사 (boy의 동작 수식)\n* ④ smoking room: 흡연실 (방이 담배를 피우는 것이 아니라, 담배 피우기 위한 방) → 동명사 ✅"
+    },
+    {
+      "id": 44,
+      "passageBottom": null,
+      "question": "주어진 문장의 우리말 뜻을 괄호 안에 옳게 제시한 것은?",
+      "options": [
+        "I stopped to smoke. (나는 담배를 끊었다.)",
+        "Remember to post the letter. (편지 부쳐야 하는 것을 기억해라.)",
+        "He tried to grow tomatoes there. (그는 토마토를 시험삼아 길러봤다.)",
+        "I will never forget seeing her at the party. (나는 파티에서 그녀를 만나야 한다는 사실을 잊지 않을 것이다.)"
+      ],
+      "answer": 1,
+      "explanation": "💡 [동명사 vs 부정사 - 의미 차이]\n\n* ① stopped to smoke: 담배 피우기 위해 멈췄다 (stop + to부정사 = 목적)\n* ② Remember to post: 편지를 부쳐야 한다는 것을 기억해라 (미래 일) ✅\n* ③ tried to grow: 토마토를 기르려고 노력했다 (try + to부정사 = 노력)\n* ④ forget seeing: 파티에서 그녀를 만났던 것을 잊지 않겠다 (과거 일)"
+    },
+    {
+      "id": 45,
+      "passageBottom": "(     ) arriving there, she sent me an e-mail.\n= As soon as she arrived there, she sent me an e-mail.",
+      "question": "괄호 안에 알맞은 단어는?",
+      "options": [
+        "When",
+        "At",
+        "In",
+        "On"
+      ],
+      "answer": 3,
+      "explanation": "💡 [동명사 관용 표현 - On -ing]\n\n동명사의 관용적 용법을 알고 있는지 묻고 있다.\n\n* ① When: When -ing는 이 관용 표현이 아님\n* ② At: At -ing는 이 관용 표현이 아님\n* ③ In: In -ing는 이 관용 표현이 아님\n* ④ On: On -ing = ~하자마자 (= as soon as) ✅"
+    },
+    {
+      "id": 46,
+      "passageBottom": null,
+      "question": "밑줄 친 부분이 어법상 틀리게 사용된 것은?",
+      "options": [
+        "Of those <b>invited</b> only a few came to the meeting.",
+        "Luckily she came out of the room <b>unnoticing</b> by others.",
+        "I'll have a new coat <b>made</b>.",
+        "Your father is still in the land of the <b>living</b>."
+      ],
+      "answer": 1,
+      "explanation": "💡 [분사 - 능동/수동]\n\n그녀가 못 알아차리는 게 아니라 다른 사람들이 그녀를 못 알아차리는 것이기 때문에 과거분사형으로 쓰여야 한다.\n\n→ Luckily she came out of the room <b>unnoticed</b> by others.\n\n* ① invited: 초대받은 사람들 → 수동 의미의 과거분사 ✅ 맞음\n* ② unnoticing → unnoticed: 그녀가 남들에게 눈에 띄지 않은 것이므로 수동 ✅ (오류)\n* ③ made: have a coat made → 수동 의미의 과거분사 ✅ 맞음\n* ④ living: the living = 살아있는 사람들 → 형용사/명사적 분사 ✅ 맞음"
+    },
+    {
+      "id": 47,
+      "passageBottom": "\"When the sun had set, we started for home.\"을 분사구문으로 가장 잘 전환한 것은?",
+      "question": "분사구문으로 가장 잘 전환한 것은?",
+      "options": [
+        "The sun having set, we started for home.",
+        "Having set the sun, we started for home.",
+        "The sun been set, we started for home.",
+        "Had the sun set, we had started for home."
+      ],
+      "answer": 0,
+      "explanation": "💡 [독립분사구문 + 완료분사]\n\n선행절과 후행절의 주어가 일치하지 않으므로 주어(The sun)를 표시해준다. 선행절의 시제는 과거완료, 후행절은 과거이므로 완료분사구문을 써야 한다.\n\n* ① The sun having set: 독립분사구문 + 완료분사 ✅\n* ② Having set the sun: 주어가 없고 능동 의미로 어색함\n* ③ The sun been set: been set은 수동 완료형으로 자동사 set에 맞지 않음\n* ④ Had the sun set: 가정법 도치 형태로 분사구문이 아님"
+    },
+    {
+      "id": 48,
+      "passageBottom": null,
+      "question": "밑줄 친 조동사가 '허가'의 의미로 사용된 것은?",
+      "options": [
+        "The report <b>may</b> be true.",
+        "Jane <b>can</b> sing like an angel.",
+        "You <b>may</b> take this book home.",
+        "The rumor <b>cannot</b> be true."
+      ],
+      "answer": 2,
+      "explanation": "💡 [조동사 may - 허가]\n\n* ① may: 추측 (그 보고서는 사실일 것이다)\n* ② can: 능력 (제인은 천사처럼 노래할 수 있다)\n* ③ may: 허가 (넌 이 책을 집에 가져가도 된다) ✅\n* ④ cannot: 강한 부정적 추측 (그 소문은 사실일 리 없다)"
+    },
+    {
+      "id": 49,
+      "passageBottom": "He (  ) jog before breakfast.\nDo to others as you (  ) be done by.",
+      "question": "두 문장의 괄호 안에 공통으로 알맞은 것은?",
+      "options": [
+        "need",
+        "would",
+        "must",
+        "may"
+      ],
+      "answer": 1,
+      "explanation": "💡 [조동사 would - 과거 습관 / 소망]\n\n과거의 불규칙적인 습관을 나타낼 때, 소망(희망)을 나타낼 때 알맞은 조동사를 고를 수 있는지를 묻고 있는 문제이다.\n\n* ① need: 필요를 나타내어 두 문장 모두에 맞지 않음\n* ② would: 과거의 (불규칙적) 습관 + 소망·희망 표현에 모두 적합 ✅\n* ③ must: 의무/강한 추측을 나타내어 두 문장에 맞지 않음\n* ④ may: 허가/추측을 나타내어 두 문장에 맞지 않음"
+    },
+    {
+      "id": 50,
+      "passageBottom": null,
+      "question": "어법상 틀린 문장은?",
+      "options": [
+        "He is resembled by his father.",
+        "I was given this watch by my teacher.",
+        "A stone was thrown to me by him.",
+        "A doll was made for me by my brother."
+      ],
+      "answer": 0,
+      "explanation": "💡 [수동태 - resemble]\n\n우리말에서는 '~와 닮다'라는 형태로 쓰이기 때문에 resemble을 쓸 때 전치사를 같이 써줘야 할 것 같지만, resemble은 타동사이기 때문에 전치사를 쓰지 않고 바로 목적어를 취한다. 또한 resemble은 상태동사로 수동태를 만들 수 없다.\n\n→ He resembles his father. 또는 His father resembles him.\n\n* ① He is resembled by his father: resemble은 수동태 불가 ✅ (오류)\n* ② I was given this watch: 수여동사 수동태 → 맞음\n* ③ A stone was thrown to me: throw의 수동태 → 맞음\n* ④ A doll was made for me: make의 수동태 → 맞음"
+    },
+    {
+      "id": 51,
+      "passageBottom": null,
+      "question": "밑줄 친 전치사가 틀리게 사용된 것은?",
+      "options": [
+        "I am very interested <b>in</b> popular music.",
+        "I was surprised <b>at</b> the news.",
+        "He was very pleased <b>with</b> the gift.",
+        "He is known <b>by</b> everybody."
+      ],
+      "answer": 3,
+      "explanation": "💡 [수동태 관용 전치사]\n\n수동태로 쓰인 문장에서 그에 맞는 전치사를 의미에 따라 잘 골라 쓸 수 있는지를 묻고 있는 문제이다.\n\n* ① be interested in: ~에 흥미를 느끼다 ✅ 맞음\n* ② be surprised at: ~에 놀라다 ✅ 맞음\n* ③ be pleased with: ~에 기뻐하다 ✅ 맞음\n* ④ be known by → be known to: be known to = ~에게 알려져 있다 / be known by = ~에 의해 알 수 있다 (여기선 to가 맞음) ✅"
+    },
+    {
+      "id": 52,
+      "passageBottom": null,
+      "question": "능동태보다는 수동태로 표현하는 것이 자연스러운 경우 중에서 행위자보다는 그 대상에 초점을 두는 경우에 해당하는 문장은?",
+      "options": [
+        "My father was killed in World War Ⅱ.",
+        "Your silence is cordially requested.",
+        "She spoke and was criticized by her classmates.",
+        "His house was destroyed by fire."
+      ],
+      "answer": 3,
+      "explanation": "💡 [수동태 - 초점의 이동]\n\n* ① 행위자 불명 (전쟁 중 사망) → 행위자가 중요하지 않은 경우\n* ② 격식·공손 표현 → 정중한 요청의 경우\n* ③ 행위자(classmates) 명시 → 행위자와 대상 모두 중요\n* ④ 그의 집이 불로 파손된 것에 초점 (불=비인격적 행위자, 집이 대상) → 행위자보다 대상에 초점 ✅"
+    },
+    {
+      "id": 53,
+      "passageBottom": "If ________ air, man could not live.",
+      "question": "밑줄 친 부분에 가장 알맞은 것은?",
+      "options": [
+        "were not for",
+        "it were not for",
+        "for it were not",
+        "without for air"
+      ],
+      "answer": 1,
+      "explanation": "💡 [가정법 - If it were not for]\n\nBut for air = Without air = If it were not for air = Were it not for air 이 정도로 바꿔 쓸 수 있다.\n\n* ① were not for: 주어 it이 빠져 있어 틀림\n* ② it were not for: If it were not for = ~이 없다면 (가정법 과거 관용 표현) ✅\n* ③ for it were not: 어순이 틀림\n* ④ without for air: without과 for를 중복 사용하여 틀림"
+    },
+    {
+      "id": 54,
+      "passageBottom": "________ I knew his address!",
+      "question": "밑줄 친 부분에 가장 알맞은 것은?",
+      "options": [
+        "If only",
+        "It is time",
+        "Were it not for",
+        "As if"
+      ],
+      "answer": 0,
+      "explanation": "💡 [가정법 - If only]\n\n그의 주소만이라도 알았으면... 이라는 현재 소망/후회를 나타낸다.\n\n'If only + 가정법 과거'\n\n* ① If only: If only I knew his address! = 주소만 알았으면 좋겠는데 ✅\n* ② It is time: It is time + 가정법 과거는 '이제 ~할 때다'의 의미\n* ③ Were it not for: ~이 없다면 (가정법 도치)\n* ④ As if: 마치 ~인 것처럼 (비교 가정법)"
+    },
+    {
+      "id": 55,
+      "passageBottom": "\"She talks much; <b>otherwise</b> she would seem wiser.\"에서 밑줄 친 otherwise가 의미하는 것을 가장 잘 제시한 것은?",
+      "question": "otherwise가 의미하는 가정법 표현으로 가장 알맞은 것은?",
+      "options": [
+        "If she had talked much",
+        "If she had not talked much",
+        "If she talked much",
+        "If she didn't talk much"
+      ],
+      "answer": 3,
+      "explanation": "💡 [가정법 - otherwise]\n\n그녀는 말을 많이 한다. 그렇지 않다면 그녀는 더 현명해 보일 텐데. 선행절의 시제가 현재임을 고려하여 가정법으로 만들면 ④가 답이 된다.\n\n* ① If she had talked much: 과거완료 가정법 (시제 불일치)\n* ② If she had not talked much: 과거완료 부정 가정법 (시제 불일치)\n* ③ If she talked much: 긍정 가정법 (의미 반대)\n* ④ If she didn't talk much: 가정법 과거 부정 = otherwise의 의미 ✅"
+    },
+    {
+      "id": 56,
+      "passageBottom": null,
+      "question": "밑줄 친 동사가 어법상 틀린 것은?",
+      "options": [
+        "War and Peace <b>is</b> the longest novel I've ever read.",
+        "The crew <b>was</b> all saved.",
+        "More than one member <b>has</b> protested against the proposal.",
+        "Either your brakes or your eyesight <b>is</b> at fault."
+      ],
+      "answer": 1,
+      "explanation": "💡 [수 일치]\n\n* ① War and Peace is: 작품명은 단수 취급 → 맞음\n* ② The crew was → were: crew는 집합명사로 구성원 전체가 구조된 것이므로 복수 취급 → was를 were로 고쳐야 함 ✅\n* ③ More than one has: more than one은 단수 취급 → 맞음\n* ④ Either A or B is: either ~ or ~에서 B(your eyesight, 단수)에 일치 → 맞음"
+    },
+    {
+      "id": 57,
+      "passageBottom": "He said to me, \"Don't speak loud\"\n→ He ________ me not to speak loud.",
+      "question": "아래 빈칸에 알맞지 않은 것은?",
+      "options": [
+        "told",
+        "requested",
+        "said",
+        "asked"
+      ],
+      "answer": 2,
+      "explanation": "💡 [화법 전환 - 명령문]\n\nsaid 다음에 사람의 목적격을 쓰려면 전치사 to가 필요함. 만약 said 다음 that이 생략되었다고 보더라도 목적어가 바로 올 수 없기 때문에 said는 적절하지 않다.\n\n* ① told me not to: tell + 목적어 + not to부정사 → 맞음\n* ② requested me not to: request + 목적어 + not to부정사 → 맞음\n* ③ said me not to: say는 간접목적어를 바로 취할 수 없음 ✅ (알맞지 않음)\n* ④ asked me not to: ask + 목적어 + not to부정사 → 맞음"
+    },
+    {
+      "id": 58,
+      "passageBottom": null,
+      "question": "밑줄 친 부정관사 a가 'some'의 뜻인 것은?",
+      "options": [
+        "Rome was not built in <b>a</b> day.",
+        "Birds of <b>a</b> feather flock together.",
+        "It was <b>a</b> sight that would make angels rejoice.",
+        "The boys were quarreling among themselves for <b>a</b> time."
+      ],
+      "answer": 3,
+      "explanation": "💡 [부정관사 a의 용법]\n\n* ① a day: one (하루 만에) → one의 의미\n* ② a feather: the same (같은 깃털의) → the same의 의미\n* ③ a sight: wonderful (굉장한 광경) → 강조·감탄의 의미\n* ④ a time: some (한동안, 얼마간) → some의 의미 ✅"
+    },
+    {
+      "id": 59,
+      "passageBottom": null,
+      "question": "밑줄 친 명사에 정관사를 붙이지 않으면 어법상 틀리는 것은?",
+      "options": [
+        "<b>School</b> begins at half past eight.",
+        "<b>Waiter</b>, bring me a cup of coffee.",
+        "Would you play <b>tennis</b> with me?",
+        "<b>Police</b> are on the track of the criminal."
+      ],
+      "answer": 3,
+      "explanation": "💡 [정관사 the - police]\n\npolice는 정관사 없이 쓰이면 경찰 일반(기관)을 나타내어 복수 취급하지만, 'The police'로 쓰면 경찰관들(individuals)을 뜻하며 복수 취급한다. 이 문장에서 'are on the track'은 복수 동사이므로 The police가 맞다.\n\n* ① School: 제도·기관으로서의 학교 → 무관사 맞음\n* ② Waiter: 직접 부르는 호칭 → 무관사 맞음\n* ③ tennis: 운동 경기 → 무관사 맞음\n* ④ Police → The police: 경찰관들(복수)을 나타내려면 The police ✅"
+    },
+    {
+      "id": 60,
+      "passageBottom": null,
+      "question": "밑줄 친 재귀대명사가 강조용법으로 사용된 것은?",
+      "options": [
+        "I could not make <b>myself</b> understood.",
+        "Life <b>itself</b> is an unsolved mystery.",
+        "She killed <b>herself</b> on the railway.",
+        "We saw <b>ourselves</b> reflected in the mirror."
+      ],
+      "answer": 1,
+      "explanation": "💡 [재귀대명사 - 강조 용법 vs 재귀 용법]\n\n삶 그것은 풀리지 않는 미스터리이다. 주어 Life를 강조하기 위한 용법으로 itself가 쓰인 예이다.\n\n* ① myself: make myself understood → 재귀 용법 (관용 표현)\n* ② itself: Life itself → 주어 강조 용법 ✅\n* ③ herself: killed herself → 재귀 용법 (자살)\n* ④ ourselves: saw ourselves → 재귀 용법 (우리를 봤다)"
+    },
+    {
+      "id": 61,
+      "passageBottom": null,
+      "question": "밑줄 친 it이 형식목적어로 사용되지 <b>않은</b> 것은?",
+      "options": [
+        "How far is <b>it</b> to the city hall?",
+        "I think <b>it</b> wrong to waste time.",
+        "I took <b>it</b> for granted that you had finished the work.",
+        "She made <b>it</b> clear why she bought it with her own money."
+      ],
+      "answer": 0,
+      "explanation": "💡 [it의 용법 - 형식목적어 vs 비인칭 주어]\n\n* ① it: 거리를 나타내는 비인칭 주어 → 형식목적어가 아님 ✅\n* ② it: think it wrong to waste time → 가목적어 it, 진목적어 to waste time\n* ③ it: took it for granted that → 가목적어 it, 진목적어 that절\n* ④ it: made it clear why → 가목적어 it, 진목적어 why절"
+    },
+    {
+      "id": 62,
+      "passageBottom": null,
+      "question": "어법상 틀린 문장은?",
+      "options": [
+        "The girl that lives opposite works in a bank.",
+        "Who that knows her can forget her?",
+        "This is the apartment in that he lives.",
+        "No man that has common sense will say so."
+      ],
+      "answer": 2,
+      "explanation": "💡 [관계대명사 - 전치사 + which]\n\n전치사 in을 저 위치에 쓰려면 관계대명사 which로 받아야 한다. that을 쓸 경우 전치사 in은 문장 끝 lives 뒤에 쓴다.\n\n→ This is the apartment in <b>which</b> he lives.\n또는 This is the apartment that he lives <b>in</b>.\n\n* ① that lives: 주격 관계대명사 that → 맞음\n* ② Who that knows: 복합관계사 용법 → 맞음\n* ③ in that → in which: 전치사 + that 불가 ✅\n* ④ that has: 주격 관계대명사 that → 맞음"
+    },
+    {
+      "id": 63,
+      "passageBottom": null,
+      "question": "밑줄 친 관계대명사의 쓰임이 어법상 틀린 것은?",
+      "options": [
+        "<b>What</b> is done cannot be undone.",
+        "I will do <b>what</b> I can do for you.",
+        "Give it to <b>whomever</b> name is on it.",
+        "He is as diligent a man <b>as</b> ever lived."
+      ],
+      "answer": 2,
+      "explanation": "💡 [복합관계대명사 - 소유격]\n\n(명단)에 이름이 있는 사람 누구에게나 그것을 주시오. 복합관계대명사의 용법을 알고 있는가를 묻고 있다. 여기선 소유격 whosever를 쓰는 것이 적합하다.\n\n→ Give it to <b>whoever</b> whose name is on it. 또는 Give it to <b>whosever</b> name is on it.\n\n* ① What is done: 선행사 포함 관계대명사 → 맞음\n* ② what I can do: 선행사 포함 관계대명사 → 맞음\n* ③ whomever → whosever: 뒤에 name(명사)이 오므로 소유격이 필요 ✅\n* ④ as ever lived: 유사관계대명사 as → 맞음"
+    },
+    {
+      "id": 64,
+      "passageBottom": "He was an American, (  ) I knew from his accent.\nHe does not study hard, (  ) is often the case with an idle boy.",
+      "question": "아래 두 문장의 괄호 안에 공통으로 알맞은 것은?",
+      "options": [
+        "but",
+        "as",
+        "than",
+        "so"
+      ],
+      "answer": 1,
+      "explanation": "💡 [유사관계대명사 - as (앞 문장 전체를 선행사)]\n\n유사관계대명사 as가 앞 문장 전체를 선행사로 취하는 경우이다.\n\n* ① but: 유사관계대명사 but은 부정 선행사와 함께 쓰임\n* ② as: 앞 절 전체를 선행사로 하는 유사관계대명사 as ✅\n* ③ than: 비교급 구문의 유사관계대명사\n* ④ so: 접속사·대명사로 이 용법에 맞지 않음"
+    },
+    {
+      "id": 65,
+      "passageBottom": null,
+      "question": "밑줄 친 부분의 뜻을 괄호 안에 틀리게 제시한 것은?",
+      "options": [
+        "<b>Not a few</b> members of the club were absent. (= Many)",
+        "You have <b>but few</b> chances of success. (= only a few)",
+        "He has given me <b>not a little</b> trouble. (= much)",
+        "My house is <b>little better than</b> a hut. (= never)"
+      ],
+      "answer": 3,
+      "explanation": "💡 [부정어 - little better than]\n\n* ① not a few = many (적지 않은 = 많은) → 맞음\n* ② but few = only a few (겨우 조금) → 맞음\n* ③ not a little = much (적지 않은 = 많은) → 맞음\n* ④ little better than: 우리 집은 오두막보다 조금도 나은 것이 없다 (= 오두막이나 마찬가지) → never가 아니라 '거의 ~와 다름없는'의 의미 ✅ (틀리게 제시됨)"
+    },
+    {
+      "id": 66,
+      "passageBottom": null,
+      "question": "밑줄 친 부분이 부분부정의 의미를 지니지 않는 것은?",
+      "options": [
+        "The rich are <b>not always</b> happy.",
+        "She is <b>not altogether</b> honest.",
+        "He <b>little</b> knows <b>what</b> awaits him.",
+        "<b>All</b> that glitters is <b>not</b> gold."
+      ],
+      "answer": 2,
+      "explanation": "💡 [부정 - 부분부정 vs 전체부정]\n\n* ① not always: 항상 ~한 것은 아니다 → 부분부정\n* ② not altogether: 전적으로 ~한 것은 아니다 → 부분부정\n* ③ little knows: 전혀 모르고 있다 → 전체부정 (little = hardly) ✅\n* ④ All ~ not: 반짝인다고 해서 모두가 금은 아니다 → 부분부정"
+    },
+    {
+      "id": 67,
+      "passageBottom": "She was as (  ) as her word.\nWithout her glasses she was as (  ) as blind.",
+      "question": "아래 두 문장의 괄호 안에 공통으로 알맞은 것은?",
+      "options": [
+        "good",
+        "bad",
+        "right",
+        "long"
+      ],
+      "answer": 0,
+      "explanation": "💡 [as ~ as 관용 표현]\n\n* as good as her word: 약속을 잘 지키는 (= 신용 있는)\n* as good as blind: 눈이 먼 것이나 다름없는 (= practically blind)\n\n두 문장 모두 good이 들어가는 관용 표현이다.\n\n* ① good: as good as one's word (약속을 지키는) / as good as blind (거의 맹인인) ✅\n* ② bad: as bad as는 이 두 관용 표현에 해당하지 않음\n* ③ right: as right as는 이 두 관용 표현에 해당하지 않음\n* ④ long: as long as는 조건 접속사로 이 표현에 해당하지 않음"
+    },
+    {
+      "id": 68,
+      "passageBottom": null,
+      "question": "밑줄 친 정관사 the가 없는 것이 더 자연스러운 문장은?",
+      "options": [
+        "Tom was <b>the</b> happiest when he was young.",
+        "This lake is <b>the</b> deepest in our country.",
+        "You are the <b>last</b> person I'd want to talk to about this.",
+        "I'm not in <b>the</b> least concerned about his betrayal."
+      ],
+      "answer": 0,
+      "explanation": "💡 [정관사 - 서술적 용법의 최상급]\n\n* ① the happiest → happiest: 서술적 용법의 최상급에는 정관사를 붙이지 않는 것이 자연스럽다 (비교 대상이 없는 절대최상급) ✅\n* ② the deepest: 나라 안의 여러 호수 중 가장 깊은 호수 → the 필요\n* ③ the last: 여러 사람들 가운데 가장 마지막에 말할 사람 → the 필요\n* ④ in the least: 관용 표현 → the 필요"
+    },
+    {
+      "id": 69,
+      "passageBottom": "\"<b>But that</b> I saw it, I could not have believed it.\"에서 밑줄 친 But that의 뜻으로 가장 알맞은 것은?",
+      "question": "But that의 뜻으로 가장 알맞은 것은?",
+      "options": [
+        "If",
+        "Since",
+        "Unless",
+        "Although"
+      ],
+      "answer": 2,
+      "explanation": "💡 [접속사 - But that]\n\n내가 그것을 보지 않았더라면 그것을 믿을 수 없었을 거다. if not의 의미를 갖는 unless의 의미를 지닌다.\n\n* ① If: 조건을 나타내나 부정의 의미가 없음\n* ② Since: 이유를 나타내어 맞지 않음\n* ③ Unless: = If not → But that = Unless (내가 그것을 보지 않았더라면) ✅\n* ④ Although: 양보를 나타내어 맞지 않음"
+    },
+    {
+      "id": 70,
+      "passageBottom": null,
+      "question": "밑줄 친 부분이 강조를 위해 도치된 경우가 아닌 것은?",
+      "options": [
+        "Her face was stony and <b>even stonier</b> was her voice.",
+        "<b>Little</b> did I dream that I should never see her again.",
+        "<b>Were</b> you there when they crucified our king?",
+        "<b>Down</b> came the shower."
+      ],
+      "answer": 2,
+      "explanation": "💡 [도치 - 강조 vs 의문문]\n\n* ① even stonier was her voice: 보어(stonier)를 강조하기 위한 도치 → 강조 도치\n* ② Little did I dream: 부정어(Little)를 강조하기 위한 도치 → 강조 도치\n* ③ Were you there: 의문문을 만들기 위해 be동사가 앞으로 나갔을 뿐 → 강조 도치 아님 ✅\n* ④ Down came the shower: 부사(Down)를 강조하기 위한 도치 → 강조 도치"
+    }
+  ]
+}
