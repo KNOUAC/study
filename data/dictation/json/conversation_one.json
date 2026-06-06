@@ -1,0 +1,173 @@
+[
+    { 
+        "audio_url": "https://knouac.github.io/study/data/dictation/audio/conversation_one/03.mp3",
+        "start_time": 0,
+        "end_time": null,
+        "topic": "3. ",
+        "text_type": "dialogue",
+        "lines": [
+            { "speaker": "Harry",   "text": "Julie, how's your day?" },
+            { "speaker": "Julie",   "text": "I was looking for jobs today. I think I need to get a job." },
+            { "speaker": "Harry",   "text": "I see. I hope you do. How about you, Soyeong?" },
+            { "speaker": "Soyeong", "text": "I don't have any plans for the weekend yet. So, Julie, are you going to keep track of things this weekend?" },
+            { "speaker": "Julie",   "text": "No, I'm not. I don't want to search for jobs on weekend." },
+            { "speaker": "Soyeong", "text": "I'm with you. Julie." },
+            { "speaker": "Harry",   "text": "I agree. Yu-Jin says there is a cherry blossom road nearby. The cherry blossoms are in full bloom this weekend. I'm planning to visit there. Do you want to go see them together?" },
+            { "speaker": "Soyeong", "text": "Great idea! I'll take you to the places." },
+            { "speaker": "Julie",   "text": "Wow, thanks. I saw cherry blossoms blooming in front of the guesthouse. It was so beautiful. I've never actually seen cherry blossoms before." },
+            { "speaker": "Harry",   "text": "Me, too. It looks like snow. When the wind blows, it feels like it's snowing. If we go to Cherry Blossom Road, we will probably see the scene." },
+            { "speaker": "Soyeong", "text": "I'm looking forward to it. I'll take my camera. It will be a good chance to take a picture." }
+        ]
+    },
+    {
+        "audio_url": "https://knouac.github.io/study/data/dictation/audio/conversation_one/04.mp3",
+        "start_time": 0,
+        "end_time": null,
+        "topic": "4. ",
+        "text_type": "dialogue",
+        "lines": [
+            { "speaker": null,      "text": "[Understagram Contents]" },
+            { "speaker": null,      "text": "Yesterday, cherry blossom road. In full bloom ATM. The cherry blossoms fell like snow. BTW, there were so many people. Hard to take pics. Noble Restaurant was really good. If you wanna go there, you should make a reservation B4 you go. Need some information about the restaurant or the street? AMA. "},
+            { "speaker": null,      "text": "#Korea #Seoul #Cherryblossomstreet #noblerestaurant #pasta #withHarry" },
+            { "speaker": "Yu-Jin",  "text": "Julie, what are you doing?" },
+            { "speaker": "Julie",   "text": "I'm putting my pictures on Understagram now." },
+            { "speaker": "Yu-Jin",  "text": "Understagram?" },
+            { "speaker": "Julie",   "text": "Yes. It's one of the well-known social media. Like a photo album, you can upload pictures and record them. It's easy to see and I can give news to my friends." },
+            { "speaker": "Yu-Jin",  "text": "Oh, interesting. I haven't used it yet. Can you teach me?" },
+            { "speaker": "Julie",   "text": "Sure. You will learn it quickly. First, you need to download the app on your cell phone and log in. It's your first time using it, so let's sign up." },
+            { "speaker": "Yu-Jin",  "text": "Let me see.... Like this? I joined." },
+            { "speaker": "Julie",   "text": "Then you can select the pictures in the library and comment on them. It is a good way to add hashtags as well. Press Upload to finish. Look, the picture's up, isn't it?" },
+            { "speaker": "Yu-Jin",  "text": "Oh, it looks like an album. I think it's easy to use." },
+            { "speaker": "Julie",   "text": "Yes, we can now follow each other." }
+        ]
+    },
+    {
+        "audio_url": "https://knouac.github.io/study/data/dictation/audio/conversation_one/05.mp3",
+        "start_time": 0,
+        "end_time": null,
+        "topic": "5. ",
+        "text_type": "dialogue",
+        "lines": [
+            { "speaker": "Julie",   "text": "Good morning Yu-Jin. Where are you going?" },
+            { "speaker": "Yu-Jin",  "text": "Hi, Julie. My husband and I are going to the city library to borrow books. Oh, are you guys new to each other, right? This is Min-Su, my husband." },
+            { "speaker": "Julie",   "text": "Hi, I'm Julie. Nice to meet you. I've heard a lot from Yu-Jin. Are you back from your business trip?" },
+            { "speaker": "Min-Su",  "text": "Nice to meet you, too. How are you? I'm fine, thank you. Yes, I'm back." },
+            { "speaker": "Yu-Jin",  "text": "Oh, Min-Su... He only learned English from textbooks. And... he loves Konglish." },
+            { "speaker": "Julie",   "text": "Konglish? That sounds interesting! While I stay here, we'll get to know each other, and your English will improve for sure. By the way, I want to go to the library. Can I join you?" },
+            { "speaker": "Yu-Jin",  "text": "Of course. Get in the car. It will take a few minutes." },
+            { "speaker": "Julie",   "text": "Yeah! Let's go to the library!" },
+            { "speaker": "Min-Su",  "text": "Let's go. Oh, I need to adjust the position of the back mirror." },
+            { "speaker": "Julie",   "text": "Back mirror? What's the back mirror?" },
+            { "speaker": "Min-Su",  "text": "\"Back mirror.\" The mirror in front of the driver's seat." },
+            { "speaker": "Julie",   "text": "Oh, you mean \"Rear View Mirror\"?" },
+            { "speaker": "Yu-Jin",  "text": "Wow, is the \"back mirror\" Konglish? Rear view mirror? In Korea, most people use the term \"back mirror\" instead of \"rear view mirror.\"" },
+            { "speaker": "Julie",   "text": "It is interesting to hear the different usage of English expression between Korea and the States." },
+        ]
+    },
+    {
+        "audio_url": "https://knouac.github.io/study/data/dictation/audio/conversation_one/11.mp3",
+        "start_time": 0,
+        "end_time": null,
+        "topic": "11. food court",
+        "text_type": "dialogue",
+        "lines": [
+            { "speaker": "Harry",   "text": "This is D-Mart. It looks like Price-co." },
+            { "speaker": "Yu-Jin",  "text": "Why don't we eat something first at the food court here?" },
+            { "speaker": "InSung",  "text": "That's a good idea. I just happen to be very hungry." },
+            { "speaker": null,      "text": "[On the food court]" },
+            { "speaker": "Julie",   "text": "There are many different kinds of food. Should we choose what we want to eat, or should we order all together at one restaurant?" },
+            { "speaker": "InSung",  "text": "You can order what you want. You can pay for Korean, Chinese, Western, or Japanese food here. And order fast food in front of the store. I'm going to order pork cutlet." },
+            { "speaker": "Yu-Jin",  "text": "I'd better eat bibimbap. Julie, what about you?" },
+            { "speaker": "Julie",   "text": "I want to try gimbap. I saw it as I passed by before, and it looks very delicious." },
+            { "speaker": "InSung",  "text": "Gimbap goes well with ramen. Why don't you try the set menu?" },
+            { "speaker": "Julie",   "text": "I prefer udon to ramen. Ramen was too spicy for me." },
+            { "speaker": "Harry",   "text": "There is also the gimbap and udon set. I'll eat fast food. I'll go and get the order." },
+            { "speaker": "Yu-Jin",  "text": "Okay. Let's meet again at this table." }
+        ]
+    },
+    {
+        "audio_url": "https://knouac.github.io/study/data/dictation/audio/conversation_one/12.mp3",
+        "start_time": 0,
+        "end_time": null,
+        "topic": "12. 한국 요리 만들기",
+        "text_type": "dialogue",
+        "lines": [
+            { "speaker": "Julie",   "text": "I'm totally into gimbap. I think it's the best Korean food I've ever eaten." },
+            { "speaker": "Yu-Jin",  "text": "Gimbap is easy to make when the ingredients are ready. Julie, would you like to make it?" },
+            { "speaker": "Harry",   "text": "Oh, are you taking Yu-Jin's Korean cooking classes?" },
+            { "speaker": "Yu-Jin",  "text": "Do you want to join us, Harry?" },
+            { "speaker": "Harry",   "text": "That would be great." },
+            { "speaker": null,      "text": "[In the kitchen]" },
+            { "speaker": "Yu-Jin",  "text": "I've chopped all the ingredients, and now I'm going to fry them. You have to fry all the ingredients." },
+            { "speaker": "Harry",   "text": "Okay. I'll fry them." },
+            { "speaker": "Yu-Jin",  "text": "Thanks, Harry. Then, place the seaweed on the bamboo roller mat and spread the seasoned rice on top of it. Cover with a thin layer of rice as if spreading butter. Place the fried ingredients on top of the rice." },
+            { "speaker": "Julie",   "text": "Oh, I think I know what to do next. You will roll this up, right?" },
+            { "speaker": "Yu-Jin",  "text": "Exactly. Cut the rolled gimbap and it's complete." }
+        ]
+    },
+    {
+        "audio_url": "https://knouac.github.io/study/data/dictation/audio/conversation_one/13.mp3",
+        "start_time": 0,
+        "end_time": null,
+        "topic": "13. 피자 주문하기",
+        "text_type": "dialogue",
+        "lines": [
+            { "speaker": "InSung",  "text": "Why don't we talk over dinner together?" },
+            { "speaker": "Yu-Jin",  "text": "Great. There's a good pizza place nearby. How about going there?" },
+            { "speaker": "Harry",   "text": "InSung said that there is a delivery app. I want to try it." },
+            { "speaker": "Yu-Jin",  "text": "Oh, you can order pizza using a delivery app. If you're interested in delivered food, let's try it tonight!" },
+            { "speaker": "Julie",   "text": "Great! It's wonderful to have pizza delivered. How do I order?" },
+            { "speaker": "InSung",  "text": "Open the app and select the pizza category. Then it will show you the names, menus, photos and prices of various restaurants. You just check the menu of a restaurant and call!" },
+            { "speaker": "Yu-Jin",  "text": "I'll take our order then. What kind of pizza do you prefer?" },
+            { "speaker": "Julie",   "text": "I like them all. But the shrimp potato pizza looks really delicious." },
+            { "speaker": "Harry",   "text": "That looks good. I'll also take this one." },
+            { "speaker": "Yu-Jin",  "text": "Okay." },
+            { "speaker": null,      "text": "[On the phone]" },
+            { "speaker": "Yu-Jin",  "text": "Hello. This is the English Guesthouse, 123-gil, Seoul-ro. I'd like to order a large shrimp potato pizza. Add garlic sauce, please. And a 15L of Coke, too. I'll pay by credit card." },
+            { "speaker": "Harry",   "text": "So, all we have to do is wait for the pizza?" },
+            { "speaker": "InSung",  "text": "The pizza will arrive in about half an hour. Why don't we set the table?" }
+        ]
+    },
+    {
+        "audio_url": "https://knouac.github.io/study/data/dictation/audio/conversation_one/14.mp3",
+        "start_time": 0,
+        "end_time": null,
+        "topic": "14. 병원에서의 대화",
+        "text_type": "dialogue",
+        "lines": [
+            { "speaker": "InSung",  "text": "Julie, why do you look so sick?" },
+            { "speaker": "Julie",   "text": "Is it that obvious? I feel like throwing up. I met my friend for dinner last night, and I have a stomachache." },
+            { "speaker": "Yu-Jin",  "text": "Have you tried medicine?" },
+            { "speaker": "Julie",   "text": "No, I didn't take it because I thought it would be okay, but it keeps hurting." },
+            { "speaker": "InSung",  "text": "I think you'd better go to see a doctor. I'll go to the hospital with you." },
+            { "speaker": "Yu-Jin",  "text": "Then let's take my car and go together." },
+            { "speaker": null,      "text": "[At the hospital]" },
+            { "speaker": "Doctor",  "text": "Hi Julie, I understand that you're not feeling well. Where does it hurt?" },
+            { "speaker": "Julie",   "text": "Maybe the food I had last night was spoiled. I have been having diarrhea and I have no energy." },
+            { "speaker": "Doctor",  "text": "I think it's enteritis. Don't eat anything for a day if you can. Have a little of the soup if you feel better." },
+            { "speaker": "Julie",   "text": "Thank you." },
+            { "speaker": "InSung",  "text": "You'd better get some rest today." },
+            { "speaker": "Julie",   "text": "Yes, Yu-Jin, InSung, thank you very much. When I woke up in the morning, I was in so much pain." }
+        ]
+    },
+    {
+        "audio_url": "https://knouac.github.io/study/data/dictation/audio/conversation_one/15.mp3",
+        "start_time": 0,
+        "end_time": null,
+        "topic": "15. ",
+        "text_type": "dialogue",
+        "lines": [
+            { "speaker": "Yu-Jin and Min-Su",   "text": "Congratulations!" },
+            { "speaker": "Yu-Jin",  "text": "We're really glad you got the job you wanted. We're sad that you're leaveing, but it's really good for you." },
+            { "speaker": "Julie",   "text": "Thank you for everything. I was very lucky to meet you. I couldn't have done this without you." },
+            { "speaker": "Yu-Jin",  "text": "Don't mention it. Here, we brought you something. It's just a little something. I hope you like it." },
+            { "speaker": "Julie",   "text": "Aw, You really shouldn't have. Ah, a Korean conversation book! This is exactly what I've been looking for. Thanks!" },
+            { "speaker": null,      "text": "[Doorbell rings; Min-Su opens the door; Harry and InSung appear smiling.]" },
+            { "speaker": "Harry",   "text": "We're not late, are we? Congratulations on your job, Julie." },
+            { "speaker": "InSung",  "text": "Here's a present for you." },
+            { "speaker": "Julie",   "text": "I can't believe it. Thanks, guys! I'm so sorry to say goodbye to you." },
+            { "speaker": "Harry",   "text": "We can keep in touch and meet anytime. Let's see how we are doing* through social media as well." },
+            { "speaker": "Julie",   "text": "Absolutely." }
+        ]
+    }
+]

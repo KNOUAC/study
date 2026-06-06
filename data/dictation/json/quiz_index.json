@@ -1,0 +1,14 @@
+[
+    {
+        "label": "1화 - D마트 방문",
+        "url": "https://knouac.github.io/story/data/json/ch01_dmart.json"
+    },
+    {
+        "label": "2화 - 푸드코트 대화",
+        "url": "https://knouac.github.io/story/data/json/ch02_foodcourt.jw"
+    },
+    {
+        "label": "3화 - 치즈터치",
+        "url": "https://knouac.github.io/story/data/json/ch03_cheese.jw"
+    }
+]
