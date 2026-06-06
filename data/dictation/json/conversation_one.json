@@ -3,7 +3,7 @@
         "audio_url": "https://knouac.github.io/study/data/dictation/audio/conversation_one/03.mp3",
         "start_time": 0,
         "end_time": null,
-        "topic": "3. ",
+        "topic": "Lesson 3 - Daily Life",
         "text_type": "dialogue",
         "lines": [
             { "speaker": "Harry",   "text": "Julie, how's your day?" },
@@ -23,12 +23,13 @@
         "audio_url": "https://knouac.github.io/study/data/dictation/audio/conversation_one/04.mp3",
         "start_time": 0,
         "end_time": null,
-        "topic": "4. ",
+        "topic": "Lesson 4 - Social Media",
         "text_type": "dialogue",
         "lines": [
             { "speaker": null,      "text": "[Understagram Contents]" },
             { "speaker": null,      "text": "Yesterday, cherry blossom road. In full bloom ATM. The cherry blossoms fell like snow. BTW, there were so many people. Hard to take pics. Noble Restaurant was really good. If you wanna go there, you should make a reservation B4 you go. Need some information about the restaurant or the street? AMA. "},
             { "speaker": null,      "text": "#Korea #Seoul #Cherryblossomstreet #noblerestaurant #pasta #withHarry" },
+            { "speaker": null,      "text": "" },
             { "speaker": "Yu-Jin",  "text": "Julie, what are you doing?" },
             { "speaker": "Julie",   "text": "I'm putting my pictures on Understagram now." },
             { "speaker": "Yu-Jin",  "text": "Understagram?" },
@@ -45,7 +46,7 @@
         "audio_url": "https://knouac.github.io/study/data/dictation/audio/conversation_one/05.mp3",
         "start_time": 0,
         "end_time": null,
-        "topic": "5. ",
+        "topic": "Lesson 5 - On the Way to the Library",
         "text_type": "dialogue",
         "lines": [
             { "speaker": "Julie",   "text": "Good morning Yu-Jin. Where are you going?" },
@@ -61,14 +62,114 @@
             { "speaker": "Min-Su",  "text": "\"Back mirror.\" The mirror in front of the driver's seat." },
             { "speaker": "Julie",   "text": "Oh, you mean \"Rear View Mirror\"?" },
             { "speaker": "Yu-Jin",  "text": "Wow, is the \"back mirror\" Konglish? Rear view mirror? In Korea, most people use the term \"back mirror\" instead of \"rear view mirror.\"" },
-            { "speaker": "Julie",   "text": "It is interesting to hear the different usage of English expression between Korea and the States." }
+            { "speaker": "Julie",   "text": "It is interesting to hear the different usage of English expression between Korea and the States." },
+        ]
+    },
+    {
+        "audio_url": "https://knouac.github.io/study/data/dictation/audio/conversation_one/06.mp3",
+        "start_time": 0,
+        "end_time": null,
+        "topic": "Lesson 6 - Tips for Studying",
+        "text_type": "dialogue",
+        "lines": [
+            { "speaker": "Julie",   "text": "Soyeong, InSung, your English pronunciation is really good." },
+            { "speaker": "Harry",   "text": "Right. You seem to be a native English speaker, Soyeong." },
+            { "speaker": "Soyeong", "text": "Thanks. I used to live in the States." },
+            { "speaker": "Julie",   "text": "I want to know the ways to maintain or improve your English. The tips will help me when I teach English to my students. How do you practice English pronunciation?" },
+            { "speaker": "Soyeong", "text": "I have been watching English classes on OUN-TV and American TV shows with English subtitles." },
+            { "speaker": "Julie",   "text": "That's a good idea." },
+            { "speaker": "InSung",  "text": "Well, in my case, I didn't have enough time to watch TV because of my job. So I listen to lots of English programs through my smartphone while I'm on the bus or subway." },
+            { "speaker": "Julie",   "text": "Ah, yes! That's the best way to use your time when you are commuting. What else?" },
+            { "speaker": "InSung",  "text": "I also try to learn by reading online newspapers and magazines in English. Above all things, it helps to make friends with English speakers." },
+            { "speaker": "Harry",   "text": "See? I contributed a lot to your English, guys." },
+            { "speaker": "InSung",  "text": "Come on, that's what friends are for." }
+        ]
+    },
+    {
+        "audio_url": "https://knouac.github.io/study/data/dictation/audio/conversation_one/07.mp3",
+        "start_time": 0,
+        "end_time": null,
+        "topic": "Lesson 7 - Teacher's Day",
+        "text_type": "dialogue",
+        "lines": [
+            { "speaker": null,      "text": "[The way to the guest house]" },
+            { "speaker": "Harry",   "text": "Look at the school over there. What makes so many people stand in front of the school?" },
+            { "speaker": "Soyeong", "text": "I think that is because today is Teacher's Day. The teachers and students are standing to greet each other." },
+            { "speaker": "Julie",   "text": "Oh, Korea has Teacher's Day, too." },
+            { "speaker": "InSung",  "text": "There is Teacher's Day in America, too, right? When is Teacher's Day in America?" },
+            { "speaker": "Julie",   "text": "In the United States, the first full week of May is Teacher Appreciation Week. National Teacher Day is on Tuesday during the week. It is May 10 this year." },
+            { "speaker": "Soyeong", "text": "It's amazing to have \"Teacher's Week\". We have Teacher's Day on May 15th. Harry, how about the UK?" },
+            { "speaker": "Harry",   "text": "We annually celebrate World Teacher's day also known as International Teacher's Day. It is October 5." },
+            { "speaker": "InSung",  "text": "I see. It's been a while. I think I should call my high school teacher." },
+            { "speaker": "Julie",   "text": "Oh, your teacher will be very pleased." }
+        ]
+    },
+    {
+        "audio_url": "https://knouac.github.io/study/data/dictation/audio/conversation_one/08.mp3",
+        "start_time": 0,
+        "end_time": null,
+        "topic": "Lesson 8 - Transportations",
+        "text_type": "dialogue",
+        "lines": [
+            { "speaker": "Yu-Jin",  "text": "So, Julie, where are you planning to go today?" },
+            { "speaker": "Julie",   "text": "I'm going to go to Insadong. I heard that it is a traditional Korean marketplace. I will get something for my family there. It's a great place to shop for souvenirs, but it's quite crowded there, right?" },
+            { "speaker": "Yu-Jin",  "text": "Yes, it's really busy. How about you, Justin? How are you going to get there?" },
+            { "speaker": "Justin",  "text": "I get there by bus and transfer to the subway, or I can take a taxi. I will take a bus and subway to sightsee Seoul." },
+            { "speaker": "Yu-Jin",  "text": "Oh, that's a good idea. Buses and subways will not be very crowded at this time." },
+            { "speaker": "Julie",   "text": "I heard that I need a transportation card to transfer. Where can I get a transportation card?" },
+            { "speaker": "Yu-Jin",  "text": "You can buy it at banks, subway booths, and bus stops. If you don't mind, shall I go together with you guys?" },
+            { "speaker": "Justin",  "text": "Of course not! It's a relief that you can go with us." },
+            { "speaker": "Julie",   "text": "Do you have anything to buy?" },
+            { "speaker": "Yu-Jin",  "text": "Actually, my husband will come back from his business trip soon. So I want to prepare a gift for him." },
+            { "speaker": "Julie",   "text": "Wow, you are so sweet." }
+        ]
+    },
+    {
+        "audio_url": "https://knouac.github.io/study/data/dictation/audio/conversation_one/09.mp3",
+        "start_time": 0,
+        "end_time": null,
+        "topic": "Lesson 9 - Shopping and Getting a Refund",
+        "text_type": "dialogue",
+        "lines": [
+            { "speaker": "Julie",  "text": "Harry, what are you doing here? What are all these shopping bags?" },
+            { "speaker": "Harry",  "text": "These are all clothes. I looked around downtown and saw many nice clothes. I bought the clothes I'm wearing, too. And it's trendy this season. Isn't that cool?" },
+            { "speaker": "Julie",  "text": "Yeah, looks good. So, you bought all these today?" },
+            { "speaker": "Harry",  "text": "I was planning to go window shopping, but I bought them all. And... yes. As I told you, I seem to have made many impulse purchases today. I've spent almost all of my budget for the trip today." },
+            { "speaker": "InSung", "text": "Oh, Harry. What do you want to do now?" },
+            { "speaker": "Harry",  "text": "I'd better get a refund on these. I'll go back to the guesthouse and tell what is needed and what is not." },
+            { "speaker": "Julie",  "text": "I think that's a good idea. How long does the refund take? I mean I'm wondering till when you can get a refund." },
+            { "speaker": "Harry",  "text": "Let's see... It says on the receipt that a refund is possible within 15 days of the purchase date." },
+            { "speaker": "InSung", "text": "Harry, your decision will make the rest of the trip more satisfying." },
+            { "speaker": "Harry",  "text": "That's comforting to know! Thank you." }
+        ]
+    },
+    {
+        "audio_url": "https://knouac.github.io/study/data/dictation/audio/conversation_one/10.mp3",
+        "start_time": 0,
+        "end_time": null,
+        "topic": "Lesson 10 - Hair Shop",
+        "text_type": "dialogue",
+        "lines": [
+            { "speaker": "Harry",       "text": "I think my hair is too long. I'd like to change my hairstyle. InSung, do you have any hair shops you recommend?" },
+            { "speaker": "InSung",      "text": "There is a hair shop that I often go to. Do you want to go with me? It is quite famous." },
+            { "speaker": "Harry",       "text": "Oh, good. Let's go!" },
+            { "speaker": null,          "text": "[At the hair shop]" },
+            { "speaker": "Hairdresser", "text": "Welcome. What kind of hairstyle do you want?" },
+            { "speaker": "Harry",       "text": "My hair is too long. I'd like to trim it, and what's the latest style?" },
+            { "speaker": "Hairdresser", "text": "Two-block cut is in fashion." },
+            { "speaker": "Harry",       "text": "What's a two-block cut?" },
+            { "speaker": "InSung",      "text": "Undercut is a two-block cut." },
+            { "speaker": "Harry",       "text": "Oh, the undercut doesn't suit me. I think I'd better get my hair cut or trimmed." },
+            { "speaker": "InSung",      "text": "People dye their hair bright these days. Why don't you dye it too?" },
+            { "speaker": "Harry",       "text": "I'll just get a trim today." },
+            { "speaker": "Hairdresser", "text": "Okay, I'll get started." }
         ]
     },
     {
         "audio_url": "https://knouac.github.io/study/data/dictation/audio/conversation_one/11.mp3",
         "start_time": 0,
         "end_time": null,
-        "topic": "11. food court",
+        "topic": "Lesson 11 - Food Court",
         "text_type": "dialogue",
         "lines": [
             { "speaker": "Harry",   "text": "This is D-Mart. It looks like Price-co." },
@@ -89,7 +190,7 @@
         "audio_url": "https://knouac.github.io/study/data/dictation/audio/conversation_one/12.mp3",
         "start_time": 0,
         "end_time": null,
-        "topic": "12. 한국 요리 만들기",
+        "topic": "Lesson 12 - Making Korean Food",
         "text_type": "dialogue",
         "lines": [
             { "speaker": "Julie",   "text": "I'm totally into gimbap. I think it's the best Korean food I've ever eaten." },
@@ -109,7 +210,7 @@
         "audio_url": "https://knouac.github.io/study/data/dictation/audio/conversation_one/13.mp3",
         "start_time": 0,
         "end_time": null,
-        "topic": "13. 피자 주문하기",
+        "topic": "Lesson 13 - Delivery Application",
         "text_type": "dialogue",
         "lines": [
             { "speaker": "InSung",  "text": "Why don't we talk over dinner together?" },
@@ -132,7 +233,7 @@
         "audio_url": "https://knouac.github.io/study/data/dictation/audio/conversation_one/14.mp3",
         "start_time": 0,
         "end_time": null,
-        "topic": "14. 병원에서의 대화",
+        "topic": "Lesson 14 - International Clinic",
         "text_type": "dialogue",
         "lines": [
             { "speaker": "InSung",  "text": "Julie, why do you look so sick?" },
@@ -154,7 +255,7 @@
         "audio_url": "https://knouac.github.io/study/data/dictation/audio/conversation_one/15.mp3",
         "start_time": 0,
         "end_time": null,
-        "topic": "15. ",
+        "topic": "Lesson 15 - Saying Goodbye",
         "text_type": "dialogue",
         "lines": [
             { "speaker": "Yu-Jin and Min-Su",   "text": "Congratulations!" },
