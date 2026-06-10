@@ -1,10 +1,10 @@
 [
     { 
-        "title": "Grammar - Workbook Exercise", 
+        "title": "Grammar - Coursebook Exercise", 
         "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/grammar/coursebook_exercise.json" 
     },
     { 
-        "title": "Grammar - Final Exam Practice", 
+        "title": "Grammar - Workbook 기말 대비 연습문제", 
         "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/grammar/workbook_final_practice.json" 
     },
     { 
