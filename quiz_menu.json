@@ -4,6 +4,14 @@
         "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/grammar/coursebook_exercise.json" 
     },
     { 
+        "title": "Grammar - 2025 기억", 
+        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/grammar/memorized_2025.json" 
+    },
+    { 
+        "title": "Grammar - 2014", 
+        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/grammar/grammar_quiz_2014.json" 
+    },
+    {
         "title": "Grammar - Workbook 기말 대비 연습문제", 
         "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/grammar/workbook_final_practice.json" 
     },
