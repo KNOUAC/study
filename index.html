@@ -1,4 +1,20 @@
-<!DOCTYPE html><html lang="ko"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>The title is displayed here.</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="style.css"><script src="https://cdn.tailwindcss.com"></script></head><body><div id="settings-overlay" onclick="closeSettings()" style="display:none;position:fixed;inset:0;background:rgba(15,23,42,0.45);z-index:1000;backdrop-filter:blur(2px);-webkit-backdrop-filter:blur(2px);transition:opacity 0.25s;"></div><div id="settings-sheet" style="display:none;position:fixed;bottom:0;left:0;right:0;z-index:1001;background:#fff;border-radius:20px 20px 0 0;padding:0 0 env(safe-area-inset-bottom,16px);box-shadow:0 -8px 40px rgba(15,23,42,0.18);transform:translateY(100%);transition:transform 0.3s cubic-bezier(0.32,0.72,0,1);"><div style="padding:14px 20px 0;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #f1f5f9;margin-bottom:4px;"><span style="font-size:15px;font-weight:700;color:#0f172a;letter-spacing:-0.02em;">학습 이력 관리</span> <button onclick="closeSettings()" style="width:28px;height:28px;border-radius:50%;border:none;background:#f1f5f9;color:#64748b;font-size:16px;cursor:pointer;display:flex;align-items:center;justify-content:center;">✕</button></div><div style="width:36px;height:4px;border-radius:2px;background:#e2e8f0;margin:0 auto 16px;position:absolute;top:8px;left:50%;transform:translateX(-50%);"></div><div style="padding:8px 16px 20px;display:flex;flex-direction:column;gap:10px;"><button onclick="exportQuizHistory()" style="display:flex;align-items:center;gap:14px;padding:14px 16px;border-radius:14px;border:1.5px solid #bfdbfe;background:#eff6ff;color:#1d4ed8;font-size:14px;font-weight:600;cursor:pointer;text-align:left;width:100%;font-family:inherit;letter-spacing:-0.01em;"><span style="width:40px;height:40px;border-radius:12px;background:#dbeafe;display:flex;align-items:center;justify-content:center;flex-shrink:0;"><svg width="20" height="20" fill="none" stroke="#2563eb" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/></svg></span><div><div>이력 백업 (Export)</div><div style="font-size:12px;color:#3b82f6;font-weight:400;margin-top:2px;">JSON 파일로 저장합니다</div></div></button> <label style="display:flex;align-items:center;gap:14px;padding:14px 16px;border-radius:14px;border:1.5px solid #a7f3d0;background:#f0fdf4;color:#065f46;font-size:14px;font-weight:600;cursor:pointer;text-align:left;width:100%;font-family:inherit;letter-spacing:-0.01em;"><span style="width:40px;height:40px;border-radius:12px;background:#d1fae5;display:flex;align-items:center;justify-content:center;flex-shrink:0;"><svg width="20" height="20" fill="none" stroke="#059669" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"/></svg></span><div><div>이력 복원 (Import)</div><div style="font-size:12px;color:#10b981;font-weight:400;margin-top:2px;">백업 JSON 파일을 불러옵니다</div></div><input type="file" accept=".json" style="display:none;" onchange="importQuizHistory(event);closeSettings();"></label> <button onclick="resetAllAndReplay()" style="display:flex;align-items:center;gap:14px;padding:14px 16px;border-radius:14px;border:1.5px solid #c4b5fd;background:#f5f3ff;color:#6d28d9;font-size:14px;font-weight:600;cursor:pointer;text-align:left;width:100%;font-family:inherit;letter-spacing:-0.01em;"><span style="width:40px;height:40px;border-radius:12px;background:#ede9fe;display:flex;align-items:center;justify-content:center;flex-shrink:0;"><svg width="20" height="20" fill="none" stroke="#7c3aed" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"/></svg></span><div><div>처음부터 다시 풀기</div><div style="font-size:12px;color:#7c3aed;font-weight:400;margin-top:2px;">현재 문제집 이력만 초기화합니다</div></div></button> <button onclick="resetQuizHistory()" style="display:flex;align-items:center;gap:14px;padding:14px 16px;border-radius:14px;border:1.5px solid #fca5a5;background:#fff8f8;color:#dc2626;font-size:14px;font-weight:600;cursor:pointer;text-align:left;width:100%;font-family:inherit;letter-spacing:-0.01em;"><span style="width:40px;height:40px;border-radius:12px;background:#fee2e2;display:flex;align-items:center;justify-content:center;flex-shrink:0;"><svg width="20" height="20" fill="none" stroke="#dc2626" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"/></svg></span><div><div>이력 초기화</div><div style="font-size:12px;color:#ef4444;font-weight:400;margin-top:2px;">모든 정오 기록을 삭제합니다</div></div></button></div></div><div class="mb-5 flex justify-between items-center gap-3 bg-white p-3 md:px-4 rounded-xl border border-gray-200 shadow-sm"><select id="exam-mode-select" class="border border-gray-300 p-2 rounded-lg shadow-sm text-[14px] font-medium text-gray-700 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none cursor-pointer flex-1 min-w-0" onchange="renderAllQuestions(this.value)"><option value="normal">기본 순서 출제</option><option value="shuffle">1. 문제 순서 무작위 (Shuffle)</option><option value="spaced_repetition">2. 망각곡선 복습 (Spaced Repetition)</option><option value="weighted_error">3. 오답 가중치 모의고사</option><option value="category_focus">4. 취약 단원 집중 출제</option><option value="wrong_archive">5. 누적 오답 노트 보기</option></select> <button onclick="openSettings()" title="학습 이력 관리" style="flex-shrink:0;width:38px;height:38px;border-radius:10px;border:1.5px solid #e2e8f0;background:#f8fafc;color:#64748b;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:background 0.15s,border-color 0.15s,color 0.15s;" onmouseover="this.style.background='#eff6ff';this.style.borderColor='#bfdbfe';this.style.color='#2563eb'" onmouseout="this.style.background='#f8fafc';this.style.borderColor='#e2e8f0';this.style.color='#64748b'"><svg width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"/><circle cx="12" cy="12" r="3"/></svg></button></div><div id="quiz-app-root"><div class="site-header"><div style="max-width:768px; margin:0 auto; padding:0 20px;"><h1 id="site-title">The title is displayed here.</h1><p id="site-desc" style="display:none; margin:6px 0 0; font-size:13px; color:rgba(255,255,255,0.72); line-height:1.55; letter-spacing:-0.01em;"></p></div></div><div style="max-width:768px; margin:0 auto; padding:0 16px 80px;"><div class="load-panel"><label class="btn-primary" style="cursor:pointer;"><svg style="width:13px;height:13px;fill:currentColor;display:inline-block;vertical-align:-1px;" viewBox="0 0 24 24"><path d="M10 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"/></svg> 파일 선택 <input type="file" id="file-input" accept=".json,.jw,.js" style="display:none;"></label><div class="load-divider"></div><div class="dropdown-wrap" id="dropdown-wrap"><button class="dropdown-trigger" id="dropdown-trigger"><span id="dropdown-label">📚 문제집 선택</span> <svg class="dropdown-chevron" width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6z"/></svg></button><div class="dropdown-panel" id="dropdown-panel"></div></div></div><div id="quiz-list"></div><div id="error-msg" style="display:none;"></div></div></div><script>/**
+<!DOCTYPE html><html lang="ko"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Quiz</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="style.css"><style>/* ── 필기: 단일 fixed overlay canvas ── */
+        #pencil-overlay { position:fixed;top:0;left:0;width:100%;height:100%;z-index:800;pointer-events:none;touch-action:none; }
+        #pencil-overlay.active { pointer-events:all;cursor:crosshair; }
+        .nav-bar { z-index:850 !important; }  /* overlay(800) 위에 */
+        #pencil-toolbar { z-index:860 !important; }  /* nav-bar 위에 */
+        .nav-btn { position:relative; }  /* badge 위치 기준 */
+        .pencil-badge { z-index:861; }
+        #pencil-toolbar { display:none;position:fixed;bottom:88px;left:50%;transform:translateX(-50%);z-index:900;background:rgba(255,255,255,0.97);border:1.5px solid #e2e8f0;border-radius:40px;padding:6px 12px;gap:6px;align-items:center;box-shadow:0 4px 20px rgba(15,23,42,0.15);white-space:nowrap; }
+        #pencil-toolbar.visible { display:flex; }
+        .pt-color { width:22px;height:22px;border-radius:50%;border:2.5px solid transparent;cursor:pointer;flex-shrink:0;transition:border-color .15s,transform .1s; }
+        .pt-color:hover  { transform:scale(1.18); }
+        .pt-color.active { border-color:#1e293b; }
+        .pt-divider { width:1px;height:18px;background:#e2e8f0;margin:0 2px; }
+        .pt-btn { width:28px;height:28px;border-radius:8px;border:none;background:transparent;cursor:pointer;display:flex;align-items:center;justify-content:center;color:#64748b;transition:background .12s;flex-shrink:0;padding:0; }
+        .pt-btn:hover  { background:#f1f5f9;color:#0f172a; }
+        .pt-btn.active { background:#fee2e2;color:#dc2626; }
+        .pt-size { width:34px;height:22px;border:1px solid #e2e8f0;border-radius:6px;font-size:11px;font-weight:600;text-align:center;outline:none;background:#f8fafc;color:#334155;cursor:pointer;font-family:inherit; }</style><script src="https://cdn.tailwindcss.com"></script></head><body><div id="settings-overlay" onclick="closeSettings()" style="display:none;position:fixed;inset:0;background:rgba(15,23,42,0.45);z-index:1000;backdrop-filter:blur(2px);-webkit-backdrop-filter:blur(2px);transition:opacity 0.25s;"></div><div id="settings-sheet" style="display:none;position:fixed;bottom:0;left:0;right:0;z-index:1001;background:#fff;border-radius:20px 20px 0 0;padding:0 0 env(safe-area-inset-bottom,16px);box-shadow:0 -8px 40px rgba(15,23,42,0.18);transform:translateY(100%);transition:transform 0.3s cubic-bezier(0.32,0.72,0,1);"><div style="padding:14px 20px 0;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #f1f5f9;margin-bottom:4px;"><span style="font-size:15px;font-weight:700;color:#0f172a;letter-spacing:-0.02em;">학습 이력 관리</span> <button onclick="closeSettings()" style="width:28px;height:28px;border-radius:50%;border:none;background:#f1f5f9;color:#64748b;font-size:16px;cursor:pointer;display:flex;align-items:center;justify-content:center;">✕</button></div><div style="width:36px;height:4px;border-radius:2px;background:#e2e8f0;margin:0 auto 16px;position:absolute;top:8px;left:50%;transform:translateX(-50%);"></div><div style="padding:8px 16px 20px;display:flex;flex-direction:column;gap:10px;"><button onclick="exportQuizHistory()" style="display:flex;align-items:center;gap:14px;padding:14px 16px;border-radius:14px;border:1.5px solid #bfdbfe;background:#eff6ff;color:#1d4ed8;font-size:14px;font-weight:600;cursor:pointer;text-align:left;width:100%;font-family:inherit;letter-spacing:-0.01em;"><span style="width:40px;height:40px;border-radius:12px;background:#dbeafe;display:flex;align-items:center;justify-content:center;flex-shrink:0;"><svg width="20" height="20" fill="none" stroke="#2563eb" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/></svg></span><div><div>이력 백업 (Export)</div><div style="font-size:12px;color:#3b82f6;font-weight:400;margin-top:2px;">JSON 파일로 저장합니다</div></div></button> <label style="display:flex;align-items:center;gap:14px;padding:14px 16px;border-radius:14px;border:1.5px solid #a7f3d0;background:#f0fdf4;color:#065f46;font-size:14px;font-weight:600;cursor:pointer;text-align:left;width:100%;font-family:inherit;letter-spacing:-0.01em;"><span style="width:40px;height:40px;border-radius:12px;background:#d1fae5;display:flex;align-items:center;justify-content:center;flex-shrink:0;"><svg width="20" height="20" fill="none" stroke="#059669" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"/></svg></span><div><div>이력 복원 (Import)</div><div style="font-size:12px;color:#10b981;font-weight:400;margin-top:2px;">백업 JSON 파일을 불러옵니다</div></div><input type="file" accept=".json" style="display:none;" onchange="importQuizHistory(event);closeSettings();"></label> <button onclick="resetAllAndReplay()" style="display:flex;align-items:center;gap:14px;padding:14px 16px;border-radius:14px;border:1.5px solid #c4b5fd;background:#f5f3ff;color:#6d28d9;font-size:14px;font-weight:600;cursor:pointer;text-align:left;width:100%;font-family:inherit;letter-spacing:-0.01em;"><span style="width:40px;height:40px;border-radius:12px;background:#ede9fe;display:flex;align-items:center;justify-content:center;flex-shrink:0;"><svg width="20" height="20" fill="none" stroke="#7c3aed" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"/></svg></span><div><div>처음부터 다시 풀기</div><div style="font-size:12px;color:#7c3aed;font-weight:400;margin-top:2px;">현재 문제집 이력만 초기화합니다</div></div></button> <button onclick="resetQuizHistory()" style="display:flex;align-items:center;gap:14px;padding:14px 16px;border-radius:14px;border:1.5px solid #fca5a5;background:#fff8f8;color:#dc2626;font-size:14px;font-weight:600;cursor:pointer;text-align:left;width:100%;font-family:inherit;letter-spacing:-0.01em;"><span style="width:40px;height:40px;border-radius:12px;background:#fee2e2;display:flex;align-items:center;justify-content:center;flex-shrink:0;"><svg width="20" height="20" fill="none" stroke="#dc2626" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"/></svg></span><div><div>이력 초기화</div><div style="font-size:12px;color:#ef4444;font-weight:400;margin-top:2px;">모든 정오 기록을 삭제합니다</div></div></button></div></div><div class="mb-5 flex justify-between items-center gap-3 bg-white p-3 md:px-4 rounded-xl border border-gray-200 shadow-sm"><select id="exam-mode-select" class="border border-gray-300 p-2 rounded-lg shadow-sm text-[14px] font-medium text-gray-700 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none cursor-pointer flex-1 min-w-0" onchange="renderAllQuestions(this.value)"><option value="normal">기본 순서 출제</option><option value="shuffle">1. 문제 순서 무작위 (Shuffle)</option><option value="spaced_repetition">2. 망각곡선 복습 (Spaced Repetition)</option><option value="weighted_error">3. 오답 가중치 모의고사</option><option value="category_focus">4. 취약 단원 집중 출제</option><option value="wrong_archive">5. 누적 오답 노트 보기</option></select> <button onclick="openSettings()" title="학습 이력 관리" style="flex-shrink:0;width:38px;height:38px;border-radius:10px;border:1.5px solid #e2e8f0;background:#f8fafc;color:#64748b;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:background 0.15s,border-color 0.15s,color 0.15s;" onmouseover="this.style.background='#eff6ff';this.style.borderColor='#bfdbfe';this.style.color='#2563eb'" onmouseout="this.style.background='#f8fafc';this.style.borderColor='#e2e8f0';this.style.color='#64748b'"><svg width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"/><circle cx="12" cy="12" r="3"/></svg></button></div><div id="quiz-app-root"><div class="site-header"><div style="max-width:768px; margin:0 auto; padding:0 20px;"><h1 id="site-title">The title is displayed here.</h1><p id="site-desc" style="display:none; margin:6px 0 0; font-size:13px; color:rgba(255,255,255,0.72); line-height:1.55; letter-spacing:-0.01em;"></p></div></div><div style="max-width:768px; margin:0 auto; padding:0 16px 80px;"><div class="load-panel"><label class="btn-primary" style="cursor:pointer;"><svg style="width:13px;height:13px;fill:currentColor;display:inline-block;vertical-align:-1px;" viewBox="0 0 24 24"><path d="M10 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"/></svg> 파일 선택 <input type="file" id="file-input" accept=".json,.jw,.js" style="display:none;"></label><div class="load-divider"></div><div class="dropdown-wrap" id="dropdown-wrap"><button class="dropdown-trigger" id="dropdown-trigger"><span id="dropdown-label">📚 문제집 선택</span> <svg class="dropdown-chevron" width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6z"/></svg></button><div class="dropdown-panel" id="dropdown-panel"></div></div></div><div id="quiz-list"></div><div id="error-msg" style="display:none;"></div></div></div><script>/**
      * 🧠 Advanced Quiz Engine 
      * 로컬 스토리지를 활용한 학습 이력 추적 및 지능형 문제 출제 모듈
      */
@@ -828,32 +844,46 @@
                 optionsContainer.appendChild(btn);
             });
 
-            if (hasHistory) {
-                const expContent = wrapper.querySelector('.exp-content');
-                setTimeout(() => {
-                    if (expContent) attachExpButtons(expContent, wrapper);
-                }, 50);
-            }
-
-            // 형광펜 복원
-            setTimeout(() => {
-                if (highlights[uid]) {
-                    highlights[uid].forEach(h => {
-                        const card2 = wrapper;
-                        wrapTextInMark(card2, h.text, h.color, uid);
-                    });
-                }
-            }, 80);
-
-            // 형광펜 선택 이벤트
-            wrapper.addEventListener('mouseup',  () => handleHighlightSelection(uid));
-            wrapper.addEventListener('touchend', () => setTimeout(() => handleHighlightSelection(uid), 50));
-
             container.appendChild(wrapper);
         });
 
+        // ── 카드 렌더 완료 후 1회 일괄 처리 (setTimeout 통합) ──
+        setTimeout(() => {
+            container.querySelectorAll('.question-block[data-uid]').forEach(card => {
+                const cardUid = card.dataset.uid;
+                // 해설 더 보기 버튼
+                const expContent = card.querySelector('.exp-content');
+                if (expContent && card.classList.contains('is-correct') || card.classList.contains('is-wrong')) {
+                    attachExpButtons(expContent, card);
+                }
+                // 형광펜 복원
+                if (highlights[cardUid]) {
+                    highlights[cardUid].forEach(h => wrapTextInMark(card, h.text, h.color, cardUid));
+                }
+                // 필기 캔버스
+                attachPencilCanvas(card, cardUid);
+                const cv = card.querySelector('.card-canvas');
+                if (cv) { resizeCanvas(cv, cardUid); restorePencilCanvas(cv, cardUid); }
+                if (pencilMode) card.classList.add('pencil-mode');
+            });
+        }, 80);
+
         if (typeof renderFilterBar === 'function') renderFilterBar();
         if (typeof buildNavigator === 'function') buildNavigator();
+
+        // 형광펜 이벤트 위임 (카드마다 등록 대신 list 1개에만)
+        const list = document.getElementById('quiz-list');
+        if (list && !list._hlDelegated) {
+            list._hlDelegated = true;
+            list.addEventListener('mouseup', e => {
+                const card = e.target.closest('.question-block[data-uid]');
+                if (card) handleHighlightSelection(card.dataset.uid);
+            });
+            list.addEventListener('touchend', e => {
+                const card = e.target.closest('.question-block[data-uid]');
+                if (card) setTimeout(() => handleHighlightSelection(card.dataset.uid), 50);
+            });
+        }
     }
 
     function handleAnswer(wrapper, questionData, selectedIdx) {
@@ -1032,6 +1062,7 @@
         nav.className = 'nav-bar';
         nav.innerHTML = `
             <button class="nav-btn" id="nav-filter-toggle" title="필터 보기/숨기기" style="font-size:16px;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M133.8 36.3c10.9 7.6 13.5 22.6 5.9 33.4l-56 80c-4.1 5.8-10.5 9.5-17.6 10.1S52 158 47 153L7 113C-2.3 103.6-2.3 88.4 7 79S31.6 69.7 41 79l19.8 19.8 39.6-56.6c7.6-10.9 22.6-13.5 33.4-5.9zm0 160c10.9 7.6 13.5 22.6 5.9 33.4l-56 80c-4.1 5.8-10.5 9.5-17.6 10.1S52 318 47 313L7 273c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0l19.8 19.8 39.6-56.6c7.6-10.9 22.6-13.5 33.4-5.9zM224 96c0-17.7 14.3-32 32-32l224 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-224 0c-17.7 0-32-14.3-32-32zm0 160c0-17.7 14.3-32 32-32l224 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-224 0c-17.7 0-32-14.3-32-32zM160 416c0-17.7 14.3-32 32-32l288 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-288 0c-17.7 0-32-14.3-32-32zM64 376a40 40 0 1 1 0 80 40 40 0 1 1 0-80z"/></svg></button>
+            <button class="nav-btn" id="nav-pencil-toggle" title="필기 켜기/끄기"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width:15px;height:15px;fill:currentColor;"><path d="M410.3 231l11.3-11.3-33.9-33.9-62.1-62.1L291.3 89.8l-11.3 11.3-22.6 22.6L58.6 322.9c-10.4 10.4-18 23.3-22.2 37.4L1 480.7c-2.5 8.4-.2 17.5 6.1 23.7s15.3 8.5 23.7 6.1l120.3-35.4c14.1-4.2 27-11.8 37.4-22.2L387.7 253.7 410.3 231zM160 399.4l-9.1 22.7c-4 3.1-8.5 5.4-13.3 6.9L59.4 452l23-78.1c1.4-4.9 3.8-9.4 6.9-13.3l22.7-9.1 0 32c0 8.8 7.2 16 16 16l32 0zM362.7 18.7L348.3 33.2 325.7 55.8 314.3 67.1l33.9 33.9 62.1 62.1 33.9 33.9 11.3-11.3 22.6-22.6 14.5-14.5c25-25 25-65.5 0-90.5L453.3 18.7c-25-25-65.5-25-90.5 0z"/></svg></button>
             <button class="nav-btn" id="nav-hl-toggle"     title="형광펜 켜기/끄기" style="font-size:15px;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M315 315L473.4 99.9 444.1 70.6 229 229 315 315zm-187 5l0 0 0-71.7c0-15.3 7.2-29.6 19.5-38.6L420.6 8.4C428 2.9 437 0 446.2 0 457.6 0 468.5 4.5 476.6 12.6l54.8 54.8c8.1 8.1 12.6 19 12.6 30.5 0 9.2-2.9 18.2-8.4 25.6L334.4 396.5c-9 12.3-23.4 19.5-38.6 19.5l-71.7 0-25.4 25.4c-12.5 12.5-32.8 12.5-45.3 0l-50.7-50.7c-12.5-12.5-12.5-32.8 0-45.3L128 320zM7 466.3l51.7-51.7 70.6 70.6-19.7 19.7c-4.5 4.5-10.6 7-17 7L24 512c-13.3 0-24-10.7-24-24l0-4.7c0-6.4 2.5-12.5 7-17z"/></svg></button>
             <button class="nav-btn" id="nav-top"    title="맨 위로">${typeof SVG !== 'undefined' && SVG.top ? SVG.top : '↑'}</button>
             <button class="nav-btn" id="nav-up"     title="20문항 위">−20</button>
@@ -1081,6 +1112,7 @@
 
         document.getElementById('nav-filter-toggle').onclick = () => toggleFilterBar();
         document.getElementById('nav-hl-toggle').onclick     = () => toggleHLMode();
+        document.getElementById('nav-pencil-toggle').onclick  = () => togglePencilMode();
     }
 
     // ==========================================
@@ -1141,7 +1173,491 @@
         }
     }
 
+    // ════════════════════════════════════════════════════════
+    // 필기(Pencil) 시스템 — 단일 fixed overlay canvas 방식
+    // ════════════════════════════════════════════════════════
+    const PENCIL_KEY = 'quiz_pencil_v1';
+    let pencilMode   = false;
+    let pencilColor  = '#2563eb';
+    let pencilSize   = 3;
+    let pencilEraser = false;
+    let pencilDrawing= false;
+    let pencilLastX  = 0, pencilLastY = 0;
+
+    // uid → {strokes:[]} 구조 (메모리). 저장은 debounce.
+    let pencilStrokes = {};   // uid → [{color,size,eraser,points:[{x,y}]}]
+    let pencilCurrent = null; // 현재 획
+
+    function loadPencilStore() {
+        try { return JSON.parse(localStorage.getItem(PENCIL_KEY)) || {}; } catch { return {}; }
+    }
+    function persistPencilStore() {
+        // strokes → dataURL per uid, 500ms debounce
+        clearTimeout(pencilSaveTimer);
+        pencilSaveTimer = setTimeout(() => {
+            const store = {};
+            Object.keys(pencilStrokes).forEach(uid => {
+                if (pencilStrokes[uid] && pencilStrokes[uid].length > 0) {
+                    // offscreen canvas로 렌더 후 dataURL 저장
+                    const card = document.querySelector(`.question-block[data-uid="${uid}"]`);
+                    if (!card) return;
+                    const r  = card.getBoundingClientRect();
+                    const oc = document.createElement('canvas');
+                    oc.width  = Math.round(r.width  * devicePixelRatio);
+                    oc.height = Math.round(r.height * devicePixelRatio);
+                    const octx = oc.getContext('2d');
+                    octx.scale(devicePixelRatio, devicePixelRatio);
+                    redrawStrokes(octx, uid, 0, 0);
+                    store[uid] = oc.toDataURL('image/png');
+                }
+            });
+            localStorage.setItem(PENCIL_KEY, JSON.stringify(store));
+        }, 500);
+    }
+    let pencilSaveTimer = null;
+
+    // ── overlay canvas 초기화 ──
+    function initPencilOverlay() {
+        if (document.getElementById('pencil-overlay')) return;
+
+        const canvas = document.createElement('canvas');
+        canvas.id = 'pencil-overlay';
+        canvas.width  = window.innerWidth  * devicePixelRatio;
+        canvas.height = window.innerHeight * devicePixelRatio;
+        canvas.style.width  = window.innerWidth  + 'px';
+        canvas.style.height = window.innerHeight + 'px';
+        document.body.appendChild(canvas);
+
+        const ctx = canvas.getContext('2d');
+        ctx.scale(devicePixelRatio, devicePixelRatio);
+
+        // resize
+        window.addEventListener('resize', () => {
+            const imgData = ctx.getImageData(0, 0, canvas.width, canvas.height);
+            canvas.width  = window.innerWidth  * devicePixelRatio;
+            canvas.height = window.innerHeight * devicePixelRatio;
+            canvas.style.width  = window.innerWidth  + 'px';
+            canvas.style.height = window.innerHeight + 'px';
+            ctx.scale(devicePixelRatio, devicePixelRatio);
+            ctx.putImageData(imgData, 0, 0);
+        });
+
+        // scroll → 화면 재렌더 (strokes는 문서 좌표계로 보관)
+        window.addEventListener('scroll', () => {
+            if (!pencilMode) return;
+            redrawAllVisible(ctx);
+        }, { passive: true });
+
+        // 툴바 초기화
+        initPencilToolbar();
+
+        // 드로잉 이벤트
+        function getXY(e) {
+            const src = e.touches ? e.touches[0] : e;
+            return { x: src.clientX, y: src.clientY };
+        }
+
+        function startDraw(e) {
+            if (!pencilMode) return;
+            e.preventDefault();
+            pencilDrawing = true;
+            const {x, y} = getXY(e);
+            pencilLastX = x; pencilLastY = y;
+
+            // 현재 획 시작 — 어느 카드 위인지 판별
+            const uid = getCardUidAtPoint(x, y);
+            const sy0 = window.scrollY || 0;
+            pencilCurrent = { uid, color: pencilColor, size: pencilSize, eraser: pencilEraser, points: [{x, y, docY: y + sy0}] };
+        }
+        function doIncrementalDraw(e) {
+            if (!pencilDrawing || !pencilMode || !pencilCurrent) return;
+            e.preventDefault();
+            const {x, y} = getXY(e);
+            const docY = y + (window.scrollY || 0);
+            pencilCurrent.points.push({x, y, docY});
+
+            // 증분 렌더 (마지막 두 점만 그림)
+            const pts = pencilCurrent.points;
+            if (pts.length >= 2) {
+                const p1 = pts[pts.length - 2];
+                const p2 = pts[pts.length - 1];
+                drawSegment(ctx, p1.x, p1.y, p2.x, p2.y,
+                    pencilCurrent.eraser, pencilCurrent.color, pencilCurrent.size);
+            }
+        }
+        function endDraw(e) {
+            if (!pencilDrawing) return;
+            pencilDrawing = false;
+            if (pencilCurrent && pencilCurrent.points.length > 1) {
+                const uid = pencilCurrent.uid;
+                if (uid) {
+                    if (!pencilStrokes[uid]) pencilStrokes[uid] = [];
+                    pencilStrokes[uid].push(pencilCurrent);
+                }
+            }
+            pencilCurrent = null;
+            persistPencilStore();
+        }
+
+        canvas.addEventListener('mousedown',  startDraw,        { passive: false });
+        canvas.addEventListener('mousemove',  doIncrementalDraw,{ passive: false });
+        canvas.addEventListener('mouseup',    endDraw);
+        canvas.addEventListener('touchstart', startDraw,        { passive: false });
+        canvas.addEventListener('touchmove',  doIncrementalDraw,{ passive: false });
+        canvas.addEventListener('touchend',   endDraw);
+    }
+
+    // 화면 좌표로 카드 uid 판별
+    function getCardUidAtPoint(cx, cy) {
+        const cards = document.querySelectorAll('.question-block[data-uid]');
+        for (const card of cards) {
+            const r = card.getBoundingClientRect();
+            if (cx >= r.left && cx <= r.right && cy >= r.top && cy <= r.bottom) {
+                return card.dataset.uid;
+            }
+        }
+        return null;
+    }
+
+    // 단일 선분 렌더 (ctx는 뷰포트 좌표계)
+    function drawSegment(ctx, x1, y1, x2, y2, eraser, color, size) {
+        ctx.save();
+        ctx.lineCap = 'round'; ctx.lineJoin = 'round';
+        if (eraser) {
+            ctx.globalCompositeOperation = 'destination-out';
+            ctx.lineWidth = size * 6;
+            ctx.globalAlpha = 1;
+        } else {
+            ctx.globalCompositeOperation = 'source-over';
+            ctx.strokeStyle = color;
+            ctx.lineWidth   = size;
+            ctx.globalAlpha = 0.85;
+        }
+        ctx.beginPath();
+        ctx.moveTo(x1, y1);
+        ctx.lineTo(x2, y2);
+        ctx.stroke();
+        ctx.restore();
+    }
+
+    // strokes → ctx 렌더 (scrollY 보정 포함)
+    function redrawStrokes(ctx, uid, offsetX, offsetY) {
+        const strokes = pencilStrokes[uid];
+        if (!strokes) return;
+        const sy = window.scrollY || 0;
+        strokes.forEach(stroke => {
+            const pts = stroke.points;
+            for (let i = 1; i < pts.length; i++) {
+                drawSegment(ctx,
+                    pts[i-1].x - offsetX, pts[i-1].y - offsetY + sy,
+                    pts[i].x   - offsetX, pts[i].y   - offsetY + sy,
+                    stroke.eraser, stroke.color, stroke.size);
+            }
+        });
+    }
+
+    // 스크롤 시 visible 카드 strokes 재렌더
+    function redrawAllVisible(ctx) {
+        const canvas = document.getElementById('pencil-overlay');
+        if (!canvas) return;
+        ctx.clearRect(0, 0, canvas.width / devicePixelRatio, canvas.height / devicePixelRatio);
+        const cards = document.querySelectorAll('.question-block[data-uid]');
+        const sy = window.scrollY || 0;
+        const vh = window.innerHeight;
+        cards.forEach(card => {
+            const r   = card.getBoundingClientRect();
+            if (r.bottom < -100 || r.top > vh + 100) return; // 화면 밖 skip
+            const uid = card.dataset.uid;
+            const strokes = pencilStrokes[uid];
+            if (!strokes) return;
+            strokes.forEach(stroke => {
+                const pts = stroke.points;
+                for (let i = 1; i < pts.length; i++) {
+                    // strokes는 clientXY 기준으로 저장됐고 scrollY가 바뀌므로 보정
+                    // 저장 시 clientY → document Y = clientY + scrollY_at_save
+                    // 여기서는 획 저장 시 scrollY를 points에 같이 저장
+                    drawSegment(ctx,
+                        pts[i-1].x, pts[i-1].docY - sy,
+                        pts[i].x,   pts[i].docY   - sy,
+                        stroke.eraser, stroke.color, stroke.size);
+                }
+            });
+        });
+    }
+
+    // ── 툴바 ──
+    function initPencilToolbar() {
+        if (document.getElementById('pencil-toolbar')) return;
+        const tb = document.createElement('div');
+        tb.id = 'pencil-toolbar';
+
+        // 색상 팔레트
+        const COLORS = ['#2563eb','#dc2626','#16a34a','#d97706','#7c3aed','#0f172a'];
+        const NAMES  = ['파랑','빨강','초록','주황','보라','검정'];
+        let html = '';
+        COLORS.forEach((col, i) => {
+            html += `<button class="pt-color${i===0?' active':''}" data-col="${col}" title="${NAMES[i]}"
+                style="background:${col};"></button>`;
+        });
+        html += '<div class="pt-divider"></div>';
+
+        // GoodNotes식 3단계 굵기 버튼 (가는선·중간선·굵은선 시각적 표현)
+        const SIZES = [
+            { val: 2,  label: 'S', dot: 4,  title: '가는 선' },
+            { val: 5,  label: 'M', dot: 7,  title: '중간 선' },
+            { val: 11, label: 'L', dot: 12, title: '굵은 선' },
+        ];
+        SIZES.forEach((s, i) => {
+            html += `<button class="pt-thickness${i===1?' active':''}" data-size="${s.val}" title="${s.title}" style="width:32px;height:32px;border-radius:8px;border:none;background:transparent;cursor:pointer;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;padding:0;flex-shrink:0;transition:background .12s;">
+                <span style="display:block;width:${s.dot}px;height:${s.dot}px;border-radius:50%;background:#334155;transition:width .12s,height .12s;"></span>
+            </button>`;
+        });
+        html += '<div class="pt-divider"></div>';
+
+        // 지우개
+        html += `<button class="pt-btn" id="pt-eraser" title="지우개">
+            <svg width="14" height="14" viewBox="0 0 576 512" fill="currentColor"><path d="M290.7 57.4L57.4 290.7c-25 25-25 65.5 0 90.5l80 80c12 12 28.3 18.7 45.3 18.7L288 480l9.4 0L512 480c17.7 0 32-14.3 32-32s-14.3-32-32-32l-124.5 0L518.6 285.3c25-25 25-65.5 0-90.5L381.3 57.4c-25-25-65.5-25-90.5 0zM297 150.5l130.5 130.5L286 422.5 155.5 292 297 150.5z"/></svg>
+        </button>`;
+        // 전체 지우기
+        html += `<button class="pt-btn" id="pt-clear-all" title="전체 지우기">
+            <svg width="14" height="14" viewBox="0 0 448 512" fill="currentColor"><path d="M135.2 17.7L128 32 32 32C14.3 32 0 46.3 0 64S14.3 96 32 96l384 0c17.7 0 32-14.3 32-32s-14.3-32-32-32l-96 0-7.2-14.3C307.4 6.8 296.3 0 284.2 0L163.8 0c-12.1 0-23.2 6.8-28.6 17.7zM416 128L32 128 53.2 467c1.6 25.3 22.6 45 47.9 45l245.8 0c25.3 0 46.3-19.7 47.9-45L416 128z"/></svg>
+        </button>`;
+        tb.innerHTML = html;
+        document.body.appendChild(tb);
+
+        // 툴바 클릭이 document로 버블링되어 togglePencilMode 재호출 방지
+        tb.addEventListener('click', e => e.stopPropagation());
+
+        // 색상 버튼
+        tb.querySelectorAll('.pt-color').forEach(btn => {
+            btn.addEventListener('click', () => {
+                pencilColor  = btn.dataset.col;
+                pencilEraser = false;
+                tb.querySelectorAll('.pt-color').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                document.getElementById('pt-eraser').classList.remove('active');
+            });
+        });
+
+        // 굵기 버튼 (M이 기본 활성)
+        pencilSize = 5;
+        tb.querySelectorAll('.pt-thickness').forEach(btn => {
+            btn.addEventListener('click', () => {
+                pencilSize = parseInt(btn.dataset.size);
+                pencilEraser = false;
+                tb.querySelectorAll('.pt-thickness').forEach(b => {
+                    b.classList.remove('active');
+                    b.style.background = 'transparent';
+                });
+                btn.classList.add('active');
+                btn.style.background = '#f1f5f9';
+                document.getElementById('pt-eraser').classList.remove('active');
+            });
+            // 초기 M 버튼 활성화 스타일
+            if (btn.classList.contains('active')) btn.style.background = '#f1f5f9';
+        });
+
+        // 지우개
+        document.getElementById('pt-eraser').addEventListener('click', () => {
+            pencilEraser = !pencilEraser;
+            document.getElementById('pt-eraser').classList.toggle('active', pencilEraser);
+        });
+
+        // 전체 지우기
+        document.getElementById('pt-clear-all').addEventListener('click', () => {
+            if (!confirm('모든 필기를 지우겠습니까?')) return;
+            pencilStrokes = {};
+            localStorage.removeItem(PENCIL_KEY);
+            const canvas = document.getElementById('pencil-overlay');
+            if (canvas) {
+                const ctx = canvas.getContext('2d');
+                ctx.clearRect(0, 0, canvas.width / devicePixelRatio, canvas.height / devicePixelRatio);
+            }
+        });
+    }
+
+    function togglePencilMode() {
+        pencilMode = !pencilMode;
+        initPencilOverlay(); // 첫 호출 시 생성
+        const overlay = document.getElementById('pencil-overlay');
+        const toolbar = document.getElementById('pencil-toolbar');
+        const btn     = document.getElementById('nav-pencil-toggle');
+        if (overlay) overlay.classList.toggle('active', pencilMode);
+        if (toolbar) toolbar.classList.toggle('visible', pencilMode);
+        if (btn) {
+            // ON: 주황 배경 + ✕ 배지로 "다시 누르면 꺼진다" 명시
+            if (pencilMode) {
+                btn.style.background  = '#f59e0b';
+                btn.style.color       = '#fff';
+                btn.style.borderColor = '#f59e0b';
+                btn.title = '필기 끄기 (다시 클릭)';
+                // 작은 ✕ 배지 표시
+                if (!btn.querySelector('.pencil-badge')) {
+                    const badge = document.createElement('span');
+                    badge.className = 'pencil-badge';
+                    badge.textContent = '✕';
+                    badge.style.cssText = 'position:absolute;top:-4px;right:-4px;width:13px;height:13px;background:#ef4444;color:#fff;border-radius:50%;font-size:8px;font-weight:700;display:flex;align-items:center;justify-content:center;pointer-events:none;line-height:1;z-index:1;';
+                    btn.style.position = 'relative';
+                    btn.appendChild(badge);
+                }
+            } else {
+                btn.style.background  = '';
+                btn.style.color       = '';
+                btn.style.borderColor = '';
+                btn.title = '필기 켜기';
+                const badge = btn.querySelector('.pencil-badge');
+                if (badge) badge.remove();
+            }
+        }
+        document.body.style.overscrollBehavior = pencilMode ? 'none' : '';
+
+        // 필기 모드 ON: 저장된 strokes 로드 & 재렌더
+        if (pencilMode && Object.keys(pencilStrokes).length === 0) {
+            restoreAllStrokes();
+        }
+    }
+
+    // localStorage → pencilStrokes 복원 (image 방식 → strokes 방식으로 전환 시 초기화)
+    function restoreAllStrokes() {
+        // 기존 dataURL 저장분은 이미지로 overlay에 그리기 (strokes 없이)
+        const store = loadPencilStore();
+        const canvas = document.getElementById('pencil-overlay');
+        if (!canvas) return;
+        const ctx = canvas.getContext('2d');
+        Object.entries(store).forEach(([uid, dataURL]) => {
+            const card = document.querySelector(`.question-block[data-uid="${uid}"]`);
+            if (!card) return;
+            const r   = card.getBoundingClientRect();
+            const img = new Image();
+            img.onload = () => ctx.drawImage(img, r.left, r.top, r.width, r.height);
+            img.src = dataURL;
+        });
+    }
+
     function toggleHLMode() {
+    function toggleHLMode() {
+
+        hlMode = !hlMode;
+        const btn     = document.getElementById('nav-hl-toggle');
+        const palette = document.getElementById('hl-palette');
+        const list    = document.getElementById('quiz-list');
+        if (btn) {
+            btn.style.background  = hlMode ? 'var(--clr-accent)' : '#fff';
+            btn.style.color       = hlMode ? '#fff' : 'var(--clr-text-secondary)';
+            btn.style.borderColor = hlMode ? 'var(--clr-accent)' : 'var(--clr-border)';
+        }
+        if (palette) palette.classList.toggle('open', hlMode);
+        if (list)    list.classList.toggle('hl-mode', hlMode);
+        if (hlMode && palette) {
+            const firstBtn = palette.querySelector('[data-hlcol="' + activeHLColor + '"]');
+            if (firstBtn) firstBtn.style.borderColor = '#334155';
+        }
+    }
+
+    function selectHLColor(color, btn) {
+        activeHLColor = color;
+        const palette = document.getElementById('hl-palette');
+        if (palette) {
+            palette.querySelectorAll('button[data-hlcol]').forEach(b => {
+                b.style.borderColor = b.dataset.hlcol === color ? '#334155' : 'transparent';
+            });
+        }
+    }
+
+    function clearAllHighlights() {
+        if (!confirm('모든 형광펜을 지우시겠습니까?')) return;
+        highlights = {};
+        saveHighlights(highlights);
+        document.querySelectorAll('mark[data-hl]').forEach(m => {
+            const p = m.parentNode;
+            while (m.firstChild) p.insertBefore(m.firstChild, m);
+            p.removeChild(m);
+            p.normalize();
+        });
+    }
+
+    function closeSettings() {
+        const overlay = document.getElementById('settings-overlay');
+        const sheet   = document.getElementById('settings-sheet');
+        sheet.style.transform = 'translateY(100%)';
+        overlay.style.opacity = '0';
+        setTimeout(() => {
+            overlay.style.display = 'none';
+            sheet.style.display   = 'none';
+            document.body.style.overflow = '';
+        }, 300);
+    }
+
+    function resetAllAndReplay() {
+        if (!questions || questions.length === 0) {
+            alert('불러온 문제집이 없습니다.'); return;
+        }
+        if (!confirm('현재 문제집의 학습 이력을 초기화하고 처음부터 다시 풀겠습니까?\n북마크와 형광펜은 유지됩니다.')) return;
+        if (quizEngine && quizEngine.stats && quizEngine.stats.history) {
+            questions.forEach(q => { delete quizEngine.stats.history[String(q.id)]; });
+            if (typeof quizEngine.saveStats === 'function') quizEngine.saveStats();
+        }
+        wrongUids    = new Set();
+        wrongSession = null;
+        filterWrong  = false;
+        filterBookmark = false;
+        closeSettings();
+        const mode = document.getElementById('exam-mode-select')?.value || 'normal';
+        renderAllQuestions(mode);
+    }
+
+    function resetQuizHistory() {
+        if (!confirm("⚠️ 모든 학습 이력(정오 기록, 오답 노트)을 초기화합니다.\n북마크는 유지됩니다. 계속하시겠습니까?")) return;
+        localStorage.removeItem('quiz_advanced_stats_v1');
+        if (typeof quizEngine !== 'undefined') {
+            quizEngine.stats = { history: {}, wrongArchive: [], categoryStats: {} };
+        }
+        const currentMode = document.getElementById('exam-mode-select')?.value || 'normal';
+        renderAllQuestions(currentMode);
+        alert("✅ 학습 이력이 초기화되었습니다.");
+    }
+
+    function importQuizHistory(event) {
+        const file = event.target.files[0];
+        if (!file) return;
+
+        const reader = new FileReader();
+        reader.onload = (e) => {
+            try {
+                const data = JSON.parse(e.target.result);
+                
+                // 데이터 구조 유효성 검사 (Engine 데이터가 맞는지)
+                if (data && data.history) {
+                    // 1. 로컬 스토리지에 저장
+                    localStorage.setItem('quiz_advanced_stats_v1', JSON.stringify(data));
+                    
+                    // 2. 현재 메모리 상의 엔진 상태 즉시 업데이트
+                    if (typeof quizEngine !== 'undefined') {
+                        quizEngine.stats = data;
+                    }
+                    
+                    alert("✅ 학습 이력이 성공적으로 복원되었습니다!");
+                    
+                    // 3. 현재 설정된 출제 모드로 화면 즉각 새로고침
+                    const currentMode = document.getElementById('exam-mode-select').value;
+                    renderAllQuestions(currentMode);
+                } else {
+                    alert("❌ 올바른 형식의 학습 이력 파일이 아닙니다.");
+                }
+            } catch (err) {
+                alert("❌ 파일을 읽는 중 오류가 발생했습니다. (JSON 형식이 아님)");
+            }
+            
+            // 동일한 파일을 다시 선택해도 작동하도록 input 값 초기화
+            event.target.value = '';
+        };
+        reader.readAsText(file);
+    }
+
+}
+
+    function toggleHLMode() {
+
         hlMode = !hlMode;
         const btn     = document.getElementById('nav-hl-toggle');
         const palette = document.getElementById('hl-palette');
