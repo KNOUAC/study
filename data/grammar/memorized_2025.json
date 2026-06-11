@@ -1,0 +1,288 @@
+[
+  {
+    "id": 1,
+    "passageBottom": null,
+    "question": "다음 중 밑줄 친 동사가 불완전타동사인 것은?\n\nThe court <b>declared</b> him guilty.",
+    "options": [
+      "declared (불완전타동사)",
+      "declared (완전타동사)",
+      "declared (수여동사)",
+      "declared (완전자동사)"
+    ],
+    "answer": 0,
+    "explanation": "💡 [동사의 종류 - 불완전타동사]\n\ndeclare는 5형식 동사이다. declare + 목적어 + 보어 구조를 취하며, him = 목적어, guilty = 목적격보어 관계가 성립한다.\n\n* ① 불완전타동사: declared him guilty → 목적어(him) + 목적격보어(guilty) ✅\n* ② 완전타동사: 목적어만 취하고 보어가 필요 없는 동사\n* ③ 수여동사: 간접목적어 + 직접목적어를 취하는 동사\n* ④ 완전자동사: 목적어·보어 없이 완전한 문장을 이루는 동사"
+  },
+  {
+    "id": 2,
+    "passageBottom": null,
+    "question": "4형식 문장을 3형식으로 바꿀 때 잘못된 것은?",
+    "options": [
+      "He sent me a present. → He sent a present <b>to</b> me.",
+      "I paid him my respects. → I paid my respects <b>to</b> him.",
+      "She got me a camera. → She got a camera <b>for</b> me.",
+      "Will you find me my contact lens? → Will you find my contact lens <b>to</b> me?"
+    ],
+    "answer": 3,
+    "explanation": "💡 [4형식 → 3형식 전치사]\n\nfind는 for를 쓰는 동사이다. get, find, make, buy 등은 간접목적어 앞에 전치사 <b>for</b>를 쓴다.\n\n* ① send → to: send는 to 동사 ✅ 맞음\n* ② pay → to: pay는 to 동사 ✅ 맞음\n* ③ get → for: get은 for 동사 ✅ 맞음\n* ④ find → to: find는 for 동사이므로 to → for로 고쳐야 함 ✅ (오류)"
+  },
+  {
+    "id": 3,
+    "passageBottom": null,
+    "question": "다음 중 현재완료의 '계속' 용법으로 쓰인 것은?",
+    "options": [
+      "My husband has just cleaned the table.",
+      "I have heard nothing from him since then.",
+      "He has gone to America.",
+      "She has lost her key."
+    ],
+    "answer": 1,
+    "explanation": "💡 [현재완료 - 계속 용법]\n\nsince then(그 이후로 계속) 때문에 현재완료의 계속 용법이다. '그 이후로 계속 그에게서 소식이 없다'는 의미이다.\n\n* ① has just cleaned: just와 함께 쓰여 완료 용법 (방금 ~했다)\n* ② have heard ~ since then: since then이 계속의 기간을 나타냄 → 계속 용법 ✅\n* ③ has gone to: 결과 용법 (미국에 가버렸다, 지금 없다)\n* ④ has lost: 결과 용법 (열쇠를 잃어버려 지금 없다)"
+  },
+  {
+    "id": 4,
+    "passageBottom": null,
+    "question": "to부정사의 형용사적 용법이 사용된 것은?",
+    "options": [
+      "It is impossible <i>to master</i> English in a year or so.",
+      "She has no friend <i>to help</i> her.",
+      "He grew up <i>to be</i> a great scientist.",
+      "I am glad <i>to hear</i> the news."
+    ],
+    "answer": 1,
+    "explanation": "💡 [부정사 - 형용사적 용법]\n\nto help her가 앞의 명사 friend를 수식한다. '그녀를 도와줄 친구'라는 뜻으로 형용사적 용법이다.\n\n* ① to master: 가주어 It의 진주어 → 명사적 용법\n* ② to help her: friend를 뒤에서 수식 → 형용사적 용법 ✅\n* ③ to be: 결과를 나타내는 부사적 용법\n* ④ to hear: 감정 형용사 glad의 원인 → 부사적 용법"
+  },
+  {
+    "id": 5,
+    "passageBottom": null,
+    "question": "다음 중 문법적으로 틀린 것은?",
+    "options": [
+      "I saw him go out.",
+      "The policeman observed the thief open the window.",
+      "Let the people know the truth.",
+      "She made him washed the car."
+    ],
+    "answer": 3,
+    "explanation": "💡 [사역동사 - 원형부정사]\n\n사역동사 make는 'make + 목적어 + 동사원형' 형태를 사용한다. 과거분사(washed)를 쓰면 틀린다.\n\n→ She made him <b>wash</b> the car.\n\n* ① saw him go out: 지각동사 + 원형부정사 ✅ 맞음\n* ② observed ~ open: 지각동사 + 원형부정사 ✅ 맞음\n* ③ Let ~ know: 사역동사 let + 원형부정사 ✅ 맞음\n* ④ made him washed → made him wash: 사역동사 뒤는 원형부정사 ✅ (오류)"
+  },
+  {
+    "id": 6,
+    "passageBottom": null,
+    "question": "다음 중 밑줄 친 부분이 잘못된 것은?\n\nThe <u>wound</u> were carried to the hospital.",
+    "options": [
+      "wound → wounded (the wounded)",
+      "were → was",
+      "carried → carry",
+      "to the → at the"
+    ],
+    "answer": 0,
+    "explanation": "💡 [분사 - the + 형용사/분사 = 복수명사]\n\nwound는 '상처'라는 뜻의 무생물 명사이다. '부상자들'을 의미하려면 형용사(과거분사)에 정관사를 붙인 <b>the wounded</b>로 써야 한다.\n\n* ① wound → the wounded: '부상자들'은 the wounded (과거분사 + the) ✅\n* ② were → was: the wounded는 복수 취급하므로 were가 맞음\n* ③ carried → carry: 문맥상 과거 수동 표현으로 carried가 맞음\n* ④ to the → at the: to the hospital이 자연스러운 표현"
+  },
+  {
+    "id": 7,
+    "passageBottom": "As I did not know him, I was puzzled.",
+    "question": "밑줄 친 'As I did not know him'을 분사구문으로 올바르게 바꾼 것은?",
+    "options": [
+      "Not knowing him",
+      "Having known him",
+      "Not known him",
+      "Having not known him"
+    ],
+    "answer": 0,
+    "explanation": "💡 [분사구문 - 부정형]\n\n부정 분사구문은 분사 앞에 Not을 붙인다. 주절과 시제가 동일(과거)하므로 단순분사구문을 쓴다.\n\n* ① Not knowing him: 부정 분사구문 (Not + 현재분사) ✅\n* ② Having known him: 완료분사구문으로 '그를 알고 있었기 때문에'라는 뜻이 됨\n* ③ Not known him: 과거분사는 수동의 의미로 문맥에 맞지 않음\n* ④ Having not known him: 부정어의 위치가 틀림 (Not having known이 맞는 형태)"
+  },
+  {
+    "id": 8,
+    "passageBottom": null,
+    "question": "다음 중 '양보'의 용법으로 사용된 것은?",
+    "options": [
+      "Come what may, I will go.",
+      "May you succeed in your work!",
+      "You may use my car.",
+      "She may be sick."
+    ],
+    "answer": 0,
+    "explanation": "💡 [조동사 may - 양보]\n\nCome what may = 무슨 일이 있더라도. 이는 양보의 의미를 나타내는 관용 표현이다.\n\n* ① Come what may: = Whatever may come → 양보 용법 ✅\n* ② May you succeed: may의 기원(소망) 용법\n* ③ may use: may의 허가 용법\n* ④ may be: may의 추측 용법"
+  },
+  {
+    "id": 9,
+    "passageBottom": null,
+    "question": "다음 중 shall이 '법률이나 이에 준하는 내용'으로 사용된 것은?",
+    "options": [
+      "Freedom of speech shall not be violated.",
+      "You shall have this book tomorrow.",
+      "Shall I open the window?",
+      "Every life shall one day end."
+    ],
+    "answer": 0,
+    "explanation": "💡 [조동사 shall - 법률/규정]\n\nshall은 법률·규정에서 '반드시 ~해야 한다 / ~해서는 안 된다'의 의미로 사용된다.\n\n* ① shall not be violated: 법률 규정에서 금지를 나타내는 shall ✅\n* ② You shall have: 화자의 의지·약속을 나타내는 shall\n* ③ Shall I open: 청유·제안을 나타내는 shall\n* ④ Every life shall: 예언·성서적 표현의 shall"
+  },
+  {
+    "id": 10,
+    "passageBottom": null,
+    "question": "다음 중 수동태로 잘못 변환한 것은?",
+    "options": [
+      "He threw me a stone. → I was thrown a stone by him.",
+      "They elected him president. → He was elected president.",
+      "She taught me English. → I was taught English by her.",
+      "He made me a doll. → A doll was made for me by him."
+    ],
+    "answer": 0,
+    "explanation": "💡 [수동태 전환 - throw]\n\nthrow는 간접목적어를 주어로 하는 수동태가 매우 부자연스럽다. 자연스러운 표현은 직접목적어를 주어로 하는 수동태이다.\n\n→ <b>A stone was thrown to me</b> by him.\n\n* ① I was thrown a stone → A stone was thrown to me: throw는 간접목적어 주어 수동태 부자연스러움 ✅ (오류)\n* ② He was elected president: 5형식 수동태, 보어(president) 유지 → 맞음\n* ③ I was taught English: 수여동사 수동태 → 맞음\n* ④ A doll was made for me: make의 수동태 → 맞음"
+  },
+  {
+    "id": 11,
+    "passageBottom": "Work hard, and you will pass the examination.\n= (   ) you work hard, you will pass the examination.",
+    "question": "괄호 안에 알맞은 단어는?",
+    "options": [
+      "If",
+      "Let",
+      "Unless",
+      "Although"
+    ],
+    "answer": 0,
+    "explanation": "💡 [명령문 + and = 조건문]\n\n명령문 + and는 'If you ~'의 조건문으로 바꿀 수 있다.\n\n* ① If: Work hard, and = If you work hard ✅\n* ② Let: Let you work hard는 문법적으로 어색함\n* ③ Unless: Unless는 부정 조건(~하지 않으면)으로 의미가 반대\n* ④ Although: 양보 접속사로 의미가 다름"
+  },
+  {
+    "id": 12,
+    "passageBottom": "One minute later, I <u>should</u> have missed the bus.",
+    "question": "밑줄 친 should를 올바르게 고친 것은?",
+    "options": [
+      "would",
+      "could",
+      "must",
+      "might"
+    ],
+    "answer": 0,
+    "explanation": "💡 [가정법 과거완료 - would have p.p.]\n\n'조금만 늦었어도 버스를 놓칠 뻔했다'는 문맥이므로 가정법 과거완료의 귀결절 형태인 would have p.p.가 자연스럽다. should have p.p.는 '~했어야 했다'는 의무의 의미이므로 문맥에 맞지 않는다.\n\n* ① would: would have missed = 놓쳤을 것이다 (가정법 귀결절) ✅\n* ② could: could have missed = 놓칠 수도 있었을 것이다 (능력·가능)\n* ③ must: must have missed = 틀림없이 놓쳤을 것이다 (강한 추측)\n* ④ might: might have missed = 놓쳤을지도 모른다 (약한 추측)"
+  },
+  {
+    "id": 13,
+    "passageBottom": null,
+    "question": "다음 중 문법적으로 맞는 것은?",
+    "options": [
+      "War and Peace are the longest novel I've ever read.",
+      "The audience were so large that it was hard to speak.",
+      "The crew consists of 20 persons.",
+      "The committee are divided in their opinions."
+    ],
+    "answer": 2,
+    "explanation": "💡 [수 일치 - 집합명사 / 작품명]\n\n* ① War and Peace are → is: 작품명은 단수 취급\n* ② The audience were: 집합명사로 단수/복수 모두 가능하나 ①이 명백한 오류\n* ③ The crew consists of 20 persons: crew는 단수 취급 가능, consists of ✅\n* ④ The committee are divided: 집합명사 복수 취급 가능하나 ③이 더 명확히 맞음"
+  },
+  {
+    "id": 14,
+    "passageBottom": "The doctor said to me, \"Don't eat too much!\"\n→ The doctor told me __________________.",
+    "question": "빈칸에 올바른 것은?",
+    "options": [
+      "not eat too much",
+      "not to eat too much",
+      "to not eat too much",
+      "don't eat too much"
+    ],
+    "answer": 1,
+    "explanation": "💡 [화법 전환 - 부정 명령문]\n\ntell + 목적어 + to부정사. 부정형은 not을 to부정사 앞에 붙인다.\n\n* ① not eat too much: to가 빠져 있어 틀림\n* ② not to eat too much: tell + 목적어 + not to + 동사원형 ✅\n* ③ to not eat too much: not의 위치가 틀림 (not to eat이 맞음)\n* ④ don't eat too much: 직접화법 그대로로 간접화법이 아님"
+  },
+  {
+    "id": 15,
+    "passageBottom": "She wrote to him every day, _____ was her love for him.",
+    "question": "빈칸에 알맞은 단어는?",
+    "options": [
+      "such",
+      "as",
+      "so",
+      "what"
+    ],
+    "answer": 0,
+    "explanation": "💡 [도치 - Such was ~]\n\nSuch was + 명사: 그만큼 ~했다. 앞 절 전체를 받아 그 원인이나 상태를 강조하는 표현이다.\n\n* ① such: Such was her love for him. = 그만큼 그에 대한 사랑이 컸다 ✅\n* ② as: as는 유사관계대명사로 이 구조에 맞지 않음\n* ③ so: so was her love는 비교·정도를 나타내어 의미가 다름\n* ④ what: what was her love는 의문사 표현으로 맞지 않음"
+  },
+  {
+    "id": 16,
+    "passageBottom": null,
+    "question": "다음 중 생략할 수 없는 관계대명사가 포함된 것은?",
+    "options": [
+      "This is the boy <u>whose</u> mother is a famous actress.",
+      "I am not the man <u>that</u> I was when you saw me ten years ago.",
+      "The book <u>which</u> I bought yesterday is interesting.",
+      "She is the woman <u>that</u> I love."
+    ],
+    "answer": 0,
+    "explanation": "💡 [관계대명사 - 생략 불가]\n\nwhose는 소유격 관계대명사이므로 생략할 수 없다. 목적격 관계대명사(that, which, whom)는 생략 가능하다.\n\n* ① whose: 소유격 관계대명사 → 생략 불가 ✅\n* ② that: 목적격 관계대명사 → 생략 가능\n* ③ which: 목적격 관계대명사 → 생략 가능\n* ④ that: 목적격 관계대명사 → 생략 가능"
+  },
+  {
+    "id": 17,
+    "passageBottom": "Watch the lady and the dog _______ are coming this way.",
+    "question": "빈칸에 알맞은 관계대명사는?",
+    "options": [
+      "that",
+      "who",
+      "which",
+      "whom"
+    ],
+    "answer": 0,
+    "explanation": "💡 [관계대명사 - 사람 + 동물 선행사]\n\n사람과 동물(또는 사물)이 함께 선행사일 때 관계대명사는 보통 that을 사용한다.\n\n* ① that: 사람 + 동물이 함께 선행사 → that ✅\n* ② who: 사람만을 선행사로 할 때 사용\n* ③ which: 사물·동물만을 선행사로 할 때 사용\n* ④ whom: 목적격으로 뒤에 주어+동사가 와야 함"
+  },
+  {
+    "id": 18,
+    "passageBottom": "I was about to reply, _______ she cut in.",
+    "question": "빈칸에 알맞은 접속사는?",
+    "options": [
+      "when",
+      "as",
+      "while",
+      "after"
+    ],
+    "answer": 0,
+    "explanation": "💡 [접속사 - be about to ~ when]\n\nbe about to ~ when: 막 ~하려는 순간 …하다. 관용적 표현이다.\n\n* ① when: be about to + when = 막 ~하려는 찰나에 ✅\n* ② as: as는 동시 진행·비례를 나타내어 이 표현에 맞지 않음\n* ③ while: while은 '~하는 동안'으로 이 표현에 맞지 않음\n* ④ after: after는 '~한 후에'로 의미가 달라짐"
+  },
+  {
+    "id": 19,
+    "passageBottom": null,
+    "question": "다음 중 many의 뜻으로 쓰인 것은?",
+    "options": [
+      "She has <b>few</b> friends in the downtown.",
+      "<b>Not a few</b> scholars say so.",
+      "You have <b>but few</b> chances of success.",
+      "There were <b>some few</b> houses along the road."
+    ],
+    "answer": 1,
+    "explanation": "💡 [수량 표현 - not a few]\n\nnot a few = many (적지 않은 = 많은)\n\n* ① few: '거의 없는'의 의미로 부정적 의미\n* ② not a few: = many → 많은 학자들이 그렇게 말한다 ✅\n* ③ but few: = only a few → 겨우 조금밖에 없는\n* ④ some few: = a few → 약간의"
+  },
+  {
+    "id": 20,
+    "passageBottom": null,
+    "question": "다음 중 뜻이 잘못 짝지어진 것은?",
+    "options": [
+      "I haven't seen her <b>lately</b>. → 최근에",
+      "I haven't seen her <b>lately</b>. → 늦게",
+      "The stone is <b>highly</b> valuable. → 매우",
+      "He arrived <b>late</b> for the meeting. → 늦게"
+    ],
+    "answer": 1,
+    "explanation": "💡 [부사 - lately vs late]\n\nlately = 최근에, 요즘. '늦게'는 late이다.\n\n* ① lately → 최근에: 올바른 뜻 ✅\n* ② lately → 늦게: lately는 '최근에'이므로 틀린 뜻 ✅ (오류)\n* ③ highly → 매우: 올바른 뜻 ✅\n* ④ late → 늦게: 올바른 뜻 ✅"
+  },
+  {
+    "id": 21,
+    "passageBottom": "She is young ____ very clever.\nI have no friend ____ her.",
+    "question": "두 문장의 빈칸에 공통으로 들어갈 수 있는 단어는?",
+    "options": [
+      "and",
+      "but",
+      "or",
+      "so"
+    ],
+    "answer": 1,
+    "explanation": "💡 [접속사 but의 용법]\n\nbut은 '그러나'뿐 아니라 'only(~뿐)'의 의미도 가진다.\n\n* ① and: She is young and very clever는 가능하지만 I have no friend and her는 어색함\n* ② but: young but very clever (그러나) / no friend but her (그녀 외에는) ✅\n* ③ or: 선택·양자택일의 접속사로 두 문장 모두에 어울리지 않음\n* ④ so: 결과·이유를 나타내어 두 문장에 어울리지 않음"
+  },
+  {
+    "id": 22,
+    "passageBottom": "As soon as she got off the bus, she began to run for school.\n= ____ getting off the bus, she began to run for school.",
+    "question": "빈칸에 알맞은 단어는?",
+    "options": [
+      "Once",
+      "On",
+      "Of",
+      "At"
+    ],
+    "answer": 1,
+    "explanation": "💡 [동명사 관용 표현 - On -ing]\n\nOn + 동명사 = ~하자마자 (= as soon as). 전치사 on이 동명사와 결합하여 시간의 즉시성을 나타낸다.\n\n* ① Once: Once -ing는 이 관용 표현이 아님\n* ② On: On getting off the bus = 버스에서 내리자마자 ✅\n* ③ Of: Of -ing는 이 관용 표현이 아님\n* ④ At: At -ing는 이 관용 표현이 아님"
+  }
+]
