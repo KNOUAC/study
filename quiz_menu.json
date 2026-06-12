@@ -1,30 +1,6 @@
 [
     { 
-        "title": "Grammar - Coursebook Exercise", 
-        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/grammar/coursebook_exercise.json" 
-    },
-    { 
-        "title": "Grammar - 2025 기억", 
-        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/grammar/memorized_2025.json" 
-    },
-    { 
-        "title": "Grammar - 2014", 
-        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/grammar/grammar_quiz_2014.json" 
-    },
-    {
-        "title": "Grammar - Workbook 기말 대비 연습문제", 
-        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/grammar/workbook_final_practice.json" 
-    },
-    { 
-        "title": "Conversation - Workbook", 
-        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/conversation/workbook.json" 
-    },
-    { 
-        "title": "Ubique - Past Exams (100)", 
-        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/ubique/past_exam_100.json" 
-    },
-    { 
-        "title": "Ubique - media lecture quiz", 
-        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/ubique/media_lecture_quiz.json"
+        "title": "Mobile Web Programming - media lecture quiz", 
+        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/mobile/media_lecture_quiz.json"
     }
 ]
