@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "passageBottom": "똑같은 바이트코드가 Java 플랫폼이 설치된 다양한 하드웨어와 운영체제에서 수정없이 실행될 수 있다.",
+    "question": "Java 언어의 특징 중에 다음 내용이 의미하는 것은?",
+    "options": [
+      "엄격한 자료형의 검사",
+      "플랫폼에 독립적",
+      "예외처리 기능의 지원",
+      "멀티 스레딩의 지원"
+    ],
+    "answer": 1,
+    "explanation": "💡 플랫폼 독립성\n\nJava는 컴파일 후 생성된 바이트코드를 JVM(Java Virtual Machine)에서 실행하므로 운영체제와 하드웨어가 달라도 동일하게 실행될 수 있다.\n\n* ① 자료형 검사는 Java의 특징이지만 제시문과 관련이 없다.\n* ② Java 프로그램이 다양한 환경에서 수정 없이 실행된다는 의미이다. ✅\n* ③ 예외처리는 오류 상황을 처리하는 기능이다.\n* ④ 멀티 스레딩은 여러 작업을 동시에 수행하는 기능이다.\n\n정리하기\n1. Java 프로그램의 기본 구성단위는 클래스이다.\n2. Java에서는 변수의 자료형에 대한 검사가 엄격하다.\n3. Java 프로그래밍을 위해서 JDK를 설치해야 한다.\n4. Java 소스는 컴파일된 후, 바이트코드가 Java 플랫폼에서 실행된다.\n5. Java 플랫폼은 Java VM과 Java API로 구성된다.\n6. main( ) 메소드의 형식은 public static void main(String[ ] args) 이다.\n7. 클래스는 동종 객체를 추상화시켜 표현한 틀이며, 데이터와 메소드로 구성된다.\n8. 객체는 특정 클래스의 인스턴스이다."
+  },
+  {
+    "id": 2,
+    "passageBottom": "<pre><code>public class A {\n}\n\nclass B {\n}</code></pre>",
+    "question": "다음 파일의 이름은 A.java 이다. 이 파일을 컴파일할 때 결과로 만들어지는 것을 정확히 설명한 것은?",
+    "options": [
+      "A.class만 생성된다.",
+      "B.class만 생성된다.",
+      "A.class와 B.class가 생성된다.",
+      "오류가 있어 컴파일되지 않는다."
+    ],
+    "answer": 2,
+    "explanation": "💡 Java 컴파일 결과\n\n하나의 Java 파일 안에 여러 클래스가 존재할 수 있으며, 컴파일 시 각각의 클래스에 대한 .class 파일이 생성된다.\n\n* ① 클래스 B도 존재하므로 틀리다.\n* ② public 클래스 A도 컴파일된다.\n* ③ A.class와 B.class가 모두 생성된다. ✅\n* ④ 문법 오류가 없으므로 컴파일 가능하다.\n\n정리하기\n1. Java 프로그램의 기본 구성단위는 클래스이다.\n2. Java에서는 변수의 자료형에 대한 검사가 엄격하다.\n3. Java 프로그래밍을 위해서 JDK를 설치해야 한다.\n4. Java 소스는 컴파일된 후, 바이트코드가 Java 플랫폼에서 실행된다.\n5. Java 플랫폼은 Java VM과 Java API로 구성된다.\n6. main( ) 메소드의 형식은 public static void main(String[ ] args) 이다.\n7. 클래스는 동종 객체를 추상화시켜 표현한 틀이며, 데이터와 메소드로 구성된다.\n8. 객체는 특정 클래스의 인스턴스이다."
+  },
+  {
+    "id": 3,
+    "passageBottom": null,
+    "question": "다음 중 “Hello, World!”를 화면에 출력하는 올바른 Java 프로그램은 무엇인가?",
+    "options": [
+      "<pre><code>public class Main {\n    public static void main(String[] args) {\n        System.out.println(\"Hello, World!\");\n    }\n}</code></pre>",
+      "<pre><code>public class Main {\n    public void main(String[] args) {\n        print(\"Hello, World!\");\n    }\n}</code></pre>",
+      "<pre><code>class Main {\n    public static main(String[] args) {\n        System.out(\"Hello, World!\");\n    }\n}</code></pre>",
+      "<pre><code>public class Main {\n    static void main() {\n        System.out.println(\"Hello, World!\")\n    }\n}</code></pre>"
+    ],
+    "answer": 0,
+    "explanation": "💡 Java 프로그램의 기본 구조\n\nJava 프로그램의 시작점은 main 메소드이며, 반드시 public static void main(String[] args) 형식을 가져야 한다.\n\n* ① 올바른 Java 프로그램 구조이며 정상 실행된다. ✅\n* ② main 메소드에 static이 없고 print 메소드도 잘못되었다.\n* ③ main 메소드 선언 형식이 잘못되었고 출력 메소드도 틀렸다.\n* ④ 매개변수가 없고 세미콜론도 누락되었다.\n\n정리하기\n1. Java 프로그램의 기본 구성단위는 클래스이다.\n2. Java에서는 변수의 자료형에 대한 검사가 엄격하다.\n3. Java 프로그래밍을 위해서 JDK를 설치해야 한다.\n4. Java 소스는 컴파일된 후, 바이트코드가 Java 플랫폼에서 실행된다.\n5. Java 플랫폼은 Java VM과 Java API로 구성된다.\n6. main( ) 메소드의 형식은 public static void main(String[ ] args) 이다.\n7. 클래스는 동종 객체를 추상화시켜 표현한 틀이며, 데이터와 메소드로 구성된다.\n8. 객체는 특정 클래스의 인스턴스이다."
+  },
+  {
+    "id": 4,
+    "passageBottom": null,
+    "question": "다음 중 클래스 이름에 해당하지 않는 것은?",
+    "options": [
+      "Integer",
+      "String",
+      "System",
+      "boolean"
+    ],
+    "answer": 3,
+    "explanation": "💡 Java의 클래스와 기본형\n\nInteger, String, System은 모두 Java에서 제공하는 클래스 이름이다. boolean은 기본 자료형 키워드이다.\n\n* ① Integer는 wrapper 클래스이다.\n* ② String은 문자열 클래스이다.\n* ③ System은 시스템 관련 기능을 제공하는 클래스이다.\n* ④ boolean은 기본 자료형 키워드이며 클래스가 아니다. ✅\n\n정리하기\n1. Java의 기본형을 나타내는 키워드는 byte, short, int, long, float, double, char, boolean의 8가지이다.\n2. 변수의 종류로는 인스턴스 변수, 클래스 변수, 지역 변수, 파라미터가 있다.\n3. 인스턴스 변수는 객체가 소유하는 변수이며, 클래스 변수는 해당 클래스의 객체들이 공유하는 변수이다.\n4. 클래스와 배열은 대표적 참조형으로, 참조형 변수에는 참조값(주소값)이 저장된다.\n5. 묵시적 형변환은 자료의 손실이 발생하지 않고, 컴파일러가 자동으로 수행하는 형변환이다.\n6. 명령행 매개변수란 main( ) 함수에 전달되는 인자로서, 프로그램을 실행시킬 때 클래스 이름 뒤에 나열하는 인자를 말한다.\n7. break문, continue문, return문은 제어문 중 점프문(분기문)에 해당한다."
+  },
+  {
+    "id": 5,
+    "passageBottom": null,
+    "question": "다음 정수 리터럴 중 값이 다른 하나는 무엇인가?",
+    "options": [
+      "10",
+      "00001010",
+      "0x0A",
+      "0b0000_1010"
+    ],
+    "answer": 1,
+    "explanation": "💡 정수 리터럴 표현 방식\n\nJava에서는 10진수, 16진수, 2진수 등 다양한 방식으로 정수를 표현할 수 있다.\n\n* ① 10진수 10이다.\n* ② 앞에 0이 붙은 수는 8진수로 해석되며, 00001010은 8진수 1010으로 10진수 520이다. ✅\n* ③ 0x는 16진수를 의미하며 값은 10이다.\n* ④ 0b는 2진수를 의미하며 값은 10이다.\n\n정리하기\n1. Java의 기본형을 나타내는 키워드는 byte, short, int, long, float, double, char, boolean의 8가지이다.\n2. 변수의 종류로는 인스턴스 변수, 클래스 변수, 지역 변수, 파라미터가 있다.\n3. 인스턴스 변수는 객체가 소유하는 변수이며, 클래스 변수는 해당 클래스의 객체들이 공유하는 변수이다.\n4. 클래스와 배열은 대표적 참조형으로, 참조형 변수에는 참조값(주소값)이 저장된다.\n5. 묵시적 형변환은 자료의 손실이 발생하지 않고, 컴파일러가 자동으로 수행하는 형변환이다.\n6. 명령행 매개변수란 main( ) 함수에 전달되는 인자로서, 프로그램을 실행시킬 때 클래스 이름 뒤에 나열하는 인자를 말한다.\n7. break문, continue문, return문은 제어문 중 점프문(분기문)에 해당한다."
+  },
+  {
+    "id": 6,
+    "passageBottom": "<pre><code>for(int i = 0; i < arr.length; i++) {\n    System.out.println(arr[i]);\n}</code></pre>",
+    "question": "위의 for문을 향상된 for문(enhanced for statement)으로 바르게 변환한 것은?",
+    "options": [
+      "<pre><code>for(int i : arr) {\n    System.out.println(i);\n}</code></pre>",
+      "<pre><code>for(arr : int i) {\n    System.out.println(i);\n}</code></pre>",
+      "<pre><code>foreach(int i in arr) {\n    System.out.println(i);\n}</code></pre>",
+      "<pre><code>for(int i = arr) {\n    System.out.println(i);\n}</code></pre>"
+    ],
+    "answer": 0,
+    "explanation": "💡 향상된 for문\n\n향상된 for문은 배열이나 컬렉션의 요소를 순차적으로 접근할 때 사용한다.\n\n* ① Java의 올바른 향상된 for문 형식이다. ✅\n* ② 문법 순서가 잘못되었다.\n* ③ Java에는 foreach와 in 문법이 없다.\n* ④ for문의 기본 형식이 올바르지 않다.\n\n정리하기\n1. Java의 기본형을 나타내는 키워드는 byte, short, int, long, float, double, char, boolean의 8가지이다.\n2. 변수의 종류로는 인스턴스 변수, 클래스 변수, 지역 변수, 파라미터가 있다.\n3. 인스턴스 변수는 객체가 소유하는 변수이며, 클래스 변수는 해당 클래스의 객체들이 공유하는 변수이다.\n4. 클래스와 배열은 대표적 참조형으로, 참조형 변수에는 참조값(주소값)이 저장된다.\n5. 묵시적 형변환은 자료의 손실이 발생하지 않고, 컴파일러가 자동으로 수행하는 형변환이다.\n6. 명령행 매개변수란 main( ) 함수에 전달되는 인자로서, 프로그램을 실행시킬 때 클래스 이름 뒤에 나열하는 인자를 말한다.\n7. break문, continue문, return문은 제어문 중 점프문(분기문)에 해당한다."
+  },
+  {
+    "id": 7,
+    "passageBottom": null,
+    "question": "다음 중 문법적으로 올바른 문장은 무엇인가?",
+    "options": [
+      "<pre><code>int a[10] = new int[ ];</code></pre>",
+      "<pre><code>int b[ ] = new int(10);</code></pre>",
+      "<pre><code>int[ ][ ] c = new int[5][ ];</code></pre>",
+      "<pre><code>int[5] d = {1, 2, 3, 4, 5};</code></pre>"
+    ],
+    "answer": 2,
+    "explanation": "💡 배열 선언 문법\n\nJava 배열은 자료형 뒤에 []를 사용하며, new 연산자를 통해 생성한다.\n\n* ① 배열 크기를 변수 선언 위치에 직접 지정할 수 없다.\n* ② 배열 생성 시 대괄호 []를 사용해야 한다.\n* ③ 2차원 배열 선언 문법으로 올바르다. ✅\n* ④ 배열 크기를 자료형 뒤에 직접 표기할 수 없다.\n\n정리하기\n1. Java의 기본형을 나타내는 키워드는 byte, short, int, long, float, double, char, boolean의 8가지이다.\n2. 변수의 종류로는 인스턴스 변수, 클래스 변수, 지역 변수, 파라미터가 있다.\n3. 인스턴스 변수는 객체가 소유하는 변수이며, 클래스 변수는 해당 클래스의 객체들이 공유하는 변수이다.\n4. 클래스와 배열은 대표적 참조형으로, 참조형 변수에는 참조값(주소값)이 저장된다.\n5. 묵시적 형변환은 자료의 손실이 발생하지 않고, 컴파일러가 자동으로 수행하는 형변환이다.\n6. 명령행 매개변수란 main( ) 함수에 전달되는 인자로서, 프로그램을 실행시킬 때 클래스 이름 뒤에 나열하는 인자를 말한다.\n7. break문, continue문, return문은 제어문 중 점프문(분기문)에 해당한다."
+  },
+  {
+    "id": 8,
+    "passageBottom": null,
+    "question": "int형 변수 i와 j의 값을 각각 출력하기 위해 적당한 출력문은 무엇인가?",
+    "options": [
+      "<pre><code>System.out.println( i , j );</code></pre>",
+      "<pre><code>System.out.println( i + \" \" + j );</code></pre>",
+      "<pre><code>System.out.println( i + j );</code></pre>",
+      "<pre><code>System.out.println( i + '=' + j );</code></pre>"
+    ],
+    "answer": 1,
+    "explanation": "💡 문자열 연결 출력\n\nJava에서는 문자열과 + 연산자를 사용하여 여러 값을 연결해 출력할 수 있다.\n\n* ① println 메소드는 인자를 두 개 받을 수 없다.\n* ② 문자열 공백을 포함하여 i와 j를 각각 출력한다. ✅\n* ③ 두 정수를 더한 결과만 출력된다.\n* ④ '='는 문자(char)이므로 의도한 출력 결과가 아니다.\n\n정리하기\n1. Java의 기본형을 나타내는 키워드는 byte, short, int, long, float, double, char, boolean의 8가지이다.\n2. 변수의 종류로는 인스턴스 변수, 클래스 변수, 지역 변수, 파라미터가 있다.\n3. 인스턴스 변수는 객체가 소유하는 변수이며, 클래스 변수는 해당 클래스의 객체들이 공유하는 변수이다.\n4. 클래스와 배열은 대표적 참조형으로, 참조형 변수에는 참조값(주소값)이 저장된다.\n5. 묵시적 형변환은 자료의 손실이 발생하지 않고, 컴파일러가 자동으로 수행하는 형변환이다.\n6. 명령행 매개변수란 main( ) 함수에 전달되는 인자로서, 프로그램을 실행시킬 때 클래스 이름 뒤에 나열하는 인자를 말한다.\n7. break문, continue문, return문은 제어문 중 점프문(분기문)에 해당한다."
+  },
+  {
+    "id": 9,
+    "passageBottom": "퍼블릭 Alpha 클래스에서 protected 데이터 필드가 정의되었다고 가정할 때, 아래 4개의 클래스 중에서 이 데이터 필드를 사용할 수 없는 클래스는 무엇인가?",
+    "question": "다음 중 protected 데이터 필드에 접근할 수 없는 클래스는 무엇인가?",
+    "options": [
+      "Alpha",
+      "AlphaSub",
+      "Beta",
+      "Gamma"
+    ],
+    "answer": 3,
+    "explanation": "💡 protected 접근 제한자\n\nprotected 멤버는 같은 패키지 내부 클래스와 상속 관계의 클래스에서 접근할 수 있다.\n\n* ① 정의된 클래스 내부에서는 접근 가능하다.\n* ② 상속받은 클래스이므로 접근 가능하다.\n* ③ 같은 패키지라면 접근 가능하다.\n* ④ 상속 관계도 아니고 같은 패키지도 아니라면 접근할 수 없다. ✅\n\n정리하기\n1. Java의 기본형을 나타내는 키워드는 byte, short, int, long, float, double, char, boolean의 8가지이다.\n2. 변수의 종류로는 인스턴스 변수, 클래스 변수, 지역 변수, 파라미터가 있다.\n3. 인스턴스 변수는 객체가 소유하는 변수이며, 클래스 변수는 해당 클래스의 객체들이 공유하는 변수이다.\n4. 클래스와 배열은 대표적 참조형으로, 참조형 변수에는 참조값(주소값)이 저장된다.\n5. 묵시적 형변환은 자료의 손실이 발생하지 않고, 컴파일러가 자동으로 수행하는 형변환이다.\n6. 명령행 매개변수란 main( ) 함수에 전달되는 인자로서, 프로그램을 실행시킬 때 클래스 이름 뒤에 나열하는 인자를 말한다.\n7. break문, continue문, return문은 제어문 중 점프문(분기문)에 해당한다."
+  }
+]
