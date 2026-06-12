@@ -22,5 +22,9 @@
     { 
         "title": "Ubique - Past Exams (100)", 
         "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/ubique/past_exam_100.json" 
+    },
+    { 
+        "title": "Ubique - media lecture quiz", 
+        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/ubique/media_lecture_quiz.json"
     }
 ]
