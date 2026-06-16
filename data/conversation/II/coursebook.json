@@ -8,7 +8,7 @@
       "question": "오랜만에 만난 유진(Yu-Jin)이 건넨 인사로, '오랜만이에요!'에 해당하는 영어 표현은?",
       "options": [ "Long time no see!", "It's been a long day.", "How have you been?", "Nice to meet you again." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.2] 'Long time no see!'는 오랜만에 만난 사람에게 건네는 전형적인 인사말입니다.\n\n// 🎯 오답 분석\n- 1번 'It's been a long day'는 하루가 매우 길고 힘들었다는 뜻입니다.\n- 2번 'How have you been?'은 만난 직후 상태를 묻는 질문입니다.\n- 3번 'Nice to meet you again'은 다시 만나서 반갑다는 일반적인 감정 표현입니다."
+      "explanation": "💡 [교재 p.2] 'Long time no see!'는 오랜만에 만난 사람에게 건네는 전형적인 인사말입니다.\n\n🎯 오답 분석\n- 1번 'It's been a long day'는 하루가 매우 길고 힘들었다는 뜻입니다.\n- 2번 'How have you been?'은 만난 직후 상태를 묻는 질문입니다.\n- 3번 'Nice to meet you again'은 다시 만나서 반갑다는 일반적인 감정 표현입니다."
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "question": "정오표에 따라 수정된 해리(Harry)의 대사 중 문법적으로 올바른 것을 고르시오.",
       "options": [ "so Chuseok to my family will be good.", "so introducing Chuseok to my family will be good.", "so introduced Chuseok to my family will be good.", "so introduce Chuseok to my family will be good." ],
       "answer": 1,
-      "explanation": "💡 [정오표 p.2] 2쪽 15행의 대사에서 'so' 뒤에 문장의 주어 역할을 할 수 있는 동명사 'introducing'이 필요합니다.\n\n// 🎯 오답 분석\n- 0번은 주어가 누락되어 문법적으로 성립하지 않습니다.\n- 2번은 과거분사로 주어 역할을 하기 어렵습니다.\n- 3번은 동사원형이 주어 자리에 올 수 없습니다."
+      "explanation": "💡 [정오표 p.2] 2쪽 15행의 대사에서 'so' 뒤에 문장의 주어 역할을 할 수 있는 동명사 'introducing'이 필요합니다.\n\n🎯 오답 분석\n- 0번은 주어가 누락되어 문법적으로 성립하지 않습니다.\n- 2번은 과거분사로 주어 역할을 하기 어렵습니다.\n- 3번은 동사원형이 주어 자리에 올 수 없습니다."
     },
     {
       "id": 3,
@@ -24,7 +24,7 @@
       "question": "정오표(p.6, line 6)를 참고하여, 다음 중 문법적으로 옳은 문장을 고르시오.",
       "options": [ "There is five minutes left before the meeting.", "There are five minutes left before the meeting.", "There am five minutes left before the meeting.", "There be five minutes left before the meeting." ],
       "answer": 1,
-      "explanation": "💡 [정오표 p.6] 'five minutes'는 복수 형태이므로 유도부사 'There'와 결합할 때 복수 동사인 'are'를 사용해야 합니다.\n\n// 🎯 오답 분석\n- 0번 'is'는 단수 주어와 결합하므로 오류입니다.\n- 2번 'am'은 1인칭 주어 I와만 결합합니다.\n- 3번 'be'는 조동사 뒤나 명령문이 아닌 평서문 시제 자리에는 부적절합니다."
+      "explanation": "💡 [정오표 p.6] 'five minutes'는 복수 형태이므로 유도부사 'There'와 결합할 때 복수 동사인 'are'를 사용해야 합니다.\n\n🎯 오답 분석\n- 0번 'is'는 단수 주어와 결합하므로 오류입니다.\n- 2번 'am'은 1인칭 주어 I와만 결합합니다.\n- 3번 'be'는 조동사 뒤나 명령문이 아닌 평서문 시제 자리에는 부적절합니다."
     },
     {
       "id": 4,
@@ -32,7 +32,7 @@
       "question": "본문의 'It’s a Korean traditional holiday similar to Thanksgiving.'에서 'similar to'의 의미는?",
       "options": [ "~와 다른", "~와 비슷한", "~보다 우월한", "~을 대표하는" ],
       "answer": 1,
-      "explanation": "💡 [교재 p.2] 'similar to'는 어떤 대상이 서로 닮았거나 비슷할 때 사용하는 핵심 표현입니다. 본문에서는 추석을 미국의 추수감사절에 비유했습니다.\n\n// 🎯 오답 분석\n- 0번 '다른'은 'different from'입니다.\n- 2번 '우월한'은 'superior to'입니다.\n- 3번 '대표하는'은 'representing' 등의 표현이 적합합니다."
+      "explanation": "💡 [교재 p.2] 'similar to'는 어떤 대상이 서로 닮았거나 비슷할 때 사용하는 핵심 표현입니다. 본문에서는 추석을 미국의 추수감사절에 비유했습니다.\n\n🎯 오답 분석\n- 0번 '다른'은 'different from'입니다.\n- 2번 '우월한'은 'superior to'입니다.\n- 3번 '대표하는'은 'representing' 등의 표현이 적합합니다."
     },
     {
       "id": 5,
@@ -40,7 +40,7 @@
       "question": "다음 중 'similar to'와 바꿔 쓸 수 있는 표현으로 적절하지 않은 것은?",
       "options": [ "just like", "akin to", "on the lines of", "different from" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.7] 'similar to'의 유의어로는 'just like', 'akin to', 'on the lines of', 'in the same manner as' 등이 제시되어 있습니다.\n\n// 🎯 오답 분석\n- 3번 'different from'은 '~와 다른'이라는 뜻으로, '비슷한'의 반의어에 해당합니다."
+      "explanation": "💡 [교재 p.7] 'similar to'의 유의어로는 'just like', 'akin to', 'on the lines of', 'in the same manner as' 등이 제시되어 있습니다.\n\n🎯 오답 분석\n- 3번 'different from'은 '~와 다른'이라는 뜻으로, '비슷한'의 반의어에 해당합니다."
     },
     {
       "id": 6,
@@ -48,7 +48,7 @@
       "question": "대화 중 'do you know what Thanksgiving and Halloween have in common?'에서 'in common'의 뜻은?",
       "options": [ "평범하게", "공통적으로", "유행하는", "일반적인" ],
       "answer": 1,
-      "explanation": "💡 [교재 p.3, 6] 'have something in common'은 '~을 공통으로 가지다'라는 뜻입니다. 여기서는 두 명절의 공통점을 묻고 있습니다.\n\n// 🎯 오답 분석\n- 0, 3번은 'common'의 또 다른 뜻인 '평범한, 일반적인'을 이용한 함정입니다.\n- 2번 '유행하는'은 'in style' 등이 적합합니다."
+      "explanation": "💡 [교재 p.3, 6] 'have something in common'은 '~을 공통으로 가지다'라는 뜻입니다. 여기서는 두 명절의 공통점을 묻고 있습니다.\n\n🎯 오답 분석\n- 0, 3번은 'common'의 또 다른 뜻인 '평범한, 일반적인'을 이용한 함정입니다.\n- 2번 '유행하는'은 'in style' 등이 적합합니다."
     },
     {
       "id": 7,
@@ -56,7 +56,7 @@
       "question": "정오표에 따라 수정된 송편에 대한 설명 중 옳은 것은?",
       "options": [ "stuffed with black sugar and sesame.", "stuffed with brown sugar and sesame.", "stuffed with white sugar and sesame.", "stuffed with salt and sesame." ],
       "answer": 1,
-      "explanation": "💡 [정오표 p.3] 송편의 소를 설명할 때 'black sugar'는 'brown sugar(흑설탕)'로 수정되었습니다.\n\n// 🎯 오답 분석\n- 0번은 수정 전의 잘못된 표현입니다.\n- 2, 3번은 실제 송편의 주재료인 설탕의 색상이나 소금과는 거리가 멉니다."
+      "explanation": "💡 [정오표 p.3] 송편의 소를 설명할 때 'black sugar'는 'brown sugar(흑설탕)'로 수정되었습니다.\n\n🎯 오답 분석\n- 0번은 수정 전의 잘못된 표현입니다.\n- 2, 3번은 실제 송편의 주재료인 설탕의 색상이나 소금과는 거리가 멉니다."
     },
     {
       "id": 8,
@@ -64,7 +64,7 @@
       "question": "다음 우리말을 Key Pattern #1을 활용하여 영어로 바르게 영작한 것은?\n\n\"여름방학이 매우 기다려진다.\"",
       "options": [ "I can wait for the summer vacation.", "I can't wait for the summer vacation.", "I can't wait to the summer vacation.", "I'm wait for the summer vacation." ],
       "answer": 1,
-      "explanation": "💡 [교재 p.4] 'I can't wait' 뒤에 명사가 올 경우 전치사 'for'를 동반합니다.\n\n// 🎯 오답 분석\n- 0번은 긍정문이 되어 의미가 반대가 됩니다.\n- 2번은 명사 앞에 전치사 'to'를 썼으나, 'to' 뒤에는 동사원형이 와야 합니다.\n- 3번은 문법적으로 'am waiting' 등이 되어야 하며 패턴에 맞지 않습니다."
+      "explanation": "💡 [교재 p.4] 'I can't wait' 뒤에 명사가 올 경우 전치사 'for'를 동반합니다.\n\n🎯 오답 분석\n- 0번은 긍정문이 되어 의미가 반대가 됩니다.\n- 2번은 명사 앞에 전치사 'to'를 썼으나, 'to' 뒤에는 동사원형이 와야 합니다.\n- 3번은 문법적으로 'am waiting' 등이 되어야 하며 패턴에 맞지 않습니다."
     },
     {
       "id": 9,
@@ -72,7 +72,7 @@
       "question": "COCA(미국 현대 영어 말뭉치) 분석 결과, 'wait' 관련 표현 중 실제 빈도수가 가장 높은 1위 표현은?",
       "options": [ "I CAN WAIT", "I WILL WAIT", "I'LL WAIT", "I CAN'T WAIT" ],
       "answer": 2,
-      "explanation": "💡 [교재 p.8] COCA 검색 결과 'I'LL WAIT'이 1,978회로 압도적 1위이며, 본문 패턴인 'I CAN'T WAIT'은 6위(175회)를 기록했습니다.\n\n// 🎯 오답 분석\n- 0번은 519회(2위), 1번은 359회(3위), 3번은 175회(6위)입니다."
+      "explanation": "💡 [교재 p.8] COCA 검색 결과 'I'LL WAIT'이 1,978회로 압도적 1위이며, 본문 패턴인 'I CAN'T WAIT'은 6위(175회)를 기록했습니다.\n\n🎯 오답 분석\n- 0번은 519회(2위), 1번은 359회(3위), 3번은 175회(6위)입니다."
     },
     {
       "id": 10,
@@ -80,7 +80,7 @@
       "question": "상대방에게 억울하거나 서운한 감정을 담아 '어쩜 나한테 그럴 수 있니?'라고 말할 때 가장 적절한 표현은?",
       "options": [ "How can you do this to me?", "What are you doing to me?", "How do you do that?", "Why are you doing this?" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.9] 'How can you do this to me?'는 상대방의 부당한 대우에 항의하거나 억울함을 호소하는 관용 표현입니다.\n\n// 🎯 오답 분석\n- 1번 '무엇을 하고 있니'는 현재 진행 중인 동작을 묻습니다.\n- 2번 '그것을 어떻게 하니'는 방법적인 질문입니다.\n- 3번 '왜 이것을 하니'는 일반적인 원인을 묻는 중립적인 질문입니다."
+      "explanation": "💡 [교재 p.9] 'How can you do this to me?'는 상대방의 부당한 대우에 항의하거나 억울함을 호소하는 관용 표현입니다.\n\n🎯 오답 분석\n- 1번 '무엇을 하고 있니'는 현재 진행 중인 동작을 묻습니다.\n- 2번 '그것을 어떻게 하니'는 방법적인 질문입니다.\n- 3번 '왜 이것을 하니'는 일반적인 원인을 묻는 중립적인 질문입니다."
     },
     {
       "id": 11,
@@ -88,7 +88,7 @@
       "question": "다음 상황에 가장 적절한 영어 표현을 고르시오.\n\n[상황] 아이들이 거실에서 1시간째 소리를 지르며 싸우고 있습니다. 화가 난 엄마가 '이제 그만 좀 해! 더는 못 참아!'라고 외칩니다.",
       "options": [ "Hold your horses!", "Enough is enough!", "I can't wait!", "That's hilarious!" ],
       "answer": 1,
-      "explanation": "💡 [교재 p.9] 'Enough is enough!'는 인내심이 한계에 도달했을 때 '이제 충분하니 그만해라'라는 단호한 의지를 나타냅니다.\n\n// 🎯 오답 분석\n- 0번 'Hold your horses'는 성급한 사람에게 '진정하라'고 할 때 씁니다.\n- 2번 'I can't wait'은 긍정적인 기대감을 나타냅니다.\n- 3번 'That's hilarious'는 매우 웃기다는 칭찬입니다."
+      "explanation": "💡 [교재 p.9] 'Enough is enough!'는 인내심이 한계에 도달했을 때 '이제 충분하니 그만해라'라는 단호한 의지를 나타냅니다.\n\n🎯 오답 분석\n- 0번 'Hold your horses'는 성급한 사람에게 '진정하라'고 할 때 씁니다.\n- 2번 'I can't wait'은 긍정적인 기대감을 나타냅니다.\n- 3번 'That's hilarious'는 매우 웃기다는 칭찬입니다."
     },
     {
       "id": 12,
@@ -96,7 +96,7 @@
       "question": "본문의 'ddeok made from rice'에서 'made from'과 바꿔 쓸 수 없는 표현은?",
       "options": [ "composed of", "comprising", "encompassing", "similar to" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.7] '~로 만들어진'의 유의어는 'composed of', 'comprising', 'consisting of', 'encompassing' 등이 있습니다.\n\n// 🎯 오답 분석\n- 3번 'similar to'는 재료나 구성 성분이 아닌 '모습이나 성격의 유사성'을 나타내므로 부적합합니다."
+      "explanation": "💡 [교재 p.7] '~로 만들어진'의 유의어는 'composed of', 'comprising', 'consisting of', 'encompassing' 등이 있습니다.\n\n🎯 오답 분석\n- 3번 'similar to'는 재료나 구성 성분이 아닌 '모습이나 성격의 유사성'을 나타내므로 부적합합니다."
     },
     {
       "id": 13,
@@ -104,7 +104,7 @@
       "question": "민수(Min-su)의 썰렁한 농담에 줄리(Julie)가 답한 표현으로, '당신 정말 재미있군요'라는 뜻의 핵심 패턴은?",
       "options": [ "You are funny.", "You are hilarious.", "You are interesting.", "You are joking." ],
       "answer": 1,
-      "explanation": "💡 [교재 p.3, 5] 'hilarious'는 매우 웃길 때 사용하는 형용사로, 'laughable', 'uproarious' 등으로 대체 가능합니다.\n\n// 🎯 오답 분석\n- 0번 'funny'도 웃기다는 뜻이지만 패턴 강도가 'hilarious'보다 약합니다.\n- 2번 'interesting'은 흥미롭다는 뜻이지 반드시 웃기다는 의미는 아닙니다.\n- 3번 'joking'은 농담하고 있다는 동작의 설명에 가깝습니다."
+      "explanation": "💡 [교재 p.3, 5] 'hilarious'는 매우 웃길 때 사용하는 형용사로, 'laughable', 'uproarious' 등으로 대체 가능합니다.\n\n🎯 오답 분석\n- 0번 'funny'도 웃기다는 뜻이지만 패턴 강도가 'hilarious'보다 약합니다.\n- 2번 'interesting'은 흥미롭다는 뜻이지 반드시 웃기다는 의미는 아닙니다.\n- 3번 'joking'은 농담하고 있다는 동작의 설명에 가깝습니다."
     },
     {
       "id": 14,
@@ -112,7 +112,7 @@
       "question": "다음 중 '한국과 일본 사이의 공통점이 무엇인지 아시나요?'를 영어로 바르게 옮긴 것은?",
       "options": [ "Do you know what Korea and Japan are same?", "Do you know what Korea and Japan have in common?", "Do you know why Korea and Japan are similar?", "Do you know how Korea and Japan are in common?" ],
       "answer": 1,
-      "explanation": "💡 [교재 p.6] 'Do you know what A and B have in common?' 패턴은 두 대상 사이의 공유된 특징을 물을 때 정석적으로 쓰입니다.\n\n// 🎯 오답 분석\n- 0번은 문법적으로 'how A and B are the same'이 되어야 합니다.\n- 2번은 '왜 비슷한지' 이유를 묻는 질문입니다.\n- 3번은 전치사구인 'in common'의 쓰임이 문법적으로 어색합니다."
+      "explanation": "💡 [교재 p.6] 'Do you know what A and B have in common?' 패턴은 두 대상 사이의 공유된 특징을 물을 때 정석적으로 쓰입니다.\n\n🎯 오답 분석\n- 0번은 문법적으로 'how A and B are the same'이 되어야 합니다.\n- 2번은 '왜 비슷한지' 이유를 묻는 질문입니다.\n- 3번은 전치사구인 'in common'의 쓰임이 문법적으로 어색합니다."
     },
     {
       "id": 15,
@@ -120,7 +120,7 @@
       "question": "민수(Min-su)의 농담 중 'gobbler'의 실제 의미로 해리(Harry)가 설명한 것은?",
       "options": [ "수컷 칠면조(A male turkey)", "무서운 도깨비(A goblin)", "추수감사절 파이(Thanksgiving pie)", "맛있는 음식(Delicious food)" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.3] 해리는 민수의 농담을 받아 'A gobbler is a male turkey'라고 명확히 정의해 줍니다.\n\n// 🎯 오답 분석\n- 1번 'goblin'은 할로윈의 도깨비를 뜻하며 'gobbler'와 발음이 비슷한 점을 이용한 농담의 소재입니다.\n- 2, 3번은 본문에서 언급되지 않은 가공된 보기입니다."
+      "explanation": "💡 [교재 p.3] 해리는 민수의 농담을 받아 'A gobbler is a male turkey'라고 명확히 정의해 줍니다.\n\n🎯 오답 분석\n- 1번 'goblin'은 할로윈의 도깨비를 뜻하며 'gobbler'와 발음이 비슷한 점을 이용한 농담의 소재입니다.\n- 2, 3번은 본문에서 언급되지 않은 가공된 보기입니다."
     },
     {
       "id": 16,
@@ -128,7 +128,7 @@
       "question": "정오표의 지침에 따라 다음 대화의 빈칸에 공통으로 들어갈 알맞은 단어는?\n\n\"He couldn't sleep well because of (     ) baby daughter.\"\n\"Would you like to come to (     ) baby's doljanchi?\"",
       "options": [ "my", "our", "the", "her" ],
       "answer": 1,
-      "explanation": "💡 [정오표 p.11-12] 교재 11~12쪽의 'my baby' 표현은 부부 공동의 자녀임을 나타내기 위해 모두 'our baby'로 수정되었습니다.\n\n// 🎯 오답 분석\n- 0번 'my'는 수정 전 표현으로, 화자 혼자만의 아이라는 뉘앙스를 주어 지양합니다.\n- 2번 'the'는 소유의 의미가 약합니다.\n- 3번 'her'는 제3자의 아이를 뜻하게 되어 문맥상 어색합니다."
+      "explanation": "💡 [정오표 p.11-12] 교재 11~12쪽의 'my baby' 표현은 부부 공동의 자녀임을 나타내기 위해 모두 'our baby'로 수정되었습니다.\n\n🎯 오답 분석\n- 0번 'my'는 수정 전 표현으로, 화자 혼자만의 아이라는 뉘앙스를 주어 지양합니다.\n- 2번 'the'는 소유의 의미가 약합니다.\n- 3번 'her'는 제3자의 아이를 뜻하게 되어 문맥상 어색합니다."
     },
     {
       "id": 17,
@@ -136,7 +136,7 @@
       "question": "민수(Min-su)의 대사 중 '기분이 날아갈 것 같아요'를 의미하는 핵심 패턴은?",
       "options": [ "I feel like I'm walking on air.", "I'm under the weather.", "I'm walking on the street.", "I feel like an astronaut." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.11, 13] 'walking on air'는 기분이 매우 좋아서 구름 위를 걷는 듯한 상태를 표현하는 핵심 패턴입니다.\n\n// 🎯 오답 분석\n- 1번 'under the weather'는 몸 상태가 좋지 않을 때 쓰는 표현입니다.\n- 2번 'walking on the street'는 단순히 길을 걷는 물리적 동작입니다.\n- 3번은 비유가 아닌 실제 우주비행사 같은 기분을 뜻하여 패턴과 거리가 멉니다."
+      "explanation": "💡 [교재 p.11, 13] 'walking on air'는 기분이 매우 좋아서 구름 위를 걷는 듯한 상태를 표현하는 핵심 패턴입니다.\n\n🎯 오답 분석\n- 1번 'under the weather'는 몸 상태가 좋지 않을 때 쓰는 표현입니다.\n- 2번 'walking on the street'는 단순히 길을 걷는 물리적 동작입니다.\n- 3번은 비유가 아닌 실제 우주비행사 같은 기분을 뜻하여 패턴과 거리가 멉니다."
     },
     {
       "id": 18,
@@ -144,7 +144,7 @@
       "question": "정오표에 따라 수정된 '기분이 최고다'라는 뜻의 올바른 문장을 고르시오.",
       "options": [ "I’m at the top of the world.", "I’m in the top of the world.", "I’m on top of the world.", "I’m above the top of the world." ],
       "answer": 2,
-      "explanation": "💡 [정오표 p.14] 14쪽 5행에서 'at the top'이 아닌 전치사 'on'을 사용한 'on top of the world'가 올바른 숙어 표현입니다.\n\n// 🎯 오답 분석\n- 0번 'at'은 특정 지점을 뜻하나 숙어로는 'on'이 정석입니다.\n- 1, 3번은 숙어에서 사용하지 않는 부적절한 전치사 결합입니다."
+      "explanation": "💡 [정오표 p.14] 14쪽 5행에서 'at the top'이 아닌 전치사 'on'을 사용한 'on top of the world'가 올바른 숙어 표현입니다.\n\n🎯 오답 분석\n- 0번 'at'은 특정 지점을 뜻하나 숙어로는 'on'이 정석입니다.\n- 1, 3번은 숙어에서 사용하지 않는 부적절한 전치사 결합입니다."
     },
     {
       "id": 19,
@@ -152,7 +152,7 @@
       "question": "정오표에 따라 '나는 더할 나위 없이 행복하다'를 바르게 표현한 것은?",
       "options": [ "I'm blissful.", "I'm in a state of bliss.", "I'm state in bliss.", "I'm a blissful state." ],
       "answer": 1,
-      "explanation": "💡 [정오표 p.14] 14쪽 6행에서 'I'm blissful'보다 더 문학적이고 강한 행복을 뜻하는 명사구인 'in a state of bliss'로 수정되었습니다.\n\n// 🎯 오답 분석\n- 0번은 틀린 말은 아니나 정오표의 권장 수정 사항이 아닙니다.\n- 2, 3번은 전치사 결합이나 관사의 위치가 틀린 비문입니다."
+      "explanation": "💡 [정오표 p.14] 14쪽 6행에서 'I'm blissful'보다 더 문학적이고 강한 행복을 뜻하는 명사구인 'in a state of bliss'로 수정되었습니다.\n\n🎯 오답 분석\n- 0번은 틀린 말은 아니나 정오표의 권장 수정 사항이 아닙니다.\n- 2, 3번은 전치사 결합이나 관사의 위치가 틀린 비문입니다."
     },
     {
       "id": 20,
@@ -160,7 +160,7 @@
       "question": "다음 중 '우리 집들이 파티에 오실래요?'를 영어로 바르게 옮긴 것은?",
       "options": [ "Would you like to come to my house warming party?", "Would you like coming to my house warming party?", "Do you want come to my house warming party?", "Will you like to come my house warming party?" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.14] 'Would you like to come to + 명사' 패턴은 상대를 정중하게 초대할 때 사용하며, 이때 'to'는 장소를 나타내는 전치사입니다.\n\n// 🎯 오답 분석\n- 1번 'coming'은 제안 시 'Would you like to + 동사원형' 형식을 어겼습니다.\n- 2번 'Do you want' 뒤에는 반드시 'to'가 있어야 동사가 올 수 있습니다.\n- 3번 'Will you like'는 초대 시 거의 쓰이지 않는 어색한 표현입니다."
+      "explanation": "💡 [교재 p.14] 'Would you like to come to + 명사' 패턴은 상대를 정중하게 초대할 때 사용하며, 이때 'to'는 장소를 나타내는 전치사입니다.\n\n🎯 오답 분석\n- 1번 'coming'은 제안 시 'Would you like to + 동사원형' 형식을 어겼습니다.\n- 2번 'Do you want' 뒤에는 반드시 'to'가 있어야 동사가 올 수 있습니다.\n- 3번 'Will you like'는 초대 시 거의 쓰이지 않는 어색한 표현입니다."
     },
     {
       "id": 21,
@@ -168,7 +168,7 @@
       "question": "본문의 'There's no stopping him.'과 구조가 같은 문장으로, '그 메시지를 오해했을 리가 없다'는 뜻의 표현은?",
       "options": [ "There's no denying it.", "There's no going back.", "There's no mistaking the message.", "There's no stopping the message." ],
       "answer": 2,
-      "explanation": "💡 [교재 p.15] 'There is no ~ing' 구문은 '~하는 것은 불가능하다' 혹은 강한 부정적 추측을 나타낼 때 사용됩니다.\n\n// 🎯 오답 분석\n- 0번 '부정할 수 없다'는 의미입니다.\n- 1번 '되돌아갈 수 없다'는 의미입니다.\n- 3번은 '오해를 멈추지 마라'는 어색한 의미가 됩니다."
+      "explanation": "💡 [교재 p.15] 'There is no ~ing' 구문은 '~하는 것은 불가능하다' 혹은 강한 부정적 추측을 나타낼 때 사용됩니다.\n\n🎯 오답 분석\n- 0번 '부정할 수 없다'는 의미입니다.\n- 1번 '되돌아갈 수 없다'는 의미입니다.\n- 3번은 '오해를 멈추지 마라'는 어색한 의미가 됩니다."
     },
     {
       "id": 22,
@@ -176,7 +176,7 @@
       "question": "상대방의 기분이 안 좋아 보일 때 '무슨 고민 있니?' 혹은 '왜 울상이야?'라고 묻는 표현이 아닌 것은?",
       "options": [ "What's bothering you?", "What's the matter?", "Why the long face?", "What makes you happy?" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.11, 15] 1~3번은 모두 상대방의 걱정이나 좋지 않은 기분의 원인을 묻는 패턴입니다.\n\n// 🎯 오답 분석\n- 3번 'What makes you happy?'는 '무엇이 당신을 기쁘게 하나요?'라는 긍정적인 질문이므로 부정적인 상황을 묻는 질문이 아닙니다."
+      "explanation": "💡 [교재 p.11, 15] 1~3번은 모두 상대방의 걱정이나 좋지 않은 기분의 원인을 묻는 패턴입니다.\n\n🎯 오답 분석\n- 3번 'What makes you happy?'는 '무엇이 당신을 기쁘게 하나요?'라는 긍정적인 질문이므로 부정적인 상황을 묻는 질문이 아닙니다."
     },
     {
       "id": 23,
@@ -184,7 +184,7 @@
       "question": "본문의 'I couldn't sleep well.'과 바꿔 쓸 수 있는 표현 중, 밤새 잠을 설쳤을 때 쓰는 표현은?",
       "options": [ "I slept like a log.", "I tossed and turned all night.", "I was out cold.", "I slept soundly." ],
       "answer": 1,
-      "explanation": "💡 [교재 p.16] 'toss and turn'은 잠자리에서 뒤척인다는 뜻으로, 잠을 잘 자지 못한 상황을 묘사하는 가장 적절한 유의어입니다.\n\n// 🎯 오답 분석\n- 0번 'slept like a log'는 '통나무처럼 잤다' 즉, 깊게 잤다는 반대 뜻입니다.\n- 2번 'out cold'는 기절하듯 깊이 잠들거나 의식을 잃은 것입니다.\n- 3번 'soundly'는 '곤히'라는 뜻으로 숙면을 의미합니다."
+      "explanation": "💡 [교재 p.16] 'toss and turn'은 잠자리에서 뒤척인다는 뜻으로, 잠을 잘 자지 못한 상황을 묘사하는 가장 적절한 유의어입니다.\n\n🎯 오답 분석\n- 0번 'slept like a log'는 '통나무처럼 잤다' 즉, 깊게 잤다는 반대 뜻입니다.\n- 2번 'out cold'는 기절하듯 깊이 잠들거나 의식을 잃은 것입니다.\n- 3번 'soundly'는 '곤히'라는 뜻으로 숙면을 의미합니다."
     },
     {
       "id": 24,
@@ -192,7 +192,7 @@
       "question": "본문에서 돌잔치 때 주변 사람들에게 나눠주는 음식으로 언급된 것은?",
       "options": [ "cake", "ddeok", "bread", "cookies" ],
       "answer": 1,
-      "explanation": "💡 [교재 p.11] 민수는 한국의 돌잔치 문화 중 하나로 'distribute ddeok(떡) to the people around us'를 설명합니다.\n\n// 🎯 오답 분석\n- 0번 케이크는 미국의 생일 문화이며, 2, 3번은 본문에서 특별한 한국의 정통 음식으로 언급되지 않았습니다."
+      "explanation": "💡 [교재 p.11] 민수는 한국의 돌잔치 문화 중 하나로 'distribute ddeok(떡) to the people around us'를 설명합니다.\n\n🎯 오답 분석\n- 0번 케이크는 미국의 생일 문화이며, 2, 3번은 본문에서 특별한 한국의 정통 음식으로 언급되지 않았습니다."
     },
     {
       "id": 25,
@@ -200,7 +200,7 @@
       "question": "상대방에게 제안을 할 때 사용하는 'Would you like'의 쓰임 중 어법상 어색한 문장은?",
       "options": [ "Would you like to hear one?", "Would you like to see what is inside?", "Would you like to brunch?", "Would you like it if they were twins?" ],
       "answer": 2,
-      "explanation": "💡 [교재 p.17] 'Would you like' 뒤에 바로 명사가 오려면 'Would you like brunch?'라고 해야 하며, 'to'를 쓰려면 뒤에 동사인 'to have brunch'가 와야 합니다.\n\n// 🎯 오답 분석\n- 0, 1번은 'to + 동사원형'이 올바르게 쓰였습니다.\n- 3번은 'if' 절을 동반한 적절한 가정형 제안입니다."
+      "explanation": "💡 [교재 p.17] 'Would you like' 뒤에 바로 명사가 오려면 'Would you like brunch?'라고 해야 하며, 'to'를 쓰려면 뒤에 동사인 'to have brunch'가 와야 합니다.\n\n🎯 오답 분석\n- 0, 1번은 'to + 동사원형'이 올바르게 쓰였습니다.\n- 3번은 'if' 절을 동반한 적절한 가정형 제안입니다."
     },
     {
       "id": 26,
@@ -208,7 +208,7 @@
       "question": "다음 중 '어젯밤에 한숨도 못 잤어'라는 뜻의 구어체 표현은?",
       "options": [ "I didn't get any sleep last night.", "I didn't sleep a wink.", "1번과 2번 모두 정답", "I slept properly last night." ],
       "answer": 2,
-      "explanation": "💡 [교재 p.18] 'get any sleep'과 'sleep a wink'는 모두 구어체에서 한숨도 못 잤음을 뜻하는 훌륭한 표현들입니다.\n\n// 🎯 오답 분석\n- 3번 'slept properly'는 '제대로 잘 잤다'는 정반대의 뜻입니다."
+      "explanation": "💡 [교재 p.18] 'get any sleep'과 'sleep a wink'는 모두 구어체에서 한숨도 못 잤음을 뜻하는 훌륭한 표현들입니다.\n\n🎯 오답 분석\n- 3번 'slept properly'는 '제대로 잘 잤다'는 정반대의 뜻입니다."
     },
     {
       "id": 27,
@@ -216,7 +216,7 @@
       "question": "'as happy as a clam' 표현의 유래와 관련이 있는 것은?",
       "options": [ "조개의 입 모양이 미소 짓는 것과 비슷해서", "조개가 바다에서 가장 행복한 동물이어서", "조개 요리가 매우 맛있어서", "조개가 진주를 품고 있어서" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.19] 'as happy as a clam'은 조개가 입을 벌린 모습이 사람이 행복하게 미소 짓는 입 모양과 비슷하다고 하여 유래한 표현입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 이 관용구의 어원과 관계가 없는 오답입니다."
+      "explanation": "💡 [교재 p.19] 'as happy as a clam'은 조개가 입을 벌린 모습이 사람이 행복하게 미소 짓는 입 모양과 비슷하다고 하여 유래한 표현입니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 이 관용구의 어원과 관계가 없는 오답입니다."
     },
     {
       "id": 28,
@@ -224,7 +224,7 @@
       "question": "돌잡이 물건 중 '무병장수(long life)'를 의미하는 것은?",
       "options": [ "rice", "money", "thread", "brush" ],
       "answer": 2,
-      "explanation": "💡 [교재 p.12] 'thread(실) means they will live a long life(장수)'라고 본문에서 설명합니다.\n\n// 🎯 오답 분석\n- 0번 'rice'와 1번 'money'는 부자가 되는 것(wealthy)을 의미합니다.\n- 3번 'brush'는 현명해지는 것(smart)을 의미합니다."
+      "explanation": "💡 [교재 p.12] 'thread(실) means they will live a long life(장수)'라고 본문에서 설명합니다.\n\n🎯 오답 분석\n- 0번 'rice'와 1번 'money'는 부자가 되는 것(wealthy)을 의미합니다.\n- 3번 'brush'는 현명해지는 것(smart)을 의미합니다."
     },
     {
       "id": 29,
@@ -232,7 +232,7 @@
       "question": "'I'm walking on air'와 비슷한 뜻으로, 가장 높은 구름의 높이에서 유래한 표현은?",
       "options": [ "I'm on cloud nine.", "I'm over the moon.", "I'm blissful.", "I'm in seventh heaven." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.13] 'cloud nine'은 기상청에서 분류한 가장 높은 구름인 9번째 구름의 높이에서 유래하여 최고의 행복을 의미합니다.\n\n// 🎯 오답 분석\n- 1번 'over the moon'은 달을 넘을 정도로 좋다는 뜻입니다.\n- 3번 'blissful'은 단순히 매우 행복하다는 형용사입니다.\n- 4번 'seventh heaven'은 유대교 신앙 등에서 유래한 가장 높은 하늘을 뜻합니다."
+      "explanation": "💡 [교재 p.13] 'cloud nine'은 기상청에서 분류한 가장 높은 구름인 9번째 구름의 높이에서 유래하여 최고의 행복을 의미합니다.\n\n🎯 오답 분석\n- 1번 'over the moon'은 달을 넘을 정도로 좋다는 뜻입니다.\n- 3번 'blissful'은 단순히 매우 행복하다는 형용사입니다.\n- 4번 'seventh heaven'은 유대교 신앙 등에서 유래한 가장 높은 하늘을 뜻합니다."
     },
     {
       "id": 30,
@@ -240,7 +240,7 @@
       "question": "줄리(Julie)가 설명한 미국의 'baby shower'에 대한 설명으로 옳은 것은?",
       "options": [ "아기의 첫 번째 생일에 열린다.", "출산 예정일(due date) 전에 모여 선물을 준다.", "아기를 처음으로 씻기는 행사이다.", "반드시 돌잡이를 포함해야 한다." ],
       "answer": 1,
-      "explanation": "💡 [교재 p.11] 줄리는 'we gather before the due date and give presents'라고 설명하며 베이비 샤워의 특징을 언급합니다.\n\n// 🎯 오답 분석\n- 0번은 한국의 돌잔치나 일반적인 첫 생일 파티입니다.\n- 2번은 'shower(선물 공세)'를 물리적인 씻기로 오해한 함정입니다.\n- 3번은 돌잔치에만 해당하는 특징입니다."
+      "explanation": "💡 [교재 p.11] 줄리는 'we gather before the due date and give presents'라고 설명하며 베이비 샤워의 특징을 언급합니다.\n\n🎯 오답 분석\n- 0번은 한국의 돌잔치나 일반적인 첫 생일 파티입니다.\n- 2번은 'shower(선물 공세)'를 물리적인 씻기로 오해한 함정입니다.\n- 3번은 돌잔치에만 해당하는 특징입니다."
     },
     {
       "id": 31,
@@ -248,7 +248,7 @@
       "question": "정오표에 따라 수정된 줄리(Julie)의 첫 대사 중 옳은 표현을 고르시오.",
       "options": [ "How’s doljanchi preparation going?", "How’s the doljanchi preparation going?", "How’s a doljanchi preparation going?", "How’s that doljanchi preparation going?" ],
       "answer": 1,
-      "explanation": "💡 [정오표 p.21] 특정 행사인 돌잔치 준비 상황을 묻는 것이므로 정관사 'the'를 추가하여 'the doljanchi'로 표현하는 것이 문법적으로 정확합니다.\n\n// 🎯 오답 분석\n- 0번은 관사가 누락되어 어색합니다.\n- 2, 3번은 정오표에서 제시한 표준 수정안이 아닙니다."
+      "explanation": "💡 [정오표 p.21] 특정 행사인 돌잔치 준비 상황을 묻는 것이므로 정관사 'the'를 추가하여 'the doljanchi'로 표현하는 것이 문법적으로 정확합니다.\n\n🎯 오답 분석\n- 0번은 관사가 누락되어 어색합니다.\n- 2, 3번은 정오표에서 제시한 표준 수정안이 아닙니다."
     },
     {
       "id": 32,
@@ -256,7 +256,7 @@
       "question": "해리(Harry)의 대사 중 '정말 기대돼요'를 뜻하는 핵심 패턴은?",
       "options": [ "I'm so looking forward to it.", "I'm so looking for it.", "I'm so looking at it.", "I'm so looking after it." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.23] 'look forward to'는 앞으로 일어날 일을 즐거운 마음으로 바라본다는 뜻입니다. 'to'는 전치사임을 주의해야 합니다.\n\n// 🎯 오답 분석\n- 1번 'look for'는 무언가를 찾는 행위입니다.\n- 2번 'look at'은 시각적으로 바라보는 것입니다.\n- 3번 'look after'는 누군가를 돌보는(care for) 것입니다."
+      "explanation": "💡 [교재 p.23] 'look forward to'는 앞으로 일어날 일을 즐거운 마음으로 바라본다는 뜻입니다. 'to'는 전치사임을 주의해야 합니다.\n\n🎯 오답 분석\n- 1번 'look for'는 무언가를 찾는 행위입니다.\n- 2번 'look at'은 시각적으로 바라보는 것입니다.\n- 3번 'look after'는 누군가를 돌보는(care for) 것입니다."
     },
     {
       "id": 33,
@@ -264,7 +264,7 @@
       "question": "다음 중 '당신을 만나는 것이 정말 기대됩니다'를 영어로 바르게 옮긴 것은?",
       "options": [ "I'm looking forward to meet you.", "I'm looking forward to seeing you.", "I look forward to see you.", "I look forward meet you." ],
       "answer": 1,
-      "explanation": "💡 [교재 p.23] 'look forward to'의 'to'는 전치사입니다. 따라서 뒤에 동사원형이 아닌 동명사(~ing)나 명사가 와야 합니다.\n\n// 🎯 오답 분석\n- 0, 2번은 'to'를 부정사로 오인하여 동사원형을 쓴 문법적 오류입니다.\n- 3번은 전치사 'to'가 누락되었습니다."
+      "explanation": "💡 [교재 p.23] 'look forward to'의 'to'는 전치사입니다. 따라서 뒤에 동사원형이 아닌 동명사(~ing)나 명사가 와야 합니다.\n\n🎯 오답 분석\n- 0, 2번은 'to'를 부정사로 오인하여 동사원형을 쓴 문법적 오류입니다.\n- 3번은 전치사 'to'가 누락되었습니다."
     },
     {
       "id": 34,
@@ -272,7 +272,7 @@
       "question": "민수(Min-su)의 대사 'The doljanchi agency is in charge of everything.'에서 'in charge of'의 의미는?",
       "options": [ "~에 관심이 있다", "~을 담당하고 있다", "~을 걱정하고 있다", "~을 반대하고 있다" ],
       "answer": 1,
-      "explanation": "💡 [교재 p.21, 25] 'in charge of'는 어떤 일의 담당자이거나 책임을 맡고 있음을 설명할 때 사용하는 핵심 패턴입니다.\n\n// 🎯 오답 분석\n- 0번 '관심'은 'interested in'입니다.\n- 2번 '걱정'은 'worrying about'입니다.\n- 3번 '반대'는 'against' 등을 씁니다."
+      "explanation": "💡 [교재 p.21, 25] 'in charge of'는 어떤 일의 담당자이거나 책임을 맡고 있음을 설명할 때 사용하는 핵심 패턴입니다.\n\n🎯 오답 분석\n- 0번 '관심'은 'interested in'입니다.\n- 2번 '걱정'은 'worrying about'입니다.\n- 3번 '반대'는 'against' 등을 씁니다."
     },
     {
       "id": 35,
@@ -280,7 +280,7 @@
       "question": "정오표에 따라 수정된 유진(Yu-Jin)의 대사 중 어순이 올바른 문장은?",
       "options": [ "I even don't know their names.", "I don't even know their names.", "Even I don't know their names.", "I don't know even their names." ],
       "answer": 1,
-      "explanation": "💡 [정오표 p.22] 'even'의 위치는 부정어 'don't' 뒤에 오는 'don't even'이 더 자연스러운 구어체 어순으로 수정되었습니다.\n\n// 🎯 오답 분석\n- 0번은 수정 전의 어색한 표현입니다.\n- 2, 3번은 의미 강조의 초점이 달라지거나 문맥상 부자연스럽습니다."
+      "explanation": "💡 [정오표 p.22] 'even'의 위치는 부정어 'don't' 뒤에 오는 'don't even'이 더 자연스러운 구어체 어순으로 수정되었습니다.\n\n🎯 오답 분석\n- 0번은 수정 전의 어색한 표현입니다.\n- 2, 3번은 의미 강조의 초점이 달라지거나 문맥상 부자연스럽습니다."
     },
     {
       "id": 36,
@@ -288,7 +288,7 @@
       "question": "유진(Yu-Jin)이 한국의 파티 문화를 비판하며 사용한 '비합리적인 관습'에 해당하는 영어 표현은?",
       "options": [ "unreasonable customs", "unseasonable patterns", "unreliable habits", "unreadable traditions" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.22] 유진은 잘 모르는 사람들을 초대하는 문화를 '비합리적인 관습(unreasonable customs)'이라며 반대 의견을 제시합니다.\n\n// 🎯 오답 분석\n- 1번은 '철 지난'의 뜻입니다.\n- 2번은 '신뢰할 수 없는'의 뜻입니다.\n- 3번은 '읽을 수 없는'의 뜻입니다."
+      "explanation": "💡 [교재 p.22] 유진은 잘 모르는 사람들을 초대하는 문화를 '비합리적인 관습(unreasonable customs)'이라며 반대 의견을 제시합니다.\n\n🎯 오답 분석\n- 1번은 '철 지난'의 뜻입니다.\n- 2번은 '신뢰할 수 없는'의 뜻입니다.\n- 3번은 '읽을 수 없는'의 뜻입니다."
     },
     {
       "id": 37,
@@ -296,7 +296,7 @@
       "question": "상대방의 말이 이해되지 않거나 강하게 부정하고 싶을 때 쓰는 본문 속 질문은?",
       "options": [ "What are you saying?", "What are you talking about?", "What do you mean?", "How can you say that?" ],
       "answer": 1,
-      "explanation": "💡 [교재 p.26] 'What are you talking about?'은 상대방의 말을 정말 이해하지 못했거나, '말도 안 돼'라는 부정의 의미를 담아 사용합니다.\n\n// 🎯 오답 분석\n- 0, 2번은 단순히 뜻을 묻는 중립적인 질문입니다.\n- 3번은 상대의 발언에 대한 불쾌함이나 놀람을 강조합니다."
+      "explanation": "💡 [교재 p.26] 'What are you talking about?'은 상대방의 말을 정말 이해하지 못했거나, '말도 안 돼'라는 부정의 의미를 담아 사용합니다.\n\n🎯 오답 분석\n- 0, 2번은 단순히 뜻을 묻는 중립적인 질문입니다.\n- 3번은 상대의 발언에 대한 불쾌함이나 놀람을 강조합니다."
     },
     {
       "id": 38,
@@ -304,7 +304,7 @@
       "question": "'Is everything okay?'와 바꿔 쓸 수 있는 표현이 아닌 것은?",
       "options": [ "Are you alright?", "Do you have any problems?", "What's going on?", "What are you looking for?" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.27] 1, 2, 3번은 모두 상대방의 안부나 문제 여부를 묻는 유의어입니다.\n\n// 🎯 오답 분석\n- 3번 'What are you looking for?'는 무엇을 찾고 있는지 물리적인 목적을 묻는 질문입니다."
+      "explanation": "💡 [교재 p.27] 1, 2, 3번은 모두 상대방의 안부나 문제 여부를 묻는 유의어입니다.\n\n🎯 오답 분석\n- 3번 'What are you looking for?'는 무엇을 찾고 있는지 물리적인 목적을 묻는 질문입니다."
     },
     {
       "id": 39,
@@ -312,7 +312,7 @@
       "question": "본문 중 해리(Harry)가 선물을 안 준다는 말에 놀라며 외친 'No way!'와 뜻이 통하는 표현은?",
       "options": [ "Unbelievable!", "That's right.", "My pleasure.", "Of course." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.27] 'No way!'는 '말도 안 돼!', '믿을 수 없어!'라는 강한 부정이나 놀람을 표현하며, 'Unbelievable'과 유사합니다.\n\n// 🎯 오답 분석\n- 1, 3번은 긍정의 대답입니다.\n- 2번은 감사의 화답입니다."
+      "explanation": "💡 [교재 p.27] 'No way!'는 '말도 안 돼!', '믿을 수 없어!'라는 강한 부정이나 놀람을 표현하며, 'Unbelievable'과 유사합니다.\n\n🎯 오답 분석\n- 1, 3번은 긍정의 대답입니다.\n- 2번은 감사의 화답입니다."
     },
     {
       "id": 40,
@@ -320,7 +320,7 @@
       "question": "COCA 분석 결과, 'in charge of' 뒤에 가장 많이 쓰이는 단어 1위는?",
       "options": [ "INVESTIGATION", "CASE", "PROJECT", "COMPANY" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.28] COCA 검색 결과, 'in charge of'는 수사(investigation)와 관련된 어휘와 가장 높은 빈도로 결합하는 것으로 나타났습니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번 모두 순위권에는 있으나 빈도수에서 1위는 아닙니다."
+      "explanation": "💡 [교재 p.28] COCA 검색 결과, 'in charge of'는 수사(investigation)와 관련된 어휘와 가장 높은 빈도로 결합하는 것으로 나타났습니다.\n\n🎯 오답 분석\n- 1, 2, 3번 모두 순위권에는 있으나 빈도수에서 1위는 아닙니다."
     },
     {
       "id": 41,
@@ -328,7 +328,7 @@
       "question": "낙담한 친구를 위로하며 '너무 심각하게 생각하지 마'라고 말할 때 적절한 표현은?",
       "options": [ "Don't take it so hard.", "Don't take it so easy.", "Don't take it so fast.", "Don't take it so long." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.29] 'Don't take it so hard'는 어떤 상황을 너무 비관적으로 받아들이지 말라는 위로의 필수 표현입니다.\n\n// 🎯 오답 분석\n- 1번은 반대로 너무 편하게 생각하지 말라는 뜻이 되어 어색합니다.\n- 2, 3번은 속도나 기간에 대한 것으로 문맥상 틀립니다."
+      "explanation": "💡 [교재 p.29] 'Don't take it so hard'는 어떤 상황을 너무 비관적으로 받아들이지 말라는 위로의 필수 표현입니다.\n\n🎯 오답 분석\n- 1번은 반대로 너무 편하게 생각하지 말라는 뜻이 되어 어색합니다.\n- 2, 3번은 속도나 기간에 대한 것으로 문맥상 틀립니다."
     },
     {
       "id": 42,
@@ -336,7 +336,7 @@
       "question": "초대받지 않은 자리에 있거나 불필요하게 끼어 있는 것 같은 기분을 표현하는 관용구는?",
       "options": [ "I feel like a third wheel.", "I feel like a second hand.", "I feel like a first aid.", "I feel like a fourth leg." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.30] 자전거의 세 번째 바퀴처럼 불필요한 존재임을 뜻하는 'third wheel'은 깍두기처럼 끼어 있는 상황을 비유합니다.\n\n// 🎯 오답 분석\n- 1번 'second hand'는 중고품을 의미합니다.\n- 2번 'first aid'는 응급처치입니다.\n- 3번은 존재하지 않는 관용구입니다."
+      "explanation": "💡 [교재 p.30] 자전거의 세 번째 바퀴처럼 불필요한 존재임을 뜻하는 'third wheel'은 깍두기처럼 끼어 있는 상황을 비유합니다.\n\n🎯 오답 분석\n- 1번 'second hand'는 중고품을 의미합니다.\n- 2번 'first aid'는 응급처치입니다.\n- 3번은 존재하지 않는 관용구입니다."
     },
     {
       "id": 43,
@@ -344,7 +344,7 @@
       "question": "상대방을 초대하며 '그냥 몸만 오세요'라고 말할 때 가장 적절한 패턴은?",
       "options": [ "You just come and enjoy yourself.", "You just come and bring gifts.", "You just come and pay money.", "You just come and work hard." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.24] 'You just come and enjoy yourself'는 '도와줄 것 없이 즐기기만 하면 된다'는 정중한 초대 방식입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번 모두 무언가를 가져오거나 돈을 내라는 뜻으로 본래의 초대 의도와 정반대입니다."
+      "explanation": "💡 [교재 p.24] 'You just come and enjoy yourself'는 '도와줄 것 없이 즐기기만 하면 된다'는 정중한 초대 방식입니다.\n\n🎯 오답 분석\n- 1, 2, 3번 모두 무언가를 가져오거나 돈을 내라는 뜻으로 본래의 초대 의도와 정반대입니다."
     },
     {
       "id": 44,
@@ -352,7 +352,7 @@
       "question": "상황에 어울리는 속담을 고르시오.\n\n[상황] 라이언은 학비를 벌기 위해 동시에 두 가지 일을 하며 정말 열심히 살았습니다. 그는 '세상에 공짜는 없지'라고 생각합니다.",
       "options": [ "There is no free lunch.", "Walls have ears.", "A piece of cake.", "Easy come, easy go." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.31] 'There is no free lunch'는 대가 없이 얻어지는 것은 없다는 삶의 진리를 말합니다.\n\n// 🎯 오답 분석\n- 1번은 낮말은 새가 듣고 밤말은 쥐가 듣는다는 뜻입니다.\n- 2번은 식은 죽 먹기라는 뜻입니다.\n- 3번은 쉽게 얻은 것은 쉽게 잃는다는 뜻입니다."
+      "explanation": "💡 [교재 p.31] 'There is no free lunch'는 대가 없이 얻어지는 것은 없다는 삶의 진리를 말합니다.\n\n🎯 오답 분석\n- 1번은 낮말은 새가 듣고 밤말은 쥐가 듣는다는 뜻입니다.\n- 2번은 식은 죽 먹기라는 뜻입니다.\n- 3번은 쉽게 얻은 것은 쉽게 잃는다는 뜻입니다."
     },
     {
       "id": 45,
@@ -360,7 +360,7 @@
       "question": "유진(Yu-Jin)이 해리에게 돈 대신 준비해도 좋다고 제안한 것은?",
       "options": [ "write a card or bring simple gifts", "bring an expensive watch", "prepare a big dinner", "sing a long song" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.22] 유진은 해리에게 한국식 축의금 대신 카드를 쓰거나 소박한 선물을 가져와도 충분하다고 조언합니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번 모두 유진이 비판한 '비합리적 관습'이나 부담스러운 대안들입니다."
+      "explanation": "💡 [교재 p.22] 유진은 해리에게 한국식 축의금 대신 카드를 쓰거나 소박한 선물을 가져와도 충분하다고 조언합니다.\n\n🎯 오답 분석\n- 1, 2, 3번 모두 유진이 비판한 '비합리적 관습'이나 부담스러운 대안들입니다."
     },
     {
       "id": 46,
@@ -368,7 +368,7 @@
       "question": "직접 혹은 간접적으로 들어서 알고 있는 사실을 말할 때 사용하는 패턴으로, 본문의 '부동산 중개인이 제일 좋다고 들었어요'에 해당하는 영어 표현은?",
       "options": [ "I've heard that a budongsan agent is your best bet.", "I've seen that a budongsan agent is your best bet.", "I've made that a budongsan agent is your best bet.", "I've told that a budongsan agent is your best bet." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.38] 'I've heard that'은 소문을 통해 알게 된 사실을 전달할 때 유용합니다.\n\n// 🎯 오답 분석\n- 1번은 직접 목격했음을 의미합니다.\n- 2번은 본인이 그렇게 만들었음을 뜻합니다.\n- 3번은 수동태 구조상 어색한 표현입니다."
+      "explanation": "💡 [교재 p.38] 'I've heard that'은 소문을 통해 알게 된 사실을 전달할 때 유용합니다.\n\n🎯 오답 분석\n- 1번은 직접 목격했음을 의미합니다.\n- 2번은 본인이 그렇게 만들었음을 뜻합니다.\n- 3번은 수동태 구조상 어색한 표현입니다."
     },
     {
       "id": 47,
@@ -376,7 +376,7 @@
       "question": "다음 중 부가의문문을 사용하여 상대방의 동의를 구하는 표현으로 옳은 것은?",
       "options": [ "You do know that you can move, don't you?", "You do know that you can move, do you?", "You do know that you can move, isn't it?", "You do know that you can move, aren't you?" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.38] 앞 문장이 일반동사의 긍정문(do know)이면 부가의문문은 부정어인 'don't you'를 쓰는 것이 원칙입니다.\n\n// 🎯 오답 분석\n- 1번은 부정어가 없어 동의 구하는 형식이 아닙니다.\n- 2번 'isn't it'은 be동사 구문에 씁니다.\n- 3번은 주어와 동사가 일치하지 않습니다."
+      "explanation": "💡 [교재 p.38] 앞 문장이 일반동사의 긍정문(do know)이면 부가의문문은 부정어인 'don't you'를 쓰는 것이 원칙입니다.\n\n🎯 오답 분석\n- 1번은 부정어가 없어 동의 구하는 형식이 아닙니다.\n- 2번 'isn't it'은 be동사 구문에 씁니다.\n- 3번은 주어와 동사가 일치하지 않습니다."
     },
     {
       "id": 48,
@@ -384,7 +384,7 @@
       "question": "본문의 '제게 필요한 건 단지 지하철역과 가까운 조용한 방뿐이에요'를 영작할 때 가장 적절한 패턴은?",
       "options": [ "All I need is a quiet room with easy access to the subway.", "The important thing is a quiet room near the subway.", "I only want a quiet room with easy access to the subway.", "All I want is for a quiet room near the subway." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.39] 'All I need is'는 'The important thing is'와 비슷하지만 내가 필요로 하는 한 가지를 더욱 강조합니다.\n\n// 🎯 오답 분석\n- 1번은 단순한 중요성 나열입니다.\n- 2번은 패턴의 강도가 약합니다.\n- 3번은 문법적으로 전치사 'for'가 중복되었습니다."
+      "explanation": "💡 [교재 p.39] 'All I need is'는 'The important thing is'와 비슷하지만 내가 필요로 하는 한 가지를 더욱 강조합니다.\n\n🎯 오답 분석\n- 1번은 단순한 중요성 나열입니다.\n- 2번은 패턴의 강도가 약합니다.\n- 3번은 문법적으로 전치사 'for'가 중복되었습니다."
     },
     {
       "id": 49,
@@ -392,7 +392,7 @@
       "question": "다음 중 간접의문문의 어순이 올바른 문장을 고르시오.",
       "options": [ "Do you know where the best place is to look for an apartment?", "Do you know where is the best place to look for an apartment?", "Do you know where the best place to look for an apartment is it?", "Do you know where the best place to look for an apartment?" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.40] 간접의문문은 '의문사 + 주어 + 동사'의 어순을 따릅니다. 따라서 'is'의 위치가 주어 뒤에 와야 합니다.\n\n// 🎯 오답 분석\n- 1번은 직접의문문 어순을 그대로 사용한 오류입니다.\n- 2번은 불필요한 'it'이 추가되었습니다.\n- 3번은 동사 'is'가 누락되었습니다."
+      "explanation": "💡 [교재 p.40] 간접의문문은 '의문사 + 주어 + 동사'의 어순을 따릅니다. 따라서 'is'의 위치가 주어 뒤에 와야 합니다.\n\n🎯 오답 분석\n- 1번은 직접의문문 어순을 그대로 사용한 오류입니다.\n- 2번은 불필요한 'it'이 추가되었습니다.\n- 3번은 동사 'is'가 누락되었습니다."
     },
     {
       "id": 50,
@@ -400,7 +400,7 @@
       "question": "소영(Soyeong)이 해리(Harry)에게 건넨 말인 'You look beat.'의 의미는?",
       "options": [ "당신 정말 피곤해 보여요.", "당신 어디서 맞은 것 같아요.", "당신 정말 신나 보여요.", "당신은 이길 수 없어요." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.36] 'beat'는 구어체로 '진이 다 빠진(exhausted)'의 상태를 묘사할 때 쓰입니다.\n\n// 🎯 오답 분석\n- 1번은 '맞다'의 물리적 뜻을 이용한 함정입니다.\n- 2, 3번은 단어의 맥락을 오해한 예시입니다."
+      "explanation": "💡 [교재 p.36] 'beat'는 구어체로 '진이 다 빠진(exhausted)'의 상태를 묘사할 때 쓰입니다.\n\n🎯 오답 분석\n- 1번은 '맞다'의 물리적 뜻을 이용한 함정입니다.\n- 2, 3번은 단어의 맥락을 오해한 예시입니다."
     },
     {
       "id": 51,
@@ -408,7 +408,7 @@
       "question": "Lesson 4의 패턴을 응용하여 '그들이 왜 인사도 없이 떠났는지 아세요?'를 바르게 영작한 것은?",
       "options": [ "Do you know why they left without saying goodbye?", "Do you know why did they leave without saying goodbye?", "Do you know why they are left without saying goodbye?", "Do you know why they leaving without saying goodbye?" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.41] 'Do you know why + 주어 + 동사'의 간접의문문 어순을 정확히 적용한 문장입니다.\n\n// 🎯 오답 분석\n- 1번은 의문문 도치(did they)가 일어난 오류입니다.\n- 2번은 불필요한 be동사가 들어갔습니다.\n- 3번은 본동사 'left'의 시제가 맞지 않습니다."
+      "explanation": "💡 [교재 p.41] 'Do you know why + 주어 + 동사'의 간접의문문 어순을 정확히 적용한 문장입니다.\n\n🎯 오답 분석\n- 1번은 의문문 도치(did they)가 일어난 오류입니다.\n- 2번은 불필요한 be동사가 들어갔습니다.\n- 3번은 본동사 'left'의 시제가 맞지 않습니다."
     },
     {
       "id": 52,
@@ -416,7 +416,7 @@
       "question": "본문의 'I know it’s a hassle'에서 'hassle'과 의미가 같은 관용구는?",
       "options": [ "a pain in the neck", "a piece of cake", "a walk in the park", "a blessing in disguise" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.42] 'hassle'은 귀찮고 번거로운 일을 뜻하며, 'a pain in the neck' 혹은 'butt'과 같은 의미입니다.\n\n// 🎯 오답 분석\n- 1, 2번은 매우 쉬운 일을 뜻합니다.\n- 3번은 전화위복을 의미합니다."
+      "explanation": "💡 [교재 p.42] 'hassle'은 귀찮고 번거로운 일을 뜻하며, 'a pain in the neck' 혹은 'butt'과 같은 의미입니다.\n\n🎯 오답 분석\n- 1, 2번은 매우 쉬운 일을 뜻합니다.\n- 3번은 전화위복을 의미합니다."
     },
     {
       "id": 53,
@@ -424,7 +424,7 @@
       "question": "본문의 'a budongsan agent is your best bet'에서 'best bet'의 의미로 가장 적절한 것은?",
       "options": [ "최선의 선택 (best choice)", "최고의 도박 (best gamble)", "가장 비싼 것 (most expensive)", "마지막 기회 (last chance)" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.43] 'best bet'은 어떤 상황에서 취할 수 있는 '가장 좋은 방법'이나 '최적의 선택'을 의미합니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번 모두 'bet'의 사전적 의미인 도박이나 비용을 이용한 함정입니다."
+      "explanation": "💡 [교재 p.43] 'best bet'은 어떤 상황에서 취할 수 있는 '가장 좋은 방법'이나 '최적의 선택'을 의미합니다.\n\n🎯 오답 분석\n- 1, 2, 3번 모두 'bet'의 사전적 의미인 도박이나 비용을 이용한 함정입니다."
     },
     {
       "id": 54,
@@ -432,7 +432,7 @@
       "question": "해리(Harry)가 안내광고를 확인해 보겠다고 할 때 쓴 'shoot for'와 바꿔 쓸 수 있는 표현은?",
       "options": [ "aim for", "give up", "wait for", "look after" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.43] 'shoot for'는 무언가를 목표로 하거나 시도할 때 쓰는 표현으로, 'aim for' 또는 'take a stab at it'과 유의어입니다.\n\n// 🎯 오답 분석\n- 1번은 포기, 2번은 기다림, 3번은 돌봄으로 전혀 다른 의미입니다."
+      "explanation": "💡 [교재 p.43] 'shoot for'는 무언가를 목표로 하거나 시도할 때 쓰는 표현으로, 'aim for' 또는 'take a stab at it'과 유의어입니다.\n\n🎯 오답 분석\n- 1번은 포기, 2번은 기다림, 3번은 돌봄으로 전혀 다른 의미입니다."
     },
     {
       "id": 55,
@@ -440,7 +440,7 @@
       "question": "COCA 분석 결과 'All I need is' 뒤에 오는 표현 중 사용 빈도 1위를 차지한 것은?",
       "options": [ "FOR YOU", "A LITTLE", "THE AIR", "TIME" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.44] COCA 검색 결과 'All I need is for you'가 가장 높은 사용 빈도를 보였으며, 이는 타인에게 바라는 간절함을 표현할 때 자주 쓰입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번 모두 순위에 있으나 1위는 아닙니다. 특히 'time'은 10위를 기록했습니다."
+      "explanation": "💡 [교재 p.44] COCA 검색 결과 'All I need is for you'가 가장 높은 사용 빈도를 보였으며, 이는 타인에게 바라는 간절함을 표현할 때 자주 쓰입니다.\n\n🎯 오답 분석\n- 1, 2, 3번 모두 순위에 있으나 1위는 아닙니다. 특히 'time'은 10위를 기록했습니다."
     },
     {
       "id": 56,
@@ -448,7 +448,7 @@
       "question": "'잠을 설쳤나요?'라는 뜻으로, 불면증(insomnia)과 관련된 상황에서 쓰는 구어적 표현은?",
       "options": [ "Rough night?", "Dark night?", "Long night?", "Fast night?" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.45] 'Rough night?'은 잠을 설쳤거나 고생스러운 밤을 보낸 상대방의 안부를 묻는 전형적인 구어체입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 물리적인 밤의 상태를 묘사할 뿐 수면 상태와는 직접적 관련이 적습니다."
+      "explanation": "💡 [교재 p.45] 'Rough night?'은 잠을 설쳤거나 고생스러운 밤을 보낸 상대방의 안부를 묻는 전형적인 구어체입니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 물리적인 밤의 상태를 묘사할 뿐 수면 상태와는 직접적 관련이 적습니다."
     },
     {
       "id": 57,
@@ -456,7 +456,7 @@
       "question": "별로 대수롭지 않은 일로 끙끙 앓는 친구에게 '왜 스스로를 괴롭히니?'라고 말할 때 적절한 표현은?",
       "options": [ "Why torture yourself?", "Why punish yourself?", "Why kill yourself?", "Why hurt yourself?" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.46] 'Why torture yourself?'는 자신을 지나치게 힘들게 하지 말라는 충고의 의미로 사용됩니다.\n\n// 🎯 오답 분석\n- 1번은 징벌, 2번은 극단적 표현, 3번은 신체적 부상으로 뉘앙스가 다릅니다."
+      "explanation": "💡 [교재 p.46] 'Why torture yourself?'는 자신을 지나치게 힘들게 하지 말라는 충고의 의미로 사용됩니다.\n\n🎯 오답 분석\n- 1번은 징벌, 2번은 극단적 표현, 3번은 신체적 부상으로 뉘앙스가 다릅니다."
     },
     {
       "id": 58,
@@ -464,7 +464,7 @@
       "question": "본문 중 '어젯밤에 한숨도 못 잤어요'를 강조할 때 해리(Harry)가 사용한 표현은?",
       "options": [ "I hardly slept a wink last night.", "I slept soundly last night.", "I slept like a baby last night.", "I was out cold last night." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.36] 'hardly slept a wink'는 눈을 한 번도 붙이지 못했다는 뜻으로, 한숨도 못 잔 상황의 강조입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 모두 '매우 잘 잤음'을 뜻하는 반의어들입니다."
+      "explanation": "💡 [교재 p.36] 'hardly slept a wink'는 눈을 한 번도 붙이지 못했다는 뜻으로, 한숨도 못 잔 상황의 강조입니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 모두 '매우 잘 잤음'을 뜻하는 반의어들입니다."
     },
     {
       "id": 59,
@@ -472,7 +472,7 @@
       "question": "해리(Harry)가 윗집 이웃들의 소음에 대해 불평하며 쓴 표현으로, '엄청 시끄럽게 굴어요!'에 해당하는 것은?",
       "options": [ "They make such a racket!", "They are so quiet!", "They make such a music!", "They are playing tennis!" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.36] 'racket'은 시끄러운 소동이나 소음을 뜻하는 단어입니다.\n\n// 🎯 오답 분석\n- 1번은 조용하다는 반대말입니다.\n- 2번은 긍정적인 소리인 음악입니다.\n- 3번은 구체적인 활동이나 소음의 원인은 아닙니다."
+      "explanation": "💡 [교재 p.36] 'racket'은 시끄러운 소동이나 소음을 뜻하는 단어입니다.\n\n🎯 오답 분석\n- 1번은 조용하다는 반대말입니다.\n- 2번은 긍정적인 소리인 음악입니다.\n- 3번은 구체적인 활동이나 소음의 원인은 아닙니다."
     },
     {
       "id": 60,
@@ -480,7 +480,7 @@
       "question": "소영(Soyeong)이 설명한 한국의 '부동산 중개사'를 영어로 가장 정확하게 표현한 것은?",
       "options": [ "real estate agent", "house builder", "city planner", "land owner" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.37] 소영은 'That’s Korean for real estate agent'라고 해리에게 명확히 설명해 줍니다.\n\n// 🎯 오답 분석\n- 1번은 건축업자, 2번은 도시 계획가, 3번은 땅 주인으로 직업이 다릅니다."
+      "explanation": "💡 [교재 p.37] 소영은 'That’s Korean for real estate agent'라고 해리에게 명확히 설명해 줍니다.\n\n🎯 오답 분석\n- 1번은 건축업자, 2번은 도시 계획가, 3번은 땅 주인으로 직업이 다릅니다."
     },
     {
       "id": 61,
@@ -488,7 +488,7 @@
       "question": "해리(Harry)가 신문 광고를 보고 전화를 걸어 '아직 입주 가능한가요?'라고 물을 때 사용한 표현은?",
       "options": [ "Is it still available?", "Is it still on the table?", "Is it still opening?", "Is it still occupied?" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.47] 'available'은 방이나 물건이 비어 있어 이용 가능한 상태를 묻는 가장 일반적인 표현입니다.\n\n// 🎯 오답 분석\n- 1번 'on the table'은 협상이 진행 중임을 뜻합니다.\n- 2번 'opening'은 개장 시간을 묻는 듯한 어색한 표현입니다.\n- 3번 'occupied'는 누군가 사용 중(비어 있지 않음)이라는 반대 뜻입니다."
+      "explanation": "💡 [교재 p.47] 'available'은 방이나 물건이 비어 있어 이용 가능한 상태를 묻는 가장 일반적인 표현입니다.\n\n🎯 오답 분석\n- 1번 'on the table'은 협상이 진행 중임을 뜻합니다.\n- 2번 'opening'은 개장 시간을 묻는 듯한 어색한 표현입니다.\n- 3번 'occupied'는 누군가 사용 중(비어 있지 않음)이라는 반대 뜻입니다."
     },
     {
       "id": 62,
@@ -496,7 +496,7 @@
       "question": "다음 중 'Is it still available?'과 의미가 같은 표현이 아닌 것은?",
       "options": [ "Is it still on/up for sale?", "Is it still on the market?", "Is it still on the shelf?", "Is it still for rent?" ],
       "answer": 2,
-      "explanation": "💡 [교재 p.53] 'on the shelf'는 '보류된' 혹은 '혼기를 놓친' 등의 뜻으로 쓰이는 관용구입니다.\n\n// 🎯 오답 분석\n- 0, 1, 3번은 모두 시장에 나와 있어 거래가 가능하다는 뜻의 유의어입니다."
+      "explanation": "💡 [교재 p.53] 'on the shelf'는 '보류된' 혹은 '혼기를 놓친' 등의 뜻으로 쓰이는 관용구입니다.\n\n🎯 오답 분석\n- 0, 1, 3번은 모두 시장에 나와 있어 거래가 가능하다는 뜻의 유의어입니다."
     },
     {
       "id": 63,
@@ -504,7 +504,7 @@
       "question": "가정법 구문으로 '내가 ~할 수 있다면 좋을 텐데(현실은 그렇지 못함)'라는 아쉬움을 나타내는 본문의 대사는?",
       "options": [ "I wish I could do that.", "I wish I can do that.", "I hope I could do that.", "I want I could do that." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.49] 'I wish I could'는 현재 이룰 수 없는 소망에 대한 아쉬움을 표현하는 전형적인 가정법 패턴입니다.\n\n// 🎯 오답 분석\n- 1번은 실현 가능성이 높은 'hope'의 뉘앙스에 더 가깝습니다.\n- 2, 3번은 문법적으로 'wish'의 용법에 맞지 않습니다."
+      "explanation": "💡 [교재 p.49] 'I wish I could'는 현재 이룰 수 없는 소망에 대한 아쉬움을 표현하는 전형적인 가정법 패턴입니다.\n\n🎯 오답 분석\n- 1번은 실현 가능성이 높은 'hope'의 뉘앙스에 더 가깝습니다.\n- 2, 3번은 문법적으로 'wish'의 용법에 맞지 않습니다."
     },
     {
       "id": 64,
@@ -512,7 +512,7 @@
       "question": "COCA 분석 결과, 'I wish I could' 뒤에 가장 많이 쓰이는 표현으로 '나도 그렇게 말할 수 있으면 좋겠다'는 뜻의 문장은?",
       "options": [ "I wish I could say the same.", "I wish I could help you.", "I wish I could do that.", "I wish I could go back." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.55] COCA 검색 결과 'say the same'이 1위를 차지했으며, 이는 상대방의 의견에 동조하거나 부러움을 표할 때 자주 씁니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번 모두 빈도가 높지만 순위상 1위는 아닙니다."
+      "explanation": "💡 [교재 p.55] COCA 검색 결과 'say the same'이 1위를 차지했으며, 이는 상대방의 의견에 동조하거나 부러움을 표할 때 자주 씁니다.\n\n🎯 오답 분석\n- 1, 2, 3번 모두 빈도가 높지만 순위상 1위는 아닙니다."
     },
     {
       "id": 65,
@@ -520,7 +520,7 @@
       "question": "상대방에게 '한번 시도해 보는 게 좋겠어요(손해 볼 것 없으니까)'라고 권유할 때 쓰는 패턴은?",
       "options": [ "You might as well try.", "You might as well to try.", "You may as well trying.", "You might better try." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.50] 'might as well + 동사원형'은 '~하는 편이 낫다', '~해도 무방하다'는 완곡한 권유입니다.\n\n// 🎯 오답 분석\n- 1번은 부정사를 쓴 문법적 오류입니다.\n- 2번은 동명사를 쓴 오류입니다.\n- 3번은 숙어 형태가 틀렸습니다."
+      "explanation": "💡 [교재 p.50] 'might as well + 동사원형'은 '~하는 편이 낫다', '~해도 무방하다'는 완곡한 권유입니다.\n\n🎯 오답 분석\n- 1번은 부정사를 쓴 문법적 오류입니다.\n- 2번은 동명사를 쓴 오류입니다.\n- 3번은 숙어 형태가 틀렸습니다."
     },
     {
       "id": 66,
@@ -528,7 +528,7 @@
       "question": "본문의 'That's a little on the steep side.'가 의미하는 바는?",
       "options": [ "언덕이 너무 가파르네요.", "가격이 좀 비싼 편이네요.", "방이 좀 좁은 편이네요.", "천장이 좀 낮은 편이네요." ],
       "answer": 1,
-      "explanation": "💡 [교재 p.51] 'steep'은 원래 '가파른'의 뜻이지만, 가격이 높을 때 관용적으로 '비싼'의 의미로 사용됩니다.\n\n// 🎯 오답 분석\n- 0번은 'steep'의 일차적 의미를 이용한 함정입니다.\n- 2, 3번은 본문의 공간적 특징과 무관합니다."
+      "explanation": "💡 [교재 p.51] 'steep'은 원래 '가파른'의 뜻이지만, 가격이 높을 때 관용적으로 '비싼'의 의미로 사용됩니다.\n\n🎯 오답 분석\n- 0번은 'steep'의 일차적 의미를 이용한 함정입니다.\n- 2, 3번은 본문의 공간적 특징과 무관합니다."
     },
     {
       "id": 67,
@@ -536,7 +536,7 @@
       "question": "상대방의 말이나 태도의 이유를 물을 때 사용하는 본문의 질문 패턴은?",
       "options": [ "What makes you say that?", "Why do you say that?", "1번과 2번 모두 정답", "What makes you to say that?" ],
       "answer": 2,
-      "explanation": "💡 [교재 p.52] 'What makes you + 동사원형'은 '무엇이 당신을 그렇게 하게 만드나요?'라는 뜻으로 'Why'보다 더 세련된 원인 질문입니다.\n\n// 🎯 오답 분석\n- 3번은 'make'가 사역동사이므로 목적보어 자리에 'to' 부정사를 쓸 수 없습니다."
+      "explanation": "💡 [교재 p.52] 'What makes you + 동사원형'은 '무엇이 당신을 그렇게 하게 만드나요?'라는 뜻으로 'Why'보다 더 세련된 원인 질문입니다.\n\n🎯 오답 분석\n- 3번은 'make'가 사역동사이므로 목적보어 자리에 'to' 부정사를 쓸 수 없습니다."
     },
     {
       "id": 68,
@@ -544,7 +544,7 @@
       "question": "임차인(Tenant)이 말한 'someone to take over my lease'의 의미는?",
       "options": [ "내 임대차 계약을 인수할 사람", "내 이삿짐을 옮겨줄 사람", "내 월세를 대신 내줄 사람", "내 집을 수리해줄 사람" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.47] 'take over'는 권리나 업무를 인계받는 것이며, 'lease'는 임대차 계약서나 그 권리를 뜻합니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번 모두 '계약 승계'와는 거리가 먼 물리적 행위들입니다."
+      "explanation": "💡 [교재 p.47] 'take over'는 권리나 업무를 인계받는 것이며, 'lease'는 임대차 계약서나 그 권리를 뜻합니다.\n\n🎯 오답 분석\n- 1, 2, 3번 모두 '계약 승계'와는 거리가 먼 물리적 행위들입니다."
     },
     {
       "id": 69,
@@ -552,7 +552,7 @@
       "question": "'진짜 늦은 시간' 혹은 '새벽녘'을 뜻하는 본문의 표현은?",
       "options": [ "wee hours", "short hours", "fast hours", "slow hours" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.56] 'wee hours'는 밤늦은 시간부터 새벽까지의 아주 이른 시간을 생생하게 묘사하는 감정적 표현입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 시간의 깊이를 나타내지 못하는 자의적 조합입니다."
+      "explanation": "💡 [교재 p.56] 'wee hours'는 밤늦은 시간부터 새벽까지의 아주 이른 시간을 생생하게 묘사하는 감정적 표현입니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 시간의 깊이를 나타내지 못하는 자의적 조합입니다."
     },
     {
       "id": 70,
@@ -560,7 +560,7 @@
       "question": "이웃들이 쥐죽은 듯 조용하다고 할 때 사용한 직유 표현은?",
       "options": [ "as quiet as mice", "as quiet as a rock", "as quiet as a grave", "as quiet as a fish" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.48] 'as quiet as mice'는 쥐들이 조심스럽게 움직이듯 매우 조용한 상태를 빗대는 표현입니다.\n\n// 🎯 오답 분석\n- 1번 바위나 2번 무덤(as quiet as a grave)도 조용함을 뜻하지만 본문에서 사용한 표현은 'mice'입니다."
+      "explanation": "💡 [교재 p.48] 'as quiet as mice'는 쥐들이 조심스럽게 움직이듯 매우 조용한 상태를 빗대는 표현입니다.\n\n🎯 오답 분석\n- 1번 바위나 2번 무덤(as quiet as a grave)도 조용함을 뜻하지만 본문에서 사용한 표현은 'mice'입니다."
     },
     {
       "id": 71,
@@ -568,7 +568,7 @@
       "question": "더 이상 참을 수 없다고 할 때 'I couldn't take it anymore!'와 바꿔 쓸 수 있는 표현은?",
       "options": [ "I couldn't endure it.", "I couldn't bear it any longer.", "1번과 2번 모두 정답", "I couldn't accept it." ],
       "answer": 2,
-      "explanation": "💡 [교재 p.53] 'take'는 참다(endure)나 견디다(bear)의 뜻으로 쓰여, 한계에 도달했음을 나타낼 때 유의어로 사용 가능합니다.\n\n// 🎯 오답 분석\n- 3번 'accept'는 수용한다는 뜻으로, 고통을 견디는 맥락과는 차이가 있습니다."
+      "explanation": "💡 [교재 p.53] 'take'는 참다(endure)나 견디다(bear)의 뜻으로 쓰여, 한계에 도달했음을 나타낼 때 유의어로 사용 가능합니다.\n\n🎯 오답 분석\n- 3번 'accept'는 수용한다는 뜻으로, 고통을 견디는 맥락과는 차이가 있습니다."
     },
     {
       "id": 72,
@@ -576,7 +576,7 @@
       "question": "한국의 '보증금'을 의미하는 본문 속 표현은?",
       "options": [ "key money", "room money", "safe money", "door money" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.48] 부동산 거래에서 임대차 보호를 위해 미리 내는 보증금을 'key money'라고 표현했습니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 금전적 보증의 의미를 담지 못한 오역입니다."
+      "explanation": "💡 [교재 p.48] 부동산 거래에서 임대차 보호를 위해 미리 내는 보증금을 'key money'라고 표현했습니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 금전적 보증의 의미를 담지 못한 오역입니다."
     },
     {
       "id": 73,
@@ -584,7 +584,7 @@
       "question": "본문의 'I'd be able to manage that.'에서 'manage'의 문맥적 의미는?",
       "options": [ "관리하다", "감당하다(금전적으로)", "지휘하다", "수리하다" ],
       "answer": 1,
-      "explanation": "💡 [교재 p.54] 돈을 낼 여력이 된다는 뜻으로 'afford'나 'swing'과 바꿔 쓸 수 있는 문맥적 의미를 갖습니다.\n\n// 🎯 오답 분석\n- 0, 2번은 'manage'의 일반적인 관리/경영 의미를 이용한 함정입니다."
+      "explanation": "💡 [교재 p.54] 돈을 낼 여력이 된다는 뜻으로 'afford'나 'swing'과 바꿔 쓸 수 있는 문맥적 의미를 갖습니다.\n\n🎯 오답 분석\n- 0, 2번은 'manage'의 일반적인 관리/경영 의미를 이용한 함정입니다."
     },
     {
       "id": 74,
@@ -592,7 +592,7 @@
       "question": "'Move on'이 '다음 단계로 나아가다'라는 의미로 쓰일 때 적절한 문장은?",
       "options": [ "It's time to move on to the next level.", "Please move on your car.", "Move on, there's nothing to see here.", "I can't move on my body." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.57] 'move on'은 과거를 잊고 새롭게 출발하거나 다음 단계(next level)로 진행할 때 씁니다.\n\n// 🎯 오답 분석\n- 1번은 차를 이동시키라는 물리적 이동입니다.\n- 2번은 자리를 떠나라는 경고입니다.\n- 3번은 신체 마비 상태를 뜻하여 부적절합니다."
+      "explanation": "💡 [교재 p.57] 'move on'은 과거를 잊고 새롭게 출발하거나 다음 단계(next level)로 진행할 때 씁니다.\n\n🎯 오답 분석\n- 1번은 차를 이동시키라는 물리적 이동입니다.\n- 2번은 자리를 떠나라는 경고입니다.\n- 3번은 신체 마비 상태를 뜻하여 부적절합니다."
     },
     {
       "id": 75,
@@ -600,7 +600,7 @@
       "question": "집주인이 우리 같은 사람들의 상황을 잘 안다고 할 때 'He knows what it's like for us' 대신 쓸 수 있는 표현은?",
       "options": [ "He can relate to us.", "He understands our circumstances.", "He is sympathetic to our plight.", "모두 정답" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.54] 'relate to'는 공감하다, 'sympathetic'은 동정적인 뜻으로, 타인의 어려운 상황을 이해함을 뜻하는 다양한 유의어입니다.\n\n// 🎯 오답 분석\n- 제시된 모든 문장이 정답인 경우입니다."
+      "explanation": "💡 [교재 p.54] 'relate to'는 공감하다, 'sympathetic'은 동정적인 뜻으로, 타인의 어려운 상황을 이해함을 뜻하는 다양한 유의어입니다.\n\n🎯 오답 분석\n- 제시된 모든 문장이 정답인 경우입니다."
     },
     {
       "id": 76,
@@ -608,7 +608,7 @@
       "question": "상대방의 감정이나 어려운 상황에 공감하며 '공감해요', '남 일 같지 않네요'라고 말할 때 사용하는 패턴은?",
       "options": [ "I can relate to you.", "I can refer to you.", "I can relax with you.", "I can repeat to you." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.64] 'relate to'는 타인의 생각이나 감정에 깊이 공감하여 관계를 형성하는 핵심 표현입니다. 'You're right'보다 더 깊은 정서적 연결을 나타냅니다.\n\n// 🎯 오답 분석\n- 1번 'refer to'는 참조하다 혹은 언급하다라는 뜻입니다.\n- 2번 'relax with'는 ~와 함께 편히 쉬다라는 뜻입니다.\n- 3번 'repeat'은 단순히 말을 되풀이하는 동작입니다."
+      "explanation": "💡 [교재 p.64] 'relate to'는 타인의 생각이나 감정에 깊이 공감하여 관계를 형성하는 핵심 표현입니다. 'You're right'보다 더 깊은 정서적 연결을 나타냅니다.\n\n🎯 오답 분석\n- 1번 'refer to'는 참조하다 혹은 언급하다라는 뜻입니다.\n- 2번 'relax with'는 ~와 함께 편히 쉬다라는 뜻입니다.\n- 3번 'repeat'은 단순히 말을 되풀이하는 동작입니다."
     },
     {
       "id": 77,
@@ -616,7 +616,7 @@
       "question": "도움을 준 상대방에게 '당신은 정말 친절하시군요' 혹은 '구세주 같네요'라고 칭찬할 때 본문에서 사용된 표현은?",
       "options": [ "You are an angel.", "You are a doctor.", "You are a pilot.", "You are a scholar." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.63, 65] 'You are an angel'은 예기치 못한 큰 도움을 주거나 매우 친절한 사람을 극찬할 때 쓰는 관용적 표현입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 특정 직무(의사, 조종사, 학자)를 나타내는 단어로, 인격적 칭찬과는 거리가 멉니다."
+      "explanation": "💡 [교재 p.63, 65] 'You are an angel'은 예기치 못한 큰 도움을 주거나 매우 친절한 사람을 극찬할 때 쓰는 관용적 표현입니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 특정 직무(의사, 조종사, 학자)를 나타내는 단어로, 인격적 칭찬과는 거리가 멉니다."
     },
     {
       "id": 78,
@@ -624,7 +624,7 @@
       "question": "감사 인사에 대해 '내가 좋아서 한 일인걸요'라고 화답하는 패턴으로 알맞은 것은?",
       "options": [ "My pleasure!", "My business!", "My standard!", "My history!" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.66] 'My pleasure'는 'You're welcome'의 세련된 대안으로, 상대를 돕는 것이 나에게도 즐거움이었다는 따뜻한 뉘앙스를 줍니다.\n\n// 🎯 오답 분석\n- 1번 'business'는 내 일/사업이라는 뜻으로 화답에는 쓰이지 않습니다.\n- 2, 3번은 문맥상 전혀 어울리지 않는 단어들의 조합입니다."
+      "explanation": "💡 [교재 p.66] 'My pleasure'는 'You're welcome'의 세련된 대안으로, 상대를 돕는 것이 나에게도 즐거움이었다는 따뜻한 뉘앙스를 줍니다.\n\n🎯 오답 분석\n- 1번 'business'는 내 일/사업이라는 뜻으로 화답에는 쓰이지 않습니다.\n- 2, 3번은 문맥상 전혀 어울리지 않는 단어들의 조합입니다."
     },
     {
       "id": 79,
@@ -632,7 +632,7 @@
       "question": "상대방을 힘들게 하거나 고민하게 만드는 원인을 구체적으로 물을 때 사용하는 본문의 패턴은?",
       "options": [ "What bothers you about those documents?", "What makes you about those documents?", "What likes you about those documents?", "What feels you about those documents?" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.66] 'bother'는 '괴롭히다'는 뜻입니다. 특정 상황(문서 작업 등)에서 상대가 느끼는 구체적인 어려움을 질문할 때 사용합니다.\n\n// 🎯 오답 분석\n- 1번은 'about'과 결합하여 원인을 묻는 구조로 쓰기 어렵습니다.\n- 2, 3번은 문법적으로 성립하지 않는 비문입니다."
+      "explanation": "💡 [교재 p.66] 'bother'는 '괴롭히다'는 뜻입니다. 특정 상황(문서 작업 등)에서 상대가 느끼는 구체적인 어려움을 질문할 때 사용합니다.\n\n🎯 오답 분석\n- 1번은 'about'과 결합하여 원인을 묻는 구조로 쓰기 어렵습니다.\n- 2, 3번은 문법적으로 성립하지 않는 비문입니다."
     },
     {
       "id": 80,
@@ -640,7 +640,7 @@
       "question": "본문에서 대학원 지원 시 필요한 서류인 '학업 계획서'를 뜻하는 용어는?",
       "options": [ "statement of purpose (SOP)", "letter of recommendation", "resume of experience", "certificate of graduation" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.63] 'Statement of Purpose(SOP)'는 대학원 입학 사정 시 지원 동기와 연구 계획을 밝히는 가장 중요한 서류 중 하나입니다.\n\n// 🎯 오답 분석\n- 1번은 추천서입니다.\n- 2번은 경력 기술서 형태의 이력서입니다.\n- 3번은 졸업 증명서입니다."
+      "explanation": "💡 [교재 p.63] 'Statement of Purpose(SOP)'는 대학원 입학 사정 시 지원 동기와 연구 계획을 밝히는 가장 중요한 서류 중 하나입니다.\n\n🎯 오답 분석\n- 1번은 추천서입니다.\n- 2번은 경력 기술서 형태의 이력서입니다.\n- 3번은 졸업 증명서입니다."
     },
     {
       "id": 81,
@@ -648,7 +648,7 @@
       "question": "본문의 'big names in Korea’s fashion design world'에서 'big name'과 바꿔 쓸 수 없는 표현은?",
       "options": [ "celebrity", "well-known person", "very important person", "new comer" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.67] 'big name'은 해당 분야에서 명성이 높고 영향력이 큰 인물을 뜻합니다.\n\n// 🎯 오답 분석\n- 3번 'new comer'는 이제 막 들어온 신출내기를 뜻하므로 거물/유명인과는 정반대되는 개념입니다."
+      "explanation": "💡 [교재 p.67] 'big name'은 해당 분야에서 명성이 높고 영향력이 큰 인물을 뜻합니다.\n\n🎯 오답 분석\n- 3번 'new comer'는 이제 막 들어온 신출내기를 뜻하므로 거물/유명인과는 정반대되는 개념입니다."
     },
     {
       "id": 82,
@@ -656,7 +656,7 @@
       "question": "본문의 'prepared to carry out the research'에서 'carry out'과 의미가 같은 단어는?",
       "options": [ "accomplish", "abandon", "avoid", "accuse" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.67] 'carry out'은 계획된 일이나 연구를 '수행하다' 혹은 '실행하다'는 뜻으로 'accomplish', 'achieve'와 의미가 통합니다.\n\n// 🎯 오답 분석\n- 1번 'abandon'은 포기하다, 2번 'avoid'는 피하다, 3번 'accuse'는 비난/고발하다라는 뜻입니다."
+      "explanation": "💡 [교재 p.67] 'carry out'은 계획된 일이나 연구를 '수행하다' 혹은 '실행하다'는 뜻으로 'accomplish', 'achieve'와 의미가 통합니다.\n\n🎯 오답 분석\n- 1번 'abandon'은 포기하다, 2번 'avoid'는 피하다, 3번 'accuse'는 비난/고발하다라는 뜻입니다."
     },
     {
       "id": 83,
@@ -664,7 +664,7 @@
       "question": "본문의 'Where can I look them up?'에서 'look up'의 의미로 옳은 것은?",
       "options": [ "찾아보다 (search for)", "존경하다 (respect)", "올려다보다 (stare up)", "무시하다 (look down on)" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.67] 'look up'은 사전, 인터넷, 목록 등에서 필요한 정보를 '찾아보다' 혹은 '조회하다'는 뜻입니다.\n\n// 🎯 오답 분석\n- 1번은 사람이 목적어일 때 '존경하다'는 뜻이 될 수 있으나 여기서는 정보를 찾는 맥락입니다.\n- 3번은 'look down on'의 반대 개념인 멸시의 반대어(존중)와 혼동을 유도한 보기입니다."
+      "explanation": "💡 [교재 p.67] 'look up'은 사전, 인터넷, 목록 등에서 필요한 정보를 '찾아보다' 혹은 '조회하다'는 뜻입니다.\n\n🎯 오답 분석\n- 1번은 사람이 목적어일 때 '존경하다'는 뜻이 될 수 있으나 여기서는 정보를 찾는 맥락입니다.\n- 3번은 'look down on'의 반대 개념인 멸시의 반대어(존중)와 혼동을 유도한 보기입니다."
     },
     {
       "id": 84,
@@ -672,7 +672,7 @@
       "question": "본문의 'as well as more recently published ones'에서 'as well as'와 의미가 통하는 것은?",
       "options": [ "in addition to", "instead of", "regardless of", "contrary to" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.68] 'A as well as B'는 'B뿐만 아니라 A도'라는 뜻으로, 무언가를 추가할 때 쓰는 'in addition to'와 유사합니다.\n\n// 🎯 오답 분석\n- 1번은 ~ 대신에, 2번은 ~와 상관없이, 3번은 ~와 대조적으로라는 뜻입니다."
+      "explanation": "💡 [교재 p.68] 'A as well as B'는 'B뿐만 아니라 A도'라는 뜻으로, 무언가를 추가할 때 쓰는 'in addition to'와 유사합니다.\n\n🎯 오답 분석\n- 1번은 ~ 대신에, 2번은 ~와 상관없이, 3번은 ~와 대조적으로라는 뜻입니다."
     },
     {
       "id": 85,
@@ -680,7 +680,7 @@
       "question": "COCA 분석 결과 'What bothers you about' 뒤에 오는 표현 중 가장 빈도가 높은 것은?",
       "options": [ "THAT", "YOUR KIDS", "YOUR JOB", "WHAT'S" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.68] 실제 데이터 분석 결과, 대화 맥락을 가리키는 대명사 'that'이 가장 높은 빈도로 사용되었습니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번 모두 사용 사례에 포함되지만 순위상 'that'이 압도적인 1위입니다."
+      "explanation": "💡 [교재 p.68] 실제 데이터 분석 결과, 대화 맥락을 가리키는 대명사 'that'이 가장 높은 빈도로 사용되었습니다.\n\n🎯 오답 분석\n- 1, 2, 3번 모두 사용 사례에 포함되지만 순위상 'that'이 압도적인 1위입니다."
     },
     {
       "id": 86,
@@ -688,7 +688,7 @@
       "question": "누군가에게 대화를 청하거나 약속을 잡기 위해 '시간 좀 있으세요?'라고 묻는 올바른 표현은?",
       "options": [ "Do you have time?", "Do you have the time?", "Do you have a time?", "Do you have times?" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.69] 약속이나 대화를 위한 여유 시간을 묻을 때는 무관사 'time'을 씁니다.\n\n// 🎯 오답 분석\n- 1번 'the time'을 쓰면 '지금 몇 시예요?'라고 현재 시각을 묻는 질문이 되므로 매우 주의해야 합니다."
+      "explanation": "💡 [교재 p.69] 약속이나 대화를 위한 여유 시간을 묻을 때는 무관사 'time'을 씁니다.\n\n🎯 오답 분석\n- 1번 'the time'을 쓰면 '지금 몇 시예요?'라고 현재 시각을 묻는 질문이 되므로 매우 주의해야 합니다."
     },
     {
       "id": 87,
@@ -696,7 +696,7 @@
       "question": "사람 사이의 마음의 움직임이나 궁합이 잘 맞을 때 쓰는 관용구는?",
       "options": [ "We've got good chemistry.", "We've got good physics.", "We've got good biology.", "We've got good history." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.70] 'Chemistry(화학)'는 두 물질이 섞여 반응하듯, 사람 사이의 '죽이 잘 맞음'이나 '궁합'을 뜻하는 대표적인 비유 표현입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번 학문 분야는 인간관계의 상호작용을 나타내는 관용구로 쓰이지 않습니다."
+      "explanation": "💡 [교재 p.70] 'Chemistry(화학)'는 두 물질이 섞여 반응하듯, 사람 사이의 '죽이 잘 맞음'이나 '궁합'을 뜻하는 대표적인 비유 표현입니다.\n\n🎯 오답 분석\n- 1, 2, 3번 학문 분야는 인간관계의 상호작용을 나타내는 관용구로 쓰이지 않습니다."
     },
     {
       "id": 88,
@@ -704,7 +704,7 @@
       "question": "줄리(Julie)가 논문을 쉽게 찾을 수 있는 곳으로 추천한 웹사이트는?",
       "options": [ "Google Scholar", "Fakebook", "Understagram", "Netplus" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.63] 줄리는 학술 자료와 논문을 전문적으로 검색할 수 있는 'Google Scholar'를 추천하며 검색 팁을 줍니다.\n\n// 🎯 오답 분석\n- 1, 2번은 본문에 나오는 소셜 미디어(가상 명칭), 3번은 OTT 서비스(가상 명칭)입니다."
+      "explanation": "💡 [교재 p.63] 줄리는 학술 자료와 논문을 전문적으로 검색할 수 있는 'Google Scholar'를 추천하며 검색 팁을 줍니다.\n\n🎯 오답 분석\n- 1, 2번은 본문에 나오는 소셜 미디어(가상 명칭), 3번은 OTT 서비스(가상 명칭)입니다."
     },
     {
       "id": 89,
@@ -712,7 +712,7 @@
       "question": "핵심 패턴을 활용하여 '그것은 사회-문화적 영향과 관련이 있을 수 있겠네요'를 영작한 것은?",
       "options": [ "It can relate to the socio-cultural effect.", "It can relate about the socio-cultural effect.", "It can relate with the socio-cultural effect.", "It can relate for the socio-cultural effect." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.64] 'relate'가 '~와 관련되다'는 뜻으로 쓰일 때는 전치사 'to'와 결합하는 것이 표준적입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번의 전치사 결합은 'relate'의 표준적 쓰임이 아닙니다."
+      "explanation": "💡 [교재 p.64] 'relate'가 '~와 관련되다'는 뜻으로 쓰일 때는 전치사 'to'와 결합하는 것이 표준적입니다.\n\n🎯 오답 분석\n- 1, 2, 3번의 전치사 결합은 'relate'의 표준적 쓰임이 아닙니다."
     },
     {
       "id": 90,
@@ -720,7 +720,7 @@
       "question": "고맙다는 말에 대한 응답으로 'My pleasure!' 대신 쓸 수 있는 격식 없는 표현은?",
       "options": [ "No problem.", "No doubt.", "No way.", "No thanks." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.66] 'My pleasure'의 좀 더 가벼운 대안으로는 'No problem', 'Don't mention it', 'Anytime' 등이 있습니다.\n\n// 🎯 오답 분석\n- 1번은 확실하다는 뜻, 2번은 강한 부정, 3번은 사양의 뜻입니다."
+      "explanation": "💡 [교재 p.66] 'My pleasure'의 좀 더 가벼운 대안으로는 'No problem', 'Don't mention it', 'Anytime' 등이 있습니다.\n\n🎯 오답 분석\n- 1번은 확실하다는 뜻, 2번은 강한 부정, 3번은 사양의 뜻입니다."
     },
     {
       "id": 91,
@@ -728,7 +728,7 @@
       "question": "상대방에게 도움을 요청하기 위해 현재 시간이 있는지 물어보는 본문의 핵심 패턴은?",
       "options": [ "Are you available now?", "Are you available then?", "Do you available now?", "Are you availability now?" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.71, 75] 'Available'은 시간이 비어 있음을 뜻하는 형용사로, 'Are you available?'은 대화를 시작하기 전 예의를 갖추는 필수 패턴입니다.\n\n// 🎯 오답 분석\n- 1번 'then'은 과거/미래의 그때를 의미합니다.\n- 2번은 형용사 앞에 조동사 'do'를 쓴 문법적 오류입니다.\n- 3번은 명사 'availability'를 잘못 사용한 경우입니다."
+      "explanation": "💡 [교재 p.71, 75] 'Available'은 시간이 비어 있음을 뜻하는 형용사로, 'Are you available?'은 대화를 시작하기 전 예의를 갖추는 필수 패턴입니다.\n\n🎯 오답 분석\n- 1번 'then'은 과거/미래의 그때를 의미합니다.\n- 2번은 형용사 앞에 조동사 'do'를 쓴 문법적 오류입니다.\n- 3번은 명사 'availability'를 잘못 사용한 경우입니다."
     },
     {
       "id": 92,
@@ -736,64 +736,64 @@
       "question": "해리(Harry)가 민수(Min-su)를 칭찬하며 사용한 '컴퓨터 박사(천재)'에 해당하는 표현은?",
       "options": [ "computer genius", "computer doctor", "computer master", "computer player" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.71, 74] 특정 분야에 매우 능숙한 사람을 'genius' 혹은 'expert'라고 치켜세울 때 사용합니다.\n\n// 🎯 오답 분석\n- 1번 'doctor'는 박사 학위 소지자나 의사를 뜻하는 것이지 관용적인 숙련자 표현은 아닙니다."
+      "explanation": "💡 [교재 p.71, 74] 특정 분야에 매우 능숙한 사람을 'genius' 혹은 'expert'라고 치켜세울 때 사용합니다.\n\n🎯 오답 분석\n- 1번 'doctor'는 박사 학위 소지자나 의사를 뜻하는 것이지 관용적인 숙련자 표현은 아닙니다."
     },
     {
-      "id": 93, "passageBottom": "Lesson 7 Dialogue Highlight: binge-watching", "question": "민수(Min-su)의 대사 중 '넷플러스를 몰아보느라 매우 바빴다'고 할 때 사용된 단어는?", "options": [ "binge-watching", "long-watching", "fast-watching", "over-watching" ], "answer": 0, "explanation": "💡 [교재 p.71] 'Binge'는 폭음/폭식을 뜻하며, 미디어나 영화를 한꺼번에 몰아보는 행위를 'binge-watching'이라고 합니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 존재하지 않는 조합이거나 사전에 없는 표현입니다." },
+      "id": 93, "passageBottom": "Lesson 7 Dialogue Highlight: binge-watching", "question": "민수(Min-su)의 대사 중 '넷플러스를 몰아보느라 매우 바빴다'고 할 때 사용된 단어는?", "options": [ "binge-watching", "long-watching", "fast-watching", "over-watching" ], "answer": 0, "explanation": "💡 [교재 p.71] 'Binge'는 폭음/폭식을 뜻하며, 미디어나 영화를 한꺼번에 몰아보는 행위를 'binge-watching'이라고 합니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 존재하지 않는 조합이거나 사전에 없는 표현입니다." },
     {
-      "id": 94, "passageBottom": "Lesson 7 Key Pattern #1: I have been busy ~ing.", "question": "최근까지 무언가를 하느라 계속 바빴음을 나타내는 본문의 패턴은?", "options": [ "I have been busy watching Netplus.", "I have busy watching Netplus.", "I was busy watching Netplus.", "I am busy to watch Netplus." ], "answer": 0, "explanation": "💡 [교재 p.73] 'have been busy ~ing'는 현재완료진행의 의미를 담아 최근의 바쁜 상태를 나타내는 패턴입니다.\n\n// 🎯 오답 분석\n- 1번은 'been'이 누락되었습니다.\n- 2번은 과거의 한 시점만 나타냅니다.\n- 3번은 'busy' 뒤에 'to' 부정사를 쓰는 것은 틀린 용법입니다." },
+      "id": 94, "passageBottom": "Lesson 7 Key Pattern #1: I have been busy ~ing.", "question": "최근까지 무언가를 하느라 계속 바빴음을 나타내는 본문의 패턴은?", "options": [ "I have been busy watching Netplus.", "I have busy watching Netplus.", "I was busy watching Netplus.", "I am busy to watch Netplus." ], "answer": 0, "explanation": "💡 [교재 p.73] 'have been busy ~ing'는 현재완료진행의 의미를 담아 최근의 바쁜 상태를 나타내는 패턴입니다.\n\n🎯 오답 분석\n- 1번은 'been'이 누락되었습니다.\n- 2번은 과거의 한 시점만 나타냅니다.\n- 3번은 'busy' 뒤에 'to' 부정사를 쓰는 것은 틀린 용법입니다." },
     {
-      "id": 95, "passageBottom": "Lesson 7 Key Pattern #1: present perfect continuous", "question": "다음 중 '나는 중요한 발표를 준비하느라 바빴어'를 영작할 때 빈칸에 알맞은 것은?\n\n\"I have been busy (          ) an important presentation.\"", "options": [ "preparing", "to prepare", "prepared", "prepare" ], "answer": 0, "explanation": "💡 [교재 p.73] 'busy' 다음에는 반드시 동명사(~ing) 형태가 목적보어/상태 설명으로 와야 합니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 'busy'와의 문법적 결합이 어긋나는 형태입니다." },
+      "id": 95, "passageBottom": "Lesson 7 Key Pattern #1: present perfect continuous", "question": "다음 중 '나는 중요한 발표를 준비하느라 바빴어'를 영작할 때 빈칸에 알맞은 것은?\n\n\"I have been busy (          ) an important presentation.\"", "options": [ "preparing", "to prepare", "prepared", "prepare" ], "answer": 0, "explanation": "💡 [교재 p.73] 'busy' 다음에는 반드시 동명사(~ing) 형태가 목적보어/상태 설명으로 와야 합니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 'busy'와의 문법적 결합이 어긋나는 형태입니다." },
     {
-      "id": 96, "passageBottom": "Lesson 7 Alternative Expressions: assistance", "question": "본문의 'I wonder if you can help me.'와 바꿔 쓸 수 있는 표현이 아닌 것은?", "options": [ "I need some assistance.", "Could you give me a hand?", "Lend me a hand with this, will you?", "What's bothering you?" ], "answer": 3, "explanation": "💡 [교재 p.77] 0, 1, 2번은 모두 정중하게 도움을 요청하는 표현들입니다.\n\n// 🎯 오답 분석\n- 3번 'What's bothering you?'는 상대방의 고민을 묻는 질문이므로 도움 요청이 아닙니다." },
+      "id": 96, "passageBottom": "Lesson 7 Alternative Expressions: assistance", "question": "본문의 'I wonder if you can help me.'와 바꿔 쓸 수 있는 표현이 아닌 것은?", "options": [ "I need some assistance.", "Could you give me a hand?", "Lend me a hand with this, will you?", "What's bothering you?" ], "answer": 3, "explanation": "💡 [교재 p.77] 0, 1, 2번은 모두 정중하게 도움을 요청하는 표현들입니다.\n\n🎯 오답 분석\n- 3번 'What's bothering you?'는 상대방의 고민을 묻는 질문이므로 도움 요청이 아닙니다." },
     {
-      "id": 97, "passageBottom": "Lesson 7 Key Pattern #2: You are a ~ genius.", "question": "상대방이 무언가를 정말 잘할 때 쓰는 패턴으로, 빈칸에 들어갈 수 없는 단어는?\n\n\"You are a computer (          ).\"", "options": [ "genius", "expert", "techie", "student" ], "answer": 3, "explanation": "💡 [교재 p.74] 'genius', 'expert', 'techie', 'tech savvy' 등은 그 분야를 잘 아는 전문가를 칭찬하는 표현입니다.\n\n// 🎯 오답 분석\n- 3번 'student'는 학습자라는 뜻이므로 '잘하는 사람'을 뜻하는 칭찬 패턴에는 부적절합니다." },
+      "id": 97, "passageBottom": "Lesson 7 Key Pattern #2: You are a ~ genius.", "question": "상대방이 무언가를 정말 잘할 때 쓰는 패턴으로, 빈칸에 들어갈 수 없는 단어는?\n\n\"You are a computer (          ).\"", "options": [ "genius", "expert", "techie", "student" ], "answer": 3, "explanation": "💡 [교재 p.74] 'genius', 'expert', 'techie', 'tech savvy' 등은 그 분야를 잘 아는 전문가를 칭찬하는 표현입니다.\n\n🎯 오답 분석\n- 3번 'student'는 학습자라는 뜻이므로 '잘하는 사람'을 뜻하는 칭찬 패턴에는 부적절합니다." },
     {
-      "id": 98, "passageBottom": "Lesson 7 Key Pattern #3: It's easy as ABC.", "question": "본문 중 '그것은 식은 죽 먹기죠'라는 뜻의 핵심 패턴은?", "options": [ "It's easy as ABC.", "It's hard as stone.", "It's fast as wind.", "It's clear as crystal." ], "answer": 0, "explanation": "💡 [교재 p.72, 75] 'easy as ABC'는 알파벳처럼 매우 간단하고 쉬움을 나타내는 관용구입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 비유적 표현이지만 '매우 쉽다'는 본문 패턴의 의미와는 무관합니다." },
+      "id": 98, "passageBottom": "Lesson 7 Key Pattern #3: It's easy as ABC.", "question": "본문 중 '그것은 식은 죽 먹기죠'라는 뜻의 핵심 패턴은?", "options": [ "It's easy as ABC.", "It's hard as stone.", "It's fast as wind.", "It's clear as crystal." ], "answer": 0, "explanation": "💡 [교재 p.72, 75] 'easy as ABC'는 알파벳처럼 매우 간단하고 쉬움을 나타내는 관용구입니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 비유적 표현이지만 '매우 쉽다'는 본문 패턴의 의미와는 무관합니다." },
     {
-      "id": 99, "passageBottom": "Lesson 7 Dialogue Highlight: capital letters & numerals", "question": "해리(Harry)가 아이디를 설명하며 언급한 '대문자'와 '숫자'에 해당하는 영어 단어의 조합은?", "options": [ "capital letters - numeral", "big letters - number", "upper letters - digit", "major letters - figure" ], "answer": 0, "explanation": "💡 [교재 p.72] 본문에서 비밀번호나 아이디의 요건을 설명할 때 'capital letters(대문자)'와 'numeral(숫자)'이라는 단어를 사용합니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 의미는 유사하지만 본문에서 선택한 정확한 표현은 아닙니다." },
+      "id": 99, "passageBottom": "Lesson 7 Dialogue Highlight: capital letters & numerals", "question": "해리(Harry)가 아이디를 설명하며 언급한 '대문자'와 '숫자'에 해당하는 영어 단어의 조합은?", "options": [ "capital letters - numeral", "big letters - number", "upper letters - digit", "major letters - figure" ], "answer": 0, "explanation": "💡 [교재 p.72] 본문에서 비밀번호나 아이디의 요건을 설명할 때 'capital letters(대문자)'와 'numeral(숫자)'이라는 단어를 사용합니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 의미는 유사하지만 본문에서 선택한 정확한 표현은 아닙니다." },
     {
-      "id": 100, "passageBottom": "Lesson 7 Alternative Expressions: in secret", "question": "본문의 'It's just between us.'와 바꿔 쓸 수 있는 표현이 아닌 것은?", "options": [ "in secret", "with no one else present", "for no other ears", "speak to your manager" ], "answer": 3, "explanation": "💡 [교재 p.77] 'It's just between us'는 비밀을 유지하자는 뜻입니다.\n\n// 🎯 오답 분석\n- 3번 'manager'에게 말하라는 것은 비밀 유지와는 정반대되는 상황입니다." },
+      "id": 100, "passageBottom": "Lesson 7 Alternative Expressions: in secret", "question": "본문의 'It's just between us.'와 바꿔 쓸 수 있는 표현이 아닌 것은?", "options": [ "in secret", "with no one else present", "for no other ears", "speak to your manager" ], "answer": 3, "explanation": "💡 [교재 p.77] 'It's just between us'는 비밀을 유지하자는 뜻입니다.\n\n🎯 오답 분석\n- 3번 'manager'에게 말하라는 것은 비밀 유지와는 정반대되는 상황입니다." },
     {
-      "id": 101, "passageBottom": "Lesson 7 Alternative Expressions: piece of cake", "explanation": "💡 [교재 p.77] 'piece of cake', 'child's play', 'cakewalk'는 모두 '아주 쉬운 일'을 뜻하는 유의어입니다.\n\n// 🎯 오답 분석\n- 3번 'uphill battle'은 매우 고통스럽고 힘든 싸움을 뜻하는 반의어입니다.", "options": [ "It's a piece of cake!", "It's a child's play!", "It's a cakewalk!", "It's a uphill battle!" ], "answer": 3, "id": 101, "question": "본문의 'It can't be any simpler than that!'과 의미가 다른 표현은?" },
+      "id": 101, "passageBottom": "Lesson 7 Alternative Expressions: piece of cake", "explanation": "💡 [교재 p.77] 'piece of cake', 'child's play', 'cakewalk'는 모두 '아주 쉬운 일'을 뜻하는 유의어입니다.\n\n🎯 오답 분석\n- 3번 'uphill battle'은 매우 고통스럽고 힘든 싸움을 뜻하는 반의어입니다.", "options": [ "It's a piece of cake!", "It's a child's play!", "It's a cakewalk!", "It's a uphill battle!" ], "answer": 3, "id": 101, "question": "본문의 'It can't be any simpler than that!'과 의미가 다른 표현은?" },
     {
-      "id": 102, "passageBottom": "Lesson 7 Dialogue Highlight: leakage", "question": "해리(Harry)가 걱정한 '개인 정보 유출'에 해당하는 영어 표현은?", "options": [ "personal information leakage", "private data loss", "individual record out", "secret news spread" ], "answer": 0, "explanation": "💡 [교재 p.72] 정보가 새어 나가는 현상을 액체가 새는 것에 비유하여 'leakage'라고 표현합니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 의미 전달은 가능하나 본문의 핵심 어휘인 'leakage'를 포함하지 않습니다." },
+      "id": 102, "passageBottom": "Lesson 7 Dialogue Highlight: leakage", "question": "해리(Harry)가 걱정한 '개인 정보 유출'에 해당하는 영어 표현은?", "options": [ "personal information leakage", "private data loss", "individual record out", "secret news spread" ], "answer": 0, "explanation": "💡 [교재 p.72] 정보가 새어 나가는 현상을 액체가 새는 것에 비유하여 'leakage'라고 표현합니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 의미 전달은 가능하나 본문의 핵심 어휘인 'leakage'를 포함하지 않습니다." },
     {
-      "id": 103, "passageBottom": "Lesson 7 Dialogue Highlight: mute button", "question": "민수(Min-su)가 회의 중 소리가 울리지 않도록(echo) 클릭하라고 조언한 것은?", "options": [ "mute button", "stop button", "off button", "quiet button" ], "answer": 0, "explanation": "💡 [교재 p.72] 온라인 회의 에티켓 중 소음이나 하울링(echo)을 방지하기 위해 마이크를 끄는 버튼을 'mute button'이라고 합니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 기능을 유추할 수는 있으나 표준 IT 용어는 아닙니다." },
+      "id": 103, "passageBottom": "Lesson 7 Dialogue Highlight: mute button", "question": "민수(Min-su)가 회의 중 소리가 울리지 않도록(echo) 클릭하라고 조언한 것은?", "options": [ "mute button", "stop button", "off button", "quiet button" ], "answer": 0, "explanation": "💡 [교재 p.72] 온라인 회의 에티켓 중 소음이나 하울링(echo)을 방지하기 위해 마이크를 끄는 버튼을 'mute button'이라고 합니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 기능을 유추할 수는 있으나 표준 IT 용어는 아닙니다." },
     {
-      "id": 104, "passageBottom": "Lesson 7 Real & Live: I am right behind you.", "question": "상대방에게 '내가 뒤에 있으니까 믿어, 밀어 줄게'라고 응원할 때 쓰는 표현은?", "options": [ "I am right behind you.", "I am right before you.", "I am right under you.", "I am right over you." ], "answer": 0, "explanation": "💡 [교재 p.80] 누군가를 든든하게 지지하고 후원한다는 정서적 거리감을 나타내는 표현입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 물리적 위치 설명일 뿐 응원의 관용구는 아닙니다." },
+      "id": 104, "passageBottom": "Lesson 7 Real & Live: I am right behind you.", "question": "상대방에게 '내가 뒤에 있으니까 믿어, 밀어 줄게'라고 응원할 때 쓰는 표현은?", "options": [ "I am right behind you.", "I am right before you.", "I am right under you.", "I am right over you." ], "answer": 0, "explanation": "💡 [교재 p.80] 누군가를 든든하게 지지하고 후원한다는 정서적 거리감을 나타내는 표현입니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 물리적 위치 설명일 뿐 응원의 관용구는 아닙니다." },
     {
-      "id": 105, "passageBottom": "Lesson 7 Real & Live: There is no free lunch.", "question": "다음 상황에 어울리는 영어 속담은?\n\n[상황] 라이언은 학비를 벌기 위해 정말 열심히 일했습니다. 그는 세상에 대가 없이 얻어지는 것은 없다고 생각합니다.", "options": [ "There is no free lunch.", "A piece of cake.", "Walls have ears.", "Easy come, easy go." ], "answer": 0, "explanation": "💡 [교재 p.81] 'There is no free lunch (in our world)'는 대가 없는 이익은 없다는 삶의 진리를 비유하는 표현입니다.\n\n// 🎯 오답 분석\n- 1번은 쉬운 일, 2번은 비밀 없음, 3번은 금방 얻은 건 금방 잃음을 뜻합니다." },
+      "id": 105, "passageBottom": "Lesson 7 Real & Live: There is no free lunch.", "question": "다음 상황에 어울리는 영어 속담은?\n\n[상황] 라이언은 학비를 벌기 위해 정말 열심히 일했습니다. 그는 세상에 대가 없이 얻어지는 것은 없다고 생각합니다.", "options": [ "There is no free lunch.", "A piece of cake.", "Walls have ears.", "Easy come, easy go." ], "answer": 0, "explanation": "💡 [교재 p.81] 'There is no free lunch (in our world)'는 대가 없는 이익은 없다는 삶의 진리를 비유하는 표현입니다.\n\n🎯 오답 분석\n- 1번은 쉬운 일, 2번은 비밀 없음, 3번은 금방 얻은 건 금방 잃음을 뜻합니다." },
     {
-      "id": 106, "passageBottom": "Lesson 8 Key Pattern #1: I couldn't make it.", "question": "Lesson 8 대화 속 ①의 우리말과 일치하도록 영어를 알맞게 배열하시오.\n\n① 제가 제때 제출하지 못했는지 설명하는 (이메일을 보냈어요)\n\nmake / it / couldn't / I / why", "options": [ "why I couldn't make it", "why couldn't I make it", "I couldn't why make it", "make it why I couldn't" ], "answer": 0, "explanation": "💡 [교재 p.82, 84] 'make it'은 제시간에 맞춰 도착하거나 무언가를 해낸다는 뜻입니다.\n\n// 🎯 오답 분석\n- 1번은 직접 의문문 어순으로 간접 의문문 자리에 부적합합니다.\n- 2, 3번은 문법적으로 성립하지 않는 나열입니다." },
+      "id": 106, "passageBottom": "Lesson 8 Key Pattern #1: I couldn't make it.", "question": "Lesson 8 대화 속 ①의 우리말과 일치하도록 영어를 알맞게 배열하시오.\n\n① 제가 제때 제출하지 못했는지 설명하는 (이메일을 보냈어요)\n\nmake / it / couldn't / I / why", "options": [ "why I couldn't make it", "why couldn't I make it", "I couldn't why make it", "make it why I couldn't" ], "answer": 0, "explanation": "💡 [교재 p.82, 84] 'make it'은 제시간에 맞춰 도착하거나 무언가를 해낸다는 뜻입니다.\n\n🎯 오답 분석\n- 1번은 직접 의문문 어순으로 간접 의문문 자리에 부적합합니다.\n- 2, 3번은 문법적으로 성립하지 않는 나열입니다." },
     {
-      "id": 107, "passageBottom": "Lesson 8 Dialogue Highlight: mumbling about", "question": "본문의 'What are you mumbling about?'에서 'mumble'의 의미는?", "options": [ "큰 소리로 외치다", "중얼거리다", "노래를 부르다", "화를 내다" ], "answer": 1, "explanation": "💡 [교재 p.82] 상대방이 알아듣기 힘들 정도로 입안에서 작게 말하는 것을 'mumble'이라고 합니다.\n\n// 🎯 오답 분석\n- 0번은 shout, 2번은 sing, 3번은 get angry로 뜻이 완전히 다릅니다." },
+      "id": 107, "passageBottom": "Lesson 8 Dialogue Highlight: mumbling about", "question": "본문의 'What are you mumbling about?'에서 'mumble'의 의미는?", "options": [ "큰 소리로 외치다", "중얼거리다", "노래를 부르다", "화를 내다" ], "answer": 1, "explanation": "💡 [교재 p.82] 상대방이 알아듣기 힘들 정도로 입안에서 작게 말하는 것을 'mumble'이라고 합니다.\n\n🎯 오답 분석\n- 0번은 shout, 2번은 sing, 3번은 get angry로 뜻이 완전히 다릅니다." },
     {
-      "id": 108, "passageBottom": "Lesson 8 Key Pattern #2: You could screw it up...", "question": "상대방의 급한 성격 때문에 '일을 망칠 수도 있어요'라고 경고할 때 쓰는 패턴은?", "options": [ "You could screw it up.", "You could make it up.", "You could fix it up.", "You could keep it up." ], "answer": 0, "explanation": "💡 [교재 p.83] 'screw up'은 실수로 일을 엉망으로 만들거나 망치는 것을 뜻하는 매우 구어적인 핵심 표현입니다.\n\n// 🎯 오답 분석\n- 1번은 화해하거나 지어내다, 2번은 고치다, 3번은 계속해라라는 정반대의 뜻입니다." },
+      "id": 108, "passageBottom": "Lesson 8 Key Pattern #2: You could screw it up...", "question": "상대방의 급한 성격 때문에 '일을 망칠 수도 있어요'라고 경고할 때 쓰는 패턴은?", "options": [ "You could screw it up.", "You could make it up.", "You could fix it up.", "You could keep it up." ], "answer": 0, "explanation": "💡 [교재 p.83] 'screw up'은 실수로 일을 엉망으로 만들거나 망치는 것을 뜻하는 매우 구어적인 핵심 표현입니다.\n\n🎯 오답 분석\n- 1번은 화해하거나 지어내다, 2번은 고치다, 3번은 계속해라라는 정반대의 뜻입니다." },
     {
-      "id": 109, "passageBottom": "Lesson 8 Key Pattern #2: short fuse", "question": "본문의 'if you have a short fuse'에서 'short fuse'가 상징하는 성격은?", "options": [ "매우 꼼꼼한 성격", "성미가 급한 성격", "결단력이 부족한 성격", "기억력이 나쁜 성격" ], "answer": 1, "explanation": "💡 [교재 p.83, 85] 폭탄의 도화선(fuse)이 짧으면 금방 터지듯이, 화를 잘 내거나 참을성 없는 급한 성미를 뜻합니다.\n\n// 🎯 오답 분석\n- 0, 2, 3번은 폭발적인 분노를 뜻하는 'fuse'의 비유와 연관이 없습니다." },
+      "id": 109, "passageBottom": "Lesson 8 Key Pattern #2: short fuse", "question": "본문의 'if you have a short fuse'에서 'short fuse'가 상징하는 성격은?", "options": [ "매우 꼼꼼한 성격", "성미가 급한 성격", "결단력이 부족한 성격", "기억력이 나쁜 성격" ], "answer": 1, "explanation": "💡 [교재 p.83, 85] 폭탄의 도화선(fuse)이 짧으면 금방 터지듯이, 화를 잘 내거나 참을성 없는 급한 성미를 뜻합니다.\n\n🎯 오답 분석\n- 0, 2, 3번은 폭발적인 분노를 뜻하는 'fuse'의 비유와 연관이 없습니다." },
     {
-      "id": 110, "passageBottom": "Lesson 8 Key Pattern #3: Hold your horses.", "question": "서두르는 상대방에게 '잠깐만, 진정해'라고 말할 때 사용하는 패턴은?", "options": [ "Hold your horses.", "Keep your pets.", "Catch your breath.", "Watch your steps." ], "answer": 0, "explanation": "💡 [교재 p.83, 85] 말을 타고 질주하려는 사람의 고삐를 당겨 멈추게 하듯, 성급한 행동을 제지할 때 씁니다.\n\n// 🎯 오답 분석\n- 1번은 애완동물 보관, 2번은 숨을 고르다, 3번은 발조심하라는 뜻입니다." },
+      "id": 110, "passageBottom": "Lesson 8 Key Pattern #3: Hold your horses.", "question": "서두르는 상대방에게 '잠깐만, 진정해'라고 말할 때 사용하는 패턴은?", "options": [ "Hold your horses.", "Keep your pets.", "Catch your breath.", "Watch your steps." ], "answer": 0, "explanation": "💡 [교재 p.83, 85] 말을 타고 질주하려는 사람의 고삐를 당겨 멈추게 하듯, 성급한 행동을 제지할 때 씁니다.\n\n🎯 오답 분석\n- 1번은 애완동물 보관, 2번은 숨을 고르다, 3번은 발조심하라는 뜻입니다." },
     {
-      "id": 111, "passageBottom": "Lesson 8 Key Pattern #4: What do you take me for?", "question": "상대방이 나를 과소평가할 때 '나를 뭘로 보는 거야?'라고 항의하는 패턴은?", "options": [ "What do you take me for?", "Who do you look for?", "What do you want from me?", "How do you do for me?" ], "answer": 0, "explanation": "💡 [교재 p.83, 86] 상대방이 나의 가치나 능력을 오해하거나 낮게 평가할 때 불쾌함을 표시하는 질문입니다.\n\n// 🎯 오답 분석\n- 1번은 찾는 사람 묻기, 2번은 원하는 것 묻기 등 항의의 뉘앙스가 없습니다." },
+      "id": 111, "passageBottom": "Lesson 8 Key Pattern #4: What do you take me for?", "question": "상대방이 나를 과소평가할 때 '나를 뭘로 보는 거야?'라고 항의하는 패턴은?", "options": [ "What do you take me for?", "Who do you look for?", "What do you want from me?", "How do you do for me?" ], "answer": 0, "explanation": "💡 [교재 p.83, 86] 상대방이 나의 가치나 능력을 오해하거나 낮게 평가할 때 불쾌함을 표시하는 질문입니다.\n\n🎯 오답 분석\n- 1번은 찾는 사람 묻기, 2번은 원하는 것 묻기 등 항의의 뉘앙스가 없습니다." },
     {
-      "id": 112, "passageBottom": "Lesson 8 Alternative Expressions: spam", "question": "민수(Min-su)가 언급한 'spam'과 바꿔 쓸 수 없는 표현은?", "options": [ "direct mail", "junk mail", "third-class mail", "express mail" ], "answer": 3, "explanation": "💡 [교재 p.87] 스팸은 원치 않는 대량 광고 메일로 junk mail 등과 유의어입니다.\n\n// 🎯 오답 분석\n- 3번 'express mail'은 매우 빠른 속달 우편을 뜻하므로 광고성 쓰레기 메일과는 정반대입니다." },
+      "id": 112, "passageBottom": "Lesson 8 Alternative Expressions: spam", "question": "민수(Min-su)가 언급한 'spam'과 바꿔 쓸 수 없는 표현은?", "options": [ "direct mail", "junk mail", "third-class mail", "express mail" ], "answer": 3, "explanation": "💡 [교재 p.87] 스팸은 원치 않는 대량 광고 메일로 junk mail 등과 유의어입니다.\n\n🎯 오답 분석\n- 3번 'express mail'은 매우 빠른 속달 우편을 뜻하므로 광고성 쓰레기 메일과는 정반대입니다." },
     {
-      "id": 113, "passageBottom": "Lesson 8 Alternative Expressions: around the clock", "question": "줄리(Julie)의 대사 중 '24시간 쉬지 않고 일한다'는 뜻의 'around the clock'과 유사한 표현은?", "options": [ "relentlessly", "periodically", "sometimes", "seldom" ], "answer": 0, "explanation": "💡 [교재 p.87] 시계 바늘이 돌듯 밤낮없이 끊임없이 일한다는 뜻으로 'relentlessly'와 의미가 통합니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 빈도가 낮거나 주기적인 것을 뜻하므로 '24시간 내내'와는 거리가 멉니다." },
+      "id": 113, "passageBottom": "Lesson 8 Alternative Expressions: around the clock", "question": "줄리(Julie)의 대사 중 '24시간 쉬지 않고 일한다'는 뜻의 'around the clock'과 유사한 표현은?", "options": [ "relentlessly", "periodically", "sometimes", "seldom" ], "answer": 0, "explanation": "💡 [교재 p.87] 시계 바늘이 돌듯 밤낮없이 끊임없이 일한다는 뜻으로 'relentlessly'와 의미가 통합니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 빈도가 낮거나 주기적인 것을 뜻하므로 '24시간 내내'와는 거리가 멉니다." },
     {
-      "id": 114, "passageBottom": "Lesson 8 Alternative Expressions: close shave", "question": "해리(Harry)의 대사 중 '하마터면 큰일 날 뻔했네요(아슬아슬했네요)'를 뜻하는 표현은?", "options": [ "close shave", "narrow escape", "close-call", "모두 정답" ], "answer": 3, "explanation": "💡 [교재 p.87] 제시된 모든 표현이 위험한 상황에서 간발의 차이로 벗어났음을 뜻하는 유의어들입니다.\n\n// 🎯 오답 분석\n- 오답 없이 모든 보기가 정답인 구성입니다." },
+      "id": 114, "passageBottom": "Lesson 8 Alternative Expressions: close shave", "question": "해리(Harry)의 대사 중 '하마터면 큰일 날 뻔했네요(아슬아슬했네요)'를 뜻하는 표현은?", "options": [ "close shave", "narrow escape", "close-call", "모두 정답" ], "answer": 3, "explanation": "💡 [교재 p.87] 제시된 모든 표현이 위험한 상황에서 간발의 차이로 벗어났음을 뜻하는 유의어들입니다.\n\n🎯 오답 분석\n- 오답 없이 모든 보기가 정답인 구성입니다." },
     {
-      "id": 115, "passageBottom": "Lesson 8 Contemporary Usage: make it", "question": "COCA 검색 결과 'make it'의 활용 중 '사실로 만들다' 혹은 '공식화하다'의 뜻으로 쓰인 문장은?", "options": [ "Let's make it official.", "I can't make it on time.", "My son made it.", "He made it to the party." ], "answer": 0, "explanation": "💡 [교재 p.88] 'make it official'은 어떤 상황이나 결과를 공식적으로 확정할 때 쓰이는 고빈도 구문입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 시간 맞춰 가거나 성공해냈음을 뜻하는 다른 의미의 'make it'입니다." },
+      "id": 115, "passageBottom": "Lesson 8 Contemporary Usage: make it", "question": "COCA 검색 결과 'make it'의 활용 중 '사실로 만들다' 혹은 '공식화하다'의 뜻으로 쓰인 문장은?", "options": [ "Let's make it official.", "I can't make it on time.", "My son made it.", "He made it to the party." ], "answer": 0, "explanation": "💡 [교재 p.88] 'make it official'은 어떤 상황이나 결과를 공식적으로 확정할 때 쓰이는 고빈도 구문입니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 시간 맞춰 가거나 성공해냈음을 뜻하는 다른 의미의 'make it'입니다." },
     {
-      "id": 116, "passageBottom": "Lesson 8 Real & Live: I am what I am!", "question": "자신의 정체성과 주관을 당당히 밝히며 '나는 나고, 난 내가 하고 싶은 일만 해!'라고 할 때 적절한 표현은?", "options": [ "I am what I am and I do what I do!", "I am who I was and I do what I was!", "I was what I am and I did what I do!", "I am what I do and I do what I am!" ], "answer": 0, "explanation": "💡 [교재 p.90] 타인의 시선에 아랑곳하지 않고 자신의 주관대로 살겠다는 강한 개인주의적 선언입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 시제나 단어 나열이 어긋나 문구의 본래 뉘앙스를 살리지 못합니다." },
+      "id": 116, "passageBottom": "Lesson 8 Real & Live: I am what I am!", "question": "자신의 정체성과 주관을 당당히 밝히며 '나는 나고, 난 내가 하고 싶은 일만 해!'라고 할 때 적절한 표현은?", "options": [ "I am what I am and I do what I do!", "I am who I was and I do what I was!", "I was what I am and I did what I do!", "I am what I do and I do what I am!" ], "answer": 0, "explanation": "💡 [교재 p.90] 타인의 시선에 아랑곳하지 않고 자신의 주관대로 살겠다는 강한 개인주의적 선언입니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 시제나 단어 나열이 어긋나 문구의 본래 뉘앙스를 살리지 못합니다." },
     {
-      "id": 117, "passageBottom": "Lesson 8 Real & Live: I wasn't born yesterday.", "question": "상대방이 나를 속이려 할 때 '나도 알 거 다 알아요(바보가 아니에요)'라고 응수하는 표현은?", "options": [ "I wasn't born yesterday.", "I wasn't here yesterday.", "I was born today.", "I didn't see yesterday." ], "answer": 0, "explanation": "💡 [교재 p.91] 어제 태어난 아기처럼 아무것도 모르는 숙맥이 아니라는 뜻으로, 상대의 기만을 간파했음을 알릴 때 씁니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 단순히 장소나 시점을 나타내는 물리적 문장들입니다." },
+      "id": 117, "passageBottom": "Lesson 8 Real & Live: I wasn't born yesterday.", "question": "상대방이 나를 속이려 할 때 '나도 알 거 다 알아요(바보가 아니에요)'라고 응수하는 표현은?", "options": [ "I wasn't born yesterday.", "I wasn't here yesterday.", "I was born today.", "I didn't see yesterday." ], "answer": 0, "explanation": "💡 [교재 p.91] 어제 태어난 아기처럼 아무것도 모르는 숙맥이 아니라는 뜻으로, 상대의 기만을 간파했음을 알릴 때 씁니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 단순히 장소나 시점을 나타내는 물리적 문장들입니다." },
     {
-      "id": 118, "passageBottom": "Lesson 8 Dialogue Context: email alarm", "question": "해리(Harry)의 이메일 알람 소리는 무엇인가?", "options": [ "A doorbell sound", "A motorbike sound", "A bird singing", "A piano melody" ], "answer": 1, "explanation": "💡 [교재 p.83] 대화 중 'broom broom' 소리가 나고 줄리가 '오토바이 소리?'라고 묻자 해리가 맞다고 확인해 줍니다.\n\n// 🎯 오답 분석\n- 0, 2, 3번은 본문의 'broom broom' 의성어와 연결되지 않습니다." },
+      "id": 118, "passageBottom": "Lesson 8 Dialogue Context: email alarm", "question": "해리(Harry)의 이메일 알람 소리는 무엇인가?", "options": [ "A doorbell sound", "A motorbike sound", "A bird singing", "A piano melody" ], "answer": 1, "explanation": "💡 [교재 p.83] 대화 중 'broom broom' 소리가 나고 줄리가 '오토바이 소리?'라고 묻자 해리가 맞다고 확인해 줍니다.\n\n🎯 오답 분석\n- 0, 2, 3번은 본문의 'broom broom' 의성어와 연결되지 않습니다." },
     {
-      "id": 119, "passageBottom": "Lesson 8 Dialogue Highlight: heads-up", "question": "본문의 'Thanks for the heads-up.'에서 'heads-up'의 의미는?", "options": [ "머리를 들어라", "주의(경고)를 주어 고맙다", "인사해줘서 고맙다", "공을 던져줘서 고맙다" ], "answer": 1, "explanation": "💡 [교재 p.83] 무언가 발생하기 전에 미리 알려준 유용한 정보나 주의사항에 대해 감사하는 비즈니스/일상 용어입니다.\n\n// 🎯 오답 분석\n- 0번은 직역 오류이며, 2, 3번은 'heads-up'의 관용적 뜻을 담지 못합니다." },
+      "id": 119, "passageBottom": "Lesson 8 Dialogue Highlight: heads-up", "question": "본문의 'Thanks for the heads-up.'에서 'heads-up'의 의미는?", "options": [ "머리를 들어라", "주의(경고)를 주어 고맙다", "인사해줘서 고맙다", "공을 던져줘서 고맙다" ], "answer": 1, "explanation": "💡 [교재 p.83] 무언가 발생하기 전에 미리 알려준 유용한 정보나 주의사항에 대해 감사하는 비즈니스/일상 용어입니다.\n\n🎯 오답 분석\n- 0번은 직역 오류이며, 2, 3번은 'heads-up'의 관용적 뜻을 담지 못합니다." },
     {
-      "id": 120, "passageBottom": "Lesson 8 Dialogue Context: subtract three points", "question": "박 교수님이 해리의 점수를 감점한 이유는?", "options": [ "이메일 주소를 틀려서", "과제를 제시간에 제출하지 않아서", "오토바이를 타고 학교에 와서", "시험 점수가 낮아서" ], "answer": 1, "explanation": "💡 [교재 p.83] 해리가 이메일로 사정했음에도 교수님은 제출 기한을 넘긴 것에 대해 3점을 감점(subtract)하겠다고 답변하셨습니다.\n\n// 🎯 오답 분석\n- 0번은 해리의 초기 걱정이었을 뿐 실제 감점 사유는 기한 미준수입니다." 
+      "id": 120, "passageBottom": "Lesson 8 Dialogue Context: subtract three points", "question": "박 교수님이 해리의 점수를 감점한 이유는?", "options": [ "이메일 주소를 틀려서", "과제를 제시간에 제출하지 않아서", "오토바이를 타고 학교에 와서", "시험 점수가 낮아서" ], "answer": 1, "explanation": "💡 [교재 p.83] 해리가 이메일로 사정했음에도 교수님은 제출 기한을 넘긴 것에 대해 3점을 감점(subtract)하겠다고 답변하셨습니다.\n\n🎯 오답 분석\n- 0번은 해리의 초기 걱정이었을 뿐 실제 감점 사유는 기한 미준수입니다." 
     },
     {
       "id": 121,
@@ -801,7 +801,7 @@
       "question": "인성(InSung)의 첫 대사로, '왜 그렇게 기분이 좋은 거니?'라는 뜻의 핵심 패턴은?",
       "options": [ "What makes you so pleasant?", "Why are you so pleasant?", "How makes you so pleasant?", "What makes you so pleasing?" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.96, 100] 'What makes you + 형용사?'는 무생물 주어 구문으로, 상대방이 느끼는 감정의 원인을 묻는 세련된 질문 패턴입니다.\n\n// 🎯 오답 분석\n- 1번 'Why are you'는 의미는 같으나 본문에서 강조하는 'What makes you' 패턴이 아닙니다.\n- 2번 'How makes'는 문법적으로 성립하지 않는 비문입니다.\n- 3번 'pleasing'은 남을 즐겁게 한다는 능동의 의미이므로, 주어의 기분 상태를 묻는 맥락에 어색합니다."
+      "explanation": "💡 [교재 p.96, 100] 'What makes you + 형용사?'는 무생물 주어 구문으로, 상대방이 느끼는 감정의 원인을 묻는 세련된 질문 패턴입니다.\n\n🎯 오답 분석\n- 1번 'Why are you'는 의미는 같으나 본문에서 강조하는 'What makes you' 패턴이 아닙니다.\n- 2번 'How makes'는 문법적으로 성립하지 않는 비문입니다.\n- 3번 'pleasing'은 남을 즐겁게 한다는 능동의 의미이므로, 주어의 기분 상태를 묻는 맥락에 어색합니다."
     },
     {
       "id": 122,
@@ -809,7 +809,7 @@
       "question": "소영(Soyeong)이 인성에게 소셜 미디어 계정이 없다는 사실에 놀라며 한 말은?",
       "options": [ "I can't believe you don't have any accounts.", "I don't believe you have any accounts.", "I can't believe you have many accounts.", "I must believe you don't have accounts." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.96, 101] 'I can't believe ~'는 예상치 못한 사실에 대해 강한 놀라움을 표현할 때 사용합니다.\n\n// 🎯 오답 분석\n- 1번 'I don't believe'는 단순히 상대의 말을 신뢰하지 않는다는 중립적 표현입니다.\n- 2번 'have many accounts'는 인성이 계정이 없다는 본문 상황과 반대되는 내용입니다.\n- 3번 'I must believe'는 믿어야만 한다는 강제적 의미로 놀람의 표현이 아닙니다."
+      "explanation": "💡 [교재 p.96, 101] 'I can't believe ~'는 예상치 못한 사실에 대해 강한 놀라움을 표현할 때 사용합니다.\n\n🎯 오답 분석\n- 1번 'I don't believe'는 단순히 상대의 말을 신뢰하지 않는다는 중립적 표현입니다.\n- 2번 'have many accounts'는 인성이 계정이 없다는 본문 상황과 반대되는 내용입니다.\n- 3번 'I must believe'는 믿어야만 한다는 강제적 의미로 놀람의 표현이 아닙니다."
     },
     {
       "id": 123,
@@ -817,7 +817,7 @@
       "question": "본문의 '나는 유행에 뒤처지고 싶지 않아'를 영어로 바르게 옮긴 것은?",
       "options": [ "I don't want to be out of style.", "I don't want to be in style.", "I want to be out of style.", "I don't want to be out of fashion." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.97, 98] 'out of style'은 '유행이 지난', '시대에 뒤떨어진'이라는 뜻입니다. 부정어 'don't'와 결합하여 유행을 따르고 싶다는 의지를 표현합니다.\n\n// 🎯 오답 분석\n- 1번 'in style'은 유행 중이라는 뜻으로, 유행하고 싶지 않다는 반대 의미가 됩니다.\n- 2번은 유행에 뒤처지고 싶다는 어색한 의미가 됩니다.\n- 3번 'out of fashion'도 유의어이지만, 교재의 Key Pattern #1에서 제시된 정확한 표현은 'out of style'입니다."
+      "explanation": "💡 [교재 p.97, 98] 'out of style'은 '유행이 지난', '시대에 뒤떨어진'이라는 뜻입니다. 부정어 'don't'와 결합하여 유행을 따르고 싶다는 의지를 표현합니다.\n\n🎯 오답 분석\n- 1번 'in style'은 유행 중이라는 뜻으로, 유행하고 싶지 않다는 반대 의미가 됩니다.\n- 2번은 유행에 뒤처지고 싶다는 어색한 의미가 됩니다.\n- 3번 'out of fashion'도 유의어이지만, 교재의 Key Pattern #1에서 제시된 정확한 표현은 'out of style'입니다."
     },
     {
       "id": 124,
@@ -825,7 +825,7 @@
       "question": "다음 중 'I can't believe.'와 바꿔 쓸 수 있는 표현이 아닌 것은?",
       "options": [ "You don't say.", "Is that a fact ~?", "No kidding.", "That's a relief." ],
       "answer": 3,
-      "explanation": "💡 [교재 p.101] 'You don't say', 'Is that a fact?', 'No kidding'은 모두 상대의 말에 놀라움을 표하는 유의어입니다.\n\n// 🎯 오답 분석\n- 3번 'That's a relief'는 '다행이다'라는 안도감을 나타낼 때 쓰는 표현이므로 놀람의 맥락과는 거리가 멉니다."
+      "explanation": "💡 [교재 p.101] 'You don't say', 'Is that a fact?', 'No kidding'은 모두 상대의 말에 놀라움을 표하는 유의어입니다.\n\n🎯 오답 분석\n- 3번 'That's a relief'는 '다행이다'라는 안도감을 나타낼 때 쓰는 표현이므로 놀람의 맥락과는 거리가 멉니다."
     },
     {
       "id": 125,
@@ -833,7 +833,7 @@
       "question": "인성(InSung)이 두 가지를 동시에 시작하는 것에 대해 느낀 감정은?",
       "options": [ "it's too burdensome", "it's too easy", "it's too exciting", "it's too expensive" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.97, 101] 인성은 페이크북과 언더스타그램 두 계정을 한꺼번에 관리하는 것을 'burdensome(부담스러운, 힘겨운)'하다고 느꼈습니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 인성이 느낀 '심리적 부담감'을 설명하기에 부적절한 단어들입니다."
+      "explanation": "💡 [교재 p.97, 101] 인성은 페이크북과 언더스타그램 두 계정을 한꺼번에 관리하는 것을 'burdensome(부담스러운, 힘겨운)'하다고 느꼈습니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 인성이 느낀 '심리적 부담감'을 설명하기에 부적절한 단어들입니다."
     },
     {
       "id": 126,
@@ -841,7 +841,7 @@
       "question": "소영(Soyeong)이 인성의 좋은 전략을 보고 칭찬하며 사용한 패턴은?",
       "options": [ "You are a super-fast learner!", "You are a slow learner!", "You are a late bloomer!", "You are a quick study!" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.97, 99] 습득이 빠른 사람을 칭찬할 때 'fast learner'를 쓰며, 본문에서는 강조를 위해 'super-fast'가 사용되었습니다.\n\n// 🎯 오답 분석\n- 1번 'slow learner'는 습득이 느린 사람입니다.\n- 2번 'late bloomer'는 대기만성형(뒤늦게 빛을 보는 사람)을 뜻합니다.\n- 3번 'quick study'는 유의어이나 교재 본문에서 소영이 직접 건넨 말은 'super-fast learner'입니다."
+      "explanation": "💡 [교재 p.97, 99] 습득이 빠른 사람을 칭찬할 때 'fast learner'를 쓰며, 본문에서는 강조를 위해 'super-fast'가 사용되었습니다.\n\n🎯 오답 분석\n- 1번 'slow learner'는 습득이 느린 사람입니다.\n- 2번 'late bloomer'는 대기만성형(뒤늦게 빛을 보는 사람)을 뜻합니다.\n- 3번 'quick study'는 유의어이나 교재 본문에서 소영이 직접 건넨 말은 'super-fast learner'입니다."
     },
     {
       "id": 127,
@@ -849,7 +849,7 @@
       "question": "상대방에게 행운을 빌어줄 때 사용하는 본문의 문장은?",
       "options": [ "I'll keep my fingers crossed for you!", "I'll keep my eyes on you!", "I'll keep my promise for you!", "I'll keep my touch with you!" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.97, 99] 중세 시대 십자가 모양을 만들어 액운을 쫓던 관습에서 유래한 'keep my fingers crossed'는 행운을 빈다는 대표적인 관용구입니다.\n\n// 🎯 오답 분석\n- 1번은 지켜보겠다(감시/주의)는 뜻입니다.\n- 2번은 약속을 지키겠다는 뜻입니다.\n- 3번은 연락하고 지내겠다는 뜻입니다."
+      "explanation": "💡 [교재 p.97, 99] 중세 시대 십자가 모양을 만들어 액운을 쫓던 관습에서 유래한 'keep my fingers crossed'는 행운을 빈다는 대표적인 관용구입니다.\n\n🎯 오답 분석\n- 1번은 지켜보겠다(감시/주의)는 뜻입니다.\n- 2번은 약속을 지키겠다는 뜻입니다.\n- 3번은 연락하고 지내겠다는 뜻입니다."
     },
     {
       "id": 128,
@@ -857,7 +857,7 @@
       "question": "본문의 'learn everything quickly'와 의미가 통하는 형용사가 아닌 것은?",
       "options": [ "adept", "capable", "versatile", "clueless" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.101] 무언가를 빨리 배우고 능숙한 사람을 묘사할 때 'adept(숙련된)', 'capable(능력 있는)', 'versatile(다재다능한)'을 씁니다.\n\n// 🎯 오답 분석\n- 3번 'clueless'는 아무것도 모르거나 눈치가 없음을 뜻하는 반의어입니다."
+      "explanation": "💡 [교재 p.101] 무언가를 빨리 배우고 능숙한 사람을 묘사할 때 'adept(숙련된)', 'capable(능력 있는)', 'versatile(다재다능한)'을 씁니다.\n\n🎯 오답 분석\n- 3번 'clueless'는 아무것도 모르거나 눈치가 없음을 뜻하는 반의어입니다."
     },
     {
       "id": 129,
@@ -865,7 +865,7 @@
       "question": "COCA 검색 결과 'What makes you so' 뒤에 오는 표현 중 빈도수 1위를 차지한 것은?",
       "options": [ "SURE", "SPECIAL", "CERTAIN", "MUCH" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.102] COCA 분석 결과 'What makes you so sure?'가 290회로 압도적 1위를 기록했습니다. 이는 상대방의 확신에 대한 근거를 물을 때 매우 빈번히 사용됩니다.\n\n// 🎯 오답 분석\n- 1번 'special'은 37회로 2위입니다.\n- 2번 'certain'은 17회로 3위입니다."
+      "explanation": "💡 [교재 p.102] COCA 분석 결과 'What makes you so sure?'가 290회로 압도적 1위를 기록했습니다. 이는 상대방의 확신에 대한 근거를 물을 때 매우 빈번히 사용됩니다.\n\n🎯 오답 분석\n- 1번 'special'은 37회로 2위입니다.\n- 2번 'certain'은 17회로 3위입니다."
     },
     {
       "id": 130,
@@ -873,7 +873,7 @@
       "question": "상대방의 말을 믿지 않을 때 '안 믿어'라는 뜻으로 사용하는 본문 속 표현은?",
       "options": [ "I don't buy it.", "I don't sell it.", "I don't pay it.", "I don't take it." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.103] 'buy'는 물건을 사는 것 외에 상대의 주장이나 변명을 '받아들이다/믿다'는 뜻으로 쓰입니다. 'I don't buy it'은 신뢰하지 않는다는 뜻입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 'buy'의 비유적 의미를 파악하지 못한 물리적 해석들입니다."
+      "explanation": "💡 [교재 p.103] 'buy'는 물건을 사는 것 외에 상대의 주장이나 변명을 '받아들이다/믿다'는 뜻으로 쓰입니다. 'I don't buy it'은 신뢰하지 않는다는 뜻입니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 'buy'의 비유적 의미를 파악하지 못한 물리적 해석들입니다."
     },
     {
       "id": 131,
@@ -881,7 +881,7 @@
       "question": "매우 끔찍했던 경험을 회상하며 '그건 악몽이었어'라고 할 때 쓰는 표현은?",
       "options": [ "It was a nightmare.", "It was a daydream.", "It was a big dream.", "It was a sweet dream." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.104] 현실에서 겪은 매우 고통스럽거나 혼란스러운 상황을 '악몽(nightmare)'에 비유하여 표현합니다.\n\n// 🎯 오답 분석\n- 1번 'daydream'은 백일몽(공상)입니다.\n- 3번 'sweet dream'은 좋은 꿈을 뜻하는 정반대의 표현입니다."
+      "explanation": "💡 [교재 p.104] 현실에서 겪은 매우 고통스럽거나 혼란스러운 상황을 '악몽(nightmare)'에 비유하여 표현합니다.\n\n🎯 오답 분석\n- 1번 'daydream'은 백일몽(공상)입니다.\n- 3번 'sweet dream'은 좋은 꿈을 뜻하는 정반대의 표현입니다."
     },
     {
       "id": 132,
@@ -889,7 +889,7 @@
       "question": "본문에서 소영(Soyeong)이 페이크북의 장점으로 언급한 '팬들과 소통하다'에 해당하는 표현은?",
       "options": [ "communicate with your fans", "contact with your fans", "connect with your fans", "interact with your fans" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.97] 소영은 페이크북이 긴 글을 통해 팬들과 깊이 있게 소통(communicate with)하기 좋다고 설명합니다.\n\n// 🎯 오답 분석\n- 1번 'contact'는 단순히 연락이 닿는다는 뉘앙스가 강합니다.\n- 2, 3번은 유의어이나 본문에서 사용된 정확한 표현은 'communicate with'입니다."
+      "explanation": "💡 [교재 p.97] 소영은 페이크북이 긴 글을 통해 팬들과 깊이 있게 소통(communicate with)하기 좋다고 설명합니다.\n\n🎯 오답 분석\n- 1번 'contact'는 단순히 연락이 닿는다는 뉘앙스가 강합니다.\n- 2, 3번은 유의어이나 본문에서 사용된 정확한 표현은 'communicate with'입니다."
     },
     {
       "id": 133,
@@ -897,7 +897,7 @@
       "question": "다음 중 'communicate with'와 의미가 유사한 표현이 아닌 것은?",
       "options": [ "be in contact with", "make contact with", "reach out to", "keep away from" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.101] 'be in contact with', 'reach out to' 등은 모두 소통과 연결을 의미하는 표현들입니다.\n\n// 🎯 오답 분석\n- 3번 'keep away from'은 거리를 두다 혹은 피하다라는 뜻으로 소통의 반대말입니다."
+      "explanation": "💡 [교재 p.101] 'be in contact with', 'reach out to' 등은 모두 소통과 연결을 의미하는 표현들입니다.\n\n🎯 오답 분석\n- 3번 'keep away from'은 거리를 두다 혹은 피하다라는 뜻으로 소통의 반대말입니다."
     },
     {
       "id": 134,
@@ -905,7 +905,7 @@
       "question": "핵심 패턴을 활용하여 '그녀는 유행에 뒤처졌어'를 영작한 것은?",
       "options": [ "She is out of trend.", "She is out of style.", "Peter lost touch with the world.", "모두 정답" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.98] 'out of style', 'out of trend', 'lost touch with the world' 모두 급변하는 시대의 흐름을 따라가지 못함을 뜻하는 유용한 표현들입니다.\n\n// 🎯 오답 분석\n- 모든 보기가 같은 맥락의 정답입니다."
+      "explanation": "💡 [교재 p.98] 'out of style', 'out of trend', 'lost touch with the world' 모두 급변하는 시대의 흐름을 따라가지 못함을 뜻하는 유용한 표현들입니다.\n\n🎯 오답 분석\n- 모든 보기가 같은 맥락의 정답입니다."
     },
     {
       "id": 135,
@@ -913,7 +913,7 @@
       "question": "인성(InSung)이 결국 먼저 시작하기로 결정한 소셜 미디어 플랫폼은?",
       "options": [ "Understagram", "Fakebook", "Netplus", "Twittie" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.97] 인성은 모델이라는 직업 특성상 사진과 짧은 영상을 올리기 편한 'Understagram'을 먼저 시작하기로 결심합니다.\n\n// 🎯 오답 분석\n- 1번 'Fakebook'은 나중에 고려하기로 했습니다.\n- 2번 'Netplus'는 OTT 서비스, 3번 'Twittie'는 10과의 주제입니다."
+      "explanation": "💡 [교재 p.97] 인성은 모델이라는 직업 특성상 사진과 짧은 영상을 올리기 편한 'Understagram'을 먼저 시작하기로 결심합니다.\n\n🎯 오답 분석\n- 1번 'Fakebook'은 나중에 고려하기로 했습니다.\n- 2번 'Netplus'는 OTT 서비스, 3번 'Twittie'는 10과의 주제입니다."
     },
     {
       "id": 136,
@@ -921,7 +921,7 @@
       "question": "본문에서 해리(Harry)가 자신을 묘사하며 사용한 '처음에는 별로일지 모르지만 알면 알수록 괜찮은 사람'이라는 뜻의 표현은?",
       "options": [ "I'm an acquired taste.", "I'm a natural talent.", "I'm a hidden gem.", "I'm a late bloomer." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.106, 107] 'acquired taste'는 홍어나 낫또처럼 처음엔 거부감이 들 수 있지만 반복해서 접하며 좋아하게 되는 맛이나 사람을 비유합니다.\n\n// 🎯 오답 분석\n- 1번은 천부적 재능을 뜻합니다.\n- 2번은 숨겨진 보석(재능 있는 사람)입니다.\n- 3번은 뒤늦게 꽃피우는 사람입니다."
+      "explanation": "💡 [교재 p.106, 107] 'acquired taste'는 홍어나 낫또처럼 처음엔 거부감이 들 수 있지만 반복해서 접하며 좋아하게 되는 맛이나 사람을 비유합니다.\n\n🎯 오답 분석\n- 1번은 천부적 재능을 뜻합니다.\n- 2번은 숨겨진 보석(재능 있는 사람)입니다.\n- 3번은 뒤늦게 꽃피우는 사람입니다."
     },
     {
       "id": 137,
@@ -929,7 +929,7 @@
       "question": "유진(Yu-Jin)이 굽고 있는 '비건 스콘(vegan scones)'에 대한 설명으로 옳은 것은?",
       "options": [ "고기가 들어가지 않은 스콘이다.", "버터(동물성 지방)를 사용하지 않은 스콘이다.", "설탕이 전혀 들어가지 않은 스콘이다.", "밀가루 대신 쌀가루를 사용한 스콘이다." ],
       "answer": 1,
-      "explanation": "💡 [교재 p.105] 유진은 비건이 되기로 결정한 후, 동물성 지방이 포함된 버터를 넣지 않고 스콘을 굽는다고 설명합니다.\n\n// 🎯 오답 분석\n- 0번은 채식주의(Vegetarian)의 일반적 정의이나, 비건은 유제품(버터 등)까지 엄격히 배제합니다.\n- 2, 3번은 본문에서 언급되지 않은 재료 제한입니다."
+      "explanation": "💡 [교재 p.105] 유진은 비건이 되기로 결정한 후, 동물성 지방이 포함된 버터를 넣지 않고 스콘을 굽는다고 설명합니다.\n\n🎯 오답 분석\n- 0번은 채식주의(Vegetarian)의 일반적 정의이나, 비건은 유제품(버터 등)까지 엄격히 배제합니다.\n- 2, 3번은 본문에서 언급되지 않은 재료 제한입니다."
     },
     {
       "id": 138,
@@ -937,7 +937,7 @@
       "question": "상대방의 말을 정확히 이해하지 못해 재확인할 때 사용하는 본문의 질문 패턴은?",
       "options": [ "What do you mean by vegan scones?", "Why do you say vegan scones?", "How do you make vegan scones?", "Where do you find vegan scones?" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.105, 109] 'What do you mean by ~?'는 상대방이 사용한 특정 단어나 개념의 구체적인 의도를 되물을 때 필수적인 패턴입니다.\n\n// 🎯 오답 분석\n- 1번은 이유, 2번은 방법, 3번은 장소를 묻는 질문으로 재확인 패턴이 아닙니다."
+      "explanation": "💡 [교재 p.105, 109] 'What do you mean by ~?'는 상대방이 사용한 특정 단어나 개념의 구체적인 의도를 되물을 때 필수적인 패턴입니다.\n\n🎯 오답 분석\n- 1번은 이유, 2번은 방법, 3번은 장소를 묻는 질문으로 재확인 패턴이 아닙니다."
     },
     {
       "id": 139,
@@ -945,7 +945,7 @@
       "question": "줄리(Julie)가 언급한 일부 트위티 이용자들의 특징으로, '급진적인 의견'에 해당하는 표현은?",
       "options": [ "radical opinions", "rational thoughts", "random ideas", "rare comments" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.106] 줄리는 트위티에 'radical opinions(급진적이거나 과격한 의견)'을 가진 이용자들이 많아 주의해야 한다고 언급합니다.\n\n// 🎯 오답 분석\n- 1번 'rational'은 이성적인 뜻으로 반대 의미입니다.\n- 2번 'random'은 무작위의, 3번 'rare'는 드문 뜻입니다."
+      "explanation": "💡 [교재 p.106] 줄리는 트위티에 'radical opinions(급진적이거나 과격한 의견)'을 가진 이용자들이 많아 주의해야 한다고 언급합니다.\n\n🎯 오답 분석\n- 1번 'rational'은 이성적인 뜻으로 반대 의미입니다.\n- 2번 'random'은 무작위의, 3번 'rare'는 드문 뜻입니다."
     },
     {
       "id": 140,
@@ -953,7 +953,7 @@
       "question": "유진이 해리의 패기 있는 태도를 칭찬하며 사용한 표현은?",
       "options": [ "You are a fighter.", "You are a dreamer.", "You are a leader.", "You are a soldier." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.106, 108] 여기서 'fighter'는 물리적인 싸움꾼이 아니라, 자신의 신념을 위해 당당히 맞서 싸우는 '패기 있는 사람'을 뜻하는 찬사입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 인물의 성향을 나타낼 순 있으나 본문에서 해리의 '논쟁적 용기'를 칭찬한 단어는 아닙니다."
+      "explanation": "💡 [교재 p.106, 108] 여기서 'fighter'는 물리적인 싸움꾼이 아니라, 자신의 신념을 위해 당당히 맞서 싸우는 '패기 있는 사람'을 뜻하는 찬사입니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 인물의 성향을 나타낼 순 있으나 본문에서 해리의 '논쟁적 용기'를 칭찬한 단어는 아닙니다."
     },
     {
       "id": 141,
@@ -961,7 +961,7 @@
       "question": "어떤 사람이 명성이나 기대에 부응하는 삶을 산다고 할 때 쓰는 '이름값을 하다'는 뜻의 패턴은?",
       "options": [ "live up to one's name", "make up one's name", "give up one's name", "keep up one's name" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.106, 109] 'live up to'는 기대, 기준, 이름 등에 걸맞게 행동하거나 살아가는 것을 의미하는 핵심 구동사입니다.\n\n// 🎯 오답 분석\n- 1번 'make up'은 이름을 지어내다, 2번 'give up'은 이름을 포기하다는 뜻입니다."
+      "explanation": "💡 [교재 p.106, 109] 'live up to'는 기대, 기준, 이름 등에 걸맞게 행동하거나 살아가는 것을 의미하는 핵심 구동사입니다.\n\n🎯 오답 분석\n- 1번 'make up'은 이름을 지어내다, 2번 'give up'은 이름을 포기하다는 뜻입니다."
     },
     {
       "id": 142,
@@ -969,7 +969,7 @@
       "question": "대화의 화제를 전환할 때 쓰는 'by the way'와 바꿔 쓸 수 있는 표현이 아닌 것은?",
       "options": [ "apart from", "in passing", "by the bye", "on the way" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.110] 'apart from', 'in passing', 'by the bye'는 모두 화제를 돌릴 때 쓰는 표현입니다.\n\n// 🎯 오답 분석\n- 3번 'on the way'는 장소로 이동 중이라는 뜻으로 화제 전환과는 무관합니다."
+      "explanation": "💡 [교재 p.110] 'apart from', 'in passing', 'by the bye'는 모두 화제를 돌릴 때 쓰는 표현입니다.\n\n🎯 오답 분석\n- 3번 'on the way'는 장소로 이동 중이라는 뜻으로 화제 전환과는 무관합니다."
     },
     {
       "id": 143,
@@ -977,7 +977,7 @@
       "question": "COCA 분석 결과, 'What do you mean by' 뒤에 오는 표현 중 사용 빈도가 압도적으로 높은 1위는?",
       "options": [ "THAT", "THIS", "IT", "ANYTHING" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.111] COCA 검색 결과 'What do you mean by THAT?'이 762회로 1위를 차지했습니다. 상대의 바로 앞 말을 가리키는 'that'이 가장 많이 쓰입니다.\n\n// 🎯 오답 분석\n- 1, 2번은 빈도가 낮으며, 3번 'anything'은 패턴과 어울리지 않습니다."
+      "explanation": "💡 [교재 p.111] COCA 검색 결과 'What do you mean by THAT?'이 762회로 1위를 차지했습니다. 상대의 바로 앞 말을 가리키는 'that'이 가장 많이 쓰입니다.\n\n🎯 오답 분석\n- 1, 2번은 빈도가 낮으며, 3번 'anything'은 패턴과 어울리지 않습니다."
     },
     {
       "id": 144,
@@ -985,7 +985,7 @@
       "question": "정오표의 수정 사항에 따라, 'Laughing My Ass Off'의 올바른 약어(abbreviation)는?",
       "options": [ "LAMO", "LMAO", "LMFO", "LMAW" ],
       "answer": 1,
-      "explanation": "💡 [정오표 p.113] 교재 113쪽 2행의 'LAMO'는 오기이며, 'LMAO'가 올바른 약어 표현입니다.\n\n// 🎯 오답 분석\n- 0번은 교재의 오타 형태입니다.\n- 2, 3번은 실제 존재하지 않거나 본문의 수정 사항이 아닙니다."
+      "explanation": "💡 [정오표 p.113] 교재 113쪽 2행의 'LAMO'는 오기이며, 'LMAO'가 올바른 약어 표현입니다.\n\n🎯 오답 분석\n- 0번은 교재의 오타 형태입니다.\n- 2, 3번은 실제 존재하지 않거나 본문의 수정 사항이 아닙니다."
     },
     {
       "id": 145,
@@ -993,7 +993,7 @@
       "question": "상대방이 상황 파악을 못 하거나 눈치가 전혀 없을 때 사용하는 본문 속 표현은?",
       "options": [ "He's clueless.", "He's breathless.", "He's hopeless.", "He's heartless." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.113] 'clueless'는 단서(clue)가 전혀 없다는 뜻에서 유래하여, 상황을 전혀 모르는 눈치 없는 상태를 뜻합니다.\n\n// 🎯 오답 분석\n- 1번은 숨이 찬, 2번은 희망이 없는, 3번은 비정한 뜻입니다."
+      "explanation": "💡 [교재 p.113] 'clueless'는 단서(clue)가 전혀 없다는 뜻에서 유래하여, 상황을 전혀 모르는 눈치 없는 상태를 뜻합니다.\n\n🎯 오답 분석\n- 1번은 숨이 찬, 2번은 희망이 없는, 3번은 비정한 뜻입니다."
     },
     {
       "id": 146,
@@ -1001,7 +1001,7 @@
       "question": "해리가 여왕의 트위티를 칭찬하며 사용한 '핵심적인 구절(재치 있는 말)'을 뜻하는 단어는?",
       "options": [ "punchline", "headline", "deadline", "baseline" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.106] 'punchline'은 농담이나 글의 묘미를 살리는 결정적인 마지막 한 마디를 뜻합니다.\n\n// 🎯 오답 분석\n- 1번은 신문 기사의 제목, 2번은 마감 시한, 3번은 기준선입니다."
+      "explanation": "💡 [교재 p.106] 'punchline'은 농담이나 글의 묘미를 살리는 결정적인 마지막 한 마디를 뜻합니다.\n\n🎯 오답 분석\n- 1번은 신문 기사의 제목, 2번은 마감 시한, 3번은 기준선입니다."
     },
     {
       "id": 147,
@@ -1009,7 +1009,7 @@
       "question": "상대방의 말에 전적으로 동의하며 '맞아요'라고 할 때 쓸 수 있는 표현이 아닌 것은?",
       "options": [ "You said it.", "As you say, ~", "Without a doubt, ~", "I'm not sure." ],
       "answer": 3,
-      "explanation": "💡 [교재 p.111] 'You said it' 등은 상대방의 의견에 강력하게 동의하는 표현들입니다.\n\n// 🎯 오답 분석\n- 3번 'I'm not sure'는 불확실하거나 동의하지 않을 때 쓰는 표현입니다."
+      "explanation": "💡 [교재 p.111] 'You said it' 등은 상대방의 의견에 강력하게 동의하는 표현들입니다.\n\n🎯 오답 분석\n- 3번 'I'm not sure'는 불확실하거나 동의하지 않을 때 쓰는 표현입니다."
     },
     {
       "id": 148,
@@ -1017,7 +1017,7 @@
       "question": "해리가 트위티에서 다른 이용자들과 열띤 토론(argue)을 벌였던 주제는?",
       "options": [ "비건 레시피", "돌고래 혼획 (dolphin bycatch)", "영국 여왕의 업무", "스콘 굽는 법" ],
       "answer": 1,
-      "explanation": "💡 [교재 p.106] 해리는 환경 보호에 관심이 많아 'dolphin bycatch(돌고래 혼획)' 문제로 다른 이들과 논쟁을 벌였다고 언급합니다.\n\n// 🎯 오답 분석\n- 0, 3번은 유진의 대화 주제이며, 2번은 해리가 감탄한 여왕의 활동 내용입니다."
+      "explanation": "💡 [교재 p.106] 해리는 환경 보호에 관심이 많아 'dolphin bycatch(돌고래 혼획)' 문제로 다른 이들과 논쟁을 벌였다고 언급합니다.\n\n🎯 오답 분석\n- 0, 3번은 유진의 대화 주제이며, 2번은 해리가 감탄한 여왕의 활동 내용입니다."
     },
     {
       "id": 149,
@@ -1025,7 +1025,7 @@
       "question": "본문의 'Oh my god!'을 더 완곡하고 부드럽게 표현한 유의어는?",
       "options": [ "Oh my gosh!", "Holy moly!", "1번과 2번 모두 정답", "Shut up!" ],
       "answer": 2,
-      "explanation": "💡 [교재 p.110] 신의 이름을 직접 부르는 것을 피하기 위해 'Gosh'나 'Holy moly' 같은 완곡어(Euphemism)를 사용합니다.\n\n// 🎯 오답 분석\n- 3번 'Shut up'은 조용히 하라는 무례한 표현으로 놀람과는 거리가 멉니다."
+      "explanation": "💡 [교재 p.110] 신의 이름을 직접 부르는 것을 피하기 위해 'Gosh'나 'Holy moly' 같은 완곡어(Euphemism)를 사용합니다.\n\n🎯 오답 분석\n- 3번 'Shut up'은 조용히 하라는 무례한 표현으로 놀람과는 거리가 멉니다."
     },
     {
       "id": 150,
@@ -1033,7 +1033,7 @@
       "question": "대화의 마지막에 유진이 비명을 지른(Oh my Gosh!) 이유는?",
       "options": [ "트위티 계정이 삭제되어서", "스콘이 비건용이 아니어서", "오븐에 둔 스콘을 깜빡 잊고 태워서", "해리가 비건이 아니라는 사실을 알아서" ],
       "answer": 2,
-      "explanation": "💡 [교재 p.106] 유진은 해리와의 대화에 너무 몰두한 나머지 오븐에 넣어둔 스콘을 태워버렸습니다.\n\n// 🎯 오답 분석\n- 0, 1, 3번은 대화 중 언급은 되었으나 유진이 비명을 지른 직접적 원인은 아닙니다."
+      "explanation": "💡 [교재 p.106] 유진은 해리와의 대화에 너무 몰두한 나머지 오븐에 넣어둔 스콘을 태워버렸습니다.\n\n🎯 오답 분석\n- 0, 1, 3번은 대화 중 언급은 되었으나 유진이 비명을 지른 직접적 원인은 아닙니다."
     },
     {
       "id": 151,
@@ -1041,7 +1041,7 @@
       "question": "민수(Min-su)가 면접을 시작하며 '방금 이력서를 검토해 보았습니다'라고 할 때 사용한 표현은?",
       "options": [ "I was just reviewing your resume.", "I was just writing your resume.", "I was just sending your resume.", "I was just holding your resume." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.118] 면접관이 지원자의 자격을 살피기 위해 이력서를 꼼꼼히 읽는 행위를 'review'라고 표현합니다.\n\n// 🎯 오답 분석\n- 1번은 면접관이 이력서를 직접 썼다는 뜻이 되어 어색합니다.\n- 2번은 보내는 중, 3번은 들고만 있다는 뜻으로 검토의 의미를 담지 못합니다."
+      "explanation": "💡 [교재 p.118] 면접관이 지원자의 자격을 살피기 위해 이력서를 꼼꼼히 읽는 행위를 'review'라고 표현합니다.\n\n🎯 오답 분석\n- 1번은 면접관이 이력서를 직접 썼다는 뜻이 되어 어색합니다.\n- 2번은 보내는 중, 3번은 들고만 있다는 뜻으로 검토의 의미를 담지 못합니다."
     },
     {
       "id": 152,
@@ -1049,7 +1049,7 @@
       "question": "과거에는 비서로 일했으나 지금은 하지 않는 상태를 나타내는 본문의 핵심 패턴은?",
       "options": [ "I used to work as a part-time secretary.", "I am used to work as a part-time secretary.", "I get used to work as a part-time secretary.", "I used for work as a part-time secretary." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.118, 120] 'used to + 동사원형'은 과거의 지속적인 상태나 습관을 의미하며 현재는 그렇지 않다는 점을 내포합니다.\n\n// 🎯 오답 분석\n- 1번 'am used to'는 익숙하다는 뜻이며 뒤에 ~ing가 와야 합니다.\n- 2번 'get used to'는 익숙해지다라는 뜻입니다.\n- 3번은 문법적으로 성립하지 않는 형태입니다."
+      "explanation": "💡 [교재 p.118, 120] 'used to + 동사원형'은 과거의 지속적인 상태나 습관을 의미하며 현재는 그렇지 않다는 점을 내포합니다.\n\n🎯 오답 분석\n- 1번 'am used to'는 익숙하다는 뜻이며 뒤에 ~ing가 와야 합니다.\n- 2번 'get used to'는 익숙해지다라는 뜻입니다.\n- 3번은 문법적으로 성립하지 않는 형태입니다."
     },
     {
       "id": 153,
@@ -1057,7 +1057,7 @@
       "question": "본문의 'B.A. in English'에서 'B.A.'의 의미로 옳은 것은?",
       "options": [ "문학사 (Bachelor of Arts)", "경영학 석사 (M.B.A.)", "박사 학위 (Ph.D.)", "전문대 졸업장 (Associate Degree)" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.118, 124] 'B.A.'는 'Bachelor of Arts'의 약자로 인문, 사회과학 분야의 4년제 학사 학위를 의미합니다.\n\n// 🎯 오답 분석\n- 1번은 석사, 2번은 박사, 3번은 2년제 전문학사 학위입니다."
+      "explanation": "💡 [교재 p.118, 124] 'B.A.'는 'Bachelor of Arts'의 약자로 인문, 사회과학 분야의 4년제 학사 학위를 의미합니다.\n\n🎯 오답 분석\n- 1번은 석사, 2번은 박사, 3번은 2년제 전문학사 학위입니다."
     },
     {
       "id": 154,
@@ -1065,7 +1065,7 @@
       "question": "상대방의 말이 끊겼을 때 '네? 하던 이야기 계속 해보시겠어요?'라고 정중히 요청하는 패턴은?",
       "options": [ "Yes? You were saying?", "Yes? You were talking?", "Yes? You were speaking?", "Yes? You were shouting?" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.119, 121] 'You were saying ~?'은 상대방이 말을 멈췄을 때 자연스럽게 대화를 이어가도록 유도하는 비즈니스 관용 표현입니다.\n\n// 🎯 오답 분석\n- 1, 2번은 단순히 말하는 중이었다는 상태 설명일 뿐 대화 재개 요청으로는 어색합니다.\n- 3번은 소리 지르고 있었다는 뜻입니다."
+      "explanation": "💡 [교재 p.119, 121] 'You were saying ~?'은 상대방이 말을 멈췄을 때 자연스럽게 대화를 이어가도록 유도하는 비즈니스 관용 표현입니다.\n\n🎯 오답 분석\n- 1, 2번은 단순히 말하는 중이었다는 상태 설명일 뿐 대화 재개 요청으로는 어색합니다.\n- 3번은 소리 지르고 있었다는 뜻입니다."
     },
     {
       "id": 155,
@@ -1073,7 +1073,7 @@
       "question": "소영(Soyeong)이 너무 훌륭한 회사라 자신에게는 '기가 좀 죽는다(과분하다)'고 할 때 쓴 표현은?",
       "options": [ "I feel a little out of my league.", "I feel a little out of my house.", "I feel a little out of my car.", "I feel a little out of my mind." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.119] 'out of one's league'는 스포츠의 리그 수준 차이에서 유래하여, 자신의 능력보다 수준이 너무 높거나 과분한 대상을 만났을 때 씁니다.\n\n// 🎯 오답 분석\n- 1, 2번은 장소를 벗어났다는 물리적 뜻이며, 3번 'out of my mind'는 제정신이 아니라는 뜻입니다."
+      "explanation": "💡 [교재 p.119] 'out of one's league'는 스포츠의 리그 수준 차이에서 유래하여, 자신의 능력보다 수준이 너무 높거나 과분한 대상을 만났을 때 씁니다.\n\n🎯 오답 분석\n- 1, 2번은 장소를 벗어났다는 물리적 뜻이며, 3번 'out of my mind'는 제정신이 아니라는 뜻입니다."
     },
     {
       "id": 156,
@@ -1081,7 +1081,7 @@
       "question": "다음 중 'a little out of my league'와 바꿔 쓸 수 있는 표현은?",
       "options": [ "a little beyond me", "a little too advanced for me", "1번과 2번 모두 정답", "a little beneath me" ],
       "answer": 2,
-      "explanation": "💡 [교재 p.124] 'beyond me'나 'too advanced'는 모두 자신의 수준을 넘어선다는 뜻의 적절한 유의어입니다.\n\n// 🎯 오답 분석\n- 3번 'beneath me'는 내 수준보다 낮다는(가소롭다는) 반대 의미이므로 주의해야 합니다."
+      "explanation": "💡 [교재 p.124] 'beyond me'나 'too advanced'는 모두 자신의 수준을 넘어선다는 뜻의 적절한 유의어입니다.\n\n🎯 오답 분석\n- 3번 'beneath me'는 내 수준보다 낮다는(가소롭다는) 반대 의미이므로 주의해야 합니다."
     },
     {
       "id": 157,
@@ -1089,7 +1089,7 @@
       "question": "상대방의 오해나 잘못된 생각을 바로잡으며 '누가 그런 소리를 하던가요?'라고 묻는 본문의 질문은?",
       "options": [ "Who gave you that idea?", "Where did you get that idea?", "Who told you that?", "모두 정답" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.123] 제시된 세 표현 모두 상대방이 가진 잘못된 생각이나 루머의 출처를 묻는 유용한 질문들입니다.\n\n// 🎯 오답 분석\n- 모든 보기가 정답입니다."
+      "explanation": "💡 [교재 p.123] 제시된 세 표현 모두 상대방이 가진 잘못된 생각이나 루머의 출처를 묻는 유용한 질문들입니다.\n\n🎯 오답 분석\n- 모든 보기가 정답입니다."
     },
     {
       "id": 158,
@@ -1097,7 +1097,7 @@
       "question": "직책의 의무나 업무 내용을 설명할 때 쓰는 패턴으로, 본문의 '이 자리는 영어로 굉장히 많이 써야 합니다'에 해당하는 문장은?",
       "options": [ "The position involves a lot of writing in English.", "The position includes a lot of writing in English.", "The position contains a lot of writing in English.", "The position makes a lot of writing in English." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.119, 122] 'involve'는 어떤 업무나 역할에 필연적으로 따르는 책임을 설명할 때 쓰는 비즈니스 핵심 단어입니다.\n\n// 🎯 오답 분석\n- 1번 'includes'도 의미는 통하나 'involve'가 업무 책임을 나타낼 때 더 전문적입니다.\n- 2, 3번은 물리적 구성물이나 사역의 의미로 업무 설명에는 부적절합니다."
+      "explanation": "💡 [교재 p.119, 122] 'involve'는 어떤 업무나 역할에 필연적으로 따르는 책임을 설명할 때 쓰는 비즈니스 핵심 단어입니다.\n\n🎯 오답 분석\n- 1번 'includes'도 의미는 통하나 'involve'가 업무 책임을 나타낼 때 더 전문적입니다.\n- 2, 3번은 물리적 구성물이나 사역의 의미로 업무 설명에는 부적절합니다."
     },
     {
       "id": 159,
@@ -1105,7 +1105,7 @@
       "question": "민수(Min-su)가 소영의 능력을 인정하며 '정말 대단하시네요(인정합니다)'라고 할 때 쓴 표현은?",
       "options": [ "I've got to hand it to you.", "I've got to give it to you.", "I've got to send it to you.", "I've got to take it to you." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.119, 124] 'hand it to someone'은 상대방의 성공이나 훌륭한 점을 인정하고 칭찬한다는 뜻의 관용구입니다.\n\n// 🎯 오답 분석\n- 1번 'give it to you'는 단순히 물건을 주거나 벌을 준다는 뜻이 될 수 있습니다.\n- 2, 3번은 칭찬의 관용구로 쓰이지 않는 물리적 전송 표현입니다."
+      "explanation": "💡 [교재 p.119, 124] 'hand it to someone'은 상대방의 성공이나 훌륭한 점을 인정하고 칭찬한다는 뜻의 관용구입니다.\n\n🎯 오답 분석\n- 1번 'give it to you'는 단순히 물건을 주거나 벌을 준다는 뜻이 될 수 있습니다.\n- 2, 3번은 칭찬의 관용구로 쓰이지 않는 물리적 전송 표현입니다."
     },
     {
       "id": 160,
@@ -1113,7 +1113,7 @@
       "question": "COCA 분석 결과, 'I used to' 뒤에 가장 많이 쓰이는 동사 1위는?",
       "options": [ "KNOW", "LOVE", "THINK", "EAT" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.125] COCA 데이터 분석 결과 'I used to know'가 50회로 압도적 1위를 기록했습니다. 과거의 지인이나 지식을 회상할 때 자주 쓰입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 각각 5회, 5회, 3회로 1위와 차이가 큽니다."
+      "explanation": "💡 [교재 p.125] COCA 데이터 분석 결과 'I used to know'가 50회로 압도적 1위를 기록했습니다. 과거의 지인이나 지식을 회상할 때 자주 쓰입니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 각각 5회, 5회, 3회로 1위와 차이가 큽니다."
     },
     {
       "id": 161,
@@ -1121,7 +1121,7 @@
       "question": "상대방이 모든 원칙을 어기고 있다고 비판할 때 사용하는 표현은?",
       "options": [ "He's breaking all the rules.", "He's bending all the rules.", "He's playing with the rules.", "He's making all the rules." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.126] 'break the rules'는 명문화된 규칙이나 상식을 완전히 위반하는 행위를 강하게 비판할 때 씁니다.\n\n// 🎯 오답 분석\n- 1번 'bending'은 규칙을 교묘히 이용(악용)하거나 약간 어기는 것입니다.\n- 3번 'making'은 규칙을 스스로 만든다는 뜻입니다."
+      "explanation": "💡 [교재 p.126] 'break the rules'는 명문화된 규칙이나 상식을 완전히 위반하는 행위를 강하게 비판할 때 씁니다.\n\n🎯 오답 분석\n- 1번 'bending'은 규칙을 교묘히 이용(악용)하거나 약간 어기는 것입니다.\n- 3번 'making'은 규칙을 스스로 만든다는 뜻입니다."
     },
     {
       "id": 162,
@@ -1129,7 +1129,7 @@
       "question": "비즈니스 상황에서 '우리'를 중시하고 공동 작업에 강한 사람을 지칭하는 말은?",
       "options": [ "team player", "lone wolf", "solo player", "game changer" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.127] 조직의 목표를 위해 협력하고 잘 융화되는 사람을 'team player'라고 부릅니다.\n\n// 🎯 오답 분석\n- 1번 'lone wolf'는 혼자 일하기를 좋아하는 독불장군형입니다.\n- 3번 'game changer'는 상황의 판도를 바꾸는 혁신가입니다."
+      "explanation": "💡 [교재 p.127] 조직의 목표를 위해 협력하고 잘 융화되는 사람을 'team player'라고 부릅니다.\n\n🎯 오답 분석\n- 1번 'lone wolf'는 혼자 일하기를 좋아하는 독불장군형입니다.\n- 3번 'game changer'는 상황의 판도를 바꾸는 혁신가입니다."
     },
     {
       "id": 163,
@@ -1137,7 +1137,7 @@
       "question": "민수(Min-su)의 대사 'I'm sold on your honesty'에서 'I'm sold'의 의미는?",
       "options": [ "나는 물건을 팔았다.", "나는 감복했다 (신뢰하게 되었다).", "나는 정직함을 샀다.", "나는 면접을 포기했다." ],
       "answer": 1,
-      "explanation": "💡 [교재 p.125] 'be sold on something'은 어떤 아이디어나 사람의 가치에 설득되어 완전히 신뢰하게 되었음을 뜻하는 구어체입니다.\n\n// 🎯 오답 분석\n- 0, 2번은 'sell/buy'의 일차적 상거래 의미를 이용한 오역입니다."
+      "explanation": "💡 [교재 p.125] 'be sold on something'은 어떤 아이디어나 사람의 가치에 설득되어 완전히 신뢰하게 되었음을 뜻하는 구어체입니다.\n\n🎯 오답 분석\n- 0, 2번은 'sell/buy'의 일차적 상거래 의미를 이용한 오역입니다."
     },
     {
       "id": 164,
@@ -1145,7 +1145,7 @@
       "question": "민수(Min-su)가 소영에게 '당신은 완벽한 자격을 갖췄어요'라고 격려하며 한 말은?",
       "options": [ "You seem perfectly qualified.", "You look perfectly qualified.", "You are perfectly qualified.", "모두 정답" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.119] 면접관이 지원자의 역량을 높이 평가할 때 'seem/look/are + 형용사' 구조를 사용하여 확신을 줍니다.\n\n// 🎯 오답 분석\n- 세 표현 모두 본문의 칭찬 맥락에서 사용 가능한 맞는 표현입니다."
+      "explanation": "💡 [교재 p.119] 면접관이 지원자의 역량을 높이 평가할 때 'seem/look/are + 형용사' 구조를 사용하여 확신을 줍니다.\n\n🎯 오답 분석\n- 세 표현 모두 본문의 칭찬 맥락에서 사용 가능한 맞는 표현입니다."
     },
     {
       "id": 165,
@@ -1153,7 +1153,7 @@
       "question": "면접의 마지막 부분에서 '당신은 우리 팀에 잘 맞을 것 같아요'를 영어로 바르게 표현한 것은?",
       "options": [ "You'll make a good fit with our team.", "You'll be a good fit with our team.", "1번과 2번 모두 정답", "You'll make a good clothes for our team." ],
       "answer": 2,
-      "explanation": "💡 [교재 p.119] 'fit'은 명사로 쓰여 조직이나 역할에 대한 '적임자/어울림'을 뜻합니다. 'make/be a good fit'이 표준적인 비즈니스 표현입니다.\n\n// 🎯 오답 분석\n- 3번은 'fit(맞다)'의 옷 사이즈 의미를 이용한 엉뚱한 비유입니다."
+      "explanation": "💡 [교재 p.119] 'fit'은 명사로 쓰여 조직이나 역할에 대한 '적임자/어울림'을 뜻합니다. 'make/be a good fit'이 표준적인 비즈니스 표현입니다.\n\n🎯 오답 분석\n- 3번은 'fit(맞다)'의 옷 사이즈 의미를 이용한 엉뚱한 비유입니다."
     },
     {
       "id": 166,
@@ -1161,7 +1161,7 @@
       "question": "민수(Min-su)가 회의를 시작하며 '갑작스러운 연락(급한 전갈)에도 와주셔서 감사합니다'라고 할 때 사용한 표현은?",
       "options": [ "Thanks for coming on such short notice.", "Thanks for coming on such long notice.", "Thanks for coming on such fast notice.", "Thanks for coming on such clear notice." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.128, 129] 'on short notice'는 상대방에게 충분한 시간적 여유를 주지 않고 급하게 요청했을 때 사용하는 비즈니스 핵심 관용구입니다.\n\n// 🎯 오답 분석\n- 1번 'long notice'는 충분한 사전 예고를 뜻하며, 감사 인사 패턴으로는 쓰이지 않습니다.\n- 2, 3번은 '급함'이나 '명확함'을 뜻하는 형용사를 임의로 대입한 비문입니다."
+      "explanation": "💡 [교재 p.128, 129] 'on short notice'는 상대방에게 충분한 시간적 여유를 주지 않고 급하게 요청했을 때 사용하는 비즈니스 핵심 관용구입니다.\n\n🎯 오답 분석\n- 1번 'long notice'는 충분한 사전 예고를 뜻하며, 감사 인사 패턴으로는 쓰이지 않습니다.\n- 2, 3번은 '급함'이나 '명확함'을 뜻하는 형용사를 임의로 대입한 비문입니다."
     },
     {
       "id": 167,
@@ -1169,7 +1169,7 @@
       "question": "어떠한 결정을 내렸음을 공식적으로 밝힐 때 쓰는 본문의 핵심 패턴은?",
       "options": [ "I have decided that we should buy the land later.", "I have decide that we should buy the land later.", "I am deciding that we should buy the land later.", "I had decided that we should buy the land later." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.130] 현재완료 시제(have + p.p.)를 사용하여 이미 결정을 내린 상태임을 공식적으로 발표할 때 씁니다.\n\n// 🎯 오답 분석\n- 1번 'decide'는 과거분사 형태가 아니므로 문법적 오류입니다.\n- 2번은 현재 진행 중인 상태를 뜻하며, 3번은 과거 완료로 맥락상 어색합니다."
+      "explanation": "💡 [교재 p.130] 현재완료 시제(have + p.p.)를 사용하여 이미 결정을 내린 상태임을 공식적으로 발표할 때 씁니다.\n\n🎯 오답 분석\n- 1번 'decide'는 과거분사 형태가 아니므로 문법적 오류입니다.\n- 2번은 현재 진행 중인 상태를 뜻하며, 3번은 과거 완료로 맥락상 어색합니다."
     },
     {
       "id": 168,
@@ -1177,7 +1177,7 @@
       "question": "상대방의 생각이나 분석이 완전히 틀렸다고 지적할 때 본문에서 사용된 패턴은?",
       "options": [ "You've got it all wrong.", "You've got it all mixed up.", "You've got it backwards.", "모두 정답" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.131] 상대방이 오해하고 있거나 상황을 잘못 파악했을 때 사용하는 강한 부정의 표현들입니다.\n\n// 🎯 오답 분석\n- 모든 선택지가 '당신이 틀렸다'는 의미를 강조하는 유의어입니다."
+      "explanation": "💡 [교재 p.131] 상대방이 오해하고 있거나 상황을 잘못 파악했을 때 사용하는 강한 부정의 표현들입니다.\n\n🎯 오답 분석\n- 모든 선택지가 '당신이 틀렸다'는 의미를 강조하는 유의어입니다."
     },
     {
       "id": 169,
@@ -1185,7 +1185,7 @@
       "question": "좋은 기회를 놓치게 될 것임을 경고할 때 본문에서 노아(Noah)가 사용한 패턴은?",
       "options": [ "we will miss out.", "we will lose out.", "1번과 2번 모두 정답", "we will pass out." ],
       "answer": 2,
-      "explanation": "💡 [교재 p.132] 'miss out'이나 'lose out'은 유리한 기회나 이득을 놓친다는 뜻의 핵심 구동사입니다.\n\n// 🎯 오답 분석\n- 3번 'pass out'은 '기절하다' 혹은 '나눠주다'라는 뜻이므로 문맥상 전혀 다른 의미입니다."
+      "explanation": "💡 [교재 p.132] 'miss out'이나 'lose out'은 유리한 기회나 이득을 놓친다는 뜻의 핵심 구동사입니다.\n\n🎯 오답 분석\n- 3번 'pass out'은 '기절하다' 혹은 '나눠주다'라는 뜻이므로 문맥상 전혀 다른 의미입니다."
     },
     {
       "id": 170,
@@ -1193,7 +1193,7 @@
       "question": "제시된 상황이나 사실에 대해 의문을 제기하며 '어쩌죠?', '~는 어때요?'라고 묻는 본문의 질문 패턴은?",
       "options": [ "What about the fact that prices are too high?", "Why about the fact that prices are too high?", "How about the fact that prices are too high?", "When about the fact that prices are too high?" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.133] 'What about ~?'은 새로운 정보를 제시하거나 반론을 제기할 때 매우 자주 쓰이는 패턴입니다.\n\n// 🎯 오답 분석\n- 1, 3번은 'about'과 결합하여 의문을 제기하는 표준 패턴이 아닙니다.\n- 2번 'How about'은 제안할 때 주로 쓰이지만, 본문에서 사실 관계를 따져 묻는 맥락에는 'What about'이 정석입니다."
+      "explanation": "💡 [교재 p.133] 'What about ~?'은 새로운 정보를 제시하거나 반론을 제기할 때 매우 자주 쓰이는 패턴입니다.\n\n🎯 오답 분석\n- 1, 3번은 'about'과 결합하여 의문을 제기하는 표준 패턴이 아닙니다.\n- 2번 'How about'은 제안할 때 주로 쓰이지만, 본문에서 사실 관계를 따져 묻는 맥락에는 'What about'이 정석입니다."
     },
     {
       "id": 171,
@@ -1201,7 +1201,7 @@
       "question": "민수(Min-su)가 우려한 '부동산 거품'에 해당하는 영어 표현은?",
       "options": [ "real estate bubble", "housing balloon", "property cloud", "land dream" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.129] 자산 가치가 과도하게 부풀려진 상태를 경제 용어로 'bubble'이라고 부릅니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 '거품'의 의미를 물리적인 풍선이나 구름 등으로 오역한 표현입니다."
+      "explanation": "💡 [교재 p.129] 자산 가치가 과도하게 부풀려진 상태를 경제 용어로 'bubble'이라고 부릅니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 '거품'의 의미를 물리적인 풍선이나 구름 등으로 오역한 표현입니다."
     },
     {
       "id": 172,
@@ -1209,7 +1209,7 @@
       "question": "본문의 'things might go bust'에서 'go bust'와 바꿔 쓸 수 있는 표현이 아닌 것은?",
       "options": [ "fail", "go South", "take a turn for the worst", "go high" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.134, 137] 'go bust'는 파산하거나 실패한다는 뜻입니다.\n\n// 🎯 오답 분석\n- 3번 'go high'는 성공하거나 가격이 오른다는 반대 뜻입니다.\n- 'go South'는 상황이 악화되거나 하락함을 뜻하는 유용한 이디엄입니다."
+      "explanation": "💡 [교재 p.134, 137] 'go bust'는 파산하거나 실패한다는 뜻입니다.\n\n🎯 오답 분석\n- 3번 'go high'는 성공하거나 가격이 오른다는 반대 뜻입니다.\n- 'go South'는 상황이 악화되거나 하락함을 뜻하는 유용한 이디엄입니다."
     },
     {
       "id": 173,
@@ -1217,7 +1217,7 @@
       "question": "가격이 급격히 폭락하는 것을 비유적으로 표현한 본문 속 단어는?",
       "options": [ "nosedive", "headjump", "eyelevel", "earfall" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.129] 비행기가 코를 박고 추락하듯 가격이 급감하는 상황을 'nosedive'라고 합니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 신체 부위와 결합하여 만든 부자연스러운 조어입니다."
+      "explanation": "💡 [교재 p.129] 비행기가 코를 박고 추락하듯 가격이 급감하는 상황을 'nosedive'라고 합니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 신체 부위와 결합하여 만든 부자연스러운 조어입니다."
     },
     {
       "id": 174,
@@ -1225,7 +1225,7 @@
       "question": "노아(Noah)가 제안한 '모든 것을 걸고 투자하다'를 뜻하는 관용구의 조합은?",
       "options": [ "go all in and bet the farm", "go all out and bet the house", "go all up and bet the land", "go all over and bet the field" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.134] 'go all in'은 포커 용어에서 유래했으며, 'bet the farm'은 가진 전 재산인 농장을 건다는 뜻에서 유래한 강력한 투자 표현입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 관용구의 원형을 변형시킨 틀린 조합입니다."
+      "explanation": "💡 [교재 p.134] 'go all in'은 포커 용어에서 유래했으며, 'bet the farm'은 가진 전 재산인 농장을 건다는 뜻에서 유래한 강력한 투자 표현입니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 관용구의 원형을 변형시킨 틀린 조합입니다."
     },
     {
       "id": 175,
@@ -1233,7 +1233,7 @@
       "question": "노아(Noah)가 자신의 분석이 '정확하다'고 주장하며 쓴 표현과 같은 뜻은?",
       "options": [ "exactly right", "on the money", "1번과 2번 모두 정답", "far from it" ],
       "answer": 2,
-      "explanation": "💡 [교재 p.135] 'spot on'은 한 치의 오차도 없이 정확함을 뜻하는 비즈니스 구어입니다.\n\n// 🎯 오답 분석\n- 3번 'far from it'은 '전혀 그렇지 않다'는 뜻으로 반의어입니다."
+      "explanation": "💡 [교재 p.135] 'spot on'은 한 치의 오차도 없이 정확함을 뜻하는 비즈니스 구어입니다.\n\n🎯 오답 분석\n- 3번 'far from it'은 '전혀 그렇지 않다'는 뜻으로 반의어입니다."
     },
     {
       "id": 176,
@@ -1241,7 +1241,7 @@
       "question": "COCA 검색 결과 'I have decided to' 뒤에 가장 많이 쓰이는 표현 1위는?",
       "options": [ "GO BACK TO", "TAKE A BREAK", "BOYCOTT", "MOVE BACK TO" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.136] COCA 분석 결과, 무언가를 원래대로 되돌리거나 돌아가기로 결정했다는 'GO BACK TO'가 가장 빈번하게 사용되었습니다.\n\n// 🎯 오답 분석\n- 1, 2번 등도 순위권에 있으나 빈도수 면에서 1위는 아닙니다."
+      "explanation": "💡 [교재 p.136] COCA 분석 결과, 무언가를 원래대로 되돌리거나 돌아가기로 결정했다는 'GO BACK TO'가 가장 빈번하게 사용되었습니다.\n\n🎯 오답 분석\n- 1, 2번 등도 순위권에 있으나 빈도수 면에서 1위는 아닙니다."
     },
     {
       "id": 177,
@@ -1249,7 +1249,7 @@
       "question": "일이 실패하거나 계획이 꽝이 되었을 때 쓰는 관용구는?",
       "options": [ "Go bust!", "Go best!", "Go first!", "Go fast!" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.137] 'go bust'는 타이어가 펑크 나거나 풍선이 터지는 상황을 연상하면 쉽게 이해할 수 있는 '실패'의 표현입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 단순히 '최고', '첫 번째', '빨리'를 뜻하여 문맥에 맞지 않습니다."
+      "explanation": "💡 [교재 p.137] 'go bust'는 타이어가 펑크 나거나 풍선이 터지는 상황을 연상하면 쉽게 이해할 수 있는 '실패'의 표현입니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 단순히 '최고', '첫 번째', '빨리'를 뜻하여 문맥에 맞지 않습니다."
     },
     {
       "id": 178,
@@ -1257,7 +1257,7 @@
       "question": "정각이 아닌 대략적인 시간을 나타내기 위해 단어 뒤에 붙이는 어미는?\n\n\"Let's meet at 12:30(     ).\"",
       "options": [ "ish", "able", "ness", "ment" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.137] 시간 뒤에 '-ish'를 붙이면 '~쯤', '~정도의'라는 모호한 의미를 더해주는 유용한 회화 표현입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 형용사나 명사를 만드는 일반적인 접미사로 시간 뒤에 붙이지 않습니다."
+      "explanation": "💡 [교재 p.137] 시간 뒤에 '-ish'를 붙이면 '~쯤', '~정도의'라는 모호한 의미를 더해주는 유용한 회화 표현입니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 형용사나 명사를 만드는 일반적인 접미사로 시간 뒤에 붙이지 않습니다."
     },
     {
       "id": 179,
@@ -1265,7 +1265,7 @@
       "question": "본문에서 노아가 데이터를 수차례 계산하고 분석했음을 나타낼 때 쓴 표현은?",
       "options": [ "crunched the numbers", "punched the numbers", "kicked the numbers", "saved the numbers" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.129] 'crunch the numbers'는 방대한 데이터를 수치적으로 정밀하게 계산하거나 분석한다는 뜻의 전문 표현입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 숫자를 다루는 비즈니스 관용구가 아닌 물리적 타격이나 저장을 뜻합니다."
+      "explanation": "💡 [교재 p.129] 'crunch the numbers'는 방대한 데이터를 수치적으로 정밀하게 계산하거나 분석한다는 뜻의 전문 표현입니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 숫자를 다루는 비즈니스 관용구가 아닌 물리적 타격이나 저장을 뜻합니다."
     },
     {
       "id": 180,
@@ -1273,7 +1273,7 @@
       "question": "민수(Min-su)가 노아의 계획에 반대하며 '나는 관여하지 않겠다'라고 할 때 쓴 본문 표현은?",
       "options": [ "I’m not going to be a party to it.", "I want no part of this.", "Count me out.", "모두 정답" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.129, 135] 어떤 계획이나 모의에 동참하기를 거부할 때 사용하는 다양한 비즈니스 관용 표현들입니다.\n\n// 🎯 오답 분석\n- 모든 문장이 거절과 배제를 뜻하는 올바른 표현입니다."
+      "explanation": "💡 [교재 p.129, 135] 어떤 계획이나 모의에 동참하기를 거부할 때 사용하는 다양한 비즈니스 관용 표현들입니다.\n\n🎯 오답 분석\n- 모든 문장이 거절과 배제를 뜻하는 올바른 표현입니다."
     },
     {
       "id": 181,
@@ -1281,7 +1281,7 @@
       "question": "상대방의 제안에 대해 '안 될 이유가 없죠(기꺼이 그러죠)'라고 찬성할 때 사용하는 본문의 핵심 패턴은?",
       "options": [ "I don't see why not.", "I don't know why not.", "I don't think why not.", "I don't feel why not." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.139, 141] 제안에 대해 흔쾌히 긍정적으로 화답할 때 쓰는 관용구입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 문법적으로나 관용적으로 찬성을 나타내는 표준 패턴이 아닙니다."
+      "explanation": "💡 [교재 p.139, 141] 제안에 대해 흔쾌히 긍정적으로 화답할 때 쓰는 관용구입니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 문법적으로나 관용적으로 찬성을 나타내는 표준 패턴이 아닙니다."
     },
     {
       "id": 182,
@@ -1289,7 +1289,7 @@
       "question": "믿기 힘든 상황에 대해 '그걸 믿을 수 있겠어요?'라고 물을 때 사용하는 본문의 패턴은?",
       "options": [ "Can you believe how much money this is going to cost us?", "Do you believe how much money this is going to cost us?", "Are you believe how much money this is going to cost us?", "Will you believe how much money this is going to cost us?" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.140, 142] 'Can you believe + 명사/절'은 놀라움이나 의구심을 표현하며 상대의 동의를 구할 때 씁니다.\n\n// 🎯 오답 분석\n- 1번은 단순한 사실 확인이며, 2번은 be동사 오류, 3번은 미래 의지를 묻는 어색한 질문입니다."
+      "explanation": "💡 [교재 p.140, 142] 'Can you believe + 명사/절'은 놀라움이나 의구심을 표현하며 상대의 동의를 구할 때 씁니다.\n\n🎯 오답 분석\n- 1번은 단순한 사실 확인이며, 2번은 be동사 오류, 3번은 미래 의지를 묻는 어색한 질문입니다."
     },
     {
       "id": 183,
@@ -1297,7 +1297,7 @@
       "question": "다른 대안이 없는 상황에서 '~하는 것 외에 선택의 여지가 없다'는 뜻의 본문 패턴은?",
       "options": [ "We have no choice but to clean up this mess.", "We have no choice clean up this mess.", "We have no choice but clean up this mess.", "We have no choice for cleaning up this mess." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.139, 144] 'have no choice but to + 동사원형'은 선택의 여지가 없는 막다른 상황을 뜻하는 필수 비즈니스 구문입니다.\n\n// 🎯 오답 분석\n- 1번은 'but'이나 'to'가 누락되었고, 2번은 'to' 부정사 원칙을 어겼습니다."
+      "explanation": "💡 [교재 p.139, 144] 'have no choice but to + 동사원형'은 선택의 여지가 없는 막다른 상황을 뜻하는 필수 비즈니스 구문입니다.\n\n🎯 오답 분석\n- 1번은 'but'이나 'to'가 누락되었고, 2번은 'to' 부정사 원칙을 어겼습니다."
     },
     {
       "id": 184,
@@ -1305,7 +1305,7 @@
       "question": "정오표에 따라 수정된 민수(Min-su)의 대사 중 '냉정을 유지했어야 했다'는 뜻의 올바른 문장은?",
       "options": [ "Noah should have just cooled his feelings.", "Noah should have just cooled his heels.", "Noah should have just cooled his head.", "Noah should have just cooled his mind." ],
       "answer": 0,
-      "explanation": "💡 [정오표 p.139] 기존의 'cooled his heels(기다리다)'는 문맥상 어색하여 'cooled his feelings(냉정을 유지하다/진정하다)'로 수정되었습니다.\n\n// 🎯 오답 분석\n- 1번은 수정 전의 잘못된 표현입니다. 2, 3번은 정오표에서 제시한 표준 수정안이 아닙니다."
+      "explanation": "💡 [정오표 p.139] 기존의 'cooled his heels(기다리다)'는 문맥상 어색하여 'cooled his feelings(냉정을 유지하다/진정하다)'로 수정되었습니다.\n\n🎯 오답 분석\n- 1번은 수정 전의 잘못된 표현입니다. 2, 3번은 정오표에서 제시한 표준 수정안이 아닙니다."
     },
     {
       "id": 185,
@@ -1313,7 +1313,7 @@
       "question": "과거에 중요하게 여겨지던 가치 등이 사라졌을 때 '도대체 ~은 어떻게 된 거죠?'라고 묻는 본문의 패턴은?",
       "options": [ "Whatever happened to accountability?", "Whatever happened to my money?", "Whatever happened to that little girl?", "모두 정답" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.140, 144] 'Whatever happened to ~?'는 사람이나 사물, 추상적인 가치의 행방이나 변해버린 상태를 물을 때 폭넓게 쓰입니다.\n\n// 🎯 오답 분석\n- 모든 예문이 이 패턴을 사용한 올바른 질문들입니다."
+      "explanation": "💡 [교재 p.140, 144] 'Whatever happened to ~?'는 사람이나 사물, 추상적인 가치의 행방이나 변해버린 상태를 물을 때 폭넓게 쓰입니다.\n\n🎯 오답 분석\n- 모든 예문이 이 패턴을 사용한 올바른 질문들입니다."
     },
     {
       "id": 186,
@@ -1321,7 +1321,7 @@
       "question": "본문의 'the market just crashed and burned'에서 'crashed and burned'와 바꿔 쓸 수 있는 표현은?",
       "options": [ "flop", "disaster", "fiasco", "모두 정답" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.139, 145] 'crashed and burned'는 계획된 일이 완전히 처참하게 망했음을 뜻하는 강력한 비유입니다.\n\n// 🎯 오답 분석\n- 제시된 모든 단어가 실패나 재앙을 뜻하는 적절한 유의어입니다."
+      "explanation": "💡 [교재 p.139, 145] 'crashed and burned'는 계획된 일이 완전히 처참하게 망했음을 뜻하는 강력한 비유입니다.\n\n🎯 오답 분석\n- 제시된 모든 단어가 실패나 재앙을 뜻하는 적절한 유의어입니다."
     },
     {
       "id": 187,
@@ -1329,7 +1329,7 @@
       "question": "본문에서 '책임을 떠맡게 되다(독박을 쓰다)'라는 뜻으로 사용된 관용구는?",
       "options": [ "left holding the bag", "left holding the hand", "left holding the card", "left holding the door" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.139, 145] 다른 공범들은 도망가고 혼자 훔친 물건이 든 가방을 들고 잡힌 상황에서 유래한 표현입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 관용구의 의미를 담지 못한 임의의 단어 조합입니다."
+      "explanation": "💡 [교재 p.139, 145] 다른 공범들은 도망가고 혼자 훔친 물건이 든 가방을 들고 잡힌 상황에서 유래한 표현입니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 관용구의 의미를 담지 못한 임의의 단어 조합입니다."
     },
     {
       "id": 188,
@@ -1337,7 +1337,7 @@
       "question": "COCA 분석 결과, 'We have no choice but to' 뒤에 가장 많이 쓰이는 동사 1위는?",
       "options": [ "TAKE", "GO", "FIGHT", "CONTINUE" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.147, 148] COCA 데이터 결과 'TAKE'가 가장 높은 빈도를 보였으며, 이는 어떤 조치나 경로를 선택할 수밖에 없는 상황에서 자주 쓰입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번 모두 순위권에는 있으나 빈도수 1위는 아닙니다."
+      "explanation": "💡 [교재 p.147, 148] COCA 데이터 결과 'TAKE'가 가장 높은 빈도를 보였으며, 이는 어떤 조치나 경로를 선택할 수밖에 없는 상황에서 자주 쓰입니다.\n\n🎯 오답 분석\n- 1, 2, 3번 모두 순위권에는 있으나 빈도수 1위는 아닙니다."
     },
     {
       "id": 189,
@@ -1345,7 +1345,7 @@
       "question": "상대방의 기대와 달리 '어림없다' 혹은 '안 된다'고 할 때 민수가 사용한 표현은?",
       "options": [ "No dice.", "No cards.", "No game.", "No luck." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.139] 주사위를 던졌는데 결과가 안 나온 상황에서 유래하여, 제안이나 기대를 단호히 거절할 때 씁니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 거절의 관용구로 쓰이지 않는 단어들입니다."
+      "explanation": "💡 [교재 p.139] 주사위를 던졌는데 결과가 안 나온 상황에서 유래하여, 제안이나 기대를 단호히 거절할 때 씁니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 거절의 관용구로 쓰이지 않는 단어들입니다."
     },
     {
       "id": 190,
@@ -1353,7 +1353,7 @@
       "question": "본문의 'You have got to be kidding me.'와 바꿔 쓸 수 없는 표현은?",
       "options": [ "You've got to be joking.", "You can't be serious.", "Are you pulling my leg?", "I'm sold on that." ],
       "answer": 3,
-      "explanation": "💡 [교재 p.146] 0, 1, 2번은 모두 상대의 말이 농담이거나 거짓말이라고 의심하며 놀라움을 표하는 표현입니다.\n\n// 🎯 오답 분석\n- 3번 'I'm sold on that'은 '그것에 설득당했다(찬성한다)'는 뜻이므로 의구심과는 정반대입니다."
+      "explanation": "💡 [교재 p.146] 0, 1, 2번은 모두 상대의 말이 농담이거나 거짓말이라고 의심하며 놀라움을 표하는 표현입니다.\n\n🎯 오답 분석\n- 3번 'I'm sold on that'은 '그것에 설득당했다(찬성한다)'는 뜻이므로 의구심과는 정반대입니다."
     },
     {
       "id": 191,
@@ -1361,7 +1361,7 @@
       "question": "위험을 분산하지 않고 '모든 것을 한곳에 걸다'라는 뜻의 관용구는?",
       "options": [ "I have all my eggs in one basket.", "Don't put all your eggs in one basket.", "1번과 2번 모두 정답", "I have no eggs in my basket." ],
       "answer": 2,
-      "explanation": "💡 [교재 p.149] 바구니 하나에 모든 달걀을 담았다가 깨뜨리면 다 잃는다는 뜻에서 분산 투자의 중요성을 말합니다.\n\n// 🎯 오답 분석\n- 3번은 달걀이 아예 없다는 뜻으로 관용적 의미가 없습니다."
+      "explanation": "💡 [교재 p.149] 바구니 하나에 모든 달걀을 담았다가 깨뜨리면 다 잃는다는 뜻에서 분산 투자의 중요성을 말합니다.\n\n🎯 오답 분석\n- 3번은 달걀이 아예 없다는 뜻으로 관용적 의미가 없습니다."
     },
     {
       "id": 192,
@@ -1369,7 +1369,7 @@
       "question": "본문의 'We're really in a jam now.'에서 'in a jam'의 의미는?",
       "options": [ "잼 통 안에 있다", "난국에 처해 있다 (곤경에 빠지다)", "교통 체증에 갇히다", "매우 달콤한 상황이다" ],
       "answer": 1,
-      "explanation": "💡 [교재 p.140] 끈적한 잼 속에 갇힌 것처럼 빠져나오기 힘든 어려운 상황을 비유하는 표현입니다.\n\n// 🎯 오답 분석\n- 0번은 직역 오류, 2번은 'traffic jam'과 혼동을 유도한 보기입니다."
+      "explanation": "💡 [교재 p.140] 끈적한 잼 속에 갇힌 것처럼 빠져나오기 힘든 어려운 상황을 비유하는 표현입니다.\n\n🎯 오답 분석\n- 0번은 직역 오류, 2번은 'traffic jam'과 혼동을 유도한 보기입니다."
     },
     {
       "id": 193,
@@ -1377,7 +1377,7 @@
       "question": "세부 사항을 '철저히 논의하여 해결하다'라는 뜻으로 본문에서 쓰인 표현은?",
       "options": [ "hammer out the details", "smooth out the details", "iron out the details", "모두 정답" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.140, 146] 금속을 두드려 펴거나 다리미로 주름을 펴듯 끈기 있게 문제를 해결한다는 뜻의 유용한 표현들입니다.\n\n// 🎯 오답 분석\n- 모든 보기가 세부 사항 조율을 뜻하는 올바른 표현입니다."
+      "explanation": "💡 [교재 p.140, 146] 금속을 두드려 펴거나 다리미로 주름을 펴듯 끈기 있게 문제를 해결한다는 뜻의 유용한 표현들입니다.\n\n🎯 오답 분석\n- 모든 보기가 세부 사항 조율을 뜻하는 올바른 표현입니다."
     },
     {
       "id": 194,
@@ -1385,7 +1385,7 @@
       "question": "도저히 이해가 가지 않는 상황에 대해 '전혀 말이 안 돼'라고 할 때 쓰는 표현은?",
       "options": [ "It is without rhyme or reason.", "It makes little sense.", "It is unreasonable.", "모두 정답" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.150] 'rhyme(운율)'과 'reason(이성)'이 없다는 것은 앞뒤 논리가 전혀 맞지 않음을 강조하는 관용구입니다.\n\n// 🎯 오답 분석\n- 모든 선택지가 '이해할 수 없다'는 뜻의 유의어들입니다."
+      "explanation": "💡 [교재 p.150] 'rhyme(운율)'과 'reason(이성)'이 없다는 것은 앞뒤 논리가 전혀 맞지 않음을 강조하는 관용구입니다.\n\n🎯 오답 분석\n- 모든 선택지가 '이해할 수 없다'는 뜻의 유의어들입니다."
     },
     {
       "id": 195,
@@ -1393,7 +1393,7 @@
       "question": "로버트(Robert)가 지적한 노아의 또 다른 실수로, 고려하지 못한 비용은?",
       "options": [ "환경 규제 준수 비용 (environmental regulations)", "인건비 상승 비용 (labor costs)", "부동산 중개 수수료 (real estate commission)", "사무실 임대료 (office rent)" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.140] 노아는 새로운 환경 규제를 따르는 데 드는 예상치 못한 비용을 예산에 반영하지 않는 실수를 저질렀습니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 대화 중 노아의 직접적인 예산 분석 실수로 언급되지 않은 사항들입니다."
+      "explanation": "💡 [교재 p.140] 노아는 새로운 환경 규제를 따르는 데 드는 예상치 못한 비용을 예산에 반영하지 않는 실수를 저질렀습니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 대화 중 노아의 직접적인 예산 분석 실수로 언급되지 않은 사항들입니다."
     },
     {
       "id": 196,
@@ -1401,7 +1401,7 @@
       "question": "인성(InSung)의 첫 대사로, '영어를 공부할 방법이 있을까요?'를 영어로 바르게 옮긴 것은?",
       "options": [ "Is there any way to study English?", "Is there any method to study English?", "Are there any ways to study English?", "1번과 3번 모두 정답" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.156, 160] 해결책이나 구체적인 방법을 정중하게 물을 때 사용하는 핵심 질문 패턴입니다.\n\n// 🎯 오답 분석\n- 1번은 패턴의 유의어이며, 단수(any way)와 복수(any ways) 모두 가능합니다."
+      "explanation": "💡 [교재 p.156, 160] 해결책이나 구체적인 방법을 정중하게 물을 때 사용하는 핵심 질문 패턴입니다.\n\n🎯 오답 분석\n- 1번은 패턴의 유의어이며, 단수(any way)와 복수(any ways) 모두 가능합니다."
     },
     {
       "id": 197,
@@ -1409,7 +1409,7 @@
       "question": "민수(Min-su)의 대사 중 '인성 씨답지 않은데요!'에 해당하는 표현은?",
       "options": [ "This isn't typical of you, InSung!", "This isn't like you, InSung!", "This is so you, InSung!", "1번과 2번 모두 정답" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.156, 160] 'typical of ~'는 평소의 전형적인 모습을 뜻하며, 부정형은 예외적인 행동을 지적할 때 씁니다.\n\n// 🎯 오답 분석\n- 2번 'This is so you'는 '이거 정말 인성 씨답네요'라는 정반대의 긍정 강조입니다."
+      "explanation": "💡 [교재 p.156, 160] 'typical of ~'는 평소의 전형적인 모습을 뜻하며, 부정형은 예외적인 행동을 지적할 때 씁니다.\n\n🎯 오답 분석\n- 2번 'This is so you'는 '이거 정말 인성 씨답네요'라는 정반대의 긍정 강조입니다."
     },
     {
       "id": 198,
@@ -1417,7 +1417,7 @@
       "question": "민수가 인성을 놀린 후 '진정해요. 그냥 농담이에요'라고 할 때 사용한 패턴은?",
       "options": [ "Chill out. I'm just kidding.", "Calm down. I'm only joking.", "Take it easy. I was only jesting.", "모두 정답" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.156, 158] 상대방의 흥분을 가라앉히거나 가벼운 농담임을 밝힐 때 쓰는 다양한 회화적 표현들입니다.\n\n// 🎯 오답 분석\n- 모든 표현이 '진정해, 농담이야'라는 맥락의 정답입니다."
+      "explanation": "💡 [교재 p.156, 158] 상대방의 흥분을 가라앉히거나 가벼운 농담임을 밝힐 때 쓰는 다양한 회화적 표현들입니다.\n\n🎯 오답 분석\n- 모든 표현이 '진정해, 농담이야'라는 맥락의 정답입니다."
     },
     {
       "id": 199,
@@ -1425,7 +1425,7 @@
       "question": "인성이 언더스타그램에서 시작하고 싶어 하는 활동은?",
       "options": [ "live streaming in English", "making a photo album", "writing a long diary", "selling fashion items" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.156] 인성은 외국인 팔로워들과 실시간으로 소통하기 위해 'live streaming in English'에 관심을 보입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 본문에서 언급한 인성의 주된 계획이 아닙니다."
+      "explanation": "💡 [교재 p.156] 인성은 외국인 팔로워들과 실시간으로 소통하기 위해 'live streaming in English'에 관심을 보입니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 본문에서 언급한 인성의 주된 계획이 아닙니다."
     },
     {
       "id": 200,
@@ -1433,7 +1433,7 @@
       "question": "유진(Yu-Jin)이 민수에게 경고하듯 던진 말로, '이게 끝이 아니에요(나중에 두고 봐요)'라는 뜻의 패턴은?",
       "options": [ "You haven't seen the last of me.", "You haven't seen my last face.", "You haven't seen the end of me.", "You haven't seen my final move." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.157, 159] '나의 마지막 모습을 아직 보지 못했다'는 직역에서 유래하여, 복수를 다짐하거나 재기할 것임을 경고할 때 씁니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 관용구의 형태를 어설프게 변형시킨 잘못된 문장들입니다."
+      "explanation": "💡 [교재 p.157, 159] '나의 마지막 모습을 아직 보지 못했다'는 직역에서 유래하여, 복수를 다짐하거나 재기할 것임을 경고할 때 씁니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 관용구의 형태를 어설프게 변형시킨 잘못된 문장들입니다."
     },
     {
       "id": 201,
@@ -1441,7 +1441,7 @@
       "question": "본문의 'Knock it off!'와 바꿔 쓸 수 있는 표현으로 적절하지 않은 것은?",
       "options": [ "Break off!", "Cut it off!", "Call it quits!", "Keep it up!" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.156, 162] 'Knock it off'는 시끄럽거나 귀찮게 구는 하던 일을 당장 그만두라는 뜻입니다.\n\n// 🎯 오답 분석\n- 3번 'Keep it up'은 '계속해라/힘내라'는 정반대의 응원 표현입니다."
+      "explanation": "💡 [교재 p.156, 162] 'Knock it off'는 시끄럽거나 귀찮게 구는 하던 일을 당장 그만두라는 뜻입니다.\n\n🎯 오답 분석\n- 3번 'Keep it up'은 '계속해라/힘내라'는 정반대의 응원 표현입니다."
     },
     {
       "id": 202,
@@ -1449,7 +1449,7 @@
       "question": "인성이 두 사람의 말싸움을 말리며 '본론만 말해요'라고 할 때 쓴 표현은?",
       "options": [ "Just cut to the chase.", "Just get to the point.", "Just come to the point.", "모두 정답" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.157, 162] 서론을 생략하고 핵심(chase)으로 바로 들어가라는 뜻의 다양한 비즈니스/일상 표현들입니다.\n\n// 🎯 오답 분석\n- 제시된 모든 선택지가 동일한 의미를 담고 있습니다."
+      "explanation": "💡 [교재 p.157, 162] 서론을 생략하고 핵심(chase)으로 바로 들어가라는 뜻의 다양한 비즈니스/일상 표현들입니다.\n\n🎯 오답 분석\n- 제시된 모든 선택지가 동일한 의미를 담고 있습니다."
     },
     {
       "id": 203,
@@ -1457,7 +1457,7 @@
       "question": "COCA 분석 결과, 'Is there any way to' 뒤에 가장 많이 쓰인 표현 1위는?",
       "options": [ "STOP IT?", "GET OUT OF?", "GET BACK TO?", "STOP THEM?" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.163] 데이터 결과 'STOP IT'이 가장 빈번히 사용되었으며, 이는 원치 않는 상황이나 문제를 해결할 방법을 찾을 때 주로 씁니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번 모두 순위에는 포함되지만 빈도수는 1위보다 낮습니다."
+      "explanation": "💡 [교재 p.163] 데이터 결과 'STOP IT'이 가장 빈번히 사용되었으며, 이는 원치 않는 상황이나 문제를 해결할 방법을 찾을 때 주로 씁니다.\n\n🎯 오답 분석\n- 1, 2, 3번 모두 순위에는 포함되지만 빈도수는 1위보다 낮습니다."
     },
     {
       "id": 204,
@@ -1465,7 +1465,7 @@
       "question": "민수가 인성에게 일상 영어를 배우기 위해 추천한 시트콤 제목은?",
       "options": [ "Modern Family", "La casa de papel", "CSI", "Grey's Anatomy" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.157] 민수는 일상생활에서 바로 쓸 수 있는 유용하고 쉬운 영어를 배우기에 'Modern Family'가 적합하다고 추천합니다.\n\n// 🎯 오답 분석\n- 1번은 민수가 보고 있던 스페인 시리즈, 2, 3번은 전문 용어가 많아 초보에게 비추천된 장르입니다."
+      "explanation": "💡 [교재 p.157] 민수는 일상생활에서 바로 쓸 수 있는 유용하고 쉬운 영어를 배우기에 'Modern Family'가 적합하다고 추천합니다.\n\n🎯 오답 분석\n- 1번은 민수가 보고 있던 스페인 시리즈, 2, 3번은 전문 용어가 많아 초보에게 비추천된 장르입니다."
     },
     {
       "id": 205,
@@ -1473,7 +1473,7 @@
       "question": "다 알고 있으면서 모르는 척하는 상대에게 '바보인 척하지 마!'라고 말할 때 적절한 표현은?",
       "options": [ "Stop playing dumb!", "Stop pretending you don't know!", "Drop the act!", "모두 정답" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.164] 상대방의 거짓된 태도나 내숭을 지적할 때 사용하는 다양한 회화 표현들입니다.\n\n// 🎯 오답 분석\n- 제시된 모든 선택지가 정답인 구성입니다."
+      "explanation": "💡 [교재 p.164] 상대방의 거짓된 태도나 내숭을 지적할 때 사용하는 다양한 회화 표현들입니다.\n\n🎯 오답 분석\n- 제시된 모든 선택지가 정답인 구성입니다."
     },
     {
       "id": 206,
@@ -1481,7 +1481,7 @@
       "question": "남의 일에 참견을 너무 많이 하는 사람을 묘사하는 단어는?",
       "options": [ "nosy", "noisy", "busy", "fancy" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.165] 'nosy'는 코(nose)를 여기저기 들이밀며 냄새를 맡는다는 비유에서 유래하여 '참견하기 좋아하는' 뜻을 갖습니다.\n\n// 🎯 오답 분석\n- 1번 'noisy'는 단순히 시끄러운 소리를 뜻하는 오답입니다."
+      "explanation": "💡 [교재 p.165] 'nosy'는 코(nose)를 여기저기 들이밀며 냄새를 맡는다는 비유에서 유래하여 '참견하기 좋아하는' 뜻을 갖습니다.\n\n🎯 오답 분석\n- 1번 'noisy'는 단순히 시끄러운 소리를 뜻하는 오답입니다."
     },
     {
       "id": 207,
@@ -1489,7 +1489,7 @@
       "question": "민수가 범죄 수사물이나 의료 드라마를 추천하지 않는 이유는?",
       "options": [ "너무 무서워서", "비속어가 너무 많아서", "전문 용어(jargon)가 너무 많아서", "자막이 없어서" ],
       "answer": 2,
-      "explanation": "💡 [교재 p.157] 민수는 이런 장르에는 일상 영어보다는 어려운 'terminology or technical jargon(전문 용어)'이 많아 학습 효율이 떨어진다고 조언합니다.\n\n// 🎯 오답 분석\n- 0, 1번도 부분적으로 이유가 될 수 있으나 본문에서 강조한 핵심적 이유는 전문 용어입니다."
+      "explanation": "💡 [교재 p.157] 민수는 이런 장르에는 일상 영어보다는 어려운 'terminology or technical jargon(전문 용어)'이 많아 학습 효율이 떨어진다고 조언합니다.\n\n🎯 오답 분석\n- 0, 1번도 부분적으로 이유가 될 수 있으나 본문에서 강조한 핵심적 이유는 전문 용어입니다."
     },
     {
       "id": 208,
@@ -1497,7 +1497,7 @@
       "question": "민수가 실제로 즐겨 보고 있던 스페인 드라마 시리즈는?",
       "options": [ "La casa de papel", "Modern Family", "Money Heist (English title)", "1번과 3번 모두 정답" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.156, 157] 'La casa de papel'은 스페인 원제이며, 영어권에는 'Money Heist'라는 제목으로 소개되었습니다.\n\n// 🎯 오답 분석\n- 1번은 영어 공부용으로 인성에게 추천해준 미국 시트콤입니다."
+      "explanation": "💡 [교재 p.156, 157] 'La casa de papel'은 스페인 원제이며, 영어권에는 'Money Heist'라는 제목으로 소개되었습니다.\n\n🎯 오답 분석\n- 1번은 영어 공부용으로 인성에게 추천해준 미국 시트콤입니다."
     },
     {
       "id": 209,
@@ -1505,7 +1505,7 @@
       "question": "'농담이야'라는 뜻으로 사용되는 본문 속 표현이 아닌 것은?",
       "options": [ "I was only jesting.", "I'm only being silly.", "It was only a joke.", "I'm serious about this." ],
       "answer": 3,
-      "explanation": "💡 [교재 p.158] 0, 1, 2번은 모두 자신의 말을 가볍게 받아들이라는 뜻의 유의어입니다.\n\n// 🎯 오답 분석\n- 3번 'I'm serious'는 '정말 진지하다'는 뜻으로 농담과는 정반대의 상황에 쓰입니다."
+      "explanation": "💡 [교재 p.158] 0, 1, 2번은 모두 자신의 말을 가볍게 받아들이라는 뜻의 유의어입니다.\n\n🎯 오답 분석\n- 3번 'I'm serious'는 '정말 진지하다'는 뜻으로 농담과는 정반대의 상황에 쓰입니다."
     },
     {
       "id": 210,
@@ -1513,7 +1513,7 @@
       "question": "민수가 결론적으로 추천한 영어 공부에 가장 도움이 되는 장르는?",
       "options": [ "situation comedies", "action movies", "medical dramas", "crime investigations" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.157] 민수는 실생활에서 바로 사용되는 표현이 풍부한 시트콤(sitcoms)을 강력 추천합니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 전문 용어나 비속어 등으로 인해 초보 학습자에게는 우선순위가 밀립니다."
+      "explanation": "💡 [교재 p.157] 민수는 실생활에서 바로 사용되는 표현이 풍부한 시트콤(sitcoms)을 강력 추천합니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 전문 용어나 비속어 등으로 인해 초보 학습자에게는 우선순위가 밀립니다."
     },
     {
       "id": 211,
@@ -1521,7 +1521,7 @@
       "question": "해리(Harry)의 첫 대사로, '인성 씨의 언더스타그램 확인해 봤어요?'에 해당하는 핵심 패턴은?",
       "options": [ "Did you check out InSung’s Understagram?", "Did you check in InSung’s Understagram?", "Do you check out InSung’s Understagram?", "Have you check out InSung’s Understagram?" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.166, 170] 'check out'은 '~을 확인하다/살펴보다'라는 뜻으로 흥미로운 대상을 화제로 던질 때 사용합니다.\n\n// 🎯 오답 분석\n- 1번 'check in'은 호텔 투숙이나 등록을 뜻합니다. 2, 3번은 시제나 문법적 오류입니다."
+      "explanation": "💡 [교재 p.166, 170] 'check out'은 '~을 확인하다/살펴보다'라는 뜻으로 흥미로운 대상을 화제로 던질 때 사용합니다.\n\n🎯 오답 분석\n- 1번 'check in'은 호텔 투숙이나 등록을 뜻합니다. 2, 3번은 시제나 문법적 오류입니다."
     },
     {
       "id": 212,
@@ -1529,7 +1529,7 @@
       "question": "본문에서 인성의 인기가 매우 높음을 나타낼 때 사용된 표현 'InSung is on fire'의 의미는?",
       "options": [ "인성 씨에게 불이 났다.", "인성 씨가 화가 났다.", "인성 씨가 정말 잘나간다 (매우 인기가 많다).", "인성 씨가 불을 끄고 있다." ],
       "answer": 2,
-      "explanation": "💡 [교재 p.166] 'on fire'는 누군가의 기세가 뜨겁거나 인기가 절정일 때 쓰는 전형적인 관용구입니다.\n\n// 🎯 오답 분석\n- 0, 1, 3번은 'fire'의 물리적인 불이나 감정적 화냄으로 직역한 오류입니다."
+      "explanation": "💡 [교재 p.166] 'on fire'는 누군가의 기세가 뜨겁거나 인기가 절정일 때 쓰는 전형적인 관용구입니다.\n\n🎯 오답 분석\n- 0, 1, 3번은 'fire'의 물리적인 불이나 감정적 화냄으로 직역한 오류입니다."
     },
     {
       "id": 213,
@@ -1537,7 +1537,7 @@
       "question": "민망하거나 오글거리는 상황에서 사용하는 본문의 핵심 패턴은?",
       "options": [ "It makes me cringe.", "It makes me smile.", "It makes me brave.", "It makes me proud." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.166, 169] 'cringe'는 쑥스럽거나 창피하여 몸이 움츠러드는 기분을 묘사하는 구어체 핵심 패턴입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 미소, 용기, 자랑스러움 등의 긍정적 감정으로 'cringe'의 뉘앙스와 거리가 멉니다."
+      "explanation": "💡 [교재 p.166, 169] 'cringe'는 쑥스럽거나 창피하여 몸이 움츠러드는 기분을 묘사하는 구어체 핵심 패턴입니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 미소, 용기, 자랑스러움 등의 긍정적 감정으로 'cringe'의 뉘앙스와 거리가 멉니다."
     },
     {
       "id": 214,
@@ -1545,7 +1545,7 @@
       "question": "패턴을 활용하여 '그 소식은 정말 당황스러웠어'를 영작할 때 빈칸에 알맞은 것은?\n\n\"This news is really (          ).\"",
       "options": [ "cringe-inducing", "cringe-induce", "cringed-induced", "cringe-induced" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.170] 'cringe-inducing'은 '민망함을 유발하는'이라는 형용사 형태로, 상황의 성격을 묘사할 때 쓰입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 문법적으로 형용사 자리에 오기에 적절하지 않은 형태들입니다."
+      "explanation": "💡 [교재 p.170] 'cringe-inducing'은 '민망함을 유발하는'이라는 형용사 형태로, 상황의 성격을 묘사할 때 쓰입니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 문법적으로 형용사 자리에 오기에 적절하지 않은 형태들입니다."
     },
     {
       "id": 215,
@@ -1553,7 +1553,7 @@
       "question": "본문에서 '오늘 해리를 만나다니 정말 운이 좋네요'에 해당하는 핵심 패턴은?",
       "options": [ "You're so lucky to meet Harry today.", "You're so luck to meet Harry today.", "You're so luckily to meet Harry today.", "You're such lucky to meet Harry today." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.167, 169] 'lucky to + 동사원형'은 어떤 행동의 근거가 되어 행운임을 표현하는 전형적인 형용사 보어 패턴입니다.\n\n// 🎯 오답 분석\n- 1번은 명사 'luck', 2번은 부사 'luckily'를 잘못 사용한 비문입니다."
+      "explanation": "💡 [교재 p.167, 169] 'lucky to + 동사원형'은 어떤 행동의 근거가 되어 행운임을 표현하는 전형적인 형용사 보어 패턴입니다.\n\n🎯 오답 분석\n- 1번은 명사 'luck', 2번은 부사 'luckily'를 잘못 사용한 비문입니다."
     },
     {
       "id": 216,
@@ -1561,7 +1561,7 @@
       "question": "COCA 분석 결과 'lucky to' 뒤에 가장 많이 쓰이는 표현으로 '살아있어서 다행이다'라는 뜻의 문장은?",
       "options": [ "LUCKY TO BE ALIVE", "LUCKY TO HAVE YOU", "LUCKY TO BE ABLE TO", "LUCKY TO HAVE A JOB" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.172] 데이터 분석 결과 'LUCKY TO BE ALIVE'가 가장 높은 빈도를 보이며, 위기 상황에서의 안도감을 표현할 때 쓰입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번 모두 의미 있는 빈도를 보이나 1위는 아닙니다."
+      "explanation": "💡 [교재 p.172] 데이터 분석 결과 'LUCKY TO BE ALIVE'가 가장 높은 빈도를 보이며, 위기 상황에서의 안도감을 표현할 때 쓰입니다.\n\n🎯 오답 분석\n- 1, 2, 3번 모두 의미 있는 빈도를 보이나 1위는 아닙니다."
     },
     {
       "id": 217,
@@ -1569,7 +1569,7 @@
       "question": "해리(Harry)의 위튜브 채널 구독자 수를 나타낼 때 쓰인 단어 'subscribers'의 의미는?",
       "options": [ "구독자", "편집자", "후원자", "신청자" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.167] 특정 채널이나 서비스를 정기적으로 이용하는 사람을 뜻하는 표준 용어입니다.\n\n// 🎯 오답 분석\n- 1번은 editor, 2번은 sponsor, 3번은 applicant를 의미하여 틀립니다."
+      "explanation": "💡 [교재 p.167] 특정 채널이나 서비스를 정기적으로 이용하는 사람을 뜻하는 표준 용어입니다.\n\n🎯 오답 분석\n- 1번은 editor, 2번은 sponsor, 3번은 applicant를 의미하여 틀립니다."
     },
     {
       "id": 218,
@@ -1577,7 +1577,7 @@
       "question": "해리가 조언한 '당신 스스로 모든 것을 해야 합니다'에서 'on your own'과 바꿔 쓸 수 있는 표현은?",
       "options": [ "by yourself", "without assistance", "standing on your own two feet", "모두 정답" ],
       "answer": 3,
-      "explanation": "💡 [교재 p.171] 남의 도움 없이 자립하거나 스스로 해낸다는 뜻의 다양한 회화적 유의어들입니다.\n\n// 🎯 오답 분석\n- 제시된 모든 표현이 같은 뜻의 정답입니다."
+      "explanation": "💡 [교재 p.171] 남의 도움 없이 자립하거나 스스로 해낸다는 뜻의 다양한 회화적 유의어들입니다.\n\n🎯 오답 분석\n- 제시된 모든 표현이 같은 뜻의 정답입니다."
     },
     {
       "id": 219,
@@ -1585,7 +1585,7 @@
       "question": "브이로그가 요즘 '인기 있는 것'이라고 할 때 사용된 본문 속 표현은?",
       "options": [ "the in thing", "the out thing", "the top thing", "the hot thing" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.167] 현재 가장 유행하거나 시대 흐름에 맞는 아이템을 뜻하는 구어적 표현입니다.\n\n// 🎯 오답 분석\n- 1번 'out thing'은 유행이 지났음을, 3번 'hot thing'도 의미는 통하나 본문의 정확한 패턴은 'in thing'입니다."
+      "explanation": "💡 [교재 p.167] 현재 가장 유행하거나 시대 흐름에 맞는 아이템을 뜻하는 구어적 표현입니다.\n\n🎯 오답 분석\n- 1번 'out thing'은 유행이 지났음을, 3번 'hot thing'도 의미는 통하나 본문의 정확한 패턴은 'in thing'입니다."
     },
     {
       "id": 220,
@@ -1593,7 +1593,7 @@
       "question": "줄리(Julie)가 타임랩스 기능에 대해 '저는 그 기능에 익숙해요'라고 할 때 사용한 패턴은?",
       "options": [ "I'm familiar with that function.", "I'm familiar about that function.", "I'm familiar to that function.", "I'm familiar for that function." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.168] 사람이 무언가에 대해 잘 알고 있음을 나타낼 때는 전치사 'with'와 결합합니다.\n\n// 🎯 오답 분석\n- 2번 'familiar to'는 주어와 목적어의 위치가 바뀌었을 때(사물 is familiar to 사람) 사용하는 패턴입니다."
+      "explanation": "💡 [교재 p.168] 사람이 무언가에 대해 잘 알고 있음을 나타낼 때는 전치사 'with'와 결합합니다.\n\n🎯 오답 분석\n- 2번 'familiar to'는 주어와 목적어의 위치가 바뀌었을 때(사물 is familiar to 사람) 사용하는 패턴입니다."
     },
     {
       "id": 221,
@@ -1601,7 +1601,7 @@
       "question": "다음 중 핵심 패턴을 활용하여 주어와 목적어의 위치를 바꾼 문장으로 옳은 것은?",
       "options": [ "Using the smartphone app is familiar to me.", "Using the smartphone app is familiar with me.", "I am familiar to the smartphone app.", "Using the smartphone app is familiar for me." ],
       "answer": 0,
-      "explanation": "💡 [교재 p.168] 사물이나 상황이 주어일 때는 전치사 'to'를 사용하여 대상에게 익숙함을 나타냅니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 전치사 결합이나 주어-목적어 관계가 어색하게 설정된 비문들입니다."
+      "explanation": "💡 [교재 p.168] 사물이나 상황이 주어일 때는 전치사 'to'를 사용하여 대상에게 익숙함을 나타냅니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 전치사 결합이나 주어-목적어 관계가 어색하게 설정된 비문들입니다."
     },
     {
       "id": 222,
@@ -1609,7 +1609,7 @@
       "question": "도움이 필요하면 말해달라고 할 때 'Just tell me if you need my help'와 의미가 통하지 않는 것은?",
       "options": [ "You're not alone.", "I'll be right over if you need my help.", "Let me know if you need my help.", "Mind your own business." ],
       "answer": 3,
-      "explanation": "💡 [교재 p.171] 0, 1, 2번은 모두 도움을 제안하며 안심시키는 긍정적인 표현들입니다.\n\n// 🎯 오답 분석\n- 3번 'Mind your own business'는 '네 상관이나 해라'라는 공격적이고 무례한 거절입니다."
+      "explanation": "💡 [교재 p.171] 0, 1, 2번은 모두 도움을 제안하며 안심시키는 긍정적인 표현들입니다.\n\n🎯 오답 분석\n- 3번 'Mind your own business'는 '네 상관이나 해라'라는 공격적이고 무례한 거절입니다."
     },
     {
       "id": 223,
@@ -1617,7 +1617,7 @@
       "question": "상대방이 망설일 때 '밑져야 본전이지! 한 번 해봐!'라고 격려하는 표현은?",
       "options": [ "It doesn't hurt to try!", "It doesn't help to try!", "It doesn't work to try!", "It doesn't mind to try!" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.173] 시도해본다고 해서 손해 볼 것이 없으니 용기 내라는 긍정적인 권유입니다.\n\n// 🎯 오답 분석\n- 1번은 도움이 안 된다, 2번은 작동하지 않는다라는 부정적 의미로 쓰입니다."
+      "explanation": "💡 [교재 p.173] 시도해본다고 해서 손해 볼 것이 없으니 용기 내라는 긍정적인 권유입니다.\n\n🎯 오답 분석\n- 1번은 도움이 안 된다, 2번은 작동하지 않는다라는 부정적 의미로 쓰입니다."
     },
     {
       "id": 224,
@@ -1625,7 +1625,7 @@
       "question": "상대방의 오디션 결과가 아주 좋았을 때 '너 정말 최고야!'라고 칭찬하는 본문 속 표현은?",
       "options": [ "You rock!", "You stone!", "You paper!", "You scissors!" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.174] 'You rock!'은 락 음악처럼 열정적이고 최고임을 뜻하는 구어적 찬사입니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 가위바위보 게임의 단어를 이용한 말장난일 뿐 칭찬 표현이 아닙니다."
+      "explanation": "💡 [교재 p.174] 'You rock!'은 락 음악처럼 열정적이고 최고임을 뜻하는 구어적 찬사입니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 가위바위보 게임의 단어를 이용한 말장난일 뿐 칭찬 표현이 아닙니다."
     },
     {
       "id": 225,
@@ -1633,7 +1633,7 @@
       "question": "줄리(Julie)가 일상 영상을 쉽게 만들기 위해 추천한 스마트폰 카메라 기능은?",
       "options": [ "time lapse function", "slow motion function", "panorama function", "night mode function" ],
       "answer": 0,
-      "explanation": "💡 [교재 p.167] 줄리는 'time lapse' 기능을 쓰면 긴 시간을 압축하여 매력적인 짧은 영화 클립을 만들 수 있다고 조언합니다.\n\n// 🎯 오답 분석\n- 1, 2, 3번은 스마트폰의 다른 카메라 기능들로 본문의 추천 대상이 아닙니다."
+      "explanation": "💡 [교재 p.167] 줄리는 'time lapse' 기능을 쓰면 긴 시간을 압축하여 매력적인 짧은 영화 클립을 만들 수 있다고 조언합니다.\n\n🎯 오답 분석\n- 1, 2, 3번은 스마트폰의 다른 카메라 기능들로 본문의 추천 대상이 아닙니다."
     }
   ]
 }
