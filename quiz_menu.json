@@ -4,6 +4,10 @@
         "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/gender/workbook_exercise.json"
     },
     { 
+        "title": "Gender, Sexuality, Social - Workbook Additional", 
+        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/gender/workbook_addtional.json"
+    },
+    { 
         "title": "English Conversation II coursebook (225)", 
         "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/conversation/II/coursebook.json"
     }
