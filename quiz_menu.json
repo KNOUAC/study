@@ -1,5 +1,9 @@
 [
     { 
+        "title": "Gender, Sexuality, Social - Summary", 
+        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/gender/summary.json"
+    },
+    { 
         "title": "Gender, Sexuality, Social - Workbook Exercise", 
         "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/gender/workbook_exercise.json"
     },
