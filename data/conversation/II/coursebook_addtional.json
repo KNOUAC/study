@@ -1,0 +1,214 @@
+{
+  "quiz_title": "English Conversation II coursebook - 보강",
+  "description": "(226~251)",
+  "questions": [
+    {
+      "id": 226,
+      "passageBottom": "Lesson 13 Errata & Dialogue: cooled his feelings",
+      "question": "Lesson 13에서 민수(Min-su)가 노아의 행동을 지적하며 사용한 표현으로, 정오표(p.139)에 따라 '냉정을 유지하다/진정하다'는 의미로 수정된 올바른 문구는?",
+      "options": [ "Noah should have just cooled his feelings.", "Noah should have just cooled his heels.", "Noah should have just cooled his head.", "Noah should have just cooled his mind." ],
+      "answer": 0,
+      "explanation": "💡 [정오표 p.139] 기존 교재의 'cooled his heels(오래 기다리다)'는 문맥상 어색하여, 감정을 진정시킨다는 의미인 'cooled his feelings'로 수정되었습니다.\n\n🎯 오답 분석\n- 'cooled his heels'는 정정 전의 표현으로, 단순히 '기다리다'라는 뜻이어서 문맥에 맞지 않습니다.\n- 'cooled his head'나 'cooled his mind'는 한국어 '머리를 식히다'를 직역한 표현으로, 정오표에서 제시한 표준 수정안이 아닙니다."
+    },
+    {
+      "id": 227,
+      "passageBottom": "Lesson 15 English Tips: ESP",
+      "question": "Lesson 15의 English Tips(p.175)에서 설명하는 '특수 목적 영어'를 뜻하는 용어의 약자는?",
+      "options": [ "ESP", "EAP", "EFL", "ESL" ],
+      "answer": 0,
+      "explanation": "💡 [교재 p.175] 'English for Specific Purposes'의 약자인 ESP는 특정 직업이나 전공 분야에서 필요한 실무 능력을 갖추기 위한 영어를 의미합니다.\n\n🎯 오답 분석\n- 'EAP'는 학무적 목적 영어(Academic), 'EFL'은 외국어로서의 영어(Foreign Language), 'ESL'은 제2언어로서의 영어(Second Language)를 뜻하며 본문의 핵심 주제와 다릅니다."
+    },
+    {
+      "id": 228,
+      "passageBottom": "Lesson 11 English Tips: Resume Writing",
+      "question": "Lesson 11의 English Tips(p.151~152) 중 영문 이력서 작성 요령으로 옳지 않은 것은?",
+      "options": [ "나이, 생년월일, 사진을 반드시 포함해야 한다.", "1인칭 대명사 'I'를 생략하고 과거형 동사로 문장을 시작한다.", "학력 사항은 학위, 전공, 학교명, 졸업 연도를 기재한다.", "기술 요약(Summary of Skills)은 짧게 불렛 포인트로 작성한다." ],
+      "answer": 0,
+      "explanation": "💡 [교재 p.151] 미국식 영문 이력서에서는 연령 차별이나 인종 차별을 방지하기 위해 생년월일과 사진을 포함하지 않는 것이 원칙입니다.\n\n🎯 오답 분석\n- '사진 포함'은 한국식 이력서 관행이며 미국식 이력서(Resume)에서는 지양해야 할 사항입니다.\n- 'I 생략 및 동사 시작', '학위 상세 기재', '불렛 포인트 활용' 등은 교재에서 권장하는 올바른 영문 이력서 작성법입니다."
+    },
+    {
+      "id": 229,
+      "passageBottom": "Lesson 13 Contemporary Usage: We have no choice but to ~",
+      "question": "COCA 분석 결과(p.147), 'We have no choice but to' 뒤에 오는 동사 중 빈도수 1위를 차지한 것은?",
+      "options": [ "TAKE", "GO", "FIGHT", "CONTINUE" ],
+      "answer": 0,
+      "explanation": "💡 [교재 p.147] 통계 분석 결과 'take'가 10회로 가장 많이 사용되었습니다. 이는 특정 조치나 결정을 내릴 수밖에 없는 상황에서 자주 쓰입니다.\n\n🎯 오답 분석\n- 'GO'(8회), 'FIGHT'(8회), 'CONTINUE'(6회) 모두 높은 순위에 있으나 빈도수 1위는 'TAKE'입니다."
+    },
+    {
+      "id": 230,
+      "passageBottom": "Lesson 10 Real & Live: Matter of taste",
+      "question": "Lesson 10의 Real & Live(p.108)에서 언급된 표현으로, '개인의 취향(개취)'을 존중해야 할 때 사용하는 영어 표현은?",
+      "options": [ "a matter of taste", "a rule of thumb", "a piece of cake", "a cup of tea" ],
+      "answer": 0,
+      "explanation": "💡 [교재 p.108] 'a matter of taste'는 사람마다 선호도가 다르므로 존중해야 한다는 의미의 '취향의 문제'를 뜻합니다.\n\n🎯 오답 분석\n- 'a rule of thumb'은 경험 법칙, 'a piece of cake'는 쉬운 일입니다.\n- 'not my cup of tea'는 내 취향이 아니라는 뜻이지만 '취향의 문제'라는 상황 전체를 지칭하는 표준 표현은 'a matter of taste'입니다."
+    },
+    {
+      "id": 231,
+      "passageBottom": "Lesson 1 Dialogue Highlight: Thanksgiving and Halloween",
+      "question": "Lesson 1의 대화 중 추수감사절(Thanksgiving)과 할로윈(Halloween)의 공통점(in common)으로 언급된 것은?",
+      "options": [ "가족 모임이나 맛있는 음식 (family gatherings or delicious food)", "호박 파이와 사탕 (pumpkin pie and candies)", "코스튬 파티와 칠면조 (costumes and turkeys)", "공포 영화와 축구 경기 (horror movies and football)" ],
+      "answer": 0,
+      "explanation": "💡 [교재 p.3] 유진(Yu-Jin)은 두 명절의 공통점으로 'family gatherings? Or delicious food?'라고 언급합니다.\n\n🎯 오답 분석\n- '호박 파이', '코스튬', '축구 경기' 등은 각 명절의 개별적 특징일 수 있으나, 본문 대화에서 직접적으로 '공통점'이라고 정의한 텍스트는 가족 모임과 음식입니다."
+    },
+    {
+      "id": 232,
+      "passageBottom": "Lesson 8 Dialogue Highlight: short fuse",
+      "question": "Lesson 8에서 민수(Min-su)가 해리에게 '성미가 급하면 일을 망칠 수 있다'고 충고할 때 사용한 비유적 표현은?",
+      "options": [ "have a short fuse", "have a short mind", "have a short breath", "have a short step" ],
+      "answer": 0,
+      "explanation": "💡 [교재 p.83, 85] 폭탄의 도화선(fuse)이 짧으면 금방 터지듯 화를 잘 내거나 급한 성격을 'short fuse'라고 비유합니다.\n\n🎯 오답 분석\n- 'short mind'나 'short breath' 등은 성격적 급함을 나타내는 표준 관용구가 아닙니다.\n- 'short step'은 물리적인 보폭의 짧음을 의미할 뿐입니다."
+    },
+    {
+      "id": 233,
+      "passageBottom": "Lesson 14 Key Pattern #2: last person",
+      "question": "Lesson 14의 Key Pattern #2(p.159)를 활용하여, '그는 절대 늦을 사람이 아닌데(늦을 마지막 사람)'라고 표현할 때 알맞은 것은?",
+      "options": [ "He's the last person who is late!", "He's the first person who is late!", "He's the only person who is late!", "He's the best person who is late!" ],
+      "answer": 0,
+      "explanation": "💡 [교재 p.159] 'the last person'은 직역하면 '마지막 사람'이지만, '결코 ~하지 않을 사람'이라는 강한 부정의 의미를 담고 있습니다.\n\n🎯 오답 분석\n- 'the first person'은 가장 먼저 그럴 사람, 'the only person'은 유일한 사람이라는 뜻으로 관용적인 부정의 의미가 없습니다.\n- 'the best person'은 해당 분야의 최적임을 뜻하여 맥락에 맞지 않습니다."
+    },
+    {
+      "id": 234,
+      "passageBottom": "Lesson 7 Contemporary Usage: Are you available?",
+      "question": "COCA 검색 결과(p.78), 'Are you available' 뒤에 특정 시간을 구체적으로 나타내기 위해 붙는 부사구의 예시로 옳은 것은?",
+      "options": [ "for this afternoon?", "with this afternoon?", "about this afternoon?", "on this afternoon?" ],
+      "answer": 0,
+      "explanation": "💡 [교재 p.78] 'Are you available for this afternoon?'처럼 'for'를 사용하여 특정 시기의 가능 여부를 묻는 것이 전형적인 용법 중 하나입니다.\n\n🎯 오답 분석\n- 'with'나 'about'은 시간의 가능성을 묻는 'available' 뒤의 전치사로 적절하지 않습니다.\n- 'on'은 특정한 날짜(on Monday) 등에는 쓰이지만, 'this afternoon' 앞에는 'for'를 쓰는 것이 교재에서 제시한 예시입니다."
+    },
+    {
+      "id": 235,
+      "passageBottom": "Lesson 2 Key Pattern #1: cloud nine",
+      "question": "최고의 행복감을 나타내는 표현 'on cloud nine'의 유래는?",
+      "options": [ "기상청 분류상 가장 높은 구름의 높이", "9번째 하늘이 신이 사는 곳이라는 종교적 믿음", "9월의 구름이 가장 아름답다는 설", "9명의 천사가 구름 위에서 춤추는 모습" ],
+      "answer": 0,
+      "explanation": "💡 [교재 p.13] 이 표현은 기상청에서 구름의 높이를 분류할 때 9번째 단계의 구름이 가장 높은 곳에 위치한 것에서 유래하여 최고의 기분을 뜻하게 되었습니다.\n\n🎯 오답 분석\n- '종교적 믿음'은 'seventh heaven'의 유래와 관련이 있습니다.\n- '9월'이나 '9명의 천사' 등은 표현의 어원과 관계없는 가공된 설명입니다."
+    },
+    {
+      "id": 236,
+      "passageBottom": "Lesson 1 Contemporary Usage: wait",
+      "question": "COCA 분석 결과(p.8), 'wait'과 결합한 표현 중 본문 패턴인 'I CAN'T WAIT'의 빈도수 순위는?",
+      "options": [ "1위", "2위", "3위", "6위" ],
+      "answer": 3,
+      "explanation": "💡 [교재 p.8, 135] COCA 검색 결과 1위는 'I'LL WAIT'(1,978회)이며, 본문에서 학습한 'I CAN'T WAIT'은 175회로 6위를 기록했습니다.\n\n🎯 오답 분석\n- 'I'LL WAIT'이 1위, 'I CAN WAIT'이 2위(519회), 'I WILL WAIT'이 3위(359회)입니다."
+    },
+    {
+      "id": 237,
+      "passageBottom": "Lesson 4 Contemporary Usage: All I need is ~",
+      "question": "COCA 분석 결과(p.44), 'All I need is' 뒤에 오는 표현 중 가장 빈도가 낮은 것(10위)은?",
+      "options": [ "FOR YOU", "A LITTLE", "THE AIR", "TIME" ],
+      "answer": 3,
+      "explanation": "💡 [교재 p.44, 144] 'All I need is for you'가 19회로 1위를 차지했으며, 'time'은 6회로 조사 대상 중 10위를 기록했습니다.\n\n🎯 오답 분석\n- 'A LITTLE'은 2위(18회), 'THE AIR'는 3위(16회)로 높은 빈도를 보였습니다."
+    },
+    {
+      "id": 238,
+      "passageBottom": "Lesson 9 Contemporary Usage: What makes you so ~?",
+      "question": "COCA 분석 결과(p.102), 'What makes you so' 뒤에 오는 형용사 중 빈도수가 두 번째로 높은(37회) 표현은?",
+      "options": [ "SURE", "SPECIAL", "CERTAIN", "MUCH" ],
+      "answer": 1,
+      "explanation": "💡 [교재 p.102, 156] 1위는 'SURE'(290회)이며, 2위는 'SPECIAL'(37회)입니다. 이는 상대방이 왜 스스로를 특별하다고 생각하는지 묻는 맥락에서 자주 쓰입니다.\n\n🎯 오답 분석\n- 'CERTAIN'은 17회로 3위, 'MUCH'는 8회로 4위입니다."
+    },
+    {
+      "id": 239,
+      "passageBottom": "Lesson 11 Contemporary Usage: I used to",
+      "question": "COCA 분석 결과(p.125), 'I used to' 뒤에 오는 동사 중 빈도수가 50회로 압도적 1위를 기록한 표현은?",
+      "options": [ "I USED TO KNOW", "I USED TO LOVE", "I USED TO THINK", "I USED TO EAT" ],
+      "answer": 0,
+      "explanation": "💡 [교재 p.125, 161] 데이터 분석 결과 'know'가 50회로 가장 많이 쓰였습니다. 과거의 지식이나 인연을 언급할 때 자주 사용되는 패턴입니다.\n\n🎯 오답 분석\n- 'LOVE'와 'THINK'는 각각 5회로 공동 2위이며, 'EAT'은 3회로 4위입니다."
+    },
+    {
+      "id": 240,
+      "passageBottom": "Lesson 12 Contemporary Usage: I have decided to",
+      "question": "COCA 분석 결과(p.136), 'I have decided to' 뒤에 오는 표현 중 공동 1위(4회)를 기록하지 않은 것은?",
+      "options": [ "GO BACK TO", "TAKE A BREAK", "BOYCOTT AMERICAN WOMEN", "GET A DIVORCE" ],
+      "answer": 2,
+      "explanation": "💡 [교재 p.136, 164] 'GO BACK TO'와 'TAKE A BREAK'는 각각 4회로 공동 1위입니다. 'BOYCOTT AMERICAN WOMEN'은 3회로 그 다음 순위입니다.\n\n🎯 오답 분석\n- 'GET A DIVORCE', 'MOVE BACK TO' 등도 모두 3회로 조사되었습니다."
+    },
+    {
+      "id": 241,
+      "passageBottom": "Lesson 15 Contemporary Usage: lucky to",
+      "question": "COCA 분석 결과(p.172), 'lucky to' 뒤에 오는 표현 중 '살아있어서 다행이다'라는 뜻으로 239회의 압도적 빈도를 보인 것은?",
+      "options": [ "LUCKY TO BE ALIVE", "LUCKY TO HAVE YOU", "LUCKY TO BE ABLE TO", "LUCKY TO HAVE A JOB" ],
+      "answer": 0,
+      "explanation": "💡 [교재 p.172, 171] 'LUCKY TO BE ALIVE'는 239회로 조사된 모든 표현 중 가장 사용 빈도가 높았습니다.\n\n🎯 오답 분석\n- 'HAVE YOU'는 164회(2위), 'BE ABLE TO'는 118회(3위), 'HAVE A JOB'은 35회(10위)입니다."
+    },
+    {
+      "id": 242,
+      "passageBottom": "Lesson 10 Contemporary Usage: What do you mean by",
+      "question": "COCA 분석 결과(p.111), 'What do you mean by' 뒤에 오는 지시대명사 중 762회로 가장 많이 쓰인 것은?",
+      "options": [ "THAT", "THIS", "IT", "ANYTHING" ],
+      "answer": 0,
+      "explanation": "💡 [교재 p.111, 159] 상대방의 직전 발언을 가리키는 'THAT'이 762회로 압도적인 1위를 차지했습니다.\n\n🎯 오답 분석\n- 'THIS'는 53회(3위), 'IT'은 10회(7위)로 나타났습니다."
+    },
+    {
+      "id": 243,
+      "passageBottom": "Lesson 5 Contemporary Usage: I wish I could",
+      "question": "COCA 분석 결과(p.55), 'I wish I could' 뒤에 오는 표현 중 90회로 1위를 차지한 것은?",
+      "options": [ "SAY THE SAME", "HELP YOU", "DO THAT", "GO BACK TO" ],
+      "answer": 0,
+      "explanation": "💡 [교재 p.55, 145] 'I wish I could say the same(나도 그렇게 말할 수 있으면 좋겠다)'이 90회로 가장 빈번하게 사용되었습니다.\n\n🎯 오답 분석\n- 'HELP YOU'는 67회(2위), 'DO THAT'은 33회(9위), 'GO BACK TO'는 33회(10위)입니다."
+    },
+    {
+      "id": 244,
+      "passageBottom": "Lesson 2 Real & Live: as happy as a clam",
+      "question": "Lesson 2(p.19)에 등장하는 'as happy as a clam' 표현의 유래로 옳은 설명은?",
+      "options": [ "조개가 입을 벌린 모습이 사람이 미소 짓는 것과 비슷해서", "조개가 바다에서 가장 천적이 없는 행복한 동물이어서", "밀물 때 조개를 잡으러 온 사람이 없어 조개가 안심해서", "조개 요리가 귀한 파티에서 빠지지 않는 즐거운 음식이라서" ],
+      "answer": 0,
+      "explanation": "💡 [교재 p.19] 'as happy as a clam'은 조개가 입을 벌리고 있는 모양이 사람이 행복하게 웃는 입 모양과 비슷하다고 느껴진 데서 유래했습니다.\n\n🎯 오답 분석\n- '밀물 때 안심함'이나 '천적이 없음' 등의 설명은 이 관용구의 시각적인 미소 비유 유래와는 관계가 없습니다."
+    },
+    {
+      "id": 245,
+      "passageBottom": "Lesson 3 Real & Live: third wheel",
+      "question": "Lesson 3(p.30)의 'I feel like a third wheel' 표현에서 '세 번째 바퀴'가 비유하는 상황은?",
+      "options": [ "자전거의 두 바퀴 외에 불필요하게 끼어 있는 상태", "삼륜차처럼 안정적으로 팀을 지탱하는 상태", "자동차의 보조 타이어처럼 위급할 때 꼭 필요한 상태", "두 명의 갈등을 중재하는 세 번째 핵심 인물" ],
+      "answer": 0,
+      "explanation": "💡 [교재 p.30] 자전거는 두 바퀴만으로 충분히 잘 굴러가는데, 거기에 세 번째 바퀴가 있는 것은 거추장스럽고 불필요함을 뜻합니다. 즉, 초대받지 않은 자리에 낀 '깍두기' 같은 상황을 비유합니다.\n\n🎯 오답 분석\n- '안정적 지탱'이나 '꼭 필요한 상태'는 불필요함을 강조하는 'third wheel'의 부정적/비유적 맥락과 반대되는 해석입니다."
+    },
+    {
+      "id": 246,
+      "passageBottom": "Lesson 8 Real & Live: Hold your horses",
+      "question": "Lesson 8(p.85)의 'Hold your horses' 표현의 유래가 되는 동작은?",
+      "options": [ "말을 타고 가다 멈추기 위해 고삐를 뒤로 당기는 것", "말이 도망가지 않게 마구간에 묶어 두는 것", "경주마가 출발선에서 뛰어나가지 못하게 붙잡는 것", "말에게 먹이를 주어 흥분 상태를 가라앉히는 것" ],
+      "answer": 0,
+      "explanation": "💡 [교재 p.85] 이 표현은 말을 직접 타고 가던 시절, 말을 멈추기 위해 '워워'하며 고삐를 세게 뒤로 당기던 장면에서 유래했습니다. 성급한 사람을 진정시킬 때 씁니다.\n\n🎯 오답 분석\n- '마구간 묶기'나 '먹이 주기'는 일시적인 행동 제지를 뜻하는 고삐 당기기의 유래와는 차이가 있습니다."
+    },
+    {
+      "id": 247,
+      "passageBottom": "Lesson 9 Key Patterns & Errata: keep my fingers crossed",
+      "question": "Lesson 9(p.99)의 'I'll keep my fingers crossed for you' 표현의 역사적 배경은?",
+      "options": [ "로마 시대 기독교인들이 손가락으로 십자가 모양을 만들어 행운을 빈 것", "중세 시대 기사들이 칼을 쥐기 전 손가락 운동을 하던 것", "도박사들이 카드를 섞을 때 손가락을 꼬아 속임수를 쓰던 것", "옛날 요리사들이 소금을 뿌릴 때 손가락을 꼬아 양을 조절하던 것" ],
+      "answer": 0,
+      "explanation": "💡 [교재 p.99] 로마 시대 기독교인들이 서로에게 손가락으로 십자가(cross) 모양을 만들어 보내며 액운을 쫓고 행운을 빌어주던 풍습에서 유래했습니다.\n\n🎯 오답 분석\n- '기사의 운동'이나 '도박사의 속임수'는 행운을 비는 성스러운 유래와는 관계가 없는 허구의 설명입니다."
+    },
+    {
+      "id": 248,
+      "passageBottom": "Lesson 12 Real & Live: go bust",
+      "question": "Lesson 12(p.137)의 'things might go bust'에서 'bust'가 연상시키는 물리적 상황은?",
+      "options": [ "타이어가 펑크 나거나 풍선이 터지는 것", "건물이 지진으로 인해 완전히 무너지는 것", "배가 암초에 걸려 구멍이 나는 것", "엔진이 과열되어 연기가 나는 것" ],
+      "answer": 0,
+      "explanation": "💡 [교재 p.137] 'go bust'는 타이어가 펑크 나거나 풍선이 '빵' 하고 터지는 이미지를 상상하면 이해하기 쉽습니다. 어떤 계획이나 사업이 완전히 실패했음을 뜻합니다.\n\n🎯 오답 분석\n- '건물 붕괴'나 '배의 난파'도 실패의 비유일 수 있지만, 교재에서 'bust'와 직접적으로 연결하여 설명한 이미지는 '터짐(펑크)'입니다."
+    },
+    {
+      "id": 249,
+      "passageBottom": "Lesson 13 Real & Live: eggs in one basket",
+      "question": "Lesson 13(p.149)의 'I have all my eggs in one basket' 표현이 경고하는 위험은?",
+      "options": [ "분산 투자하지 않아 한 번의 실수로 모든 것을 잃는 위험", "욕심을 부려 너무 많은 일을 한꺼번에 처리하는 위험", "깨지기 쉬운 물건을 부주의하게 다루는 위험", "식재료를 제대로 보관하지 않아 상하게 만드는 위험" ],
+      "answer": 0,
+      "explanation": "💡 [교재 p.149] 바구니 하나에 모든 달걀을 담았다가 바구니를 떨어뜨리면 모든 달걀이 다 깨진다는 점에 착안하여, 위험을 여러 곳에 분산시키지 않은 상황을 경고합니다.\n\n🎯 오답 분석\n- '욕심 부리기'나 '부주의함'은 일반적인 실수일 뿐, 이 관용구가 핵심적으로 짚어주는 '집중 투자의 위험성'과는 초점이 다릅니다."
+    },
+    {
+      "id": 250,
+      "passageBottom": "Lesson 14 Real & Live: nosy",
+      "question": "Lesson 14(p.165)의 'She's so nosy'에서 'nosy'라는 단어가 형성된 비유적 배경은?",
+      "options": [ "코를 여기저기 들이밀며 냄새를 맡듯 남의 일에 참견해서", "코가 커서 다른 사람의 시선을 많이 끈다는 외모적 특징 때문에", "코를 킁킁거리며 상대방에게 불쾌한 소리를 내서", "거짓말을 할 때 코가 길어지는 피노키오의 이야기 때문에" ],
+      "answer": 0,
+      "explanation": "💡 [교재 p.165] 'nosy'는 코(nose)를 남의 일이나 사생활에 킁킁거리며 들이미는 모습을 비유한 것입니다. 지나치게 참견하기 좋아하는 성격을 뜻합니다.\n\n🎯 오답 분석\n- '외모 특징'이나 '피노키오' 등은 '참견'이라는 단어의 본래 비유적 의미와는 관계가 없습니다."
+    },
+    {
+      "id": 251,
+      "passageBottom": "Lesson 15 Real & Live: You rock!",
+      "question": "Lesson 15(p.174)의 'You rock!' 표현이 칭찬으로 쓰이게 된 문화적 배경은?",
+      "options": [ "락(Rock) 음악처럼 열정적이고 멋지다는 느낌을 주어서", "바위(Rock)처럼 단단하고 믿음직한 사람이라는 뜻에서", "흔들의자(Rocking chair)처럼 사람을 편안하게 해주어서", "돌처럼 변치 않는 우정을 맹세하던 고대 관습에서" ],
+      "answer": 0,
+      "explanation": "💡 [교재 p.174] 'You rock!'은 락 음악의 열정적이고 최고인 에너지를 빌려와 상대방을 극찬하는 구어체 표현입니다.\n\n🎯 오답 분석\n- '바위의 단단함'이나 '흔들의자의 편안함'은 '최고다'라는 열정적인 찬사의 의미를 담고 있는 'Rock'의 음악적 맥락과는 거리가 멉니다."
+    }
+  ]
+}
