@@ -1,10 +1,10 @@
 [
     { 
-        "title": "Java Programming - media lecture quiz", 
-        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/java/media_lecture_quiz.json"
+        "title": "Gender, Sexuality, Social - Workbook Exercise", 
+        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/gender/workbook_exercise.json"
     },
     { 
-        "title": "Mobile Web Programming - media lecture quiz", 
-        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/mobile/media_lecture_quiz.json"
+        "title": "English Conversation II coursebook (225)", 
+        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/conversation_two/coursebook.json"
     }
 ]
