@@ -5,7 +5,7 @@
     },
     { 
         "title": "Gender, Sexuality, Social - Summary Additional", 
-        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/gender/summary_addtional.json"
+        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/gender/summary_additional.json"
     },
     { 
         "title": "Gender, Sexuality, Social - Workbook Exercise", 
@@ -13,7 +13,7 @@
     },
     { 
         "title": "Gender, Sexuality, Social - Workbook Additional", 
-        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/gender/workbook_addtional.json"
+        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/gender/workbook_additional.json"
     },
     { 
         "title": "English Conversation II coursebook (225)", 
@@ -21,6 +21,6 @@
     },
     { 
         "title": "English Conversation II coursebook (보강)", 
-        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/conversation/II/coursebook_addtional.json"
+        "url": "https://raw.githubusercontent.com/KNOUAC/study/refs/heads/main/data/conversation/II/coursebook_additional.json"
     }
 ]
